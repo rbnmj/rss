@@ -21,15 +21,14 @@
 
   {{#each articles}}
   <article>
-      <h1><a href={{link}}>{{title}}</a></h1>
+      <strong><a href={{link}}>{{title}}</a></strong>
       <div>
-        <span>Source: <a href={{source.siteUrl}}>{{source.title}}</a></span> | 
-        <span>Date: <time>{{publishedOn}}</time></span> |
-        <span>Reading time: <time>{{readingTimeInMin}} min</time></span> |
-        <span>Word count: <time>{{wordCount}}</time></span>
+        <span><a href={{source.siteUrl}}>{{source.title}}</a></span> | 
+        <span><time>{{publishedOn}}</time></span> |
       </div>
       <p>{{description}}</p>
     </details>
+    <hr>
   </article>
   {{/each}}
 </body>
