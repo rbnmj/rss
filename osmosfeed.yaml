@@ -5,7 +5,12 @@
 
 cacheUrl: https://rbnmj.github.io/rss/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://esajournals.onlinelibrary.wiley.com/feed/19399170/most-recent # Ecology
+  - href: https://esajournals.onlinelibrary.wiley.com/feed/19395582/most-recent # Ecological Applications
+  - href: https://esajournals.onlinelibrary.wiley.com/feed/15409309/most-recent # Frontiers in Ecology and the Environment
+  - href: https://esajournals.onlinelibrary.wiley.com/feed/15577015/most-recent # Ecological Monographs
+  - href: https://esajournals.onlinelibrary.wiley.com/feed/21508925/most-recent # Ecosphere
+  - href: https://onlinelibrary.wiley.com/feed/14610248/most-recent # Ecology Letters
+  - href: https://rss.sciencedirect.com/publication/science/00225193 # Journal of Theoretical Ecology
+  - href: https://nsojournals.onlinelibrary.wiley.com/feed/16000706/most-recent # OIKOS
+  - href: https://www.nature.com/ncomms.rss # Nature Communications
