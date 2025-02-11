@@ -15,10 +15,7 @@
 <body>
   <header>
     <dl>
-      <dt><b>Site title</b></dt><dd>{{siteTitle}}</dd>
       <dt><b>Built on</b></dt><dd>{{siteBuildTimestamp}}</dd>
-      <dt><b>Cli version</b></dt><dd>{{cliVersion}}</dd>
-      <dt><b>Documentation URL</b></dt><dd>{{projectUrl}}</dd>
     </dl>
   </header>
 
@@ -27,12 +24,10 @@
       <h1><a href={{link}}>{{title}}</a></h1>
       <div>
         <span>Source: <a href={{source.siteUrl}}>{{source.title}}</a></span> | 
-        <span>Date: <time>{{isoPublishDate}}</time></span> |
-        <span>Timestamp: <time>{{publishedOn}}</time></span> |
+        <span>Date: <time>{{publishedOn}}</time></span> |
         <span>Reading time: <time>{{readingTimeInMin}} min</time></span> |
         <span>Word count: <time>{{wordCount}}</time></span>
       </div>
-      {{/if}}
       <p>{{description}}</p>
     </details>
   </article>
