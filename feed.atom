@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-11T10:39:49.832Z</updated>
+    <updated>2025-02-11T10:47:56.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
@@ -82,6 +82,16 @@ F. Xavier Sans</name>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Unveiling charge utilization mechanisms in ferroelectric for water splitting]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56359-y</id>
+        <link href="https://www.nature.com/articles/s41467-025-56359-y"/>
+        <updated>2025-02-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ferroelectrics, which exhibit excellent charge separation ability, suffer from poor photocatalytic activity. The authors unveil the limitations in charge extraction and offer strategies to design high-performance photocatalysts by eliminating surface defects.]]></summary>
+        <author>
+            <name>Jie Zhang</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bird‐mediated ecosystem services and disservices in cities and towns]]></title>
         <id>10.1002/fee.2835</id>
         <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2835?af=R"/>
@@ -139,6 +149,16 @@ Quan‐Guo Zhang</name>
         <author>
             <name>Aubrie R. M. James, 
 Monica A. Geber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Molecular-dipole oriented universal growth of conjugated polymers into semiconducting single-crystal thin films]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56757-2</id>
+        <link href="https://www.nature.com/articles/s41467-025-56757-2"/>
+        <updated>2025-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Precise control over the characteristics of crystalline conjugated polymers is essential for organic electronic, but this is complex. Here, the authors report a molecular dipole orienting strategy for preparation of single-crystal thin films with high transistor mobility.]]></summary>
+        <author>
+            <name>Chunyan Zhao</name>
         </author>
     </entry>
     <entry>

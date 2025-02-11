@@ -1215,6 +1215,26 @@
       "siteUrl": "http://feeds.nature.com/ncomms/rss/current",
       "articles": [
         {
+          "id": "https://www.nature.com/articles/s41467-025-56359-y",
+          "author": "Jie Zhang",
+          "description": "Ferroelectrics, which exhibit excellent charge separation ability, suffer from poor photocatalytic activity. The authors unveil the limitations in charge extraction and offer strategies to design high-performance photocatalysts by eliminating surface defects.",
+          "link": "https://www.nature.com/articles/s41467-025-56359-y",
+          "publishedOn": "2025-02-11T00:00:00.000Z",
+          "wordCount": 12261,
+          "title": "Unveiling charge utilization mechanisms in ferroelectric for water splitting",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-56359-y/MediaObjects/41467_2025_56359_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-025-56757-2",
+          "author": "Chunyan Zhao",
+          "description": "Precise control over the characteristics of crystalline conjugated polymers is essential for organic electronic, but this is complex. Here, the authors report a molecular dipole orienting strategy for preparation of single-crystal thin films with high transistor mobility.",
+          "link": "https://www.nature.com/articles/s41467-025-56757-2",
+          "publishedOn": "2025-02-10T00:00:00.000Z",
+          "wordCount": 8740,
+          "title": "Molecular-dipole oriented universal growth of conjugated polymers into semiconducting single-crystal thin films",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-56757-2/MediaObjects/41467_2025_56757_Fig1_HTML.png"
+        },
+        {
           "id": "https://www.nature.com/articles/s41467-025-56429-1",
           "author": "Jakob Steinfeldt",
           "description": "Nature Communications - Author Correction: Medical history predicts phenome-wide disease onset and enables the rapid response to emerging health threats",
