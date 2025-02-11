@@ -2,384 +2,1814 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-11T10:19:35.079Z</updated>
+    <updated>2025-02-11T10:39:49.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Organizing Design System Component Patterns With CSS Cascade Layers]]></title>
-        <id>https://css-tricks.com/?p=384306</id>
-        <link href="https://css-tricks.com/organizing-design-system-component-patterns-with-css-cascade-layers/"/>
-        <updated>2025-02-10T14:06:52.000Z</updated>
-        <summary type="html"><![CDATA[I enjoy organizing code and find cascade layers a fantastic way to organize code explicitly as the cascade looks at it. The neat part is, that as much as it helps with "top-level" organization, cascade layers can be nested, which allows us to author more precise styles based on the cascade and inheritance.
-Organizing Design System Component Patterns With CSS Cascade Layers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Quantifying large carnivore predation relative to human harvest on moose in an intensively managed boreal ecosystem]]></title>
+        <id>10.1002/eap.70000</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70000?af=R"/>
+        <updated>2025-02-11T08:24:49.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
         <author>
-            <name>Ryan Trimble</name>
+            <name>Håkan Sand, 
+Barbara Zimmermann, 
+Petter Wabakken, 
+Ane Eriksen, 
+Camilla Wikenros</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Make Any File a Template Using This Hidden macOS Tool]]></title>
-        <id>https://css-tricks.com/?p=384563</id>
-        <link href="https://css-tricks.com/make-any-file-a-template-using-this-hidden-macos-tool/"/>
-        <updated>2025-02-10T13:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Stationery Pad is a handy way to nix a step in your workflow if you regularly use document templates on your Mac. The long-standing Finder feature essentially tells a file’s parent application to open a copy of it by default, ensuring that the original file remains unedited.
-Make Any File a Template Using This Hidden macOS Tool originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Pygoscelis penguins prefer different oceanographic and terrestrial habitats during the austral summer]]></title>
+        <id>10.1002/ecs2.70091</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70091?af=R"/>
+        <updated>2025-02-11T05:40:28.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>Katherine L. Gallagher, 
+Rachael Herman, 
+Katherine Walton, 
+Michael S. Dinniman, 
+Heather J. Lynch</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Created A Popular WordPress Theme And Coined The Term “Hero Section” (Without Realizing It)]]></title>
-        <id>https://smashingmagazine.com/2025/02/popular-wordpress-theme-term-hero-section/</id>
-        <link href="https://smashingmagazine.com/2025/02/popular-wordpress-theme-term-hero-section/"/>
-        <updated>2025-02-10T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In 2013, Marcel Moerkens was working on Brooklyn, his WordPress theme, and he needed a way to make it stand out from the pack of other WordPress themes. Little did he know that the intro section he called a “Hero” would become one of the most recognizable patterns in web design today. Here’s how the idea came to life and how it changed everything.]]></summary>
+        <title type="html"><![CDATA[Preferred nectar sources for the monarch butterfly (Danaus plexippus plexippus) along the Great Plains migration pathway]]></title>
+        <id>10.1002/ecs2.70085</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70085?af=R"/>
+        <updated>2025-02-11T05:33:49.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Marcel Moerkens)</name>
+            <name>Kenneth E. Spaeth Jr., 
+C. Jason Williams, 
+Ray A. Moranz, 
+Christine Taliga, 
+William A. Rutherford, 
+Brenda Simpson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From freeCodeCamp to CTO with Robotics Engineer Peggy Wang [Podcast #159]]]></title>
-        <id>67a689db1b3d34453f8da64a</id>
-        <link href="https://www.freecodecamp.org/news/from-freecodecamp-to-cto-with-robotics-engineer-peggy-wang-podcast-159/"/>
-        <updated>2025-02-07T22:31:55.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Peggy Wang. She used freeCodeCamp to learn coding. She then worked in Big Tech as a robotics engineer. And now she's cofounder and CTO of Ego AI, a Y-Combinator-backed startup that builds human-like ...]]></summary>
+        <title type="html"><![CDATA[Dominant species drove the balance between biodiversity and productivity in mown grasslands under nitrogen fertilization]]></title>
+        <id>10.1002/eap.70009</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70009?af=R"/>
+        <updated>2025-02-11T05:14:51.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
         <author>
-            <name>Quincy Larson</name>
+            <name>Xiaojing Zhang, 
+Guojiao Yang, 
+Yu Ning, 
+Liangchao Jiang, 
+Xingguo Han, 
+Xiao‐Tao Lü</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Penetration Testing in Cybersecurity? A Beginner's Guide]]></title>
-        <id>67a62fc9c3ae66ee9e7a4b3e</id>
-        <link href="https://www.freecodecamp.org/news/beginners-guide-to-penetration-testing-cybersecurity/"/>
-        <updated>2025-02-07T16:07:37.000Z</updated>
-        <summary type="html"><![CDATA[In today's digital world, almost every activity we engage in is intertwined with technology. From making payments via UPI and booking movie or travel tickets online to selling products through e-commerce platforms, technology has become an integral p...]]></summary>
+        <title type="html"><![CDATA[Associating cultivars or species with complementary traits is key for enhancing aphid control through bottom‐up effects]]></title>
+        <id>10.1002/ecs2.70076</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70076?af=R"/>
+        <updated>2025-02-11T04:13:55.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
         <author>
-            <name>P S Mohammed Ali</name>
+            <name>Alba Tous‐Fandos, 
+Lourdes Chamorro‐Lorenzo, 
+Berta Caballero‐López, 
+José M. Blanco‐Moreno, 
+Daniel Bragg, 
+Alice Casiraghi, 
+Alejandro Pérez‐Ferrer, 
+F. Xavier Sans</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create an npm Library]]></title>
-        <id>67a627bfaf028c3f4ba71a05</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-an-npm-library/"/>
-        <updated>2025-02-07T15:33:19.000Z</updated>
-        <summary type="html"><![CDATA[In the world of JavaScript development, npm (Node Package Manager) has become an essential tool for managing dependencies and sharing reusable code. Whether you're building a simple website or a complex web application, npm libraries help streamline ...]]></summary>
+        <title type="html"><![CDATA[Bird‐mediated ecosystem services and disservices in cities and towns]]></title>
+        <id>10.1002/fee.2835</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2835?af=R"/>
+        <updated>2025-02-10T10:27:56.000Z</updated>
+        <summary type="html"><![CDATA[Frontiers in Ecology and the Environment, EarlyView.]]></summary>
         <author>
-            <name>German Cocca</name>
+            <name>Liba Pejchar, 
+Christine C Rega‐Brodsky, 
+Luis‐Bernardo Vázquez, 
+Ian MacGregor‐Fors</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn TypeScript – A Handbook for Developers]]></title>
-        <id>67a62638dd67e262dbd96da1</id>
-        <link href="https://www.freecodecamp.org/news/learn-typescript-with-react-handbook/"/>
-        <updated>2025-02-07T15:26:48.000Z</updated>
-        <summary type="html"><![CDATA[This handbook will teach you the basics of TypeScript, including what it is, why it is useful, and the key features it offers. TypeScript was created by Anders Hejlsberg, a prominent software engineer at Microsoft who’s also known for his work on C# ...]]></summary>
+        <title type="html"><![CDATA[Re‐envisioning urban landscapes: lichens, liverworts, and mosses coexist spontaneously with us]]></title>
+        <id>10.1002/fee.2836</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2836?af=R"/>
+        <updated>2025-02-10T10:20:32.000Z</updated>
+        <summary type="html"><![CDATA[Frontiers in Ecology and the Environment, EarlyView.]]></summary>
         <author>
-            <name>oghenekparobo Stephen</name>
+            <name>Nicole J Jung, 
+Harold N Eyster, 
+Kai MA Chan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taking RWD To The Extreme]]></title>
-        <id>https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/</id>
-        <link href="https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/"/>
-        <updated>2025-02-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.]]></summary>
+        <title type="html"><![CDATA[A simplified approach for assessing the effects of temperature change on the stability of consumer–resource interactions]]></title>
+        <id>10.1111/oik.10761</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10761?af=R"/>
+        <updated>2025-02-10T09:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, EarlyView.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Tomasz Jakut)</name>
+            <name>Alexis D. Synodinos, 
+Jose M. Montoya, 
+Arnaud Sentis, 
+Bart Haegeman</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Integrate RTK Query with Redux Toolkit: A Step-by-Step Guide for React Developers]]></title>
-        <id>67a4fbc311e2c2609ca60771</id>
-        <link href="https://www.freecodecamp.org/news/how-to-integrate-rtk-query-with-redux-toolkit/"/>
-        <updated>2025-02-06T18:13:23.000Z</updated>
-        <summary type="html"><![CDATA[Redux is a state management library for JavaScript applications. It lets you create applications that behave in a predictable manner and run on different environments, including server and native environments. Redux Toolkit is the recommended way to ...]]></summary>
+        <title type="html"><![CDATA[More extinction driven by the Red Queen in smaller habitats]]></title>
+        <id>10.1002/ecy.70018</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70018?af=R"/>
+        <updated>2025-02-10T09:21:02.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 2, February 2025.]]></summary>
         <author>
-            <name>Chidera Humphrey</name>
+            <name>Xiao Liu, 
+Quan‐Guo Zhang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Engineering Roadmap]]></title>
-        <id>67a4da7c28544da5426abc94</id>
-        <link href="https://www.freecodecamp.org/news/ai-engineering-roadmap/"/>
-        <updated>2025-02-06T15:51:24.000Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence is rapidly transforming industries, and AI Engineers are at the forefront of this revolution. If you’re looking to break into AI Engineering or advance your skills, having a clear roadmap is essential. Mastering AI requires a ...]]></summary>
+        <title type="html"><![CDATA[The contribution of pollinator‐mediated versus pollinator‐independent interactions to plant reproduction]]></title>
+        <id>10.1002/ecm.1649</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1649?af=R"/>
+        <updated>2025-02-10T08:07:03.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>Aubrie R. M. James, 
+Monica A. Geber</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Container query units: cqi and cqb]]></title>
-        <id>https://css-tricks.com/?p=384468</id>
-        <link href="https://css-tricks.com/container-query-units-cqi-and-cqb/"/>
-        <updated>2025-02-06T15:29:35.000Z</updated>
-        <summary type="html"><![CDATA[A little gem from Kevin Powell's "HTML & CSS Tip of the Week" website, reminding us that using container queries opens up container query units for sizing things based on the size of the queried container.
-Container query units: cqi and cqb originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Author Correction: Medical history predicts phenome-wide disease onset and enables the rapid response to emerging health threats]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56429-1</id>
+        <link href="https://www.nature.com/articles/s41467-025-56429-1"/>
+        <updated>2025-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nature Communications - Author Correction: Medical history predicts phenome-wide disease onset and enables the rapid response to emerging health threats]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>Jakob Steinfeldt</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Polymorphism in Python? Explained with an Example]]></title>
-        <id>67a4d16ab891dd1403996d28</id>
-        <link href="https://www.freecodecamp.org/news/what-is-polymorphism-in-python-example/"/>
-        <updated>2025-02-06T15:12:42.000Z</updated>
-        <summary type="html"><![CDATA[Polymorphism is an object-oriented programming (OOP) principle that helps you write high quality, flexible, maintainable, reusable, testable, and readable software. If you plan to work with object-oriented software, it is crucial to understand polymo...]]></summary>
+        <title type="html"><![CDATA[A cosmogenic <sup>10</sup>Be anomaly during the late Miocene as independent time marker for marine archives]]></title>
+        <id>https://www.nature.com/articles/s41467-024-55662-4</id>
+        <link href="https://www.nature.com/articles/s41467-024-55662-4"/>
+        <updated>2025-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Several Pacific deep-ocean ferromanganese crusts record an anomalous increase of the cosmogenic radionuclide 10Be around 10.1 Ma. This anomaly is a potential independent time marker for the late Miocene.]]></summary>
         <author>
-            <name>Danny</name>
+            <name>Dominik Koll</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Clustering in Python – A Machine Learning Engineering Handbook]]></title>
-        <id>67a3eddcb87640f436f52ba3</id>
-        <link href="https://www.freecodecamp.org/news/clustering-in-python-a-machine-learning-handbook/"/>
-        <updated>2025-02-05T23:01:48.000Z</updated>
-        <summary type="html"><![CDATA[Want to learn how to discover and analyze the hidden patterns within your data? Clustering, an essential technique in Unsupervised Machine Learning, holds the key to discovering valuable insights that can revolutionize your understanding of complex d...]]></summary>
+        <title type="html"><![CDATA[Single-cell RNA sequencing defines distinct disease subtypes and reveals hypo-responsiveness to interferon in asymptomatic Waldenstrom’s Macroglobulinemia]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56323-w</id>
+        <link href="https://www.nature.com/articles/s41467-025-56323-w"/>
+        <updated>2025-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The impact of tumor intrinsic and immune alterations on disease progression in patients with Waldenstrom’s Macroglobulinemia (WM) remains to be characterized. Here, the authors perform single-cell RNA-sequencing and identify distinct tumor subtypes, tumour microenvironment features and potential therapeutic vulnerabilities in patients with WM.]]></summary>
         <author>
-            <name>Tatev Aslanyan</name>
+            <name>Romanos Sklavenitis-Pistofidis</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build an Analytical Dashboard with Next.js]]></title>
-        <id>67a3aa3efc0a24bff2e83e65</id>
-        <link href="https://www.freecodecamp.org/news/build-an-analytical-dashboard-with-nextjs/"/>
-        <updated>2025-02-05T18:13:18.000Z</updated>
-        <summary type="html"><![CDATA[If you work with data or plan to in the future, at some point you'll likely need to build a comprehensive analytics dashboard. Sharing data through charts is a great way to provide others with a clearer understanding of this information. Pairing it w...]]></summary>
+        <title type="html"><![CDATA[Visualization of chromosomal reorganization induced by heterologous fusions in the mammalian nucleus]]></title>
+        <id>https://www.nature.com/articles/s41467-024-55582-3</id>
+        <link href="https://www.nature.com/articles/s41467-024-55582-3"/>
+        <updated>2025-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Genome structure exhibits significant plasticity, enabling it to tolerate alterations induced by chromosome fusions. Here, authors introduce a K-matrix approach to visualise genome structure and analyse chromosome movements, providing further evidence for the principle of genome organisation homeostasis.]]></summary>
         <author>
-            <name>Stefan Muzyka</name>
+            <name>Meng Yan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Set Up Documentation as Code with Docusaurus and GitHub Actions]]></title>
-        <id>67a39f467e716749ae8c7b7e</id>
-        <link href="https://www.freecodecamp.org/news/set-up-docs-as-code-with-docusaurus-and-github-actions/"/>
-        <updated>2025-02-05T17:26:30.000Z</updated>
-        <summary type="html"><![CDATA[For technical writers, keeping documentation up to date manually can be really frustrating. Issues like outdated guides, broken links, and missing updates are a pain, and they can make writers less productive. These issues can also make it harder for...]]></summary>
+        <title type="html"><![CDATA[Trajectory analysis of hepatic stellate cell differentiation reveals metabolic regulation of cell commitment and fibrosis]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56024-4</id>
+        <link href="https://www.nature.com/articles/s41467-025-56024-4"/>
+        <updated>2025-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here, the authors investigate the proteome trajectory of human iPSCs differentiating into hepatic stellate cells (diHSCs) and identify RORA as a key transcription factor that governs metabolic reprogramming essential for diHSCs’ commitment, identity, and quiescent phenotype.]]></summary>
         <author>
-            <name>EZINNE ANNE EMILIA</name>
+            <name>Raquel A. Martínez García de la Torre</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Baseline Status in a WordPress Block]]></title>
-        <id>https://css-tricks.com/?p=382311</id>
-        <link href="https://css-tricks.com/baseline-status-in-a-wordpress-block/"/>
-        <updated>2025-02-05T14:58:18.000Z</updated>
-        <summary type="html"><![CDATA[The steps for how I took the Baseline Status web component and made it into a WordPress block that can be used on any page of post.
-Baseline Status in a WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Yeast-derived volatiles orchestrate an insect-yeast mutualism with oriental armyworm moths]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56354-3</id>
+        <link href="https://www.nature.com/articles/s41467-025-56354-3"/>
+        <updated>2025-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Interactions among insects, plants, and microorganisms are fundamental for ecosystem function. This study focuses on the attraction of oriental armyworm moths to yeast-fermented nectar and finds that isoamyl alcohol, a yeast-derived compound, activates specific olfactory neurons in the moths, enhancing yeast dispersal and moth reproduction.]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>Baiwei Ma</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Integrations: From Simple Data Transfer To Modern Composable Architectures]]></title>
-        <id>https://smashingmagazine.com/2025/02/integrations-from-simple-data-transfer-to-composable-architectures/</id>
-        <link href="https://smashingmagazine.com/2025/02/integrations-from-simple-data-transfer-to-composable-architectures/"/>
-        <updated>2025-02-04T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In today’s web development landscape, the concept of a monolithic application has become increasingly rare. Modern applications are composed of multiple specialized services, each of which handles specific aspects of functionality. This shift didn’t happen overnight - it’s the result of decades of evolution in how we think about and implement data transfer between systems. Let’s explore this journey and see how it shapes modern architectures, particularly in the context of headless CMS solutions.]]></summary>
+        <title type="html"><![CDATA[Optimal low-depth quantum signal-processing phase estimation]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56724-x</id>
+        <link href="https://www.nature.com/articles/s41467-025-56724-x"/>
+        <updated>2025-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fault-tolerant quantum computing would require very high accuracy in quantum gate characterisation. Here, the authors introduce an optimal low-depth phase estimation method inspired by quantum signal processing, significantly improving gate calibration accuracy.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Edoardo Dusi)</name>
+            <name>Yulong Dong</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Compiling CSS With Vite and Lightning CSS]]></title>
-        <id>https://css-tricks.com/?p=384050</id>
-        <link href="https://css-tricks.com/compiling-css-with-vite-and-lightning-css/"/>
-        <updated>2025-02-03T15:23:37.000Z</updated>
-        <summary type="html"><![CDATA[Are partials the only thing keeping you writing CSS in Sass? With a little configuration, it's possible to compile partial CSS files without a Sass dependency. Ryan Trimble has the details.
-Compiling CSS With Vite and Lightning CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Rare earth stibolyl and bismolyl sandwich complexes]]></title>
+        <id>https://www.nature.com/articles/s41467-024-55474-6</id>
+        <link href="https://www.nature.com/articles/s41467-024-55474-6"/>
+        <updated>2025-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cyclopentadienyl ligands are central to organometallic lanthanide chemistry as their electron-donating ability enables fine-tuning for various applications including catalysis, luminescent materials, and single molecule magnets. Here, the authors report the synthesis and characterization of the lanthanide complexes featuring η5-coordinating heterocyclic stibolyl and bismolyl ligands.]]></summary>
         <author>
-            <name>Ryan Trimble</name>
+            <name>Noah Schwarz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chrome 133 Goodies]]></title>
-        <id>https://css-tricks.com/?p=383910</id>
-        <link href="https://css-tricks.com/chrome-133-goodies/"/>
-        <updated>2025-01-31T15:27:50.000Z</updated>
-        <summary type="html"><![CDATA[Did you see the release notes for Chrome 133? It's currently in beta, but the Chrome team has been publishing a slew of new articles with pretty incredible demos that are tough to ignore. I figured I'd round those up in one place.
-Chrome 133 Goodies originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Combining observational and experimental data to estimate environmental and species drivers of fungal metacommunity dynamics]]></title>
+        <id>10.1002/ecy.70014</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70014?af=R"/>
+        <updated>2025-02-07T12:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 2, February 2025.]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>Hedvig Kristina Nenzén, 
+Helen Moor, 
+Robert B. O'Hara, 
+Mari Jönsson, 
+Jenni Nordén, 
+Elisabet Ottosson, 
+Tord Snäll</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Keeping the page interactive while a View Transition is running]]></title>
-        <id>https://css-tricks.com/?p=384331</id>
-        <link href="https://css-tricks.com/keeping-the-page-interactive-while-a-view-transition-is-running/"/>
-        <updated>2025-01-31T14:11:00.000Z</updated>
-        <summary type="html"><![CDATA[When using View Transitions you’ll notice the page becomes unresponsive to clicks while a View Transition is running. […] This happens because of the ::view-transition pseudo element – the one that contains all animated snapshots – gets overlayed on top 
-…
-Keeping the page interactive while a View Transition is running originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Insect hosts are nutritional landscapes navigated by fungal pathogens]]></title>
+        <id>10.1002/ecy.70015</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70015?af=R"/>
+        <updated>2025-02-07T11:24:54.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 2, February 2025.]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>Henrik H. De Fine Licht, 
+Zsuzsanna Csontos, 
+Piet Jan Domela Nijegaard Nielsen, 
+Enzo Buhl Langkilde, 
+August K. Kjærgård Hansen, 
+Jonathan Z. Shik</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Look Closer, Inspiration Lies Everywhere (February 2025 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/</id>
-        <link href="https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/"/>
-        <updated>2025-01-31T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!]]></summary>
+        <title type="html"><![CDATA[Rates and controls of nitrogen fixation in postfire lodgepole pine forests]]></title>
+        <id>10.1002/ecy.70016</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70016?af=R"/>
+        <updated>2025-02-07T10:46:37.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 2, February 2025.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>Robert E. Heumann, 
+Monica G. Turner, 
+Cory C. Cleveland</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Mistakes of CSS]]></title>
-        <id>https://css-tricks.com/?p=384089</id>
-        <link href="https://css-tricks.com/the-mistakes-of-css/"/>
-        <updated>2025-01-30T14:31:08.000Z</updated>
-        <summary type="html"><![CDATA[All of the things that the CSS Working Group would change if they had a time-traveling Delorean to go back and do things over.
-The Mistakes of CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Terrestrial wildlife shows limited response in spatiotemporal activity to logging]]></title>
+        <id>10.1002/ecs2.70185</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70185?af=R"/>
+        <updated>2025-02-07T05:54:46.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
         <author>
-            <name>Juan Diego Rodríguez</name>
+            <name>Seth Timothy Wong, 
+Roshan Guharajan, 
+Azrie Petrus, 
+Jaffly Jubili, 
+Johnny Kissing, 
+Peter Lagan, 
+Robert Ong, 
+Andreas Wilting, 
+Rahel Sollmann</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Digital Playbook: A Crucial Counterpart To Your Design System]]></title>
-        <id>https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/</id>
-        <link href="https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/"/>
+        <title type="html"><![CDATA[Intraspecific scaling of home range size and its bioenergetic association]]></title>
+        <id>10.1002/ecy.70003</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70003?af=R"/>
+        <updated>2025-02-06T10:14:01.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Evan E. Byrnes, 
+Jenna L. Hounslow, 
+Vital Heim, 
+Clemency E. White, 
+Matthew J. Smukall, 
+Stephen J. Beatty, 
+Adrian C. Gleiss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soil legacies of genotypic diversity enhance population resistance to water stress]]></title>
+        <id>10.1002/ecy.4529</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4529?af=R"/>
+        <updated>2025-02-06T09:33:31.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Zekang Liu, 
+Cai Cheng, 
+Qun Zhang, 
+Xing Tian, 
+Lin Jiang, 
+Kerri M. Crawford, 
+Xiang Liu, 
+Jianquan Liu, 
+Qiang He, 
+Bo Li, 
+Jihua Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Possible influence of water level management on nutrient flux in nearshore sediments of Kabetogama Lake, Minnesota, USA]]></title>
+        <id>10.1002/ecs2.70176</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70176?af=R"/>
+        <updated>2025-02-06T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>James H. Larson, 
+Sean W. Bailey, 
+Ryan P. Maki, 
+Victoria G. Christensen, 
+Erin A. Stelzer, 
+James C. Smith, 
+Jaime F. LeDuc, 
+Seth McWhorter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fish modulate how connectivity and local factors shape food webs of permanent ponds]]></title>
+        <id>10.1111/oik.11062</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.11062?af=R"/>
+        <updated>2025-02-06T07:58:55.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, EarlyView.]]></summary>
+        <author>
+            <name>Noelia Gobel, 
+Gabriel Laufer, 
+Nadia Kacevas, 
+Sofía Cortizas, 
+Joaquín Pais, 
+Matías Arim, 
+Ivan González-Bergonzoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shifting baselines and the forgotten giants: integrating megafauna into plant community ecology]]></title>
+        <id>10.1111/oik.11134</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.11134?af=R"/>
+        <updated>2025-02-06T07:58:28.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, EarlyView.]]></summary>
+        <author>
+            <name>Skjold Alsted Søndergaard, 
+Camilla Fløjgaard, 
+Rasmus Ejrnæs, 
+Jens-Christian Svenning</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migratory birds spread their haemosporidian parasites along the world's major migratory flyways]]></title>
+        <id>10.1111/oik.11012</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.11012?af=R"/>
+        <updated>2025-02-06T07:54:26.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, EarlyView.]]></summary>
+        <author>
+            <name>Antoine Perrin, 
+Olivier Glaizot, 
+Philippe Christe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A novel method for mapping high‐precision animal locations using high‐resolution imagery]]></title>
+        <id>10.1002/ecs2.70173</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70173?af=R"/>
+        <updated>2025-02-06T07:20:40.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Ian J. Axsom, 
+Geoffrey A. Fricker, 
+William T. Bean</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Environmental DNA supports importance of heterogeneous pond landscapes for arthropod diversity conservation]]></title>
+        <id>10.1002/ecs2.70171</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70171?af=R"/>
+        <updated>2025-02-06T07:04:34.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Vera Zizka, 
+Katharina Schwesig, 
+Nele Engel, 
+Norbert Hölzel, 
+Christoph Scherber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plant trait networks reveal the ecological strategies of Arabidopsis thaliana along ontogeny]]></title>
+        <id>10.1002/ecs2.70180</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70180?af=R"/>
+        <updated>2025-02-05T11:24:08.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Hai‐rong Qian, 
+Jin‐lian Tong, 
+Shu‐wen Li, 
+Jiang‐bo Xie, 
+Zhong‐yuan Wang, 
+Yan Li, 
+Shi‐tong Lu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evolution of the vaquita/totoaba socio‐ecological system in the Upper Gulf of California, Mexico]]></title>
+        <id>10.1002/ecs2.70170</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70170?af=R"/>
+        <updated>2025-02-05T10:57:16.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>J. Alejandro Rodríguez‐Valencia, 
+Luis Fueyo‐Mac Donald, 
+Miguel Á. Cisneros‐Mata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Misreading or living in denial? Reindeer overstocking and long‐term effects on vegetation: An experimental approach]]></title>
+        <id>10.1002/ecs2.70174</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70174?af=R"/>
+        <updated>2025-02-05T10:55:48.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Bård‐Jørgen Bårdsen, 
+Hans Tømmervik, 
+Marius Warg Næss, 
+Jarle Werner Bjerke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving population analysis using indirect count data: A case study of chimpanzees and elephants]]></title>
+        <id>10.1002/ecs2.70150</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70150?af=R"/>
+        <updated>2025-02-05T10:46:11.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Samuel Ayebare, 
+Neil A. Gilbert, 
+Andrew J. Plumptre, 
+Simon Nampindo, 
+Elise F. Zipkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A centurial signature of anthropogenic nitrogen and carbon in California serpentine ecosystems]]></title>
+        <id>10.1002/ecs2.70167</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70167?af=R"/>
+        <updated>2025-02-05T10:40:39.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Blair C. McLaughlin, 
+Dena M. Vallano, 
+Jeff Garcia, 
+Paul L. Koch, 
+Connor N. Morozumi, 
+Pratigya J. Polissar, 
+Kelly M. Zilliacus, 
+Erika S. Zavaleta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cover Image]]></title>
+        <id>10.1002/ecy.4338</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4338?af=R"/>
+        <updated>2025-02-04T11:24:39.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Wiley: Ecology: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mean plant toxicity modulates the effects of plant defense variability]]></title>
+        <id>10.1002/ecy.70012</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70012?af=R"/>
+        <updated>2025-02-04T11:24:39.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Vincent S. Pan, 
+Kadeem J. Gilbert, 
+William C. Wetzel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Issue Information]]></title>
+        <id>10.1002/ecy.4337</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4337?af=R"/>
+        <updated>2025-02-04T11:18:51.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Wiley: Ecology: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fish mass mortality events in northern temperate lakes are happening later in the year than in the past]]></title>
+        <id>10.1002/ecs2.70182</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70182?af=R"/>
+        <updated>2025-02-04T11:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Karen M. Alofs, 
+Kevin E. Wehrly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cover Image]]></title>
+        <id>10.1002/ecs2.70196</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70196?af=R"/>
+        <updated>2025-02-04T10:55:15.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Wiley: Ecosphere: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linking spatial variations in life‐history traits to environmental conditions across American black bear populations]]></title>
+        <id>10.1002/ecm.1650</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1650?af=R"/>
+        <updated>2025-02-04T10:53:50.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
+        <author>
+            <name>Lisyanne Metthé, 
+Christian Dussault, 
+Sandra Hamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Issue Information]]></title>
+        <id>10.1002/ecs2.4891</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.4891?af=R"/>
+        <updated>2025-02-04T10:50:45.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Wiley: Ecosphere: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carnivore community reassembly provides a test of Eltonian niche conservatism]]></title>
+        <id>10.1111/oik.10625</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10625?af=R"/>
+        <updated>2025-02-04T10:18:24.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, EarlyView.]]></summary>
+        <author>
+            <name>Mauriel Rodriguez Curras, 
+Philip J. Manlick, 
+Jonathan N. Pauli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A field station's recipe for impactful science]]></title>
+        <id>10.1002/fee.2833</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2833?af=R"/>
+        <updated>2025-02-03T09:52:02.000Z</updated>
+        <summary type="html"><![CDATA[Frontiers in Ecology and the Environment, Volume 23, Issue 1, February 2025.]]></summary>
+        <author>
+            <name>Aaron S David, 
+Sahas Barve, 
+Elizabeth H Boughton, 
+Joshua H Daskin, 
+Hilary M Swain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Issue Information]]></title>
+        <id>10.1002/fee.2752</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2752?af=R"/>
+        <updated>2025-02-03T09:52:02.000Z</updated>
+        <summary type="html"><![CDATA[Frontiers in Ecology and the Environment, Volume 23, Issue 1, February 2025.]]></summary>
+        <author>
+            <name>Wiley: Frontiers in Ecology and the Environment: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cover Image]]></title>
+        <id>10.1002/fee.2753</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2753?af=R"/>
+        <updated>2025-02-03T09:52:02.000Z</updated>
+        <summary type="html"><![CDATA[Frontiers in Ecology and the Environment, Volume 23, Issue 1, February 2025.]]></summary>
+        <author>
+            <name>Wiley: Frontiers in Ecology and the Environment: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upscaling ecological restoration by integrating with agriculture]]></title>
+        <id>10.1002/fee.2802</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2802?af=R"/>
+        <updated>2025-02-03T09:52:02.000Z</updated>
+        <summary type="html"><![CDATA[Frontiers in Ecology and the Environment, Volume 23, Issue 1, February 2025.]]></summary>
+        <author>
+            <name>Pedro HS Brancalion, 
+Karen D Holl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Citizen science as a valuable tool for environmental review]]></title>
+        <id>10.1002/fee.2808</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2808?af=R"/>
+        <updated>2025-02-03T09:52:02.000Z</updated>
+        <summary type="html"><![CDATA[Frontiers in Ecology and the Environment, Volume 23, Issue 1, February 2025.]]></summary>
+        <author>
+            <name>Corey T Callaghan, 
+Carly Winnebald, 
+Blaze Smith, 
+Brittany M Mason, 
+Laura López‐Hoffman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evaluating and elevating the role of wildlife road crossings in climate adaptation]]></title>
+        <id>10.1002/fee.2816</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2816?af=R"/>
+        <updated>2025-02-03T09:52:02.000Z</updated>
+        <summary type="html"><![CDATA[Frontiers in Ecology and the Environment, Volume 23, Issue 1, February 2025.]]></summary>
+        <author>
+            <name>Caitlin E Littlefield, 
+Justin P Suraci, 
+Julia Kintsch, 
+Renee Callahan, 
+Patricia Cramer, 
+Molly S Cross, 
+Brett G Dickson, 
+Leslie Ann Duncan, 
+Jonathan RB Fisher, 
+Patrick T Freeman, 
+Renee Seidler, 
+Anna Wearn, 
+Kimberly M Andrews, 
+Marta Brocki, 
+Norris Dodd, 
+Jeff Gagnon, 
+Aran Johnson, 
+Meade Krosby, 
+Matt Skroch, 
+Ron Sutherland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern building structures are a landscape‐level driver of bat–human exposure risk in Kenya]]></title>
+        <id>10.1002/fee.2795</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2795?af=R"/>
+        <updated>2025-02-03T09:52:02.000Z</updated>
+        <summary type="html"><![CDATA[Frontiers in Ecology and the Environment, Volume 23, Issue 1, February 2025.]]></summary>
+        <author>
+            <name>Tamika J Lunn, 
+Reilly T Jackson, 
+Paul W Webala, 
+Joseph G Ogola, 
+Kristian M Forbes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wolves and human‐caused mortality—a reply to Cassidy et al.]]></title>
+        <id>10.1002/fee.2830</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2830?af=R"/>
+        <updated>2025-02-03T09:52:02.000Z</updated>
+        <summary type="html"><![CDATA[Frontiers in Ecology and the Environment, Volume 23, Issue 1, February 2025.]]></summary>
+        <author>
+            <name>Danny Caudill, 
+Joshua H Schmidt, 
+Graham G Frye, 
+Elaine D Gallenberg, 
+Gretchen Caudill, 
+Jerrold L Belant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reproductive Interference Alters Species Coexistence in Nematodes due to Asymmetric Sperm‐Induced Harm]]></title>
+        <id>10.1111/ele.70067</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70067?af=R"/>
+        <updated>2025-02-03T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Rebecca Schalkowski, 
+Katja R. Kasimatis, 
+Megan A. Greischar, 
+Asher D. Cutter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seasonal Shifts in Trophic Interaction Strength Drive Stability of Natural Food Webs]]></title>
+        <id>10.1111/ele.70075</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70075?af=R"/>
+        <updated>2025-02-01T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Ursula Gaedke, 
+Xiaoxiao Li, 
+Christian Guill, 
+Lia Hemerik, 
+Peter C. de Ruiter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mammalian predator co‐occurrence affected by prey and habitat more than competitor presence at multiple time scales]]></title>
+        <id>10.1002/ecm.1648</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1648?af=R"/>
+        <updated>2025-01-31T03:11:36.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
+        <author>
+            <name>Sarah B. Bassing, 
+David E. Ausband, 
+Matthew A. Mumma, 
+Sarah Thompson, 
+Mark A. Hurley, 
+Matthew R. Falcy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replacing native grazers with livestock influences arthropods to have implications for ecosystem functions and disease]]></title>
+        <id>10.1002/eap.3091</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3091?af=R"/>
+        <updated>2025-01-31T02:19:40.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Pronoy Baidya, 
+Shamik Roy, 
+Jalmesh Karapurkar, 
+Sumanta Bagchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intraspecific Diversity in Thermal Performance Determines Phytoplankton Ecological Niche]]></title>
+        <id>10.1111/ele.70055</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70055?af=R"/>
         <updated>2025-01-30T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Design systems play a crucial role in today’s digital landscape, providing a blueprint for consistent and user-friendly interfaces. But there’s another tool that deserves equal attention: the digital playbook.]]></summary>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
+            <name>Arianna I. Krinos, 
+Sara K. Shapiro, 
+Weixuan Li, 
+Sheean T. Haley, 
+Sonya T. Dyhrman, 
+Stephanie Dutkiewicz, 
+Michael J. Follows, 
+Harriet Alexander</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What on Earth is the `types` Descriptor in View Transitions?]]></title>
-        <id>https://css-tricks.com/?p=383818</id>
-        <link href="https://css-tricks.com/what-on-earth-is-the-types-descriptor-in-view-transitions/"/>
-        <updated>2025-01-29T14:13:53.000Z</updated>
-        <summary type="html"><![CDATA[The @view-transition at-rule has two descriptions. One is the commonly used navigation descriptor. The second is types, the lesser-known of the two, and one that probably envies how much attention navigation gets. But read on to learn why we need types and how it opens up new possibilities for custom view transitions when navigating between pages.
-What on Earth is the `types` Descriptor in View Transitions? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[A Probabilistic View of Forbidden Links: Their Prevalence and Their Consequences for the Robustness of Plant–Hummingbird Communities]]></title>
+        <id>10.1111/ele.70073</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70073?af=R"/>
+        <updated>2025-01-28T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
         <author>
-            <name>Juan Diego Rodríguez</name>
+            <name>François Duchenne, 
+Elisa Barreto, 
+Esteban A. Guevara, 
+Holger Beck, 
+Carolina Bello, 
+Rafaela Bobato, 
+Daniela Bôlla, 
+Emanuel Brenes, 
+Nicole Büttner, 
+Ana P. Caron, 
+Nelson Chaves‐Elizondo, 
+María J. Gavilanes, 
+Alejandro Restrepo‐González, 
+Jose Alejandro Castro, 
+Miriam Kaehler, 
+Tiago Machado‐de‐Souza, 
+Miguel Machnicki‐Reis, 
+Andrés Sebastián F. Marcayata, 
+Cauã G. de Menezes, 
+Andrea Nieto, 
+Rafael de Oliveira, 
+Ricardo A. C. de Oliveira, 
+Friederike Richter, 
+Bryan G. Rojas, 
+Luciele L. Romanowski, 
+Wellinton L. de Souza, 
+Danila S. Veluza, 
+Ben Weinstein, 
+Rafael O. Wüest, 
+Thais B. Zanata, 
+Krystal Zuniga, 
+María A. Maglianesi, 
+Tatiana Santander, 
+Isabela G. Varassin, 
+Catherine H. Graham</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Transitioning Top-Layer Entries And The Display Property In CSS]]></title>
-        <id>https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/</id>
-        <link href="https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/"/>
-        <updated>2025-01-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s not always the big features that make our everyday lives easier; sometimes, it’s those ease-of-life features that truly enhance our projects. In this article, Brecht De Ruyte highlights two such features: `@starting-style` and `transition-behavior` — two properties that are absolutely welcome additions to your everyday work with CSS animations.]]></summary>
+        <title type="html"><![CDATA[Personality, space use, and networks directly and indirectly explain tick infestation in a wild population of lizards]]></title>
+        <id>10.1002/ecm.70000</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.70000?af=R"/>
+        <updated>2025-01-28T06:10:50.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
+            <name>Eric Payne, 
+David L. Sinn, 
+Orr Spiegel, 
+Stephan T. Leu, 
+Caroline K. Wohlfeil, 
+Stephanie S. Godfrey, 
+Michael G. Gardner, 
+Andrew Sih</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris]]></title>
-        <id>https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/</id>
-        <link href="https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/"/>
-        <updated>2025-01-28T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.]]></summary>
+        <title type="html"><![CDATA[Phenological responses to climate change across taxa and local habitats in a high‐Arctic arthropod community]]></title>
+        <id>10.1002/ecm.1643</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1643?af=R"/>
+        <updated>2025-01-27T12:36:28.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+            <name>Hannah Sørine Gerlich, 
+Martin Holmstrup, 
+Niels M. Schmidt, 
+Toke T. Høye</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Revisiting CSS Multi-Column Layout]]></title>
-        <id>https://css-tricks.com/?p=384002</id>
-        <link href="https://css-tricks.com/revisiting-css-multi-column-layout/"/>
-        <updated>2025-01-27T15:35:44.000Z</updated>
-        <summary type="html"><![CDATA[After 20 years since Andy Clarke first published his book about Multi-Column Layout in CSS, he's back to encourage a fresh look at CSS columns for enhanced readability and design flexibility.
-Revisiting CSS Multi-Column Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Predicting the impact of targeted fence removal on connectivity in a migratory ecosystem]]></title>
+        <id>10.1002/eap.3094</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3094?af=R"/>
+        <updated>2025-01-27T11:36:52.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
         <author>
-            <name>Andy Clarke</name>
+            <name>Imogen A. Schwandner, 
+Thomas A. Morrison, 
+J. Grant C. Hopcraft, 
+Jake Wall, 
+Lacey Hughey, 
+Randall B. Boone, 
+Joseph O. Ogutu, 
+Andrew F. Jakes, 
+Shem C. Kifugo, 
+Campaign Limo, 
+Stephen Ndambuki Mwiu, 
+Vasco Nyaga, 
+Han Olff, 
+Gordon O. Ojwang, 
+Wilson Sairowua, 
+Jackson Sasine, 
+Jully S. Senteu, 
+Daniel Sopia, 
+Jeffrey Worden, 
+Jared A. Stabach</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Positioning Text Around Elements With CSS Offset]]></title>
-        <id>https://css-tricks.com/?p=383506</id>
-        <link href="https://css-tricks.com/positioning-text-around-elements-with-css-offset/"/>
-        <updated>2025-01-24T14:59:25.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to positioning elements on a page, including text, there are many ways to go about it in CSS — the literal position property with corresponding inset-* properties, translate, margin, anchor() (limited browser support at the moment), and so forth. The offset property is another one that belongs in that list.
-Positioning Text Around Elements With CSS Offset originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Sparse subalpine forest recovery pathways, plant communities, and carbon stocks 34 years after stand‐replacing fire]]></title>
+        <id>10.1002/ecm.1644</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1644?af=R"/>
+        <updated>2025-01-27T11:22:47.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
         <author>
-            <name>Preethi</name>
+            <name>Nathan G. Kiel, 
+Eileen F. Mavencamp, 
+Monica G. Turner</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Some Things You Might Not Know About Custom Counter Styles]]></title>
-        <id>https://css-tricks.com/?p=383776</id>
-        <link href="https://css-tricks.com/some-things-you-might-not-know-about-custom-counter-styles/"/>
-        <updated>2025-01-23T17:21:15.000Z</updated>
-        <summary type="html"><![CDATA[I was reading through Juan’s recent Almanac entry for the @counter-style at-rule and I’ll be darned if he didn’t uncover and unpack some extremely interesting things that we can do to style lists, notably the list marker. You’re probably already …
-Some Things You Might Not Know About Custom Counter Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Hotter temperatures alter riparian plant outcomes under regulated river conditions]]></title>
+        <id>10.1002/ecm.1645</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1645?af=R"/>
+        <updated>2025-01-27T09:22:22.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>Emily C. Palmquist, 
+Kiona Ogle, 
+Bradley J. Butterfield, 
+Thomas G. Whitham, 
+Gerard J. Allan, 
+Patrick B. Shafroth</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating a “Starred” Feed]]></title>
-        <id>https://css-tricks.com/?p=382660</id>
-        <link href="https://css-tricks.com/creating-a-starred-feed/"/>
-        <updated>2025-01-21T14:21:32.000Z</updated>
-        <summary type="html"><![CDATA[Chris wrote about “Likes” pages a long while back. The idea is rather simple: “Like” an item in your RSS reader and display it in a feed of other liked items. The little example Chris made is still really good.…
-Creating a “Starred” Feed originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[A Non‐Equilibrium Species Distribution Model Reveals Unprecedented Depth of Time Lag Responses to Past Environmental Change Trajectories]]></title>
+        <id>10.1111/ele.70040</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70040?af=R"/>
+        <updated>2025-01-23T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>Etienne Lalechère, 
+Ronan Marrec, 
+Jonathan Lenoir</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Navigating The Challenges Of Modern Open-Source Authoring: Lessons Learned]]></title>
-        <id>https://smashingmagazine.com/2025/01/navigating-challenges-modern-open-source-authoring/</id>
-        <link href="https://smashingmagazine.com/2025/01/navigating-challenges-modern-open-source-authoring/"/>
+        <title type="html"><![CDATA[Radio‐tracking urban breeding birds: The importance of native vegetation]]></title>
+        <id>10.1002/eap.3095</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3095?af=R"/>
+        <updated>2025-01-23T05:54:44.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Gábor Seress, 
+Krisztina Sándor, 
+Veronika Bókony, 
+Boglárka Bukor, 
+Katalin Hubai, 
+András Liker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The power and pitfalls of amino acid carbon stable isotopes for tracing origin and use of basal resources in food webs]]></title>
+        <id>10.1002/ecm.1647</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1647?af=R"/>
+        <updated>2025-01-23T03:03:51.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
+        <author>
+            <name>Kim Vane, 
+Matthew R. D. Cobain, 
+Thomas Larsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modelling Amazon fire regimes under climate change scenarios]]></title>
+        <id>10.1111/oik.10764</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10764?af=R"/>
+        <updated>2025-01-22T11:51:32.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, EarlyView.]]></summary>
+        <author>
+            <name>Leonardo A. Saravia, 
+Korinna T. Allhoff, 
+Ben Bond-Lamberty, 
+ Samir Suweis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The effectiveness of harvest for limiting wildlife disease: Insights from 20 years of chronic wasting disease in Wyoming]]></title>
+        <id>10.1002/eap.3089</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3089?af=R"/>
+        <updated>2025-01-21T10:52:40.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Wynne E. Moss, 
+Justin Binfet, 
+L. Embere Hall, 
+Samantha E. Allen, 
+William H. Edwards, 
+Jessica E. Jennings‐Gaines, 
+Paul C. Cross</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Size matching between fruits and bill gapes differentially affects gulper and masher frugivorous birds]]></title>
+        <id>10.1111/oik.10978</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10978?af=R"/>
+        <updated>2025-01-21T10:23:24.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, EarlyView.]]></summary>
+        <author>
+            <name>Tobias Nicolas Rojas, 
+Marco A. Pizo, 
+Pedro G. Blendinger, 
+G. Giselle Mangini, 
+Iván Barberá</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A probabilistic approach to estimating timber harvest location]]></title>
+        <id>10.1002/eap.3077</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3077?af=R"/>
+        <updated>2025-01-21T09:22:02.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Jakub Truszkowski, 
+Roi Maor, 
+Raquib Bin Yousuf, 
+Subhodip Biswas, 
+Caspar Chater, 
+Peter Gasson, 
+Scot McQueen, 
+Marigold Norman, 
+Jade Saunders, 
+John Simeone, 
+Naren Ramakrishnan, 
+Alexandre Antonelli, 
+Victor Deklerck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Continuum From Positive to Negative Interactions Drives Plant Species' Performance in a Diverse Community]]></title>
+        <id>10.1111/ele.70059</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70059?af=R"/>
         <updated>2025-01-21T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Alvaro Saburido delves into the current state and challenges of Open-Source authoring, sharing lessons learned from both community- and company-driven initiatives.]]></summary>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Alvaro Saburido)</name>
+            <name>Lisa Buche, 
+Lauren G. Shoemaker, 
+Lauren M. Hallett, 
+Ignasi Bartomeus, 
+Peter Vesk, 
+Christopher Weiss‐Lehman, 
+Margaret Mayfield, 
+Oscar Godoy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fancy Menu Navigation Using Anchor Positioning]]></title>
-        <id>https://css-tricks.com/?p=383518</id>
-        <link href="https://css-tricks.com/fancy-menu-navigation-using-anchor-positioning/"/>
-        <updated>2025-01-17T14:57:39.000Z</updated>
-        <summary type="html"><![CDATA[Anchor positioning can be great for little interactive effects — as Temani Afif shows off with this clever idea for a menu hover.
-Fancy Menu Navigation Using Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Correction to “The importance of neutral over niche processes in structuring Ediacaran early animal communities”]]></title>
+        <id>10.1111/ele.70048</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70048?af=R"/>
+        <updated>2025-01-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
         <author>
-            <name>Temani Afif</name>
+            <name>Wiley: Ecology Letters: Table of Contents</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Ode To Side Project Time]]></title>
-        <id>https://smashingmagazine.com/2025/01/ode-to-side-project-time/</id>
-        <link href="https://smashingmagazine.com/2025/01/ode-to-side-project-time/"/>
+        <title type="html"><![CDATA[Causal Inference With Observational Data and Unobserved Confounding Variables]]></title>
+        <id>10.1111/ele.70023</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70023?af=R"/>
+        <updated>2025-01-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Jarrett E. K. Byrnes, 
+Laura E. Dee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Functional leaf and plant use by leafcutter bees: Implications for management and conservation]]></title>
+        <id>10.1002/eap.3090</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3090?af=R"/>
+        <updated>2025-01-21T02:29:29.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Palatty Allesh Sinu, 
+Krishnan P. Abhiram, 
+Ashly Baby, 
+C. R. Akshatha, 
+K. Aneha, 
+Anjana P. Unni, 
+Harita Nalamati, 
+K. Manoj, 
+A. R. Pooja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using predictive models to identify kelp refuges in marine protected areas for management prioritization]]></title>
+        <id>10.1002/eap.3084</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3084?af=R"/>
+        <updated>2025-01-20T14:37:21.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Mary A. Young, 
+Kay Critchell, 
+Michael A. Sams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Root functional traits are important predictors for plant resource acquisition strategies in subtropical forests]]></title>
+        <id>10.1002/eap.3082</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3082?af=R"/>
+        <updated>2025-01-20T13:10:17.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Guangcan Yu, 
+Yufang Wang, 
+Andi Li, 
+Senhao Wang, 
+Jing Chen, 
+Jiangming Mo, 
+Mianhai Zheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plant species, inundation, and sediment grain size control the development of sediment stability in tidal marshes]]></title>
+        <id>10.1002/eap.3078</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3078?af=R"/>
+        <updated>2025-01-20T11:45:19.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Marte M. Stoorvogel, 
+Jaco C. de Smit, 
+Lauren E. Wiesebron, 
+Jim van Belzen, 
+Johan van de Koppel, 
+Stijn Temmerman, 
+Tjeerd J. Bouma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unfriendly neighbors: When facilitation does not contribute to restoration success in tidal marsh]]></title>
+        <id>10.1002/eap.3079</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3079?af=R"/>
+        <updated>2025-01-20T10:21:44.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Karen E. Tanner, 
+Ingrid M. Parker, 
+Monique C. Fountain, 
+Alexandra S. Thomsen, 
+Kerstin Wasson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global artificial light masks biologically important light cycles of animals]]></title>
+        <id>10.1002/fee.2832</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2832?af=R"/>
+        <updated>2025-01-20T09:54:33.000Z</updated>
+        <summary type="html"><![CDATA[Frontiers in Ecology and the Environment, EarlyView.]]></summary>
+        <author>
+            <name>Brett M Seymoure, 
+Rachel Buxton, 
+Jeremy M White, 
+Carlos R Linares, 
+Kurt Fristrup, 
+Kevin Crooks, 
+George Wittemyer, 
+Lisa Angeloni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social dominance influences individual susceptibility to an evolutionary trap in mosquitofish]]></title>
+        <id>10.1002/eap.3081</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3081?af=R"/>
+        <updated>2025-01-20T08:46:47.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Lea Pollack, 
+Michael Culshaw‐Maurer, 
+Andrew Sih</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Species‐habitat networks reveal conservation implications that other community analyses do not detect]]></title>
+        <id>10.1002/eap.3073</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3073?af=R"/>
+        <updated>2025-01-20T08:07:34.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Zhaoke Dong, 
+Andrew J. Bladon, 
+Coline C. Jaworski, 
+Richard F. Pywell, 
+Ben A. Woodcock, 
+William R. Meek, 
+Peter Nuttall, 
+Lynn V. Dicks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trees First Inhibit Then Promote Litter Decomposition in the Subarctic]]></title>
+        <id>10.1111/ele.70063</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70063?af=R"/>
+        <updated>2025-01-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Micael Jonsson, 
+Karina E. Clemmensen, 
+Carles Castaño, 
+Thomas C. Parker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Continuous Abrupt Vegetation Shifts in the Global Terrestrial Ecosystem]]></title>
+        <id>10.1111/ele.70069</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70069?af=R"/>
+        <updated>2025-01-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Maohong Wei, 
+Shengpeng Li, 
+Lin Zhu, 
+Xueqiang Lu, 
+Hongyuan Li, 
+Jianfeng Feng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foundations and Future Directions for Causal Inference in Ecological Research]]></title>
+        <id>10.1111/ele.70053</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70053?af=R"/>
+        <updated>2025-01-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Katherine Siegel, 
+Laura E. Dee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weaker Plant‐Frugivore Trait Matching Towards the Tropics and on Islands]]></title>
+        <id>10.1111/ele.70061</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70061?af=R"/>
+        <updated>2025-01-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Xiao Huang, 
+Bo Dalsgaard, 
+Si‐Chong Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impacts of Weather Anomalies and Climate on Plant Disease]]></title>
+        <id>10.1111/ele.70062</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70062?af=R"/>
+        <updated>2025-01-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Devin Kirk, 
+Jeremy M. Cohen, 
+Vianda Nguyen, 
+Marissa L. Childs, 
+Johannah E. Farner, 
+T. Jonathan Davies, 
+S. Luke Flory, 
+Jason R. Rohr, 
+Mary I. O'Connor, 
+Erin A. Mordecai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High Capacity for Physiological Plasticity Occurs at a Slow Rate in Ectotherms]]></title>
+        <id>10.1111/ele.70046</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70046?af=R"/>
+        <updated>2025-01-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Tim Burton, 
+Sigurd Einum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relative effects of seed mix design, consumer pressure, and edge proximity on community structure in restored prairies]]></title>
+        <id>10.1002/eap.3083</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3083?af=R"/>
+        <updated>2025-01-20T06:58:40.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Riley B. Pizza, 
+Nash E. Turley, 
+Lars A. Brudvig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frequent, heterogenous fire supports a forest owl assemblage]]></title>
+        <id>10.1002/eap.3080</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3080?af=R"/>
+        <updated>2025-01-17T13:07:10.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Kate McGinn, 
+Benjamin Zuckerberg, 
+Gavin M. Jones, 
+Connor M. Wood, 
+Stefan Kahl, 
+Kevin G. Kelly, 
+Sheila A. Whitmore, 
+H. Anu Kramer, 
+Josh M. Barry, 
+Elizabeth Ng, 
+M. Zachariah Peery</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From subsidies to stressors: Positively skewed ecological gradients alter biological responses to nutrients in streams]]></title>
+        <id>10.1002/eap.3086</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3086?af=R"/>
+        <updated>2025-01-17T10:46:47.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Stephen E. DeVilbiss, 
+Jason M. Taylor, 
+Matthew B. Hicks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breeding bird sensitivity to urban habitat quality is multi‐scale and strongly dependent on migratory behavior]]></title>
+        <id>10.1002/eap.3087</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3087?af=R"/>
+        <updated>2025-01-17T08:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Nathan W. Byer, 
+Remington J. Moll, 
+Timothy J. Krynak, 
+Erik E. Shaffer, 
+Jen L. Brumfield, 
+John E. Reinier, 
+Sarah R. Eysenbach, 
+Jonathon D. Cepek, 
+Constance E. Hausman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Differential recruitment drives pathogen‐mediated competition between species in an amphibian chytridiomycosis system]]></title>
+        <id>10.1002/eap.3085</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3085?af=R"/>
         <updated>2025-01-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A once-revered perk of some tech workplaces, the status of ‘side project time’ seems to have slipped in recent years. Frederick O’Brien believes it deserves a comeback.]]></summary>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+            <name>Madelyn J. Mangan, 
+Hamish I. McCallum, 
+Matt West, 
+Ben C. Scheele, 
+Graeme R. Gillespie, 
+Laura F. Grogan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On-Device AI: Building Smarter, Faster, And Private Applications]]></title>
-        <id>https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/</id>
-        <link href="https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/"/>
-        <updated>2025-01-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Shouldn’t there be a way to keep your apps or project data private and improve performance by reducing server latency? This is what on-device AI is designed to solve. It handles AI processing locally, right on your device, without connecting to the internet and sending data to the cloud. In this article, Joas Pambou explains what on-device AI is, why it’s important, the tools to build this type of technology, and how it can change the way we use technology every day.]]></summary>
+        <title type="html"><![CDATA[Soil Nitrogen Supply Exerts Largest Influence on Leaf Nitrogen in Environments with the Greatest Leaf Nitrogen Demand]]></title>
+        <id>10.1111/ele.70015</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70015?af=R"/>
+        <updated>2025-01-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Joas Pambou)</name>
+            <name>Alissar Cheaib, 
+Elizabeth F. Waring, 
+Risa McNellis, 
+Evan A. Perkowski, 
+Jason P. Martina, 
+Eric W. Seabloom, 
+Elizabeth T. Borer, 
+Peter A. Wilfahrt, 
+Ning Dong, 
+Iain Colin Prentice, 
+Ian J. Wright, 
+Sally A. Power, 
+Erika I. Hersch‐Green, 
+Anita C. Risch, 
+Maria C. Caldeira, 
+Carla Nogueira, 
+Qingqing Chen, 
+Nicholas G. Smith</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web-Slinger.css: Across the Swiper-Verse]]></title>
-        <id>https://css-tricks.com/?p=383533</id>
-        <link href="https://css-tricks.com/web-slinger-css-across-the-swiper-verse/"/>
-        <updated>2025-01-15T15:03:25.000Z</updated>
-        <summary type="html"><![CDATA[Lee Meyer with a super clever idea using scroll-driven animations as an interaction to "like" or "dislike" something.
-Web-Slinger.css: Across the Swiper-Verse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Additive Effects of Multiple Global Change Factors on Plant Invasions Are Common]]></title>
+        <id>10.1111/ele.70057</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70057?af=R"/>
+        <updated>2025-01-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
         <author>
-            <name>Lee Meyer</name>
+            <name>Xiong Shi, 
+Yanjie Liu, 
+Mark van Kleunen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Role Of Illustration Style In Visual Storytelling]]></title>
-        <id>https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/</id>
-        <link href="https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/"/>
+        <title type="html"><![CDATA[A Global Relationship Between Genome Size and Encoded Carbon Metabolic Strategies of Soil Bacteria]]></title>
+        <id>10.1111/ele.70064</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70064?af=R"/>
+        <updated>2025-01-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Xingjie Wu, 
+Jingjing Peng, 
+Ashish Anil Malik, 
+Ziheng Peng, 
+Yu Luo, 
+Fenliang Fan, 
+Yahai Lu, 
+Gehong Wei, 
+Manuel Delgado‐Baquerizo, 
+Werner Liesack, 
+Shuo Jiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reconciling Variability in Multiple Stressor Effects Using Environmental Performance Curves]]></title>
+        <id>10.1111/ele.70065</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70065?af=R"/>
+        <updated>2025-01-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Hebe Carmichael, 
+Ruth Warfield, 
+Gabriel Yvon‐Durocher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changes in reproduction mediate the effects of climate change and grassland management on plant population dynamics]]></title>
+        <id>10.1002/eap.3063</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3063?af=R"/>
+        <updated>2025-01-16T12:47:43.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Martin Andrzejak, 
+Tiffany M. Knight, 
+Carolin Plos, 
+Lotte Korell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ebolavirus evolution and emergence are associated with land use change]]></title>
+        <id>10.1002/ecm.1641</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1641?af=R"/>
+        <updated>2025-01-16T12:21:39.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
+        <author>
+            <name>Christian E. Lange, 
+Thomas R. Barnum, 
+David J. McIver, 
+Matthew LeBreton, 
+Karen Saylors, 
+Charles Kumakamba, 
+Sara Lowes, 
+Eduardo Montero, 
+Robert L. Cohen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unveiling the effects of landscape–fire interactions on functional diversity in a Southern European mountain]]></title>
+        <id>10.1002/eap.3059</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3059?af=R"/>
+        <updated>2025-01-16T12:21:20.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>João C. Campos, 
+Beatriz Albuquerque, 
+Emilio Civantos, 
+João P. Honrado, 
+Adrián Regos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detecting the effect of intensive agriculture on Odonata diversity using citizen science data]]></title>
+        <id>10.1002/eap.3057</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3057?af=R"/>
+        <updated>2025-01-16T08:58:55.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Renaud Baeta, 
+Justine Léauté, 
+Éric Sansault, 
+Sylvain Pincebourde</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Climatic versus biotic drivers' effect on fitness varies with range size but not position within range in terrestrial plants]]></title>
+        <id>10.1002/ecm.1640</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1640?af=R"/>
+        <updated>2025-01-16T08:55:11.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
+        <author>
+            <name>Allison M. Louthan, 
+Aaron W. Baumgardner, 
+Johan Ehrlén, 
+Johan P. Dahlgren, 
+Alexander K. Loomis, 
+William F. Morris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model‐based variance partitioning for statistical ecology]]></title>
+        <id>10.1002/ecm.1646</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1646?af=R"/>
+        <updated>2025-01-16T07:50:25.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
+        <author>
+            <name>Torsti Schulz, 
+Marjo Saastamoinen, 
+Jarno Vanhatalo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genomics identifies koala populations at risk across eastern Australia]]></title>
+        <id>10.1002/eap.3062</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3062?af=R"/>
+        <updated>2025-01-16T07:24:14.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Elspeth A. McLennan, 
+Toby G. L. Kovacs, 
+Luke W. Silver, 
+Zhiliang Chen, 
+Frederick R. Jaya, 
+Simon Y. W. Ho, 
+Katherine Belov, 
+Carolyn J. Hogg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Increasing variability in resource supply over time disrupts plant–pollinator interactions]]></title>
+        <id>10.1002/ecm.1637</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1637?af=R"/>
+        <updated>2025-01-16T07:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
+        <author>
+            <name>Deanne Redr, 
+Alyssa R. Cirtwill, 
+Riikka Kaartinen, 
+Anna Grunsky, 
+Ian Hogg, 
+Donald McLennan, 
+Claus Rasmussen, 
+Niels Martin Schmidt, 
+Mikko Tiusanen, 
+Johann Wagner, 
+Helena Wirta, 
+Tomas Roslin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redrawing Köppen‐Geiger classes with microclimate: implications for nature and society]]></title>
+        <id>10.1002/fee.2831</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2831?af=R"/>
+        <updated>2025-01-16T05:39:24.000Z</updated>
+        <summary type="html"><![CDATA[Frontiers in Ecology and the Environment, EarlyView.]]></summary>
+        <author>
+            <name>David H Klinges, 
+Ilya MD Maclean, 
+Brett R Scheffers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seafloor sediment microtopography as a surrogate for biodiversity and ecosystem functioning]]></title>
+        <id>10.1002/eap.3069</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3069?af=R"/>
+        <updated>2025-01-16T03:21:15.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Stefano Schenone, 
+Judi E. Hewitt, 
+Jenny Hillman, 
+Rebecca Gladstone‐Gallagher, 
+Johanna Gammal, 
+Conrad Pilditch, 
+Andrew M. Lohrer, 
+Eliana Ferretti, 
+Mihailo Azhar, 
+Patrice Delmas, 
+Simon F. Thrush</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Partitioning species contributions to ecological stability in disturbed communities]]></title>
+        <id>10.1002/ecm.1636</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1636?af=R"/>
+        <updated>2025-01-16T03:04:16.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
+        <author>
+            <name>Charlotte Kunze, 
+Dominik Bahlburg, 
+Pablo Urrutia‐Cordero, 
+Maren Striebel, 
+Egle Kelpsiene, 
+Silke Langenheder, 
+Ian Donohue, 
+Helmut Hillebrand</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wheat field earthworms under divergent farming systems across a European climate gradient]]></title>
+        <id>10.1002/eap.3066</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3066?af=R"/>
+        <updated>2025-01-15T14:26:23.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Visa Nuutinen, 
+Maria J. I. Briones, 
+Stefan Schrader, 
+Igor Dekemati, 
+Nikola Grujić, 
+Juha Hyvönen, 
+Mari Ivask, 
+Simon Bo Lassen, 
+Eva Lloret, 
+Irene Ollio, 
+Paula Pérez‐Rodríguez, 
+Barbara Simon, 
+Merit Sutri, 
+Nancy de Sutter, 
+Kristian K. Brandt, 
+Krista Peltoniemi, 
+Merrit Shanskiy, 
+Lieven Waeyenberge, 
+Silvia Martínez‐Martínez, 
+David Fernández‐Calviño</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Probabilistic ecological risk assessment for deep‐sea mining: A Bayesian network for Chatham Rise, Pacific Ocean]]></title>
+        <id>10.1002/eap.3064</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3064?af=R"/>
+        <updated>2025-01-15T13:24:47.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Laura Kaikkonen, 
+Malcolm R. Clark, 
+Daniel Leduc, 
+Scott D. Nodder, 
+Ashley A. Rowden, 
+David A. Bowden, 
+Jennifer Beaumont, 
+Vonda Cummings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Declining ecological resilience and invasion resistance under climate change in the sagebrush region, United States]]></title>
+        <id>10.1002/eap.3065</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3065?af=R"/>
+        <updated>2025-01-15T10:33:05.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Daniel R. Schlaepfer, 
+Jeanne C. Chambers, 
+Alexandra K. Urza, 
+Brice B. Hanberry, 
+Jessi L. Brown, 
+David I. Board, 
+Steven B. Campbell, 
+Karen J. Clause, 
+Michele R. Crist, 
+John B. Bradford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smaller and bolder fish enhance ecosystem‐scale primary production around artificial reefs in seagrass beds]]></title>
+        <id>10.1002/eap.3055</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3055?af=R"/>
+        <updated>2025-01-15T09:18:25.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Katrina S. Munsterman, 
+Maximilian H. K. Hesselbarth, 
+Jacob E. Allgeier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ecosystem service indicators on military‐managed drylands in the Western United States]]></title>
+        <id>10.1002/eap.3044</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3044?af=R"/>
+        <updated>2025-01-15T08:24:39.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Samuel E. Jordan, 
+William K. Smith, 
+Osvaldo E. Sala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Divergent trajectories of regeneration in early‐successional forests after logging and wildfire]]></title>
+        <id>10.1002/eap.3061</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3061?af=R"/>
+        <updated>2025-01-15T07:24:41.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Elle J. Bowd, 
+Lachlan McBurney, 
+David B. Lindenmayer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global dynamics of functional composition in CITES‐traded reptiles]]></title>
+        <id>10.1002/eap.3060</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3060?af=R"/>
+        <updated>2025-01-15T06:33:15.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Dominic Meeks, 
+Oscar Morton, 
+David P. Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incorporating stressor interactions into spatially explicit cumulative impact assessments]]></title>
+        <id>10.1002/eap.3056</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3056?af=R"/>
+        <updated>2025-01-15T06:09:50.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Jackson Stockbridge, 
+Alice R. Jones, 
+Christopher J. Brown, 
+Mark J. Doubell, 
+Bronwyn M. Gillanders</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orchards and paddy differentially impact rock outcrop amphibians: Insights from community‐ and species‐level responses]]></title>
+        <id>10.1002/eap.3058</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3058?af=R"/>
+        <updated>2025-01-15T03:55:35.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Vijayan Jithin, 
+Manali Rane, 
+Aparna Watve, 
+Rohit Naniwadekar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Active restoration increases tree species richness and recruitment of large‐seeded taxa after 16–18 years]]></title>
+        <id>10.1002/eap.3053</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3053?af=R"/>
+        <updated>2025-01-15T03:29:58.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Spencer C. Schubert, 
+Rakan A. Zahawi, 
+Federico Oviedo‐Brenes, 
+Juan Abel Rosales, 
+Karen D. Holl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using long‐term tree diversity experiments to explore the mechanisms of temporal shifts in forest ecosystem functioning]]></title>
+        <id>10.1111/oik.10872</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10872?af=R"/>
+        <updated>2025-01-14T13:38:41.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, EarlyView.]]></summary>
+        <author>
+            <name>Julia Koricheva, 
+Kasey E. Barton, 
+Juri A. Felix, 
+Amanda Cooper, 
+Joel Jensen, 
+Tommaso Jucker, 
+Kai Ruohomäki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effects of behavioural types on the problem‐solving performance of wild house mice under controlled and semi‐natural conditions]]></title>
+        <id>10.1111/oik.10787</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10787?af=R"/>
+        <updated>2025-01-14T13:38:05.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, EarlyView.]]></summary>
+        <author>
+            <name>Alexandros Vezyrakis, 
+Anja Guenther, 
+Valeria Mazza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Food‐web dynamics of a floodplain mosaic overshadow the effects of engineered logjams for Pacific salmon and steelhead]]></title>
+        <id>10.1002/eap.3076</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3076?af=R"/>
         <updated>2025-01-14T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.]]></summary>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Thomas Bohm)</name>
+            <name>James C. Paris, 
+Colden V. Baxter, 
+J. Ryan Bellmore, 
+Joseph R. Benjamin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Climate and management changes over 40 years drove more stress‐tolerant and less ruderal weed communities in vineyards]]></title>
+        <id>10.1002/ecm.1631</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1631?af=R"/>
+        <updated>2025-01-14T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
+        <author>
+            <name>Marie‐Charlotte Bopp, 
+Elena Kazakou, 
+Aurélie Metay, 
+Jacques Maillet, 
+Marie‐Claude Quidoz, 
+Léa Genty, 
+Guillaume Fried</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Land‐use changes influence climate resilience through altered population demography in a social insect]]></title>
+        <id>10.1002/ecm.1638</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1638?af=R"/>
+        <updated>2025-01-14T05:42:13.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
+        <author>
+            <name>Shih‐Fan Chan, 
+Dustin R. Rubenstein, 
+Tsung‐Wei Wang, 
+Ying‐Yu Chen, 
+I‐Ching Chen, 
+Dong‐Zheng Ni, 
+Wei‐Kai Shih, 
+Sheng‐Feng Shen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Repeated fuel treatments fall short of fire‐adapted regeneration objectives in a Sierra Nevada mixed conifer forest, USA]]></title>
+        <id>10.1002/eap.3075</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3075?af=R"/>
+        <updated>2025-01-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>P. Bryant Nagelson, 
+Robert A. York, 
+Kevin T. Shoemaker, 
+Daniel E. Foster, 
+Scott L. Stephens, 
+Sarah M. Bisbing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plantation management to restore early and late‐successional bird habitat under various climatic and seasonal conditions]]></title>
+        <id>10.1002/eap.3074</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3074?af=R"/>
+        <updated>2025-01-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Kazuhiro Kawamura, 
+Yuichi Yamaura, 
+Futoshi Nakamura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elevated Temperature Diminishes Reciprocal Selection in an Experimental Plant‐Pollinator‐Herbivore System]]></title>
+        <id>10.1111/ele.70060</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70060?af=R"/>
+        <updated>2025-01-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Quint Rusman, 
+Juan Traine, 
+Florian P. Schiestl</name>
         </author>
     </entry>
 </feed>
