@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-02-13T07:50:41.346Z</updated>
+    <updated>2025-02-13T08:43:00.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
@@ -44,6 +44,20 @@
         <summary type="html"><![CDATA[The induction of autoimmune symptoms may require both endogenous and exogenous cues. Here the authors show that a single nucleotide polymorphism in the NCF1 gene, NCF1R90H, known to be associated with systemic lupus erythematosus synergizes with mouse norovirus virus infection to promote interferon and toll-like receptor signaling to cause lupus symptoms in mice.]]></summary>
         <author>
             <name>Yanpeng Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coyotes Hunt Harbor Seal Pups on the California Coast]]></title>
+        <id>10.1002/ecy.70031</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70031?af=R"/>
+        <updated>2025-02-12T09:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Francis D. Gerraty, 
+Sarah Grimes, 
+Sue Pemberton, 
+Sarah G. Allen, 
+Sarah A. Codde</name>
         </author>
     </entry>
     <entry>
