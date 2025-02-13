@@ -14,6 +14,23 @@ sources:
   - href: https://rss.sciencedirect.com/publication/science/00225193 # Journal of Theoretical Ecology
   - href: https://nsojournals.onlinelibrary.wiley.com/feed/16000706/most-recent # OIKOS
   - href: https://www.nature.com/ncomms.rss # Nature Communications
+  - href: https://www.nature.com/natsustain.rss # Nature Sustainability
+  - href: https://www.nature.com/natecolevol.rss # Nature Ecology & Evolution
+  - href: https://onlinelibrary.wiley.com/action/showFeed?jc=13652486&type=etoc&feed=rss # Global Change Biology
+  - href: https://conbio.onlinelibrary.wiley.com/feed/15231739/most-recent # Conservation Biology
+  - href: https://journals.plos.org/ploscompbiol/feed/atom # PLOS Computational Biology
+  - href: https://rss.sciencedirect.com/publication/science/09593780 # Global Environmental Change 
+  - href: https://rss.sciencedirect.com/publication/science/01692046 # Landscape and Urban Planning
+  - href: https://besjournals.onlinelibrary.wiley.com/feed/13652664/most-recent # Journal of Applied Ecology
+  - href: https://onlinelibrary.wiley.com/feed/14668238/most-recent # Global Ecology and Biogeography 
+  - href: https://rss.sciencedirect.com/publication/science/03043800 # Ecological Modelling
+  - href: https://onlinelibrary.wiley.com/feed/1526100x/most-recent # Restoration Ecology
+  - href: https://rss.sciencedirect.com/publication/science/13648152 # Environmental Modelling and Software 
+  - href: https://besjournals.onlinelibrary.wiley.com/feed/2041210x/most-recent # Methods in Ecology and Evolution
+  - href: https://rss.sciencedirect.com/publication/science/15749541 # Ecological Informatics
+  - href: https://epubs.siam.org/action/showFeed?feed=rss&type=etoc&jc=MMS # Multiscale Modeling and Simulation 
+  - href: https://www.tandfonline.com/feed/rss/bher20 # Human and Ecological Risk Assessment
+  - href: https://ieeexplore.ieee.org/rss/TOC4235.XML # IEEE Transactions on Evolutionary Computation
 
 siteTitle: "EcoRSS"
 timezone: Europe/Amsterdam
