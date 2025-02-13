@@ -2,10 +2,271 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-11T10:47:56.754Z</updated>
+    <updated>2025-02-13T06:33:34.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How people think about being alone shapes their experience of loneliness]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56764-3</id>
+        <link href="https://www.nature.com/articles/s41467-025-56764-3"/>
+        <updated>2025-02-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Loneliness is a widespread problem that the media and public health campaigns frequently address. Here, the authors show that negative media portrayals of being alone may inadvertently make matters worse by shaping people’s beliefs, which in turn exacerbate loneliness.]]></summary>
+        <author>
+            <name>Micaela Rodriguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EXPERT expands prime editing efficiency and range of large fragment edits]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56734-9</id>
+        <link href="https://www.nature.com/articles/s41467-025-56734-9"/>
+        <updated>2025-02-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Prime editing systems (PEs) hold great promise though the editing range is limited to downstream sequences of the pegRNA nick. Here, the authors report the extended prime editor system (EXPERT), which overcomes this limitation enabling efficient editing on both sides of the pegRNA nick.]]></summary>
+        <author>
+            <name>Youcai Xiong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stressosome-independent but RsbT-dependent environmental stress sensing in <i>Bacillus subtilis</i>]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56871-1</id>
+        <link href="https://www.nature.com/articles/s41467-025-56871-1"/>
+        <updated>2025-02-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some bacteria use a large protein complex, the stressosome, to sense and respond to environmental stress. Here, Khadka et al. show that a long-assumed sensor in the complex is dispensable for sensing, while a protein formerly considered a mere messenger is crucial.]]></summary>
+        <author>
+            <name>Rabindra Khadka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The systemic lupus erythematosus-associated NCF1<sup>90H</sup> allele synergizes with viral infection to cause mouse lupus but also limits virus spread]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56857-z</id>
+        <link href="https://www.nature.com/articles/s41467-025-56857-z"/>
+        <updated>2025-02-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The induction of autoimmune symptoms may require both endogenous and exogenous cues. Here the authors show that a single nucleotide polymorphism in the NCF1 gene, NCF1R90H, known to be associated with systemic lupus erythematosus synergizes with mouse norovirus virus infection to promote interferon and toll-like receptor signaling to cause lupus symptoms in mice.]]></summary>
+        <author>
+            <name>Yanpeng Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consumer‐ and seaweed‐specific impacts of invasion‐mediated changes to detrital subsidies on rocky shores]]></title>
+        <id>10.1002/ecs2.70165</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70165?af=R"/>
+        <updated>2025-02-12T08:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Ricardo DeSantiago, 
+Wendi K. White, 
+John R. Hyde, 
+Katherine M. Swiney, 
+Jeremy D. Long</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Idiosyncratic responses to biotic and environmental filters in wood‐inhabiting fungal communities]]></title>
+        <id>10.1002/ecy.70013</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70013?af=R"/>
+        <updated>2025-02-12T08:24:31.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Sonja Saine, 
+Reijo Penttilä, 
+Tadashi Fukami, 
+Brendan Furneaux, 
+Tuija Hytönen, 
+Otto Miettinen, 
+Norman Monkhouse, 
+Raisa Mäkipää, 
+Jorma Pennanen, 
+Evgeny V. Zakharov, 
+Otso Ovaskainen, 
+Nerea Abrego</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New insights into the Scolytus multistriatus, Geosmithia spp., and Ophiostoma novo‐ulmi association]]></title>
+        <id>10.1002/ecs2.70145</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70145?af=R"/>
+        <updated>2025-02-12T08:20:27.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Alessia L. Pepori, 
+Nicola Luchi, 
+Francesco Pecori, 
+Massimo Faccoli, 
+Alberto Santini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Climate‐induced range expansion of cushion plants promotes functional homogenization of soil nematode communities]]></title>
+        <id>10.1002/ecy.70017</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70017?af=R"/>
+        <updated>2025-02-12T07:54:13.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Anning Zhang, 
+André L. C. Franco, 
+Shuyan Chen, 
+Hongxian Song, 
+Ziyang Liu, 
+Xiaoxuan Jiang, 
+Sa Xiao, 
+Lizhe An, 
+Pedro Cardoso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HiDaFernPT: Historical data of spore availability for 121 fern and lycopod taxa in Portugal (1926–2013)]]></title>
+        <id>10.1002/ecy.70026</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70026?af=R"/>
+        <updated>2025-02-12T07:20:18.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Sérgio Timóteo, 
+Ruben Heleno, 
+Filipe Covelo, 
+Joaquim Santos, 
+Pedro Lopes, 
+António C. Gouveia, 
+Arménio Matos, 
+Agostinho Salgado, 
+M. Teresa Girão da Cruz, 
+João Farminhão, 
+Marta Horta, 
+Guilherme Barreto, 
+Ana V. Marques, 
+Leonardo Craveiro, 
+Patrícia Pinto, 
+Matilde Santos, 
+Bárbara Nunes, 
+Margarida Barreiro, 
+André Dias, 
+Gabriel Rodrigues, 
+Leonor Esteves, 
+Marina Wanderley, 
+Inês Santos, 
+José Pedro Artiaga, 
+João Veríssimo, 
+Inês Vilhena, 
+Lucas Moniz, 
+Arthur Leão, 
+Marta Couras, 
+Sara Beatriz Mendes, 
+Mauro Nereu, 
+Ana Margarida Dias da Silva, 
+Fátima Sales, 
+M. Teresa Gonçalves, 
+António Coutinho, 
+Helena Freitas, 
+Joaquim S. Silva, 
+Jaime Ramos, 
+Elizabete Marchante, 
+José M. Costa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interactive effects of leaf pathogens and plant mycorrhizal type on plant diversity–productivity relationships]]></title>
+        <id>10.1002/ecy.70029</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70029?af=R"/>
+        <updated>2025-02-12T07:03:27.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Nianxun Xi, 
+Yansong Zhao, 
+Marina Semchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Author Correction: Dysregulation of MMP2-dependent TGF-ß2 activation impairs fibrous cap formation in type 2 diabetes-associated atherosclerosis]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56969-6</id>
+        <link href="https://www.nature.com/articles/s41467-025-56969-6"/>
+        <updated>2025-02-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nature Communications - Author Correction: Dysregulation of MMP2-dependent TGF-ß2 activation impairs fibrous cap formation in type 2 diabetes-associated atherosclerosis]]></summary>
+        <author>
+            <name>Pratibha Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Author Correction: Atlantic Ocean thermal forcing of Central American rainfall over 140,000 years]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56868-w</id>
+        <link href="https://www.nature.com/articles/s41467-025-56868-w"/>
+        <updated>2025-02-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nature Communications - Author Correction: Atlantic Ocean thermal forcing of Central American rainfall over 140,000 years]]></summary>
+        <author>
+            <name>Giuseppe Lucia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Author Correction: Isospin competitions and valley polarized correlated insulators in twisted double bilayer graphene]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56809-7</id>
+        <link href="https://www.nature.com/articles/s41467-025-56809-7"/>
+        <updated>2025-02-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nature Communications - Author Correction: Isospin competitions and valley polarized correlated insulators in twisted double bilayer graphene]]></summary>
+        <author>
+            <name>Le Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Author Correction: Molecular anchoring of free solvents for high-voltage and high-safety lithium metal batteries]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56862-2</id>
+        <link href="https://www.nature.com/articles/s41467-025-56862-2"/>
+        <updated>2025-02-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nature Communications - Author Correction: Molecular anchoring of free solvents for high-voltage and high-safety lithium metal batteries]]></summary>
+        <author>
+            <name>Zhuangzhuang Cui</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intraspecific variation in the landscape of fear: personality‐driven tradeoffs in habitat use]]></title>
+        <id>10.1111/oik.10583</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10583?af=R"/>
+        <updated>2025-02-11T11:46:23.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, EarlyView.]]></summary>
+        <author>
+            <name>Margaret R. Merz, 
+Alessio Mortelliti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Addressing grand ecological challenges in aquatic ecosystems: how can mesocosms be used to advance solutions?]]></title>
+        <id>10.1111/oik.11020</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.11020?af=R"/>
+        <updated>2025-02-11T11:46:10.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, EarlyView.]]></summary>
+        <author>
+            <name>Samuel J. Macaulay, 
+Erik Jeppesen, 
+Ulf Riebesell, 
+Jens C. Nejstgaard, 
+Stella A. Berger, 
+Aleksandra M. Lewandowska, 
+Andreu Rico, 
+Ben J. Kefford, 
+Csaba F. Vad, 
+David M. Costello, 
+Haijun Wang, 
+Iris Madge Pimentel, 
+Joana Barcelos e Ramos, 
+Jose González, 
+Kristian Spilling, 
+Lisette de Senerpont Domis, 
+Maarten Boersma, 
+Maria Stockenreiter, 
+Mariana Meerhoff, 
+Martina G. Vijver, 
+Mary Kelly-Quinn, 
+Meryem Beklioğlu, 
+Miguel G. Matias, 
+Michael Sswat, 
+Noël P. D. Juvigny‐Khenafou, 
+Patrick Fink, 
+Peiyu Zhang, 
+Ricardo H. Taniwaki, 
+Robert Ptacnik, 
+Silke Langenheder, 
+Tom A. P. Nederstigt, 
+Zsófia Horváth, 
+Jeremy J. Piggott</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quantifying large carnivore predation relative to human harvest on moose in an intensively managed boreal ecosystem]]></title>
         <id>10.1002/eap.70000</id>
@@ -1717,119 +1978,6 @@ Rakan A. Zahawi,
 Federico Oviedo‐Brenes, 
 Juan Abel Rosales, 
 Karen D. Holl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using long‐term tree diversity experiments to explore the mechanisms of temporal shifts in forest ecosystem functioning]]></title>
-        <id>10.1111/oik.10872</id>
-        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10872?af=R"/>
-        <updated>2025-01-14T13:38:41.000Z</updated>
-        <summary type="html"><![CDATA[Oikos, EarlyView.]]></summary>
-        <author>
-            <name>Julia Koricheva, 
-Kasey E. Barton, 
-Juri A. Felix, 
-Amanda Cooper, 
-Joel Jensen, 
-Tommaso Jucker, 
-Kai Ruohomäki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effects of behavioural types on the problem‐solving performance of wild house mice under controlled and semi‐natural conditions]]></title>
-        <id>10.1111/oik.10787</id>
-        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10787?af=R"/>
-        <updated>2025-01-14T13:38:05.000Z</updated>
-        <summary type="html"><![CDATA[Oikos, EarlyView.]]></summary>
-        <author>
-            <name>Alexandros Vezyrakis, 
-Anja Guenther, 
-Valeria Mazza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Food‐web dynamics of a floodplain mosaic overshadow the effects of engineered logjams for Pacific salmon and steelhead]]></title>
-        <id>10.1002/eap.3076</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3076?af=R"/>
-        <updated>2025-01-14T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>James C. Paris, 
-Colden V. Baxter, 
-J. Ryan Bellmore, 
-Joseph R. Benjamin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Climate and management changes over 40 years drove more stress‐tolerant and less ruderal weed communities in vineyards]]></title>
-        <id>10.1002/ecm.1631</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1631?af=R"/>
-        <updated>2025-01-14T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Marie‐Charlotte Bopp, 
-Elena Kazakou, 
-Aurélie Metay, 
-Jacques Maillet, 
-Marie‐Claude Quidoz, 
-Léa Genty, 
-Guillaume Fried</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Land‐use changes influence climate resilience through altered population demography in a social insect]]></title>
-        <id>10.1002/ecm.1638</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1638?af=R"/>
-        <updated>2025-01-14T05:42:13.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Shih‐Fan Chan, 
-Dustin R. Rubenstein, 
-Tsung‐Wei Wang, 
-Ying‐Yu Chen, 
-I‐Ching Chen, 
-Dong‐Zheng Ni, 
-Wei‐Kai Shih, 
-Sheng‐Feng Shen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Repeated fuel treatments fall short of fire‐adapted regeneration objectives in a Sierra Nevada mixed conifer forest, USA]]></title>
-        <id>10.1002/eap.3075</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3075?af=R"/>
-        <updated>2025-01-13T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>P. Bryant Nagelson, 
-Robert A. York, 
-Kevin T. Shoemaker, 
-Daniel E. Foster, 
-Scott L. Stephens, 
-Sarah M. Bisbing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plantation management to restore early and late‐successional bird habitat under various climatic and seasonal conditions]]></title>
-        <id>10.1002/eap.3074</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3074?af=R"/>
-        <updated>2025-01-13T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Kazuhiro Kawamura, 
-Yuichi Yamaura, 
-Futoshi Nakamura</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elevated Temperature Diminishes Reciprocal Selection in an Experimental Plant‐Pollinator‐Herbivore System]]></title>
-        <id>10.1111/ele.70060</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70060?af=R"/>
-        <updated>2025-01-13T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Quint Rusman, 
-Juan Traine, 
-Florian P. Schiestl</name>
         </author>
     </entry>
 </feed>
