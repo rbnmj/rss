@@ -14,3 +14,6 @@ sources:
   - href: https://rss.sciencedirect.com/publication/science/00225193 # Journal of Theoretical Ecology
   - href: https://nsojournals.onlinelibrary.wiley.com/feed/16000706/most-recent # OIKOS
   - href: https://www.nature.com/ncomms.rss # Nature Communications
+
+siteTitle: "EcoRSS"
+
