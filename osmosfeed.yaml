@@ -16,4 +16,4 @@ sources:
   - href: https://www.nature.com/ncomms.rss # Nature Communications
 
 siteTitle: "EcoRSS"
-
+timezone: "Europe/Berlin"
