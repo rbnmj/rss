@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="robots" content="noindex, nofollow" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.webp" />
   <link rel="alternate" type="application/rss+xml" title="{{siteTitle}}" href="{{feedHref}}" />
   <link href="index.css" rel="stylesheet" />
 </head>
@@ -19,18 +19,29 @@
     </dl>
   </header>
 
-  {{#each articles}}
-  <article>
-      <strong><a href={{link}}>{{title}}</a></strong>
-      <div>
-        <span><a href={{source.siteUrl}}>{{source.title}}</a></span> | 
-        <span><time>{{publishedOn}}</time></span> |
-      </div>
-      <p>{{description}}</p>
-    </details>
-    <hr>
-  </article>
+<ul>
+  {{#each dates}}
+  <li>
+    <section>
+    <h3>{{isoPublishDate}}</h3>
+    
+    {{#each articles}}
+    <article>
+        <strong><a href={{link}}>{{title}}</a></strong>
+        <div>
+          <span><a href={{source.siteUrl}}>{{source.title}}</a></span> | 
+          <span><time>{{publishedOn}}</time></span> |
+        </div>
+        <p>{{description}}</p>
+      </details>
+      <hr>
+    </article>
+    {{/each}}
+      
+    </section>
+    </li>
   {{/each}}
+  </ul>
 </body>
 
 </html>
