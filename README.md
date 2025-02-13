@@ -1,10 +1,4 @@
-# About
+# EcoRSS
 
-This is repository hosts the UI and content of an RSS feed reader.
-
-## Links and references
-
-- [How does it work?](https://github.com/osmoscraft/osmosfeed#osmosfeed)
-- [File an issue about the template](https://github.com/osmoscraft/osmosfeed-template)
-- [File an issue about the tool](https://github.com/osmoscraft/osmosfeed)
-- [Lastest documentation](https://github.com/osmoscraft/osmosfeed)
+This repository hosts an RSS feed reader of many ecology journals with some bias towards more theoretical research. Feel free to suggests any journals that are not yet included in [osmosfeed.yaml](./osmosfeed.yaml). The feed updates every day at 6 am CET.  
+EcoRSS is runs on the [osmosfeed](https://github.com/osmoscraft/osmosfeed) ecosystem. 
