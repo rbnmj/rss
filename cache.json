@@ -153,6 +153,36 @@
       "siteUrl": "https://esajournals.onlinelibrary.wiley.com/journal/19395582?af=R",
       "articles": [
         {
+          "id": "10.1002/eap.70003",
+          "author": "Alexis A. Bernal, \nScott L. Stephens, \nMac A. Callaham, \nBrandon M. Collins, \nJustin S. Crotteau, \nMatthew B. Dickinson, \nDonald L. Hagan, \nRachelle Hedges, \nSharon M. Hood, \nTodd F. Hutchinson, \nMelanie K. Taylor, \nT. Adam Coates",
+          "description": "Ecological Applications, Volume 35, Issue 1, January 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70003?af=R",
+          "publishedOn": "2025-02-12T14:49:25.000Z",
+          "wordCount": null,
+          "title": "The national Fire and Fire Surrogate study: Effects of fuel treatments in the Western and Eastern United States after 20 years",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/eap.70002",
+          "author": "Ingrid Spies, \nPaul D. Spencer, \nAndré E. Punt",
+          "description": "Ecological Applications, Volume 35, Issue 1, January 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70002?af=R",
+          "publishedOn": "2025-02-12T14:28:50.000Z",
+          "wordCount": null,
+          "title": "Migration matters in conservation and management: Exploring the 10% rule for demographic independence via simulation",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/eap.70004",
+          "author": "Freya Olsson, \nCayelan C. Carey, \nCarl Boettiger, \nGregory Harrison, \nRobert Ladwig, \nMarcus F. Lapeyrolerie, \nAbigail S. L. Lewis, \nMary E. Lofton, \nFelipe Montealegre‐Mora, \nJoseph S. Rabaey, \nCaleb J. Robbins, \nXiao Yang, \nR. Quinn Thomas",
+          "description": "Ecological Applications, Volume 35, Issue 1, January 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70004?af=R",
+          "publishedOn": "2025-02-12T08:00:00.000Z",
+          "wordCount": null,
+          "title": "What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge",
+          "imageUrl": null
+        },
+        {
           "id": "10.1002/eap.70000",
           "author": "Håkan Sand, \nBarbara Zimmermann, \nPetter Wabakken, \nAne Eriksen, \nCamilla Wikenros",
           "description": "Ecological Applications, Volume 35, Issue 1, January 2025.",
@@ -1128,6 +1158,156 @@
       "siteUrl": "https://nsojournals.onlinelibrary.wiley.com/journal/16000706?af=R",
       "articles": [
         {
+          "id": "10.1111/oik.10553",
+          "author": "Benjamin M. Titus, \nCatheline Y. M. Froehlich, \nClayton Vondriska, \nRonald Baker, \nEleanor M. Caves",
+          "description": "Oikos, Volume 2025, Issue 2, February 2025.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10553?af=R",
+          "publishedOn": "2025-02-12T12:50:35.000Z",
+          "wordCount": null,
+          "title": "Stable isotopes disentangle niche partitioning and co‐occurrence in a multi‐species marine mutualism",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/oik.10598",
+          "author": "Zhanshan (Sam) Ma, \n    Aaron M. Ellison",
+          "description": "Oikos, Volume 2025, Issue 2, February 2025.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10598?af=R",
+          "publishedOn": "2025-02-12T12:50:35.000Z",
+          "wordCount": null,
+          "title": "Cross‐scale scaling‐law analyses for the heterogeneity and diversity of animal gut microbiomes from community to landscape",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/oik.10723",
+          "author": "Richard Michalet, \n    Johanne Gresse, \nHugo Randé, \n    Marina Reis, \n    Patrick Saccone, \n    Blaise Touzard, \nFlorian Delerue",
+          "description": "Oikos, Volume 2025, Issue 2, February 2025.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10723?af=R",
+          "publishedOn": "2025-02-12T12:50:35.000Z",
+          "wordCount": null,
+          "title": "Differences in species composition between calcareous and siliceous herbaceous communities are primarily explained by competition in favourable climates",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/oik.10755",
+          "author": "Francesco Martini, \n    Arne Buechling, \nRadek Bače, \nJeňýk Hofmeister, \nPavel Janda, \nRadim Matula, \nMiroslav Svoboda",
+          "description": "Oikos, Volume 2025, Issue 2, February 2025.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10755?af=R",
+          "publishedOn": "2025-02-12T12:50:35.000Z",
+          "wordCount": null,
+          "title": "Biotic and abiotic effects on tree regeneration vary by life stage in European primary forests",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/oik.10792",
+          "author": "Erin E. McHugh, \n    Carla A. Urquhart, \nNicky Lustenhouwer, \nJennifer L. Williams",
+          "description": "Oikos, Volume 2025, Issue 2, February 2025.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10792?af=R",
+          "publishedOn": "2025-02-12T12:50:35.000Z",
+          "wordCount": null,
+          "title": "Interspecific competition reduces seed dispersal in an annual plant and slows simulated range expansions",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/oik.10803",
+          "author": "Ruijing Yang, \n    Minquan Feng, \n    Zimeng Liu",
+          "description": "Oikos, Volume 2025, Issue 2, February 2025.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10803?af=R",
+          "publishedOn": "2025-02-12T12:50:35.000Z",
+          "wordCount": null,
+          "title": "Assessing weak interaction and threshold effects of the trophic field overlap index on the relationship between species uniqueness and centrality in food webs",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/oik.10879",
+          "author": "Florent Déry, \nSandra Hamel, \nSteeve D. Côté",
+          "description": "Oikos, Volume 2025, Issue 2, February 2025.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10879?af=R",
+          "publishedOn": "2025-02-12T12:50:35.000Z",
+          "wordCount": null,
+          "title": "Linking proximate drivers and fitness returns of vigilance in a large ungulate",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/oik.10905",
+          "author": "Morgan C. Slevin, \n Jennifer L. Houtz, \nMaren N. Vitousek, \nDaniel T. Baldassarre, \n Rindy C. Anderson",
+          "description": "Oikos, Volume 2025, Issue 2, February 2025.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10905?af=R",
+          "publishedOn": "2025-02-12T12:50:35.000Z",
+          "wordCount": null,
+          "title": "Ornamentation and body condition, but not glucocorticoids, predict wild songbird cloacal microbiome community and diversity",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/oik.10911",
+          "author": "M. Christopher Norris, \nJoshua M. Hall, \nDaniel A. Warner",
+          "description": "Oikos, Volume 2025, Issue 2, February 2025.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10911?af=R",
+          "publishedOn": "2025-02-12T12:50:35.000Z",
+          "wordCount": null,
+          "title": "Developmental reaction norms vary among families of lizards in response to multivariate nest environments",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/oik.10912",
+          "author": "Emer T. Cunningham, \nTimothy L. Staples, \nIan R. Butler, \nMauro Lepore, \nHannah Markham Summers, \nGeorge Roff, \nJohn M. Pandolfi",
+          "description": "Oikos, Volume 2025, Issue 2, February 2025.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10912?af=R",
+          "publishedOn": "2025-02-12T12:50:35.000Z",
+          "wordCount": null,
+          "title": "Taxonomic novelty emerges more frequently and independently of functional novelty in historical coral communities",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/oik.10931",
+          "author": "Benjamin Robira",
+          "description": "Oikos, Volume 2025, Issue 2, February 2025.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10931?af=R",
+          "publishedOn": "2025-02-12T12:50:35.000Z",
+          "wordCount": null,
+          "title": "How spatiotemporal cognition and movement of seed‐dispersing animals influence plant distribution",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/oik.10932",
+          "author": "Katy Ivison, \nVibekke Vange, \nJames M. Speed, \nWayne Dawson",
+          "description": "Oikos, Volume 2025, Issue 2, February 2025.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10932?af=R",
+          "publishedOn": "2025-02-12T12:50:35.000Z",
+          "wordCount": null,
+          "title": "Invasive plants grow taller under experimental warming, but mediated effects of biotic interactions are species‐specific",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/oik.10981",
+          "author": "Yuta Nakanishi, \nTamihisa Ohta, \nTsuyoshi Iizuka, \nDaisuke Kishi, \nShohei Noda, \nTakeya Shida, \nRui Ueda, \nTakuya Sato",
+          "description": "Oikos, Volume 2025, Issue 2, February 2025.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10981?af=R",
+          "publishedOn": "2025-02-12T12:50:35.000Z",
+          "wordCount": null,
+          "title": "Divergence and shift in the migratory life history of a salmonid fish during the transition to a new environment",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/oik.10994",
+          "author": "Tina Heger, \nAlkistis Elliot‐Graves, \nMarie I. Kaiser, \nKatie H. Morrow, \nWilliam Bausman, \nGregory P. Dietl, \nCarsten F. Dormann, \nDavid J. Gibson, \nJames Griesemer, \nYuval Itescu, \nKurt Jax, \nAndrew M. Latimer, \nChunlong Liu, \nJostein Starrfelt, \nPhilip A. Stephens, \nJonathan M. Jeschke",
+          "description": "Oikos, Volume 2025, Issue 2, February 2025.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10994?af=R",
+          "publishedOn": "2025-02-12T12:50:35.000Z",
+          "wordCount": null,
+          "title": "Looking beyond Popper: how philosophy can be relevant to ecology",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/oik.10712",
+          "author": "Jordan P. Cuff, \nMaximillian P. T. G. Tercel, \nIan P. Vaughan, \nLorna E. Drake, \nShawn M. Wilder, \nJames R. Bell, \nCarsten T. Müller, \nPablo Orozco‐terWengel, \nWilliam O. C. Symondson",
+          "description": "Oikos, Volume 2025, Issue 2, February 2025.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10712?af=R",
+          "publishedOn": "2025-02-12T12:50:35.000Z",
+          "wordCount": null,
+          "title": "Prey nutrient content is associated with the trophic interactions of spiders and their prey selection under field conditions",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/oik.10583",
           "author": "Margaret R. Merz, \nAlessio Mortelliti",
           "description": "Oikos, EarlyView.",
@@ -1224,6 +1404,76 @@
       "feedUrl": "https://www.nature.com/ncomms.rss",
       "siteUrl": "http://feeds.nature.com/ncomms/rss/current",
       "articles": [
+        {
+          "id": "https://www.nature.com/articles/s41467-025-56964-x",
+          "author": "Emmeline E. Brown",
+          "description": "Nature Communications - Author Correction: Physics-informed deep generative learning for quantitative assessment of the retina",
+          "link": "https://www.nature.com/articles/s41467-025-56964-x",
+          "publishedOn": "2025-02-13T00:00:00.000Z",
+          "wordCount": 2499,
+          "title": "Author Correction: Physics-informed deep generative learning for quantitative assessment of the retina",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-025-56761-6",
+          "author": "Savannah E. R. Gibson",
+          "description": "Processes that occur after death have not received the same level of attention as the mechanisms of life. In this study, the authors show that bacteria have potentially evolved an altruistic trait to auto-degrade after death, thus permitting population nutrient recycling.",
+          "link": "https://www.nature.com/articles/s41467-025-56761-6",
+          "publishedOn": "2025-02-13T00:00:00.000Z",
+          "wordCount": 11671,
+          "title": "Bacteria encode post-mortem protein catabolism that enables altruistic nutrient recycling",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-56761-6/MediaObjects/41467_2025_56761_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-025-56877-9",
+          "author": "Binmeng Chen",
+          "description": "Silane coupling agents retard early hydration when incorporated into fresh cement paste. Here the authors show how silane coupling agents hinder calcium dissolution of tricalcium silicate from ab initio metadynamics simulations and hydration experiments.",
+          "link": "https://www.nature.com/articles/s41467-025-56877-9",
+          "publishedOn": "2025-02-13T00:00:00.000Z",
+          "wordCount": 12096,
+          "title": "Molecular elucidation of cement hydration inhibition by silane coupling agents",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-56877-9/MediaObjects/41467_2025_56877_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-025-56776-z",
+          "author": "Chenkai Zhao",
+          "description": "COVID-19-related non-pharmaceutical interventions impacted the circulation of other pathogens. Here, the authors compile a global viral activity dataset and compare the timing of resurgence of seven common respiratory viruses following the relaxation of interventions across different geographical regions.",
+          "link": "https://www.nature.com/articles/s41467-025-56776-z",
+          "publishedOn": "2025-02-13T00:00:00.000Z",
+          "wordCount": 10586,
+          "title": "Characterising the asynchronous resurgence of common respiratory viruses following the COVID-19 pandemic",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-56776-z/MediaObjects/41467_2025_56776_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-025-56034-2",
+          "author": "Zhang Zhang",
+          "description": "Information dynamics are key in complex systems. The authors apply graph neural networks to group components for coarse-graining networks, reducing computational complexity. Their approach preserves information flow under compression, being effective for large networks.",
+          "link": "https://www.nature.com/articles/s41467-025-56034-2",
+          "publishedOn": "2025-02-13T00:00:00.000Z",
+          "wordCount": 10961,
+          "title": "Coarse-graining network flow through statistical physics and machine learning",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-56034-2/MediaObjects/41467_2025_56034_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-025-56887-7",
+          "author": "Anna Johannesman",
+          "description": "Toxin-antitoxin systems make up a branch of the bacterial anti-phage immune system. Here, Johannesman et al demonstrate that some phages have co-opted an orphan antitoxin to counter a DNA ADP-ribosyltransferase defense system.",
+          "link": "https://www.nature.com/articles/s41467-025-56887-7",
+          "publishedOn": "2025-02-13T00:00:00.000Z",
+          "wordCount": 12241,
+          "title": "Phages carry orphan antitoxin-like enzymes to neutralize the DarTG1 toxin-antitoxin defense system",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-56887-7/MediaObjects/41467_2025_56887_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-025-56842-6",
+          "author": "Zhen Sun",
+          "description": "The crystallographically forbidden fivefold symmetry in icosahedra remains a long-standing mystery. Here, the authors resolve the three-dimensional atomic structure of Janus-like icosahedral nanoparticles with atomic resolution by electron tomography.",
+          "link": "https://www.nature.com/articles/s41467-025-56842-6",
+          "publishedOn": "2025-02-13T00:00:00.000Z",
+          "wordCount": 12877,
+          "title": "Strain release by 3D atomic misfit in fivefold twinned icosahedral nanoparticles with amorphization and dislocations",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-56842-6/MediaObjects/41467_2025_56842_Fig1_HTML.png"
+        },
         {
           "id": "https://www.nature.com/articles/s41467-025-56764-3",
           "author": "Micaela Rodriguez",

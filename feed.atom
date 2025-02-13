@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-02-13T08:43:00.136Z</updated>
+    <updated>2025-02-13T14:49:32.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Author Correction: Physics-informed deep generative learning for quantitative assessment of the retina]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56964-x</id>
+        <link href="https://www.nature.com/articles/s41467-025-56964-x"/>
+        <updated>2025-02-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nature Communications - Author Correction: Physics-informed deep generative learning for quantitative assessment of the retina]]></summary>
+        <author>
+            <name>Emmeline E. Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bacteria encode post-mortem protein catabolism that enables altruistic nutrient recycling]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56761-6</id>
+        <link href="https://www.nature.com/articles/s41467-025-56761-6"/>
+        <updated>2025-02-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Processes that occur after death have not received the same level of attention as the mechanisms of life. In this study, the authors show that bacteria have potentially evolved an altruistic trait to auto-degrade after death, thus permitting population nutrient recycling.]]></summary>
+        <author>
+            <name>Savannah E. R. Gibson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Molecular elucidation of cement hydration inhibition by silane coupling agents]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56877-9</id>
+        <link href="https://www.nature.com/articles/s41467-025-56877-9"/>
+        <updated>2025-02-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Silane coupling agents retard early hydration when incorporated into fresh cement paste. Here the authors show how silane coupling agents hinder calcium dissolution of tricalcium silicate from ab initio metadynamics simulations and hydration experiments.]]></summary>
+        <author>
+            <name>Binmeng Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Characterising the asynchronous resurgence of common respiratory viruses following the COVID-19 pandemic]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56776-z</id>
+        <link href="https://www.nature.com/articles/s41467-025-56776-z"/>
+        <updated>2025-02-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[COVID-19-related non-pharmaceutical interventions impacted the circulation of other pathogens. Here, the authors compile a global viral activity dataset and compare the timing of resurgence of seven common respiratory viruses following the relaxation of interventions across different geographical regions.]]></summary>
+        <author>
+            <name>Chenkai Zhao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coarse-graining network flow through statistical physics and machine learning]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56034-2</id>
+        <link href="https://www.nature.com/articles/s41467-025-56034-2"/>
+        <updated>2025-02-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Information dynamics are key in complex systems. The authors apply graph neural networks to group components for coarse-graining networks, reducing computational complexity. Their approach preserves information flow under compression, being effective for large networks.]]></summary>
+        <author>
+            <name>Zhang Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phages carry orphan antitoxin-like enzymes to neutralize the DarTG1 toxin-antitoxin defense system]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56887-7</id>
+        <link href="https://www.nature.com/articles/s41467-025-56887-7"/>
+        <updated>2025-02-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Toxin-antitoxin systems make up a branch of the bacterial anti-phage immune system. Here, Johannesman et al demonstrate that some phages have co-opted an orphan antitoxin to counter a DNA ADP-ribosyltransferase defense system.]]></summary>
+        <author>
+            <name>Anna Johannesman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strain release by 3D atomic misfit in fivefold twinned icosahedral nanoparticles with amorphization and dislocations]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56842-6</id>
+        <link href="https://www.nature.com/articles/s41467-025-56842-6"/>
+        <updated>2025-02-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The crystallographically forbidden fivefold symmetry in icosahedra remains a long-standing mystery. Here, the authors resolve the three-dimensional atomic structure of Janus-like icosahedral nanoparticles with atomic resolution by electron tomography.]]></summary>
+        <author>
+            <name>Zhen Sun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How people think about being alone shapes their experience of loneliness]]></title>
         <id>https://www.nature.com/articles/s41467-025-56764-3</id>
@@ -44,6 +114,258 @@
         <summary type="html"><![CDATA[The induction of autoimmune symptoms may require both endogenous and exogenous cues. Here the authors show that a single nucleotide polymorphism in the NCF1 gene, NCF1R90H, known to be associated with systemic lupus erythematosus synergizes with mouse norovirus virus infection to promote interferon and toll-like receptor signaling to cause lupus symptoms in mice.]]></summary>
         <author>
             <name>Yanpeng Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The national Fire and Fire Surrogate study: Effects of fuel treatments in the Western and Eastern United States after 20 years]]></title>
+        <id>10.1002/eap.70003</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70003?af=R"/>
+        <updated>2025-02-12T14:49:25.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Alexis A. Bernal, 
+Scott L. Stephens, 
+Mac A. Callaham, 
+Brandon M. Collins, 
+Justin S. Crotteau, 
+Matthew B. Dickinson, 
+Donald L. Hagan, 
+Rachelle Hedges, 
+Sharon M. Hood, 
+Todd F. Hutchinson, 
+Melanie K. Taylor, 
+T. Adam Coates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migration matters in conservation and management: Exploring the 10% rule for demographic independence via simulation]]></title>
+        <id>10.1002/eap.70002</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70002?af=R"/>
+        <updated>2025-02-12T14:28:50.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Ingrid Spies, 
+Paul D. Spencer, 
+André E. Punt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stable isotopes disentangle niche partitioning and co‐occurrence in a multi‐species marine mutualism]]></title>
+        <id>10.1111/oik.10553</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10553?af=R"/>
+        <updated>2025-02-12T12:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, Volume 2025, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Benjamin M. Titus, 
+Catheline Y. M. Froehlich, 
+Clayton Vondriska, 
+Ronald Baker, 
+Eleanor M. Caves</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross‐scale scaling‐law analyses for the heterogeneity and diversity of animal gut microbiomes from community to landscape]]></title>
+        <id>10.1111/oik.10598</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10598?af=R"/>
+        <updated>2025-02-12T12:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, Volume 2025, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Zhanshan (Sam) Ma, 
+    Aaron M. Ellison</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Differences in species composition between calcareous and siliceous herbaceous communities are primarily explained by competition in favourable climates]]></title>
+        <id>10.1111/oik.10723</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10723?af=R"/>
+        <updated>2025-02-12T12:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, Volume 2025, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Richard Michalet, 
+    Johanne Gresse, 
+Hugo Randé, 
+    Marina Reis, 
+    Patrick Saccone, 
+    Blaise Touzard, 
+Florian Delerue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biotic and abiotic effects on tree regeneration vary by life stage in European primary forests]]></title>
+        <id>10.1111/oik.10755</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10755?af=R"/>
+        <updated>2025-02-12T12:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, Volume 2025, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Francesco Martini, 
+    Arne Buechling, 
+Radek Bače, 
+Jeňýk Hofmeister, 
+Pavel Janda, 
+Radim Matula, 
+Miroslav Svoboda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interspecific competition reduces seed dispersal in an annual plant and slows simulated range expansions]]></title>
+        <id>10.1111/oik.10792</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10792?af=R"/>
+        <updated>2025-02-12T12:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, Volume 2025, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Erin E. McHugh, 
+    Carla A. Urquhart, 
+Nicky Lustenhouwer, 
+Jennifer L. Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Assessing weak interaction and threshold effects of the trophic field overlap index on the relationship between species uniqueness and centrality in food webs]]></title>
+        <id>10.1111/oik.10803</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10803?af=R"/>
+        <updated>2025-02-12T12:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, Volume 2025, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Ruijing Yang, 
+    Minquan Feng, 
+    Zimeng Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linking proximate drivers and fitness returns of vigilance in a large ungulate]]></title>
+        <id>10.1111/oik.10879</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10879?af=R"/>
+        <updated>2025-02-12T12:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, Volume 2025, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Florent Déry, 
+Sandra Hamel, 
+Steeve D. Côté</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ornamentation and body condition, but not glucocorticoids, predict wild songbird cloacal microbiome community and diversity]]></title>
+        <id>10.1111/oik.10905</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10905?af=R"/>
+        <updated>2025-02-12T12:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, Volume 2025, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Morgan C. Slevin, 
+ Jennifer L. Houtz, 
+Maren N. Vitousek, 
+Daniel T. Baldassarre, 
+ Rindy C. Anderson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developmental reaction norms vary among families of lizards in response to multivariate nest environments]]></title>
+        <id>10.1111/oik.10911</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10911?af=R"/>
+        <updated>2025-02-12T12:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, Volume 2025, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>M. Christopher Norris, 
+Joshua M. Hall, 
+Daniel A. Warner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taxonomic novelty emerges more frequently and independently of functional novelty in historical coral communities]]></title>
+        <id>10.1111/oik.10912</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10912?af=R"/>
+        <updated>2025-02-12T12:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, Volume 2025, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Emer T. Cunningham, 
+Timothy L. Staples, 
+Ian R. Butler, 
+Mauro Lepore, 
+Hannah Markham Summers, 
+George Roff, 
+John M. Pandolfi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How spatiotemporal cognition and movement of seed‐dispersing animals influence plant distribution]]></title>
+        <id>10.1111/oik.10931</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10931?af=R"/>
+        <updated>2025-02-12T12:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, Volume 2025, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Benjamin Robira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Invasive plants grow taller under experimental warming, but mediated effects of biotic interactions are species‐specific]]></title>
+        <id>10.1111/oik.10932</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10932?af=R"/>
+        <updated>2025-02-12T12:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, Volume 2025, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Katy Ivison, 
+Vibekke Vange, 
+James M. Speed, 
+Wayne Dawson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Divergence and shift in the migratory life history of a salmonid fish during the transition to a new environment]]></title>
+        <id>10.1111/oik.10981</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10981?af=R"/>
+        <updated>2025-02-12T12:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, Volume 2025, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Yuta Nakanishi, 
+Tamihisa Ohta, 
+Tsuyoshi Iizuka, 
+Daisuke Kishi, 
+Shohei Noda, 
+Takeya Shida, 
+Rui Ueda, 
+Takuya Sato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking beyond Popper: how philosophy can be relevant to ecology]]></title>
+        <id>10.1111/oik.10994</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10994?af=R"/>
+        <updated>2025-02-12T12:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, Volume 2025, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Tina Heger, 
+Alkistis Elliot‐Graves, 
+Marie I. Kaiser, 
+Katie H. Morrow, 
+William Bausman, 
+Gregory P. Dietl, 
+Carsten F. Dormann, 
+David J. Gibson, 
+James Griesemer, 
+Yuval Itescu, 
+Kurt Jax, 
+Andrew M. Latimer, 
+Chunlong Liu, 
+Jostein Starrfelt, 
+Philip A. Stephens, 
+Jonathan M. Jeschke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prey nutrient content is associated with the trophic interactions of spiders and their prey selection under field conditions]]></title>
+        <id>10.1111/oik.10712</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10712?af=R"/>
+        <updated>2025-02-12T12:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, Volume 2025, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Jordan P. Cuff, 
+Maximillian P. T. G. Tercel, 
+Ian P. Vaughan, 
+Lorna E. Drake, 
+Shawn M. Wilder, 
+James R. Bell, 
+Carsten T. Müller, 
+Pablo Orozco‐terWengel, 
+William O. C. Symondson</name>
         </author>
     </entry>
     <entry>
@@ -107,6 +429,28 @@ Nicola Luchi,
 Francesco Pecori, 
 Massimo Faccoli, 
 Alberto Santini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge]]></title>
+        <id>10.1002/eap.70004</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70004?af=R"/>
+        <updated>2025-02-12T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Freya Olsson, 
+Cayelan C. Carey, 
+Carl Boettiger, 
+Gregory Harrison, 
+Robert Ladwig, 
+Marcus F. Lapeyrolerie, 
+Abigail S. L. Lewis, 
+Mary E. Lofton, 
+Felipe Montealegre‐Mora, 
+Joseph S. Rabaey, 
+Caleb J. Robbins, 
+Xiao Yang, 
+R. Quinn Thomas</name>
         </author>
     </entry>
     <entry>
