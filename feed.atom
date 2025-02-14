@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-02-13T15:01:48.897Z</updated>
+    <updated>2025-02-14T06:15:59.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Non-Hermitian Dirac cones with valley-dependent lifetimes]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56882-y</id>
+        <link href="https://www.nature.com/articles/s41467-025-56882-y"/>
+        <updated>2025-02-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Non-Hermiticity is usually considered detrimental to quasiparticle physics. Here, the authors show that such an assumption of Hermiticity can be lifted in the context of a lattice model containing two non-Hermitian Dirac cones, with one hosting amplifying Dirac quasiparticles and the other hosting decaying ones.]]></summary>
+        <author>
+            <name>Xinrong Xie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supramolecular force-driven non-fullerene acceptors as an electron-transporting layer for efficient inverted perovskite solar cells]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56060-0</id>
+        <link href="https://www.nature.com/articles/s41467-025-56060-0"/>
+        <updated>2025-02-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The suboptimal performance of perovskite solar cells based on non-fullerene acceptor as the electron-transporting layer underscores the need for their molecular engineering. Here, authors substitute the core of Y6 with phenanthroline and crown ether, achieving a certified efficiency of 25.59%.]]></summary>
+        <author>
+            <name>Xiaofeng Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bimodality in <i>E. coli</i> gene expression: Sources and robustness to genome-wide stresses]]></title>
+        <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012817</id>
+        <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012817"/>
+        <updated>2025-02-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by Ines S. C. Baptista, Suchintak Dash, Amir M. Arsh, Vinodh Kandavalli, Carlo Maria Scandolo, Barry C. Sanders, Andre S. Ribeiro
+
+
+Bacteria evolved genes whose single-cell distributions of expression levels are broad, or even bimodal. Evidence suggests that they might enhance phenotypic diversity for coping with fluctuating environments. We identified seven genes in E. coli with bimodal (low and high) single-cell expression levels under standard growth conditions and studied how their dynamics are modified by environmental and antibiotic stresses known to target gene expression. We found that all genes lose bimodality under some, but not under all, stresses. Also, bimodality can reemerge upon cells returning to standard conditions, which suggests that the genes can switch often between high and low expression rates. As such, these genes could become valuable components of future multi-stable synthetic circuits. Next, we proposed models of bimodal transcription dynamics with realistic parameter values, able to mimic the outcome of the perturbations studied. We explored several models’ tunability and boundaries of parameter values, beyond which it shifts to unimodal dynamics. From the model results, we predict that bimodality is robust, and yet tunable, not only by RNA and protein degradation rates, but also by the fraction of time that promoters remain unavailable for new transcription events. Finally, we show evidence that, although the empirical expression levels are influenced by many factors, the bimodality emerges during transcription initiation, at the promoter regions and, thus, may be evolvable and adaptable.]]></summary>
+        <author>
+            <name>PLOS Computational Biology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hexagons all the way down: grid cells as a conformal isometric map of
+space]]></title>
+        <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012804</id>
+        <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012804"/>
+        <updated>2025-02-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by Vemund Sigmundson Schøyen, Kosio Beshkov, Markus Borud Pettersen, Erik Hermansen, Konstantin Holzhausen, Anders Malthe-Sørenssen, Marianne Fyhn, Mikkel Elle Lepperød
+
+
+Grid cells in the entorhinal cortex are known for their hexagonal spatial activity patterns and are thought to provide a neural metric for space, and support path integration. In this study, we further investigate grid cells as a metric of space by optimising them for a conformal isometric (CI) map of space using a model based on a superposition of plane waves. By optimising the phases within a single grid cell module, we find that the module can form a CI of two-dimensional flat space with phases arranging into a regular hexagonal pattern, supporting an accurate spatial metric. Additionally, we find that experimentally recorded grid cells exhibit CI properties, with one example module showing a phase arrangement similar to the hexagonal pattern observed in our model. These findings provide computational and preliminary experimental support for grid cells as a CI-based spatial representation. We also examine other properties that emerge in CI-optimised modules, including consistent energy expenditure across space and the minimal cell count required to support unique representation of space and maximally topologically persistent toroidal population activity. Altogether, our results suggest that grid cells are well-suited to form a CI map, with several beneficial properties arising from this organisation.]]></summary>
+        <author>
+            <name>PLOS Computational Biology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reliability-enhanced data cleaning in biomedical machine learning using inductive
+conformal prediction]]></title>
+        <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012803</id>
+        <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012803"/>
+        <updated>2025-02-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by Xianghao Zhan, Qinmei Xu, Yuanning Zheng, Guangming Lu, Olivier Gevaert
+
+
+Accurately labeling large datasets is important for biomedical machine learning yet challenging while modern data augmentation methods may generate noise in the training data, which may deteriorate machine learning model performance. Existing approaches addressing noisy training data typically rely on strict modeling assumptions, classification models and well-curated dataset. To address these, we propose a novel reliability-based training-data-cleaning method employing inductive conformal prediction (ICP). This method uses a small set of well-curated training data and leverages ICP-calculated reliability metrics to selectively correct mislabeled data and outliers within vast quantities of noisy training data. T…]]></summary>
+        <author>
+            <name>PLOS Computational Biology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early detection of disease outbreaks and non-outbreaks using incidence data: A framework using feature-based time series classification and machine learning]]></title>
+        <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012782</id>
+        <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012782"/>
+        <updated>2025-02-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by Shan Gao, Amit K Chakraborty, Russell Greiner, Mark A Lewis, Hao Wang
+
+
+Forecasting the occurrence and absence of novel disease outbreaks is essential for disease management, yet existing methods are often context-specific, require a long preparation time, and non-outbreak prediction remains understudied. To address this gap, we propose a novel framework using a feature-based time series classification (TSC) method to forecast outbreaks and non-outbreaks. We tested our methods on synthetic data from a Susceptible–Infected–Recovered (SIR) model for slowly changing, noisy disease dynamics. Outbreak sequences give a transcritical bifurcation within a specified future time window, whereas non-outbreak (null bifurcation) sequences do not. We identified incipient differences, reflected in 22 statistical features and 5 early warning signal indicators, in time series of infectives leading to future outbreaks and non-outbreaks. Classifier performance, given by the area under the receiver-operating curve (AUC), ranged from 0 . 99 for large expanding windows of training data to 0 . 7 for small rolling windows. The framework is further evaluated on four empirical datasets: COVID-19 incidence data from Singapore, 18 other countries, and Edmonton, Canada, as well as SARS data from Hong Kong, with two classifiers exhibiting consistently high accuracy. Our results highlight detectable statistical features distinguishing outbreak and non-outbreak sequences well before potential occurrence, in both synthetic and real-world datasets presented in this study.]]></summary>
+        <author>
+            <name>PLOS Computational Biology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWGE-ESPCA: An edge sparse PCA model based on adaptive noise elimination regularization and weighted gene network for <i>Hermetia illucens</i> genomic data analysis]]></title>
+        <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012773</id>
+        <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012773"/>
+        <updated>2025-02-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by Rui Miao, Hao-Yang Yu, Bing-Jie Zhong, Hong-Xia Sun, Qiang Xia
+
+
+Hermetia illucens is an important insect resource. Studies have shown that exploring the effects of Cu2+-stressed on the growth and development of the Hermetia illucens genome holds significant scientific importance. There are three major challenges in the current studies of Hermetia illucens genomic data analysis: firstly, the lack of available genomic data which limits researchers in Hermetia illucens genomic data analysis. Secondly, to the best of our knowledge, there are no Artificial Intelligence (AI) feature selection models designed specifically for Hermetia illucens genome. Unlike human genomic data, noise in Hermetia illucens data is a more serious problem. Third, how to choose those genes located in the pathway…]]></summary>
+        <author>
+            <name>PLOS Computational Biology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detection of latent brain states from spontaneous neural activity in the amygdala]]></title>
+        <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012247</id>
+        <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012247"/>
+        <updated>2025-02-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by Alexa Aucoin, Kevin K. Lin, Katalin M. Gothard
+
+
+The amygdala responds to a large variety of socially and emotionally salient environmental and interoceptive stimuli. The context in which these stimuli occur determines their social and emotional significance. In canonical neurophysiological studies, the fast-paced succession of stimuli and events induce phasic changes in neural activity. During inter-trial intervals neural activity is expected to return to a stable and featureless level of spontaneous activity, often called baseline. In previous studies we found that context, such as the presence of a social partner, induces brain states that can transcend the fast-paced succession of stimuli and can be recovered from the spontaneous, inter-trial firing rate of neurons. Indeed, the spontaneous firing rates of neurons in the amygdala are different during blocks of gentle grooming touches delivered by a trusted social partner, and during blocks of non-social airflow stimuli delivered by a computer-controlled air valve. Here, we examine local field potentials (LFPs) recorded during periods of spontaneous activity to determine whether information about context can be extracted from these signals. We found that information about social vs. non-social context is present in the local field potential during periods of spontaneous activity between the application of grooming and airflow stimuli, as machine learning techniques can reliably decode context from spectrograms of spontaneous LFPs. No significant differences were detected between the nuclei of the amygdala that receive direct or indirect inputs from areas of the prefrontal cortex known to coordinate flexible, context-dependent behaviors. The lack of nuclear specificity suggests that context-related synaptic inputs arise from a shared source, possibly interoceptive inputs, that signal the physiological state of the body during social and non-social blocks of tactile stimulation.]]></summary>
+        <author>
+            <name>PLOS Computational Biology</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YOLO‐Behaviour: A simple, flexible framework to automatically quantify animal behaviours from videos]]></title>
         <id>10.1111/2041-210X.14502</id>
@@ -38,6 +138,46 @@ Fumihiro Kano</name>
         <author>
             <name>B. R. Shipley, 
 E. E. Saupe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Author Correction: A multi-model study to inform the United States’ 2035 NDC]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56971-y</id>
+        <link href="https://www.nature.com/articles/s41467-025-56971-y"/>
+        <updated>2025-02-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nature Communications - Author Correction: A multi-model study to inform the United States’ 2035 NDC]]></summary>
+        <author>
+            <name>Gokul Iyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Author Correction: ReaL-MGE is a tool for enhanced multiplex genome engineering and application to malonyl-CoA anabolism]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56968-7</id>
+        <link href="https://www.nature.com/articles/s41467-025-56968-7"/>
+        <updated>2025-02-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nature Communications - Author Correction: ReaL-MGE is a tool for enhanced multiplex genome engineering and application to malonyl-CoA anabolism]]></summary>
+        <author>
+            <name>Wentao Zheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Author Correction: Benchmarking machine learning methods for synthetic lethality prediction in cancer]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56368-x</id>
+        <link href="https://www.nature.com/articles/s41467-025-56368-x"/>
+        <updated>2025-02-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nature Communications - Author Correction: Benchmarking machine learning methods for synthetic lethality prediction in cancer]]></summary>
+        <author>
+            <name>Yimiao Feng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Author Correction: Design-rules for stapled peptides with in vivo activity and their application to Mdm2/X antagonists]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56965-w</id>
+        <link href="https://www.nature.com/articles/s41467-025-56965-w"/>
+        <updated>2025-02-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nature Communications - Author Correction: Design-rules for stapled peptides with in vivo activity and their application to Mdm2/X antagonists]]></summary>
+        <author>
+            <name>Arun Chandramohan</name>
         </author>
     </entry>
     <entry>
@@ -5995,182 +6135,6 @@ Egle Kelpsiene,
 Silke Langenheder, 
 Ian Donohue, 
 Helmut Hillebrand</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wheat field earthworms under divergent farming systems across a European climate gradient]]></title>
-        <id>10.1002/eap.3066</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3066?af=R"/>
-        <updated>2025-01-15T14:26:23.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Visa Nuutinen, 
-Maria J. I. Briones, 
-Stefan Schrader, 
-Igor Dekemati, 
-Nikola Grujić, 
-Juha Hyvönen, 
-Mari Ivask, 
-Simon Bo Lassen, 
-Eva Lloret, 
-Irene Ollio, 
-Paula Pérez‐Rodríguez, 
-Barbara Simon, 
-Merit Sutri, 
-Nancy de Sutter, 
-Kristian K. Brandt, 
-Krista Peltoniemi, 
-Merrit Shanskiy, 
-Lieven Waeyenberge, 
-Silvia Martínez‐Martínez, 
-David Fernández‐Calviño</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Probabilistic ecological risk assessment for deep‐sea mining: A Bayesian network for Chatham Rise, Pacific Ocean]]></title>
-        <id>10.1002/eap.3064</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3064?af=R"/>
-        <updated>2025-01-15T13:24:47.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Laura Kaikkonen, 
-Malcolm R. Clark, 
-Daniel Leduc, 
-Scott D. Nodder, 
-Ashley A. Rowden, 
-David A. Bowden, 
-Jennifer Beaumont, 
-Vonda Cummings</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Declining ecological resilience and invasion resistance under climate change in the sagebrush region, United States]]></title>
-        <id>10.1002/eap.3065</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3065?af=R"/>
-        <updated>2025-01-15T10:33:05.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Daniel R. Schlaepfer, 
-Jeanne C. Chambers, 
-Alexandra K. Urza, 
-Brice B. Hanberry, 
-Jessi L. Brown, 
-David I. Board, 
-Steven B. Campbell, 
-Karen J. Clause, 
-Michele R. Crist, 
-John B. Bradford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smaller and bolder fish enhance ecosystem‐scale primary production around artificial reefs in seagrass beds]]></title>
-        <id>10.1002/eap.3055</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3055?af=R"/>
-        <updated>2025-01-15T09:18:25.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Katrina S. Munsterman, 
-Maximilian H. K. Hesselbarth, 
-Jacob E. Allgeier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Social acceptance of human–wildlife coexistence: a case study about the reintroduction of the large herbivore European bison (Bison bonasus) in Switzerland]]></title>
-        <id>10.1111/rec.14373</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/rec.14373?af=R"/>
-        <updated>2025-01-15T08:34:31.000Z</updated>
-        <summary type="html"><![CDATA[Restoration Ecology, EarlyView.]]></summary>
-        <author>
-            <name>Stauffer Zélie, 
-Marcel Hunziker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ecosystem service indicators on military‐managed drylands in the Western United States]]></title>
-        <id>10.1002/eap.3044</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3044?af=R"/>
-        <updated>2025-01-15T08:24:39.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Samuel E. Jordan, 
-William K. Smith, 
-Osvaldo E. Sala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asymptotic Expansions of Stokes Flows in Finite Periodic Channels]]></title>
-        <id>https://epubs.siam.org/doi/abs/10.1137/24M1642469?af=R</id>
-        <link href="https://epubs.siam.org/doi/abs/10.1137/24M1642469?af=R"/>
-        <updated>2025-01-15T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Multiscale Modeling & Simulation, Volume 23, Issue 1, Page 218-254, March 2025. 
- Abstract. It is widely admitted in the heat transfer community that a steady laminar flow in a periodic channel becomes periodically developed after a small distance from the channel inlet. In this article, we provide a mathematical proof of this result for steady incompressible Stokes flows. Assuming the strip is a juxtaposition of [math] periodic unit cells with a prescribed velocity at the inlet and a zero normal-stress boundary condition at the outlet, we prove that the velocity and pressure fields can be approximated up to exponentially small errors as [math] by the sum of two terms: (i) a periodic velocity field driven by a constant pressure gradient propagating the input mass flow through the channel, …]]></summary>
-        <author>
-            <name>Florian Feppon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Divergent trajectories of regeneration in early‐successional forests after logging and wildfire]]></title>
-        <id>10.1002/eap.3061</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3061?af=R"/>
-        <updated>2025-01-15T07:24:41.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Elle J. Bowd, 
-Lachlan McBurney, 
-David B. Lindenmayer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global dynamics of functional composition in CITES‐traded reptiles]]></title>
-        <id>10.1002/eap.3060</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3060?af=R"/>
-        <updated>2025-01-15T06:33:15.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Dominic Meeks, 
-Oscar Morton, 
-David P. Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Incorporating stressor interactions into spatially explicit cumulative impact assessments]]></title>
-        <id>10.1002/eap.3056</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3056?af=R"/>
-        <updated>2025-01-15T06:09:50.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Jackson Stockbridge, 
-Alice R. Jones, 
-Christopher J. Brown, 
-Mark J. Doubell, 
-Bronwyn M. Gillanders</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orchards and paddy differentially impact rock outcrop amphibians: Insights from community‐ and species‐level responses]]></title>
-        <id>10.1002/eap.3058</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3058?af=R"/>
-        <updated>2025-01-15T03:55:35.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Vijayan Jithin, 
-Manali Rane, 
-Aparna Watve, 
-Rohit Naniwadekar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Active restoration increases tree species richness and recruitment of large‐seeded taxa after 16–18 years]]></title>
-        <id>10.1002/eap.3053</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3053?af=R"/>
-        <updated>2025-01-15T03:29:58.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Spencer C. Schubert, 
-Rakan A. Zahawi, 
-Federico Oviedo‐Brenes, 
-Juan Abel Rosales, 
-Karen D. Holl</name>
         </author>
     </entry>
 </feed>
