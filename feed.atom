@@ -2,10 +2,202 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-02-14T06:15:59.943Z</updated>
+    <updated>2025-02-15T06:15:04.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Planar chlorination engineering induced symmetry-broken single-atom site catalyst for enhanced CO<sub>2</sub> electroreduction]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56271-5</id>
+        <link href="https://www.nature.com/articles/s41467-025-56271-5"/>
+        <updated>2025-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Breaking the geometric symmetry of metal-N4 sites and boosting catalytic activity are significant but challenging. Here, using chlorination engineering, authors convert the Zn-N4 site with low activity and selectivity for the electroreduction of CO2 into highly active Zn-N3 site with broken symmetry.]]></summary>
+        <author>
+            <name>Shengjie Wei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring replay]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56731-y</id>
+        <link href="https://www.nature.com/articles/s41467-025-56731-y"/>
+        <updated>2025-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Exploration is vital for efficient and successful learning. Here, the authors propose a normative account of the role of hippocampal replay in generating approximately optimal exploratory choices.]]></summary>
+        <author>
+            <name>Georgy Antonov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circularly polarized OLEDs from chiral plasmonic nanoparticle-molecule hybrids]]></title>
+        <id>https://www.nature.com/articles/s41467-025-57000-8</id>
+        <link href="https://www.nature.com/articles/s41467-025-57000-8"/>
+        <updated>2025-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OLEDs that emit circularly polarized light are essential for many technologies. Here, the authors develop OLEDs based on chiral nanoparticles that have large emission dissymmetry factors and high external quantum efficiencies.]]></summary>
+        <author>
+            <name>Jiapeng Zheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enantioselective total synthesis of lycoposerramine congeners through late-stage nitrogen deletion]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56956-x</id>
+        <link href="https://www.nature.com/articles/s41467-025-56956-x"/>
+        <updated>2025-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lycopodium alkaloids are attractive synthetic targets due to their diverse and unusual skeletal features, but there remain synthetic challenges to several lycopodium alkaloids. Here, the authors report the synthesis of several lycoposerramine congeners in 10 steps or less by employing a nitrogen deletion strategy for late-stage fragment coupling.]]></summary>
+        <author>
+            <name>Kenta Yokoi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyperfluorescence circularly polarized OLEDs consisting of chiral TADF sensitizers and achiral multi-resonance emitters]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56923-6</id>
+        <link href="https://www.nature.com/articles/s41467-025-56923-6"/>
+        <updated>2025-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The realization of circularly polarized organic light-emitting diodes with narrow-spectrum emission and high efficiency is challenging. Here, authors report an approach for these devices by developing chiral thermally activated delayed fluorescence sensitizers for achiral multi-resonance emitters.]]></summary>
+        <author>
+            <name>Letian Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nucleotide-induced hyper-oligomerization inactivates transcription termination factor ρ]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56824-8</id>
+        <link href="https://www.nature.com/articles/s41467-025-56824-8"/>
+        <updated>2025-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bacterial transcription factor Rho (ρ) is a key regulator of transcription termination. Here, the authors show that Escherichia coli ρ forms inactive oligomers and filaments in the presence of stress-associated nucleotides (p)ppGpp and ADP.]]></summary>
+        <author>
+            <name>Bing Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning and actioning general principles of cancer cell drug sensitivity]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56827-5</id>
+        <link href="https://www.nature.com/articles/s41467-025-56827-5"/>
+        <updated>2025-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Potential anti-tumor therapies remain to be discovered in cancer cell line high-throughput screening datasets. Here, the authors develop a machine learning approach to infer cancer cell drug sensitivity from transcriptomics data and to explore drug mechanisms of action, and predict effective drugs for pancreatic cancer and glioblastoma.]]></summary>
+        <author>
+            <name>Francesco Carli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General theory for packing icosahedral shells into multi-component aggregates]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56952-1</id>
+        <link href="https://www.nature.com/articles/s41467-025-56952-1"/>
+        <updated>2025-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The icosahedron is the most symmetrical solid structure and is found in metal clusters, colloidal aggregates, viruses and organelles. Here, the authors propose a general theory for the design of multi-component icosahedral aggregates by packing shells of different types.]]></summary>
+        <author>
+            <name>Nicolò Canestrari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating multiscale mathematical modeling and multidimensional data reveals the effects of epigenetic instability on acquired drug resistance in cancer]]></title>
+        <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012815</id>
+        <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012815"/>
+        <updated>2025-02-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by Shun Wang, Jinzhi Lei, Xiufen Zou, Suoqin Jin
+
+
+Biological and dynamic mechanisms by which Drug-tolerant persister (DTP) cells contribute to the development of acquired drug resistance have not been fully elucidated. Here, by integrating multidimensional data from drug-treated PC9 cells, we developed a novel multiscale mathematical model from an evolutionary perspective that encompasses epigenetic and cellular population dynamics. By coupling stochastic simulation with quantitative analysis, we identified epigenetic instability as the most prominent kinetic feature related to the emergence of DTP cell subpopulations and the effectiveness of intermittent treatment. Moreover, we revealed the optimal schedule for intermittent treatment, including the optimal area for therapeutic time and drug holidays. By leveraging single-cell RNA-seq data characterizing the drug tolerance of lung cancer, we validated the predictions made by our model and further revealed previously unrecognized biological features of DTP cells, such as cell autophagy and migration, as well as new biomarker genes of therapeutic tolerance. Our work not only provides a paradigm for the integration of multiscale mathematical models with newly emerging genomics data but also improves our understanding of the crucial roles of DTP cells and offers guidance for developing new intermittent treatment strategies against acquired drug resistance in cancer.]]></summary>
+        <author>
+            <name>PLOS Computational Biology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten simple rules for fostering creativity in research labs]]></title>
+        <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012788</id>
+        <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012788"/>
+        <updated>2025-02-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by Matthias C. Rillig
+
+
+Research lab groups are hotspots for the education of the next generation of scientists, and making these units work as creatively as possible is essential for solving pressing issues in biology, the environment, and beyond. This article highlights 10 points that can help make labs as creative as possible. Several of these points are about setting up a creative lab culture; others are about fostering group-level creative output, some are more about encouraging creativity of individual team members, or both. While the head of a research group, the principal investigator, plays an important role, this can only be successful in healthy labs where everyone contributes.]]></summary>
+        <author>
+            <name>PLOS Computational Biology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using a multi-strain infectious disease model with physical information neural networks to study the time dependence of SARS-CoV-2 variants of concern]]></title>
+        <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012778</id>
+        <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012778"/>
+        <updated>2025-02-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by Wenxuan Li, Xu Chen, Suli Liu, Chiyu Zhang, Guyue Liu
+
+
+With the ongoing evolution of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and its increasing adaptation to humans, several variants of concern (VOCs) and variants of interest (VOIs) have been identified since late 2020. These include Alpha, Beta, Gamma, Delta, Omicron parent lineage, and other variants. These variants may show distinct levels of virulence, antigenicity, and infectivity, which require specific defense and control measures. In this study, we propose an SI1…InR infectious disease model to simulate the spread of SARS-CoV-2 variants among the human population. We combine the proposed epidemic model and reported infected data of variants with physical information neural networks (PINNs) to develop a novel mechanism called VOCs-informed neural network (VOCs-INN). In our experiments, we found that this algorithm can accurately fit the reported data of the British Columbia (BC) province and its five internal health agencies in Canada. Furthermore, it can simulate observed or unobserved dynamics, infer time-dependent parameters, and enable short-term predictions. The experimental results also reveal variations in the intensity of control strategies implemented across these regions. VOCs-INN performs well in fitting and forecasting when analyzing long-term or multi-wave data.]]></summary>
+        <author>
+            <name>PLOS Computational Biology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An <i>in silico</i> framework for the rational design of vaginal probiotic therapy]]></title>
+        <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012064</id>
+        <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012064"/>
+        <updated>2025-02-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[by Christina Y. Lee, Sina Bonakdar, Kelly B. Arnold
+
+
+Bacterial vaginosis (BV) is a common condition characterized by a shift in vaginal microbiome composition that is linked to negative reproductive outcomes and increased susceptibility to sexually transmitted infections. Despite the commonality of BV, standard-of-care antibiotics provide limited control of recurrent BV episodes and development of new biotherapies is limited by the lack of controlled models needed to evaluate new dosing and treatment regimens. Here, we develop an in silico framework to evaluate selection criteria for potential probiotic strains, test adjunctive therapy with antibiotics, and alternative dosing strategies. This computational framework highlighted the importance of resident microbial species on the efficacy of hypothetical probiotic strains, identifying specific interaction parameters between resident non-optimal anaerobic bacteria (nAB) and Lactobacillus spp. with candidate probiotic strains as a necessary selection criterion. Model predictions were able to replicate results from a recent phase 2b clinical trial for the live biotherapeutic product, Lactin-V, demonstrating the relevance of the in silico platform. Results from the computational model support that the probiotic strain in Lactin-V requires adjunctive antibiotic therapy to be effective, and that increasing the dosing frequency of the probiotic could have a moderate impact on BV recurrence at 12 and 24 weeks. Altogether, this framework could provide evidence for the rational selection of probiotic strains and help optimize dosing frequency or adjunctive therapies.]]></summary>
+        <author>
+            <name>PLOS Computational Biology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Potential for synergistic conservation through area‐based strategies]]></title>
+        <id>10.1111/cobi.14447</id>
+        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14447?af=R"/>
+        <updated>2025-02-14T07:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Conservation Biology, EarlyView.]]></summary>
+        <author>
+            <name>Li Zhang, 
+Yanwen Fu, 
+Jiaxin Li, 
+Lingyan Yan, 
+Xiaojun Kou, 
+Zhiyun Ouyang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reestablishing larval connectivity in an estuarine landscape: the importance of shoreline and subtidal oysters (Crassostrea virginica) in a comprehensive oyster restoration program]]></title>
+        <id>10.1111/rec.14383</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/rec.14383?af=R"/>
+        <updated>2025-02-14T06:54:31.000Z</updated>
+        <summary type="html"><![CDATA[Restoration Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Sean P. Powers, 
+Henry Roman, 
+Steven Brus, 
+Gail Fricano, 
+Jessica Meixner, 
+Damrongsak Wirasaet, 
+Joannes Westerink</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Too salty to farm: rethinking coastal land use in response to soil salinization]]></title>
+        <id>10.1111/rec.70006</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/rec.70006?af=R"/>
+        <updated>2025-02-14T06:53:54.000Z</updated>
+        <summary type="html"><![CDATA[Restoration Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Estefania Velilla, 
+Judit Snethlage, 
+Marnix Poelman, 
+Ingrid M. van der Meer, 
+Adrie van der Werf, 
+Ayodeji O. Deolu‐Ajayi, 
+Jim van Belzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spatial close‐kin mark‐recapture models applied to terrestrial species with continuous natal dispersal]]></title>
+        <id>10.1111/2041-210X.14490</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14490?af=R"/>
+        <updated>2025-02-14T06:41:08.000Z</updated>
+        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
+        <author>
+            <name>Anthony Sévêque, 
+Robert C. Lonsinger, 
+Lisette P. Waits, 
+Dana J. Morin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Non-Hermitian Dirac cones with valley-dependent lifetimes]]></title>
         <id>https://www.nature.com/articles/s41467-025-56882-y</id>
@@ -24,6 +216,26 @@
         <summary type="html"><![CDATA[The suboptimal performance of perovskite solar cells based on non-fullerene acceptor as the electron-transporting layer underscores the need for their molecular engineering. Here, authors substitute the core of Y6 with phenanthroline and crown ether, achieving a certified efficiency of 25.59%.]]></summary>
         <author>
             <name>Xiaofeng Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Present and future limits to climate change adaptation]]></title>
+        <id>https://www.nature.com/articles/s41893-025-01519-7</id>
+        <link href="https://www.nature.com/articles/s41893-025-01519-7"/>
+        <updated>2025-02-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While adaptation to climate and environmental impacts is assumed for future development, this Perspective provides evidence that adaptation may be more limited or even undermined by climate change, requiring difficult societal decisions to be made.]]></summary>
+        <author>
+            <name>Christopher W. Callahan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Origin and stepwise evolution of vertebrate lungs]]></title>
+        <id>https://www.nature.com/articles/s41559-025-02642-6</id>
+        <link href="https://www.nature.com/articles/s41559-025-02642-6"/>
+        <updated>2025-02-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An analysis of single-cell RNA sequencing data from adult and developing lungs across vertebrate species reveals genetic components in the common ancestor of jawed vertebrates and new lung-specific enhancers that contribute to the evolution of vertebrate lungs.]]></summary>
+        <author>
+            <name>Ye Li</name>
         </author>
     </entry>
     <entry>
@@ -104,6 +316,22 @@ Hermetia illucens is an important insect resource. Studies have shown that explo
 The amygdala responds to a large variety of socially and emotionally salient environmental and interoceptive stimuli. The context in which these stimuli occur determines their social and emotional significance. In canonical neurophysiological studies, the fast-paced succession of stimuli and events induce phasic changes in neural activity. During inter-trial intervals neural activity is expected to return to a stable and featureless level of spontaneous activity, often called baseline. In previous studies we found that context, such as the presence of a social partner, induces brain states that can transcend the fast-paced succession of stimuli and can be recovered from the spontaneous, inter-trial firing rate of neurons. Indeed, the spontaneous firing rates of neurons in the amygdala are different during blocks of gentle grooming touches delivered by a trusted social partner, and during blocks of non-social airflow stimuli delivered by a computer-controlled air valve. Here, we examine local field potentials (LFPs) recorded during periods of spontaneous activity to determine whether information about context can be extracted from these signals. We found that information about social vs. non-social context is present in the local field potential during periods of spontaneous activity between the application of grooming and airflow stimuli, as machine learning techniques can reliably decode context from spectrograms of spontaneous LFPs. No significant differences were detected between the nuclei of the amygdala that receive direct or indirect inputs from areas of the prefrontal cortex known to coordinate flexible, context-dependent behaviors. The lack of nuclear specificity suggests that context-related synaptic inputs arise from a shared source, possibly interoceptive inputs, that signal the physiological state of the body during social and non-social blocks of tactile stimulation.]]></summary>
         <author>
             <name>PLOS Computational Biology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Timing Matters: Viticultural Land Use Determines Responses in Structure and Function of Fungal Stream Communities Across One Growing Season]]></title>
+        <id>10.1111/gcb.70085</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70085?af=R"/>
+        <updated>2025-02-13T11:58:35.000Z</updated>
+        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Verena C. Schreiner, 
+Moritz Link, 
+Gesa Amelung, 
+Katharina Ohler, 
+Romana Salis, 
+Florian Leese, 
+Ralf B. Schäfer</name>
         </author>
     </entry>
     <entry>
@@ -5904,237 +6132,6 @@ Shuo Jiao</name>
             <name>Hebe Carmichael, 
 Ruth Warfield, 
 Gabriel Yvon‐Durocher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Changes in reproduction mediate the effects of climate change and grassland management on plant population dynamics]]></title>
-        <id>10.1002/eap.3063</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3063?af=R"/>
-        <updated>2025-01-16T12:47:43.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Martin Andrzejak, 
-Tiffany M. Knight, 
-Carolin Plos, 
-Lotte Korell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ebolavirus evolution and emergence are associated with land use change]]></title>
-        <id>10.1002/ecm.1641</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1641?af=R"/>
-        <updated>2025-01-16T12:21:39.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Christian E. Lange, 
-Thomas R. Barnum, 
-David J. McIver, 
-Matthew LeBreton, 
-Karen Saylors, 
-Charles Kumakamba, 
-Sara Lowes, 
-Eduardo Montero, 
-Robert L. Cohen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unveiling the effects of landscape–fire interactions on functional diversity in a Southern European mountain]]></title>
-        <id>10.1002/eap.3059</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3059?af=R"/>
-        <updated>2025-01-16T12:21:20.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>João C. Campos, 
-Beatriz Albuquerque, 
-Emilio Civantos, 
-João P. Honrado, 
-Adrián Regos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Predicting invasion success of naturalized cultivated plants in China]]></title>
-        <id>10.1111/1365-2664.14873</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14873?af=R"/>
-        <updated>2025-01-16T10:45:59.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, EarlyView.]]></summary>
-        <author>
-            <name>Bi‐Cheng Dong, 
-Ran Dong, 
-Qiang Yang, 
-Nicole L. Kinlock, 
-Fei‐Hai Yu, 
-Mark van Kleunen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detecting the effect of intensive agriculture on Odonata diversity using citizen science data]]></title>
-        <id>10.1002/eap.3057</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3057?af=R"/>
-        <updated>2025-01-16T08:58:55.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Renaud Baeta, 
-Justine Léauté, 
-Éric Sansault, 
-Sylvain Pincebourde</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Climatic versus biotic drivers' effect on fitness varies with range size but not position within range in terrestrial plants]]></title>
-        <id>10.1002/ecm.1640</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1640?af=R"/>
-        <updated>2025-01-16T08:55:11.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Allison M. Louthan, 
-Aaron W. Baumgardner, 
-Johan Ehrlén, 
-Johan P. Dahlgren, 
-Alexander K. Loomis, 
-William F. Morris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniform Observable Error Bounds of Trotter Formulae for the Semiclassical Schrödinger Equation]]></title>
-        <id>https://epubs.siam.org/doi/abs/10.1137/23M1583922?af=R</id>
-        <link href="https://epubs.siam.org/doi/abs/10.1137/23M1583922?af=R"/>
-        <updated>2025-01-16T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Multiscale Modeling & Simulation, Volume 23, Issue 1, Page 255-277, March 2025. 
- Abstract. Known as the no fast-forwarding theorem in quantum computing (see, e.g., Theorem 3 in [D. W. Berry et al., Comm. Math. Phys., 270 (2007), pp. 359–371], Theorem 5 in [A. M. Childs, Comm. Math. Phys., 294 (2010), pp. 581–603], and [R. Kothari, Efficient Simulation of Hamiltonians, M.S. thesis, University of Waterloo, 2010]), the simulation time for the Hamiltonian evolution is typically [math], which essentially states that one cannot go across the multiple scales as the simulation time for the Hamiltonian evolution needs to be strictly greater than the physical time. We demonstrated in the context of the semiclassical Schrödinger equation that the computational cost for a class of observables can be much lower than the state-of-the-art bounds. In the semiclassical regime (the effective Planck constant [math]), the operator norm of the Hamiltonian is [math]. We show that the number of Trotter steps used for the observable evolution can be [math], that is, to simulate some observables of the Schrödinger equation on a quantum scale only takes the simulation time comparable to the classical scale. In terms of error analysis, we improve the additive observable error bounds in [C. Lasser and C. Lubich, Acta Numer., 29 (2020), pp. 229–401] to uniform-in-[math] observable error bounds. This is, to our knowledge, the first uniform observable error bound for the semiclassical Schrödinger equation without sacrificing the convergence order of the numerical method. Based on semiclassical calculus and discrete microlocal analysis, our result showcases the potential improvements taking advantage of multiscale properties, such as the smallness of the effective Planck constant, and of the underlying dynamics, and sheds light on going across the scale for quantum dynamics simulation.]]></summary>
-        <author>
-            <name>Yonah Borns-Weil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Model‐based variance partitioning for statistical ecology]]></title>
-        <id>10.1002/ecm.1646</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1646?af=R"/>
-        <updated>2025-01-16T07:50:25.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Torsti Schulz, 
-Marjo Saastamoinen, 
-Jarno Vanhatalo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Downscaling global reference points to assess the sustainability of local fisheries]]></title>
-        <id>10.1111/cobi.14440</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14440?af=R"/>
-        <updated>2025-01-16T07:40:10.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, EarlyView.]]></summary>
-        <author>
-            <name>Jessica Zamborain‐Mason, 
-Sean R. Connolly, 
-M. Aaron MacNeil, 
-Michele L. Barnes, 
-Andrew G. Bauman, 
-David A. Feary, 
-Victor Huertas, 
-Fraser A. Januchowski‐Hartley, 
-Jacqueline D. Lau, 
-Michalis Mihalitsis, 
-Joshua E. Cinner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genomics identifies koala populations at risk across eastern Australia]]></title>
-        <id>10.1002/eap.3062</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3062?af=R"/>
-        <updated>2025-01-16T07:24:14.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Elspeth A. McLennan, 
-Toby G. L. Kovacs, 
-Luke W. Silver, 
-Zhiliang Chen, 
-Frederick R. Jaya, 
-Simon Y. W. Ho, 
-Katherine Belov, 
-Carolyn J. Hogg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Increasing variability in resource supply over time disrupts plant–pollinator interactions]]></title>
-        <id>10.1002/ecm.1637</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1637?af=R"/>
-        <updated>2025-01-16T07:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Deanne Redr, 
-Alyssa R. Cirtwill, 
-Riikka Kaartinen, 
-Anna Grunsky, 
-Ian Hogg, 
-Donald McLennan, 
-Claus Rasmussen, 
-Niels Martin Schmidt, 
-Mikko Tiusanen, 
-Johann Wagner, 
-Helena Wirta, 
-Tomas Roslin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assembling a late‐successional lichen community by long‐distance dispersal: Lessons for restoration]]></title>
-        <id>10.1111/1365-2664.14874</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14874?af=R"/>
-        <updated>2025-01-16T05:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, EarlyView.]]></summary>
-        <author>
-            <name>Ivar Gjerde, 
-Hans H. Blom, 
-Eivind Handegard, 
-Magne Sætersdal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redrawing Köppen‐Geiger classes with microclimate: implications for nature and society]]></title>
-        <id>10.1002/fee.2831</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2831?af=R"/>
-        <updated>2025-01-16T05:39:24.000Z</updated>
-        <summary type="html"><![CDATA[Frontiers in Ecology and the Environment, EarlyView.]]></summary>
-        <author>
-            <name>David H Klinges, 
-Ilya MD Maclean, 
-Brett R Scheffers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seafloor sediment microtopography as a surrogate for biodiversity and ecosystem functioning]]></title>
-        <id>10.1002/eap.3069</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3069?af=R"/>
-        <updated>2025-01-16T03:21:15.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Stefano Schenone, 
-Judi E. Hewitt, 
-Jenny Hillman, 
-Rebecca Gladstone‐Gallagher, 
-Johanna Gammal, 
-Conrad Pilditch, 
-Andrew M. Lohrer, 
-Eliana Ferretti, 
-Mihailo Azhar, 
-Patrice Delmas, 
-Simon F. Thrush</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Partitioning species contributions to ecological stability in disturbed communities]]></title>
-        <id>10.1002/ecm.1636</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1636?af=R"/>
-        <updated>2025-01-16T03:04:16.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Charlotte Kunze, 
-Dominik Bahlburg, 
-Pablo Urrutia‐Cordero, 
-Maren Striebel, 
-Egle Kelpsiene, 
-Silke Langenheder, 
-Ian Donohue, 
-Helmut Hillebrand</name>
         </author>
     </entry>
 </feed>
