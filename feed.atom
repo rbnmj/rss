@@ -2,10 +2,155 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-02-15T06:15:04.935Z</updated>
+    <updated>2025-02-16T06:14:38.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SRBD1 facilitates chromosome segregation by promoting topoisomerase IIα localization to mitotic chromosomes]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56911-w</id>
+        <link href="https://www.nature.com/articles/s41467-025-56911-w"/>
+        <updated>2025-02-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Accurate chromosome segregation into daughter cells depends on proper compaction and disentanglement. The authors uncover SRBD1 as a key mediator of these essential processes that localizes topoisomerase IIα to mitotic chromosomes.]]></summary>
+        <author>
+            <name>Courtney A. Lovejoy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Negative Legacy Effect of Extreme Drought on Soil Respiration Is Unaffected by Post‐Drought Precipitation Regime in a Temperate Grassland]]></title>
+        <id>10.1111/gcb.70083</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70083?af=R"/>
+        <updated>2025-02-15T07:55:09.000Z</updated>
+        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Eszter Lellei‐Kovács, 
+Zoltán Botta‐Dukát, 
+Gábor Ónodi, 
+Andrea Mojzes, 
+György Kröel‐Dulay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Estimation of Carbon Dioxide Removal via Enhanced Weathering]]></title>
+        <id>10.1111/gcb.70067</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70067?af=R"/>
+        <updated>2025-02-15T07:48:41.000Z</updated>
+        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>L. A. Derry, 
+O. A. Chadwick, 
+S. Porder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A protocol for error prevention and quality control in camera trap datasets]]></title>
+        <id>10.1111/1365-2664.70010</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70010?af=R"/>
+        <updated>2025-02-15T07:34:50.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Applied Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Eduardo A. Silva‐Rodríguez, 
+Esteban I. Cortés, 
+Viviana Vasquez‐Ibarra, 
+Nicolás Gálvez, 
+Jeremy Cusack, 
+Omar Ohrens, 
+Darío Moreira‐Arce, 
+Ariel A. Farías, 
+José Infante‐Varela</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global‐Scale Analysis Reveals Importance of Environment and Species Traits in Spatial Patterns of Riparian Plants' Genetic Diversity]]></title>
+        <id>10.1111/geb.70010</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/geb.70010?af=R"/>
+        <updated>2025-02-15T05:54:17.000Z</updated>
+        <summary type="html"><![CDATA[Global Ecology and Biogeography, Volume 34, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Bartłomiej Surmacz, 
+Patricia María Rodríguez González, 
+Roland Jansson, 
+Tomasz Suchan, 
+Remigiusz Pielech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Establishing Historical Baselines of Arthropod Assemblages Using Rodent Paleomiddens]]></title>
+        <id>10.1111/geb.70006</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/geb.70006?af=R"/>
+        <updated>2025-02-15T05:48:40.000Z</updated>
+        <summary type="html"><![CDATA[Global Ecology and Biogeography, Volume 34, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Joseph Braasch, 
+Julio Betancourt, 
+Olivier Dézerald, 
+Udari Peiris, 
+Maura Tapia‐Rozas, 
+Cristian Villagra, 
+Claudio Latorre, 
+Angélica L. González</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-local interactions determine local structure and lithium diffusion in solid electrolytes]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56662-8</id>
+        <link href="https://www.nature.com/articles/s41467-025-56662-8"/>
+        <updated>2025-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This study demonstrates the role of non-local exchange and correlation interactions in solid electrolytes (SEs) for lithium-ion batteries. Through analysis of argyrodite SEs, it reveals how non-local interactions influence lithium diffusion and structural stability, guiding future SE design.]]></summary>
+        <author>
+            <name>Swastika Banerjee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<i>Sox9</i> inhibits Activin A to promote biliary maturation and branching morphogenesis]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56813-x</id>
+        <link href="https://www.nature.com/articles/s41467-025-56813-x"/>
+        <updated>2025-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The bile ducts of the liver form a network of large ducts and small ductules, though how they are patterned remains unclear. Hrncir et al. show that Sox9 is required for the morphogenesis of small intrahepatic bile ductules in mice, highlighting distinct genetic requirements that drive bile duct heterogeneity.]]></summary>
+        <author>
+            <name>Hannah R. Hrncir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gene therapy with feline anti-Müllerian hormone analogs disrupts folliculogenesis and induces pregnancy loss in female domestic cats]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56924-5</id>
+        <link href="https://www.nature.com/articles/s41467-025-56924-5"/>
+        <updated>2025-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Domestic cats are sterilized via ovariohysterectomy, but this procedure is not feasible for the larger population of free-roaming cats. Here they show that injecting high levels of anti-Müllerian hormone (AMH) disrupts ovarian function and the maintenance of pregnancy in female domestic cats, suggesting that AMH gene therapy could be used for feline fertility control.]]></summary>
+        <author>
+            <name>William A. Stocker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discovery of selective low molecular weight interleukin-36 receptor antagonists by encoded library technologies]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56601-7</id>
+        <link href="https://www.nature.com/articles/s41467-025-56601-7"/>
+        <updated>2025-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IL-36 receptor is crucial for host defense and tissue repair. Here, the authors describe identification and characterization of low molecular weight inhibitors of the IL-36 receptor using encoded library technologies. This represents a rare example of small molecules inhibiting a member of IL-1 receptor family.]]></summary>
+        <author>
+            <name>Juraj Velcicky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Native Fold Delay and its implications for co-translational chaperone binding and protein aggregation]]></title>
+        <id>https://www.nature.com/articles/s41467-025-57033-z</id>
+        <link href="https://www.nature.com/articles/s41467-025-57033-z"/>
+        <updated>2025-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[During vectorial protein translation, native interactions are temporarily unsatisfied. Here, authors introduce “Native Fold Delay”, integrating protein topology with translation kinetics to quantify the resulting delays in co-translational folding which may result in protein aggregation.]]></summary>
+        <author>
+            <name>Ramon Duran-Romaña</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electrically programmable pixelated coherent mid-infrared thermal emission]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56811-z</id>
+        <link href="https://www.nature.com/articles/s41467-025-56811-z"/>
+        <updated>2025-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The realization of active metasurfaces operating in the infrared range remains challenging due to design complexities and scarcity of suitable materials. Here, the authors report the realization of electrically programmable plasmonic metasurfaces integrated with graphene transistors, enabling pixelated thermal emission with low cross-talk and enhanced coherence.]]></summary>
+        <author>
+            <name>Xiu Liu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Planar chlorination engineering induced symmetry-broken single-atom site catalyst for enhanced CO<sub>2</sub> electroreduction]]></title>
         <id>https://www.nature.com/articles/s41467-025-56271-5</id>
@@ -139,6 +284,173 @@ Bacterial vaginosis (BV) is a common condition characterized by a shift in vagin
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Microbes in reconstructive restoration: Divergence in constructed and natural tree island soil fungi affects tree growth]]></title>
+        <id>10.1002/eap.70007</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70007?af=R"/>
+        <updated>2025-02-14T12:20:43.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Kasey N. Kiesewetter, 
+Amanda H. Rawstern, 
+Eric Cline, 
+Gina R. Ortiz, 
+Fabiola Santamaria, 
+Carlos Coronado‐Molina, 
+Fred H. Sklar, 
+Michelle E. Afkhami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urban planning for wildlife connectivity: A multispecies assessment of urban sprawl and SLOSS renaturalization strategies]]></title>
+        <id>10.1111/1365-2664.70007</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70007?af=R"/>
+        <updated>2025-02-14T12:20:20.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Applied Ecology, EarlyView.]]></summary>
+        <author>
+            <name>T. A. Gelmi‐Candusso, 
+A. T. M. Chin, 
+J. L. W. Ruppert, 
+M.‐J. Fortin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[River Drying Causes Local Losses and Regional Gains in Aquatic Invertebrate Metacommunity Diversity: A Cross‐Continental Comparison]]></title>
+        <id>10.1111/gcb.70068</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70068?af=R"/>
+        <updated>2025-02-14T12:02:27.000Z</updated>
+        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Daniel Escobar‐Camacho, 
+Julie Crabot, 
+Rachel Stubbington, 
+Judy England, 
+Romain Sarremejane, 
+Núria Bonada, 
+José María Fernández‐Calero, 
+Miguel Cañedo‐Argüelles, 
+Carla Ferreira Rezende, 
+Pierre Chanut, 
+Zoltán Csabai, 
+Andrea C. Encalada, 
+Alex Laini, 
+Heikki Mykrä, 
+Nabor Moya, 
+Petr Pařil, 
+Daniela Rosero‐López, 
+Thibault Datry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnerability of Labile Organic Matter to Eutrophication and Warming in Temperate Mangrove Ecosystems]]></title>
+        <id>10.1111/gcb.70087</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70087?af=R"/>
+        <updated>2025-02-14T11:40:24.000Z</updated>
+        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Timothy Thomson, 
+Conrad A. Pilditch, 
+Marco Fusi, 
+Natalie Prinz, 
+Carolyn J. Lundquist, 
+Joanne I. Ellis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Food web robustness depends on the network type and threshold for extinction]]></title>
+        <id>10.1111/oik.11139</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.11139?af=R"/>
+        <updated>2025-02-14T11:29:41.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, EarlyView.]]></summary>
+        <author>
+            <name>Patrik P. G. Ståhl, 
+Puntila-Dodd Riikka, 
+Lai Zhang, 
+Marie C. Nordström, 
+Susanne Kortsch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predicting landscape‐scale native bumble bee habitat use over space, time, and forage availability]]></title>
+        <id>10.1002/ecy.70008</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70008?af=R"/>
+        <updated>2025-02-14T11:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Jeremy Hemberger, 
+Neal Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bearing the Humans]]></title>
+        <id>10.1111/gcb.70088</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70088?af=R"/>
+        <updated>2025-02-14T10:42:58.000Z</updated>
+        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Andrea Corradini, 
+Steffen Mumme, 
+Francesca Cagnacci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stronger Response of Plant N:P to Nitrogen Enrichment When Considering Roots]]></title>
+        <id>10.1111/gcb.70091</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70091?af=R"/>
+        <updated>2025-02-14T10:29:44.000Z</updated>
+        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Yu Ning, 
+Feike A. Dijkstra, 
+Xiao‐Sa Liang, 
+Xiao‐Jing Zhang, 
+Guo‐Jiao Yang, 
+Liang‐Chao Jiang, 
+Xing‐Guo Han, 
+Xiao‐Tao Lü</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Greenhouse Gas Emissions and Lateral Carbon Dynamics at an Eroding Yedoma Permafrost Site in Siberia (Duvanny Yar)]]></title>
+        <id>10.1111/gcb.70071</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70071?af=R"/>
+        <updated>2025-02-14T09:48:42.000Z</updated>
+        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Kirsi H. Keskitalo, 
+Lisa Bröder, 
+Dirk J. Jong, 
+Paul J. Mann, 
+Tommaso Tesi, 
+Anna Davydova, 
+Nikita Zimov, 
+Negar Haghipour, 
+Timothy I. Eglinton, 
+Jorien E. Vonk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mitigating bias in long‐term terrestrial ecoacoustic studies]]></title>
+        <id>10.1111/1365-2664.70000</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70000?af=R"/>
+        <updated>2025-02-14T09:34:40.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Applied Ecology, EarlyView.]]></summary>
+        <author>
+            <name>David Jarrett, 
+Ross Barnett, 
+Tom Bradfer‐Lawrence, 
+Jérémy S. P. Froidevaux, 
+Kieran Gibb, 
+Pauline Guinet, 
+Jack Greenhalgh, 
+Becky Heath, 
+Alison Johnston, 
+José Joaquín Lahoz Monfort, 
+Alex Rogers, 
+Stephen G. Willis, 
+Oliver Metcalf</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Potential for synergistic conservation through area‐based strategies]]></title>
         <id>10.1111/cobi.14447</id>
         <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14447?af=R"/>
@@ -196,6 +508,16 @@ Jim van Belzen</name>
 Robert C. Lonsinger, 
 Lisette P. Waits, 
 Dana J. Morin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Influences of microplastics alone and co-contaminated with cadmium on physiological responses of Chinese cabbage (Brassica campestris L.), rhizosphere microbes and soil properties in soil]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464116?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464116?af=R"/>
+        <updated>2025-02-14T04:40:21.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Hui Zhou Hongfei Yang Xin Zhou Yueqing Wang Chao Hong a School of Ecology and Environment, Anhui Normal University, Wuhu, Chinab Collaborative Innovation Center of Recovery and Reconstruction of Degraded Ecosystem in Wanjiang Basin Co-founded by Anhui Province and Ministry of Education, Anhui Normal University, Wuhu, China</name>
         </author>
     </entry>
     <entry>
@@ -5955,183 +6277,6 @@ Justine Vansynghel,
 Bea Maas, 
 Ingolf Steffan‐Dewenter, 
 Teja Tscharntke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frequent, heterogenous fire supports a forest owl assemblage]]></title>
-        <id>10.1002/eap.3080</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3080?af=R"/>
-        <updated>2025-01-17T13:07:10.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Kate McGinn, 
-Benjamin Zuckerberg, 
-Gavin M. Jones, 
-Connor M. Wood, 
-Stefan Kahl, 
-Kevin G. Kelly, 
-Sheila A. Whitmore, 
-H. Anu Kramer, 
-Josh M. Barry, 
-Elizabeth Ng, 
-M. Zachariah Peery</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A functional data analysis approach for modelling frequency‐modulated tonal sounds in animal communication]]></title>
-        <id>10.1111/2041-210X.14446</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14446?af=R"/>
-        <updated>2025-01-17T11:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
-        <author>
-            <name>Maria Silvia Labriola, 
-Petra Oswine Pammer, 
-Giulia Pedrazzi, 
-Giancarlo Giacomini, 
-Giovanna Jona Lasinio, 
-Daniela Silvia Pace</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epistemological dimensions of Indigenous honey collection in the Kattunaicken community of South India]]></title>
-        <id>10.1111/cobi.14441</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14441?af=R"/>
-        <updated>2025-01-17T11:05:20.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, EarlyView.]]></summary>
-        <author>
-            <name>Antony Jacob Sebastian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A roadmap to sustainable management of commercial medicinal and aromatic plants, fungi, and lichens in Nepal]]></title>
-        <id>10.1111/cobi.14442</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14442?af=R"/>
-        <updated>2025-01-17T11:05:05.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, EarlyView.]]></summary>
-        <author>
-            <name>Carsten Smith‐Hall, 
-Dipesh Pyakurel, 
-Thorsten Treue, 
-Mariève Pouliot, 
-Suresh Ghimire, 
-Anastasiya Timoshyna, 
-Henrik Meilby</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From subsidies to stressors: Positively skewed ecological gradients alter biological responses to nutrients in streams]]></title>
-        <id>10.1002/eap.3086</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3086?af=R"/>
-        <updated>2025-01-17T10:46:47.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Stephen E. DeVilbiss, 
-Jason M. Taylor, 
-Matthew B. Hicks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breeding bird sensitivity to urban habitat quality is multi‐scale and strongly dependent on migratory behavior]]></title>
-        <id>10.1002/eap.3087</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3087?af=R"/>
-        <updated>2025-01-17T08:31:24.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Nathan W. Byer, 
-Remington J. Moll, 
-Timothy J. Krynak, 
-Erik E. Shaffer, 
-Jen L. Brumfield, 
-John E. Reinier, 
-Sarah R. Eysenbach, 
-Jonathon D. Cepek, 
-Constance E. Hausman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Differential recruitment drives pathogen‐mediated competition between species in an amphibian chytridiomycosis system]]></title>
-        <id>10.1002/eap.3085</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3085?af=R"/>
-        <updated>2025-01-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Madelyn J. Mangan, 
-Hamish I. McCallum, 
-Matt West, 
-Ben C. Scheele, 
-Graeme R. Gillespie, 
-Laura F. Grogan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soil Nitrogen Supply Exerts Largest Influence on Leaf Nitrogen in Environments with the Greatest Leaf Nitrogen Demand]]></title>
-        <id>10.1111/ele.70015</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70015?af=R"/>
-        <updated>2025-01-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Alissar Cheaib, 
-Elizabeth F. Waring, 
-Risa McNellis, 
-Evan A. Perkowski, 
-Jason P. Martina, 
-Eric W. Seabloom, 
-Elizabeth T. Borer, 
-Peter A. Wilfahrt, 
-Ning Dong, 
-Iain Colin Prentice, 
-Ian J. Wright, 
-Sally A. Power, 
-Erika I. Hersch‐Green, 
-Anita C. Risch, 
-Maria C. Caldeira, 
-Carla Nogueira, 
-Qingqing Chen, 
-Nicholas G. Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Additive Effects of Multiple Global Change Factors on Plant Invasions Are Common]]></title>
-        <id>10.1111/ele.70057</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70057?af=R"/>
-        <updated>2025-01-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Xiong Shi, 
-Yanjie Liu, 
-Mark van Kleunen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Global Relationship Between Genome Size and Encoded Carbon Metabolic Strategies of Soil Bacteria]]></title>
-        <id>10.1111/ele.70064</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70064?af=R"/>
-        <updated>2025-01-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Xingjie Wu, 
-Jingjing Peng, 
-Ashish Anil Malik, 
-Ziheng Peng, 
-Yu Luo, 
-Fenliang Fan, 
-Yahai Lu, 
-Gehong Wei, 
-Manuel Delgado‐Baquerizo, 
-Werner Liesack, 
-Shuo Jiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reconciling Variability in Multiple Stressor Effects Using Environmental Performance Curves]]></title>
-        <id>10.1111/ele.70065</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70065?af=R"/>
-        <updated>2025-01-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Hebe Carmichael, 
-Ruth Warfield, 
-Gabriel Yvon‐Durocher</name>
         </author>
     </entry>
 </feed>

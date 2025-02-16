@@ -6,6 +6,16 @@
       "siteUrl": "https://esajournals.onlinelibrary.wiley.com/journal/19399170?af=R",
       "articles": [
         {
+          "id": "10.1002/ecy.70008",
+          "author": "Jeremy Hemberger, \nNeal Williams",
+          "description": "Ecology, Volume 106, Issue 2, February 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70008?af=R",
+          "publishedOn": "2025-02-14T11:17:26.000Z",
+          "wordCount": null,
+          "title": "Predicting landscape‐scale native bumble bee habitat use over space, time, and forage availability",
+          "imageUrl": null
+        },
+        {
           "id": "10.1002/ecy.70031",
           "author": "Francis D. Gerraty, \nSarah Grimes, \nSue Pemberton, \nSarah G. Allen, \nSarah A. Codde",
           "description": "Ecology, Volume 106, Issue 2, February 2025.",
@@ -152,6 +162,16 @@
       "feedUrl": "https://esajournals.onlinelibrary.wiley.com/feed/19395582/most-recent",
       "siteUrl": "https://esajournals.onlinelibrary.wiley.com/journal/19395582?af=R",
       "articles": [
+        {
+          "id": "10.1002/eap.70007",
+          "author": "Kasey N. Kiesewetter, \nAmanda H. Rawstern, \nEric Cline, \nGina R. Ortiz, \nFabiola Santamaria, \nCarlos Coronado‐Molina, \nFred H. Sklar, \nMichelle E. Afkhami",
+          "description": "Ecological Applications, Volume 35, Issue 1, January 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70007?af=R",
+          "publishedOn": "2025-02-14T12:20:43.000Z",
+          "wordCount": null,
+          "title": "Microbes in reconstructive restoration: Divergence in constructed and natural tree island soil fungi affects tree growth",
+          "imageUrl": null
+        },
         {
           "id": "10.1002/eap.70003",
           "author": "Alexis A. Bernal, \nScott L. Stephens, \nMac A. Callaham, \nBrandon M. Collins, \nJustin S. Crotteau, \nMatthew B. Dickinson, \nDonald L. Hagan, \nRachelle Hedges, \nSharon M. Hood, \nTodd F. Hutchinson, \nMelanie K. Taylor, \nT. Adam Coates",
@@ -330,46 +350,6 @@
           "publishedOn": "2025-01-20T06:58:40.000Z",
           "wordCount": null,
           "title": "Relative effects of seed mix design, consumer pressure, and edge proximity on community structure in restored prairies",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1002/eap.3080",
-          "author": "Kate McGinn, \nBenjamin Zuckerberg, \nGavin M. Jones, \nConnor M. Wood, \nStefan Kahl, \nKevin G. Kelly, \nSheila A. Whitmore, \nH. Anu Kramer, \nJosh M. Barry, \nElizabeth Ng, \nM. Zachariah Peery",
-          "description": "Ecological Applications, Volume 35, Issue 1, January 2025.",
-          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3080?af=R",
-          "publishedOn": "2025-01-17T13:07:10.000Z",
-          "wordCount": null,
-          "title": "Frequent, heterogenous fire supports a forest owl assemblage",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1002/eap.3086",
-          "author": "Stephen E. DeVilbiss, \nJason M. Taylor, \nMatthew B. Hicks",
-          "description": "Ecological Applications, Volume 35, Issue 1, January 2025.",
-          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3086?af=R",
-          "publishedOn": "2025-01-17T10:46:47.000Z",
-          "wordCount": null,
-          "title": "From subsidies to stressors: Positively skewed ecological gradients alter biological responses to nutrients in streams",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1002/eap.3087",
-          "author": "Nathan W. Byer, \nRemington J. Moll, \nTimothy J. Krynak, \nErik E. Shaffer, \nJen L. Brumfield, \nJohn E. Reinier, \nSarah R. Eysenbach, \nJonathon D. Cepek, \nConstance E. Hausman",
-          "description": "Ecological Applications, Volume 35, Issue 1, January 2025.",
-          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3087?af=R",
-          "publishedOn": "2025-01-17T08:31:24.000Z",
-          "wordCount": null,
-          "title": "Breeding bird sensitivity to urban habitat quality is multi‐scale and strongly dependent on migratory behavior",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1002/eap.3085",
-          "author": "Madelyn J. Mangan, \nHamish I. McCallum, \nMatt West, \nBen C. Scheele, \nGraeme R. Gillespie, \nLaura F. Grogan",
-          "description": "Ecological Applications, Volume 35, Issue 1, January 2025.",
-          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3085?af=R",
-          "publishedOn": "2025-01-17T08:00:00.000Z",
-          "wordCount": null,
-          "title": "Differential recruitment drives pathogen‐mediated competition between species in an amphibian chytridiomycosis system",
           "imageUrl": null
         }
       ]
@@ -899,46 +879,6 @@
           "wordCount": null,
           "title": "High Capacity for Physiological Plasticity Occurs at a Slow Rate in Ectotherms",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/ele.70015",
-          "author": "Alissar Cheaib, \nElizabeth F. Waring, \nRisa McNellis, \nEvan A. Perkowski, \nJason P. Martina, \nEric W. Seabloom, \nElizabeth T. Borer, \nPeter A. Wilfahrt, \nNing Dong, \nIain Colin Prentice, \nIan J. Wright, \nSally A. Power, \nErika I. Hersch‐Green, \nAnita C. Risch, \nMaria C. Caldeira, \nCarla Nogueira, \nQingqing Chen, \nNicholas G. Smith",
-          "description": "Ecology Letters, Volume 28, Issue 1, January 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70015?af=R",
-          "publishedOn": "2025-01-17T08:00:00.000Z",
-          "wordCount": null,
-          "title": "Soil Nitrogen Supply Exerts Largest Influence on Leaf Nitrogen in Environments with the Greatest Leaf Nitrogen Demand",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/ele.70057",
-          "author": "Xiong Shi, \nYanjie Liu, \nMark van Kleunen",
-          "description": "Ecology Letters, Volume 28, Issue 1, January 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70057?af=R",
-          "publishedOn": "2025-01-17T08:00:00.000Z",
-          "wordCount": null,
-          "title": "Additive Effects of Multiple Global Change Factors on Plant Invasions Are Common",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/ele.70064",
-          "author": "Xingjie Wu, \nJingjing Peng, \nAshish Anil Malik, \nZiheng Peng, \nYu Luo, \nFenliang Fan, \nYahai Lu, \nGehong Wei, \nManuel Delgado‐Baquerizo, \nWerner Liesack, \nShuo Jiao",
-          "description": "Ecology Letters, Volume 28, Issue 1, January 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70064?af=R",
-          "publishedOn": "2025-01-17T08:00:00.000Z",
-          "wordCount": null,
-          "title": "A Global Relationship Between Genome Size and Encoded Carbon Metabolic Strategies of Soil Bacteria",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/ele.70065",
-          "author": "Hebe Carmichael, \nRuth Warfield, \nGabriel Yvon‐Durocher",
-          "description": "Ecology Letters, Volume 28, Issue 1, January 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70065?af=R",
-          "publishedOn": "2025-01-17T08:00:00.000Z",
-          "wordCount": null,
-          "title": "Reconciling Variability in Multiple Stressor Effects Using Environmental Performance Curves",
-          "imageUrl": null
         }
       ]
     },
@@ -947,6 +887,16 @@
       "feedUrl": "https://nsojournals.onlinelibrary.wiley.com/feed/16000706/most-recent",
       "siteUrl": "https://nsojournals.onlinelibrary.wiley.com/journal/16000706?af=R",
       "articles": [
+        {
+          "id": "10.1111/oik.11139",
+          "author": "Patrik P. G. Ståhl, \nPuntila-Dodd Riikka, \nLai Zhang, \nMarie C. Nordström, \nSusanne Kortsch",
+          "description": "Oikos, EarlyView.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.11139?af=R",
+          "publishedOn": "2025-02-14T11:29:41.000Z",
+          "wordCount": null,
+          "title": "Food web robustness depends on the network type and threshold for extinction",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/oik.10553",
           "author": "Benjamin M. Titus, \nCatheline Y. M. Froehlich, \nClayton Vondriska, \nRonald Baker, \nEleanor M. Caves",
@@ -1194,6 +1144,76 @@
       "feedUrl": "https://www.nature.com/ncomms.rss",
       "siteUrl": "http://feeds.nature.com/ncomms/rss/current",
       "articles": [
+        {
+          "id": "https://www.nature.com/articles/s41467-025-56911-w",
+          "author": "Courtney A. Lovejoy",
+          "description": "Accurate chromosome segregation into daughter cells depends on proper compaction and disentanglement. The authors uncover SRBD1 as a key mediator of these essential processes that localizes topoisomerase IIα to mitotic chromosomes.",
+          "link": "https://www.nature.com/articles/s41467-025-56911-w",
+          "publishedOn": "2025-02-16T00:00:00.000Z",
+          "wordCount": 14104,
+          "title": "SRBD1 facilitates chromosome segregation by promoting topoisomerase IIα localization to mitotic chromosomes",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-56911-w/MediaObjects/41467_2025_56911_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-025-56662-8",
+          "author": "Swastika Banerjee",
+          "description": "This study demonstrates the role of non-local exchange and correlation interactions in solid electrolytes (SEs) for lithium-ion batteries. Through analysis of argyrodite SEs, it reveals how non-local interactions influence lithium diffusion and structural stability, guiding future SE design.",
+          "link": "https://www.nature.com/articles/s41467-025-56662-8",
+          "publishedOn": "2025-02-15T00:00:00.000Z",
+          "wordCount": 10869,
+          "title": "Non-local interactions determine local structure and lithium diffusion in solid electrolytes",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-56662-8/MediaObjects/41467_2025_56662_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-025-56813-x",
+          "author": "Hannah R. Hrncir",
+          "description": "The bile ducts of the liver form a network of large ducts and small ductules, though how they are patterned remains unclear. Hrncir et al. show that Sox9 is required for the morphogenesis of small intrahepatic bile ductules in mice, highlighting distinct genetic requirements that drive bile duct heterogeneity.",
+          "link": "https://www.nature.com/articles/s41467-025-56813-x",
+          "publishedOn": "2025-02-15T00:00:00.000Z",
+          "wordCount": 17948,
+          "title": "<i>Sox9</i> inhibits Activin A to promote biliary maturation and branching morphogenesis",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-56813-x/MediaObjects/41467_2025_56813_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-025-56924-5",
+          "author": "William A. Stocker",
+          "description": "Domestic cats are sterilized via ovariohysterectomy, but this procedure is not feasible for the larger population of free-roaming cats. Here they show that injecting high levels of anti-Müllerian hormone (AMH) disrupts ovarian function and the maintenance of pregnancy in female domestic cats, suggesting that AMH gene therapy could be used for feline fertility control.",
+          "link": "https://www.nature.com/articles/s41467-025-56924-5",
+          "publishedOn": "2025-02-15T00:00:00.000Z",
+          "wordCount": 12098,
+          "title": "Gene therapy with feline anti-Müllerian hormone analogs disrupts folliculogenesis and induces pregnancy loss in female domestic cats",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-56924-5/MediaObjects/41467_2025_56924_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-025-56601-7",
+          "author": "Juraj Velcicky",
+          "description": "IL-36 receptor is crucial for host defense and tissue repair. Here, the authors describe identification and characterization of low molecular weight inhibitors of the IL-36 receptor using encoded library technologies. This represents a rare example of small molecules inhibiting a member of IL-1 receptor family.",
+          "link": "https://www.nature.com/articles/s41467-025-56601-7",
+          "publishedOn": "2025-02-15T00:00:00.000Z",
+          "wordCount": 13293,
+          "title": "Discovery of selective low molecular weight interleukin-36 receptor antagonists by encoded library technologies",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-56601-7/MediaObjects/41467_2025_56601_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-025-57033-z",
+          "author": "Ramon Duran-Romaña",
+          "description": "During vectorial protein translation, native interactions are temporarily unsatisfied. Here, authors introduce “Native Fold Delay”, integrating protein topology with translation kinetics to quantify the resulting delays in co-translational folding which may result in protein aggregation.",
+          "link": "https://www.nature.com/articles/s41467-025-57033-z",
+          "publishedOn": "2025-02-15T00:00:00.000Z",
+          "wordCount": 14753,
+          "title": "Native Fold Delay and its implications for co-translational chaperone binding and protein aggregation",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-57033-z/MediaObjects/41467_2025_57033_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-025-56811-z",
+          "author": "Xiu Liu",
+          "description": "The realization of active metasurfaces operating in the infrared range remains challenging due to design complexities and scarcity of suitable materials. Here, the authors report the realization of electrically programmable plasmonic metasurfaces integrated with graphene transistors, enabling pixelated thermal emission with low cross-talk and enhanced coherence.",
+          "link": "https://www.nature.com/articles/s41467-025-56811-z",
+          "publishedOn": "2025-02-15T00:00:00.000Z",
+          "wordCount": 11796,
+          "title": "Electrically programmable pixelated coherent mid-infrared thermal emission",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-56811-z/MediaObjects/41467_2025_56811_Fig1_HTML.png"
+        },
         {
           "id": "https://www.nature.com/articles/s41467-025-56271-5",
           "author": "Shengjie Wei",
@@ -1785,6 +1805,76 @@
       "feedUrl": "https://onlinelibrary.wiley.com/action/showFeed?jc=13652486&type=etoc&feed=rss",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/13652486?af=R",
       "articles": [
+        {
+          "id": "10.1111/gcb.70083",
+          "author": "Eszter Lellei‐Kovács, \nZoltán Botta‐Dukát, \nGábor Ónodi, \nAndrea Mojzes, \nGyörgy Kröel‐Dulay",
+          "description": "Global Change Biology, Volume 31, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70083?af=R",
+          "publishedOn": "2025-02-15T07:55:09.000Z",
+          "wordCount": null,
+          "title": "The Negative Legacy Effect of Extreme Drought on Soil Respiration Is Unaffected by Post‐Drought Precipitation Regime in a Temperate Grassland",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/gcb.70067",
+          "author": "L. A. Derry, \nO. A. Chadwick, \nS. Porder",
+          "description": "Global Change Biology, Volume 31, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70067?af=R",
+          "publishedOn": "2025-02-15T07:48:41.000Z",
+          "wordCount": null,
+          "title": "Estimation of Carbon Dioxide Removal via Enhanced Weathering",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/gcb.70068",
+          "author": "Daniel Escobar‐Camacho, \nJulie Crabot, \nRachel Stubbington, \nJudy England, \nRomain Sarremejane, \nNúria Bonada, \nJosé María Fernández‐Calero, \nMiguel Cañedo‐Argüelles, \nCarla Ferreira Rezende, \nPierre Chanut, \nZoltán Csabai, \nAndrea C. Encalada, \nAlex Laini, \nHeikki Mykrä, \nNabor Moya, \nPetr Pařil, \nDaniela Rosero‐López, \nThibault Datry",
+          "description": "Global Change Biology, Volume 31, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70068?af=R",
+          "publishedOn": "2025-02-14T12:02:27.000Z",
+          "wordCount": null,
+          "title": "River Drying Causes Local Losses and Regional Gains in Aquatic Invertebrate Metacommunity Diversity: A Cross‐Continental Comparison",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/gcb.70087",
+          "author": "Timothy Thomson, \nConrad A. Pilditch, \nMarco Fusi, \nNatalie Prinz, \nCarolyn J. Lundquist, \nJoanne I. Ellis",
+          "description": "Global Change Biology, Volume 31, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70087?af=R",
+          "publishedOn": "2025-02-14T11:40:24.000Z",
+          "wordCount": null,
+          "title": "Vulnerability of Labile Organic Matter to Eutrophication and Warming in Temperate Mangrove Ecosystems",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/gcb.70088",
+          "author": "Andrea Corradini, \nSteffen Mumme, \nFrancesca Cagnacci",
+          "description": "Global Change Biology, Volume 31, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70088?af=R",
+          "publishedOn": "2025-02-14T10:42:58.000Z",
+          "wordCount": null,
+          "title": "Bearing the Humans",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/gcb.70091",
+          "author": "Yu Ning, \nFeike A. Dijkstra, \nXiao‐Sa Liang, \nXiao‐Jing Zhang, \nGuo‐Jiao Yang, \nLiang‐Chao Jiang, \nXing‐Guo Han, \nXiao‐Tao Lü",
+          "description": "Global Change Biology, Volume 31, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70091?af=R",
+          "publishedOn": "2025-02-14T10:29:44.000Z",
+          "wordCount": null,
+          "title": "Stronger Response of Plant N:P to Nitrogen Enrichment When Considering Roots",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/gcb.70071",
+          "author": "Kirsi H. Keskitalo, \nLisa Bröder, \nDirk J. Jong, \nPaul J. Mann, \nTommaso Tesi, \nAnna Davydova, \nNikita Zimov, \nNegar Haghipour, \nTimothy I. Eglinton, \nJorien E. Vonk",
+          "description": "Global Change Biology, Volume 31, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70071?af=R",
+          "publishedOn": "2025-02-14T09:48:42.000Z",
+          "wordCount": null,
+          "title": "Greenhouse Gas Emissions and Lateral Carbon Dynamics at an Eroding Yedoma Permafrost Site in Siberia (Duvanny Yar)",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/gcb.70085",
           "author": "Verena C. Schreiner, \nMoritz Link, \nGesa Amelung, \nKatharina Ohler, \nRomana Salis, \nFlorian Leese, \nRalf B. Schäfer",
@@ -2481,26 +2571,6 @@
           "wordCount": null,
           "title": "Effect of reserve protection level and governance on tree cover loss and gain",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14441",
-          "author": "Antony Jacob Sebastian",
-          "description": "Conservation Biology, EarlyView.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14441?af=R",
-          "publishedOn": "2025-01-17T11:05:20.000Z",
-          "wordCount": null,
-          "title": "Epistemological dimensions of Indigenous honey collection in the Kattunaicken community of South India",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14442",
-          "author": "Carsten Smith‐Hall, \nDipesh Pyakurel, \nThorsten Treue, \nMariève Pouliot, \nSuresh Ghimire, \nAnastasiya Timoshyna, \nHenrik Meilby",
-          "description": "Conservation Biology, EarlyView.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14442?af=R",
-          "publishedOn": "2025-01-17T11:05:05.000Z",
-          "wordCount": null,
-          "title": "A roadmap to sustainable management of commercial medicinal and aromatic plants, fungi, and lichens in Nepal",
-          "imageUrl": null
         }
       ]
     },
@@ -2916,6 +2986,36 @@
       "feedUrl": "https://besjournals.onlinelibrary.wiley.com/feed/13652664/most-recent",
       "siteUrl": "https://besjournals.onlinelibrary.wiley.com/journal/13652664?af=R",
       "articles": [
+        {
+          "id": "10.1111/1365-2664.70010",
+          "author": "Eduardo A. Silva‐Rodríguez, \nEsteban I. Cortés, \nViviana Vasquez‐Ibarra, \nNicolás Gálvez, \nJeremy Cusack, \nOmar Ohrens, \nDarío Moreira‐Arce, \nAriel A. Farías, \nJosé Infante‐Varela",
+          "description": "Journal of Applied Ecology, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70010?af=R",
+          "publishedOn": "2025-02-15T07:34:50.000Z",
+          "wordCount": null,
+          "title": "A protocol for error prevention and quality control in camera trap datasets",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/1365-2664.70007",
+          "author": "T. A. Gelmi‐Candusso, \nA. T. M. Chin, \nJ. L. W. Ruppert, \nM.‐J. Fortin",
+          "description": "Journal of Applied Ecology, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70007?af=R",
+          "publishedOn": "2025-02-14T12:20:20.000Z",
+          "wordCount": null,
+          "title": "Urban planning for wildlife connectivity: A multispecies assessment of urban sprawl and SLOSS renaturalization strategies",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/1365-2664.70000",
+          "author": "David Jarrett, \nRoss Barnett, \nTom Bradfer‐Lawrence, \nJérémy S. P. Froidevaux, \nKieran Gibb, \nPauline Guinet, \nJack Greenhalgh, \nBecky Heath, \nAlison Johnston, \nJosé Joaquín Lahoz Monfort, \nAlex Rogers, \nStephen G. Willis, \nOliver Metcalf",
+          "description": "Journal of Applied Ecology, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70000?af=R",
+          "publishedOn": "2025-02-14T09:34:40.000Z",
+          "wordCount": null,
+          "title": "Mitigating bias in long‐term terrestrial ecoacoustic studies",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/1365-2664.70006",
           "author": "Duane R. Diefenbach, \nJacob Trowbridge, \nAmanda Van Buskirk, \nTess McConnell, \nKevin Lamp, \nTiago A. Marques, \nW. David Walter, \nBret D. Wallingford, \nChristopher S. Rosenberry",
@@ -3363,6 +3463,26 @@
       "feedUrl": "https://onlinelibrary.wiley.com/feed/14668238/most-recent",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/14668238?af=R",
       "articles": [
+        {
+          "id": "10.1111/geb.70010",
+          "author": "Bartłomiej Surmacz, \nPatricia María Rodríguez González, \nRoland Jansson, \nTomasz Suchan, \nRemigiusz Pielech",
+          "description": "Global Ecology and Biogeography, Volume 34, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/geb.70010?af=R",
+          "publishedOn": "2025-02-15T05:54:17.000Z",
+          "wordCount": null,
+          "title": "Global‐Scale Analysis Reveals Importance of Environment and Species Traits in Spatial Patterns of Riparian Plants' Genetic Diversity",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/geb.70006",
+          "author": "Joseph Braasch, \nJulio Betancourt, \nOlivier Dézerald, \nUdari Peiris, \nMaura Tapia‐Rozas, \nCristian Villagra, \nClaudio Latorre, \nAngélica L. González",
+          "description": "Global Ecology and Biogeography, Volume 34, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/geb.70006?af=R",
+          "publishedOn": "2025-02-15T05:48:40.000Z",
+          "wordCount": null,
+          "title": "Establishing Historical Baselines of Arthropod Assemblages Using Rodent Paleomiddens",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/geb.70009",
           "author": "B. R. Shipley, \nE. E. Saupe",
@@ -4126,16 +4246,6 @@
           "wordCount": null,
           "title": "A comparison and evaluation of strategies for bulk sequencing of mitogenomes from museum collections",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/2041-210X.14446",
-          "author": "Maria Silvia Labriola, \nPetra Oswine Pammer, \nGiulia Pedrazzi, \nGiancarlo Giacomini, \nGiovanna Jona Lasinio, \nDaniela Silvia Pace",
-          "description": "Methods in Ecology and Evolution, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14446?af=R",
-          "publishedOn": "2025-01-17T11:45:39.000Z",
-          "wordCount": null,
-          "title": "A functional data analysis approach for modelling frequency‐modulated tonal sounds in animal communication",
-          "imageUrl": null
         }
       ]
     },
@@ -4231,6 +4341,16 @@
       "feedUrl": "https://www.tandfonline.com/feed/rss/bher20",
       "siteUrl": "https://www.tandfonline.com/loi/bher20?af=R",
       "articles": [
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464116?af=R",
+          "author": "Hui Zhou Hongfei Yang Xin Zhou Yueqing Wang Chao Hong a School of Ecology and Environment, Anhui Normal University, Wuhu, Chinab Collaborative Innovation Center of Recovery and Reconstruction of Degraded Ecosystem in Wanjiang Basin Co-founded by Anhui Province and Ministry of Education, Anhui Normal University, Wuhu, China",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464116?af=R",
+          "publishedOn": "2025-02-14T04:40:21.000Z",
+          "wordCount": null,
+          "title": "Influences of microplastics alone and co-contaminated with cadmium on physiological responses of Chinese cabbage (Brassica campestris L.), rhizosphere microbes and soil properties in soil",
+          "imageUrl": null
+        },
         {
           "id": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464117?af=R",
           "author": "Mingqian Li He Wang Hongbiao Gu Baoming Chi Changlai Xiao Yuqing Cao Jiang Sun Haining Jiang a Key Laboratory of Groundwater Resources and Environment (Jilin University), Ministry of Education, Changchun, Chinab School of Ecology and Environment, Institute of Disaster Prevention, Langfang, Chinac College of Transportation Engineering, Nanjing Tech University, Nanjing, Chinad Institute of Ecological and Environmental Research, Hydrogeology and Engineering Geology Institute of Hubei Geological Bureau, Wuhan, Chinae Environmental Engineering Center, CCTEG Chongqing Engineering(Group) Co. Ltd, Chongqing, China",
