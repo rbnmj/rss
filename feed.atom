@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-02-16T06:14:38.501Z</updated>
+    <updated>2025-02-17T06:17:14.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Melanocortin 3 receptor regulates hepatic autophagy and systemic adiposity]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56936-1</id>
+        <link href="https://www.nature.com/articles/s41467-025-56936-1"/>
+        <updated>2025-02-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Systemic lipid homeostasis requires hepatic autophagy to recycle intracellular fat. Here, the authors identify peripheral mechanisms regulating energy homeostasis, showing that MC3R is a regulator of hepatic autophagy, hepatic fat accumulation, and fat partitioning, controlling systemic adiposity.]]></summary>
+        <author>
+            <name>Tushar P. Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital aberration correction for enhanced thick tissue imaging exploiting aberration matrix and tilt-tilt correlation from the optical memory effect]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56865-z</id>
+        <link href="https://www.nature.com/articles/s41467-025-56865-z"/>
+        <updated>2025-02-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Optical aberrations can hinder the quality of imaging outputs, affecting research across many disciplines. Here, using the tilt-tilt correlation from the optical memory effect, the authors are able to correct aberrations in challenging conditions, including highly aberrated or moving samples.]]></summary>
+        <author>
+            <name>ChulMin Oh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rhizobacteria protective hydrogel to promote plant growth and adaption to acidic soil]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56988-3</id>
+        <link href="https://www.nature.com/articles/s41467-025-56988-3"/>
+        <updated>2025-02-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Plant growth promoting rhizobacteria can replace chemical fertilizers, but they are susceptible to harsh environmental conditions. Here, the authors report on a protective hydrogel for promoting rhizobacteria colonization to enhance growth and improve adaptability of plants to acidic soil.]]></summary>
+        <author>
+            <name>Qirui Feng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Structural insights into the in situ assembly of clustered protocadherin γB4]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56948-x</id>
+        <link href="https://www.nature.com/articles/s41467-025-56948-x"/>
+        <updated>2025-02-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here, the authors use cryo electron tomography to investigate the in-situ assembly mechanisms of clustered protocadherin γB4, uncovering the functional contributions of full-length γB4 and role played by specific domains.]]></summary>
+        <author>
+            <name>Ze Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bioactive nanomotor enabling efficient intestinal barrier penetration for colorectal cancer therapy]]></title>
+        <id>https://www.nature.com/articles/s41467-025-57045-9</id>
+        <link href="https://www.nature.com/articles/s41467-025-57045-9"/>
+        <updated>2025-02-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Oral drug delivery system has clinical potential for colorectal cancer (CRC) drug therapy but limited by the delivery efficiency when transporting through the formidable intestinal barriers. Here this group reports a Lactobacillus rhamnosus-engineered mesoporous silica nanosystem which effectively penetrates intestinal mucus and epithelial barrier, thereby delivering NO donor BNN6 and cisplatin for in vivo CRC tumor growth inhibition.]]></summary>
+        <author>
+            <name>Zhi-Hao Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TaTCP6 is required for efficient and balanced utilization of nitrate and phosphorus in wheat]]></title>
+        <id>https://www.nature.com/articles/s41467-025-57008-0</id>
+        <link href="https://www.nature.com/articles/s41467-025-57008-0"/>
+        <updated>2025-02-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A nitrate-induced transcription factor TaTCP6 is identified as a central regulator for the efficient and balanced utilization of nitrate and phosphorus, and a moderate increase in its expression promotes wheat yield.]]></summary>
+        <author>
+            <name>Bin Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identification and characterization of cell niches in tissue from spatial omics data at single-cell resolution]]></title>
+        <id>https://www.nature.com/articles/s41467-025-57029-9</id>
+        <link href="https://www.nature.com/articles/s41467-025-57029-9"/>
+        <updated>2025-02-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Deciphering the features, structure, and functions of the cell niche in tissues remains a major challenge. Here, the authors develop scNiche, a computational framework to identify and characterise cell niches from spatial omics data at single-cell resolution.]]></summary>
+        <author>
+            <name>Jingyang Qian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Targeting ELOVL6 to disrupt c-MYC driven lipid metabolism in pancreatic cancer enhances chemosensitivity]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56894-8</id>
+        <link href="https://www.nature.com/articles/s41467-025-56894-8"/>
+        <updated>2025-02-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Overexpression of c-MYC regulates tumor metabolism in pancreatic ductal adenocarcinoma (PDAC). Here the authors identify ELOVL6, a fatty acid elongase regulated by c-MYC, as a potential therapeutic target of PDAC.]]></summary>
+        <author>
+            <name>Ana García García</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SRBD1 facilitates chromosome segregation by promoting topoisomerase IIα localization to mitotic chromosomes]]></title>
         <id>https://www.nature.com/articles/s41467-025-56911-w</id>
