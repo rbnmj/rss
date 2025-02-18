@@ -31,6 +31,12 @@ sources:
   - href: https://epubs.siam.org/action/showFeed?feed=rss&type=etoc&jc=MMS # Multiscale Modeling and Simulation 
   - href: https://www.tandfonline.com/feed/rss/bher20 # Human and Ecological Risk Assessment
   - href: https://ieeexplore.ieee.org/rss/TOC4235.XML # IEEE Transactions on Evolutionary Computation
-
+  - href: https://rss.sciencedirect.com/publication/science/1470160X # Ecological Indicators
+  - href: https://besjournals.onlinelibrary.wiley.com/feed/13652745/most-recent # Journal of Ecology
+  - href: https://nsojournals.onlinelibrary.wiley.com/feed/16000587/most-recent # Ecography
+  - href: https://onlinelibrary.wiley.com/feed/14724642/most-recent # Diversity and Distributions
+  - href: https://onlinelibrary.wiley.com/feed/26374943/most-recent # Environmental DNA
+  - href: https://rss.sciencedirect.com/publication/science/1476945X # Ecological Complexity
+  
 siteTitle: "EcoRSS"
 timezone: Europe/Amsterdam
