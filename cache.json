@@ -163,6 +163,16 @@
       "siteUrl": "https://esajournals.onlinelibrary.wiley.com/journal/19395582?af=R",
       "articles": [
         {
+          "id": "10.1002/eap.3092",
+          "author": "Anita Giraldo‐Ospina, \nTom Bell, \nMark H. Carr, \nJennifer E. Caselle",
+          "description": "Ecological Applications, Volume 35, Issue 1, January 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3092?af=R",
+          "publishedOn": "2025-02-17T07:49:35.000Z",
+          "wordCount": null,
+          "title": "Drivers of spatiotemporal variability in a marine foundation species",
+          "imageUrl": null
+        },
+        {
           "id": "10.1002/eap.70007",
           "author": "Kasey N. Kiesewetter, \nAmanda H. Rawstern, \nEric Cline, \nGina R. Ortiz, \nFabiola Santamaria, \nCarlos Coronado‐Molina, \nFred H. Sklar, \nMichelle E. Afkhami",
           "description": "Ecological Applications, Volume 35, Issue 1, January 2025.",
@@ -563,6 +573,36 @@
       "feedUrl": "https://esajournals.onlinelibrary.wiley.com/feed/21508925/most-recent",
       "siteUrl": "https://esajournals.onlinelibrary.wiley.com/journal/21508925?af=R",
       "articles": [
+        {
+          "id": "10.1002/ecs2.70157",
+          "author": "Sebastián Escobar, \nFelicity L. Newell, \nMaría‐José Endara, \nJuan E. Guevara‐Andino, \nAnna R. Landim, \nEike Lena Neuschulz, \nRonja Hausmann, \nJörg Müller, \nKaren M. Pedersen, \nMatthias Schleuning, \nConstance J. Tremlett, \nEdith Villa‐Galaviz, \nH. Martin Schaefer, \nDavid A. Donoso, \nNico Blüthgen",
+          "description": "Ecosphere, Volume 16, Issue 2, February 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70157?af=R",
+          "publishedOn": "2025-02-17T08:30:06.000Z",
+          "wordCount": null,
+          "title": "Reassembly of a tropical rainforest: A new chronosequence in the Chocó tested with the recovery of tree attributes",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecs2.70127",
+          "author": "Yoseline Angel, \nAnn Raiho, \nDhruva Kathuria, \nK. Dana Chadwick, \nPhilip G. Brodrick, \nEvan Lang, \nFrancisco Ochoa, \nAlexey N. Shiklomanov",
+          "description": "Ecosphere, Volume 16, Issue 2, February 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70127?af=R",
+          "publishedOn": "2025-02-17T08:25:28.000Z",
+          "wordCount": null,
+          "title": "Deciphering the spectra of flowers to map landscape‐scale blooming dynamics",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecs2.70183",
+          "author": "Jacob Walker, \nTrevor S. Avery, \nFrancis St‐Pierre, \nJean‐François Rail, \nDanielle E. A. Quinn, \nMatthew English, \nStephanie Avery‐Gomm",
+          "description": "Ecosphere, Volume 16, Issue 2, February 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70183?af=R",
+          "publishedOn": "2025-02-17T08:05:57.000Z",
+          "wordCount": null,
+          "title": "An accurate and efficient semiautomated approach to counting birds: Estimating Northern Gannet colony size in Canada",
+          "imageUrl": null
+        },
         {
           "id": "10.1002/ecs2.70165",
           "author": "Ricardo DeSantiago, \nWendi K. White, \nJohn R. Hyde, \nKatherine M. Swiney, \nJeremy D. Long",
@@ -1144,6 +1184,86 @@
       "feedUrl": "https://www.nature.com/ncomms.rss",
       "siteUrl": "http://feeds.nature.com/ncomms/rss/current",
       "articles": [
+        {
+          "id": "https://www.nature.com/articles/s41467-025-56920-9",
+          "author": "Hangfeng Zhang",
+          "description": "Erbium-doped lead magnesium niobium titanate ceramics demonstrate ultrahigh strain and piezoelectric coefficients under low electric fields, setting a benchmark for piezoelectric materials and offering versatile applications in precision actuators and sensors.",
+          "link": "https://www.nature.com/articles/s41467-025-56920-9",
+          "publishedOn": "2025-02-18T00:00:00.000Z",
+          "wordCount": 9586,
+          "title": "Phase transformation in lead titanate based relaxor ferroelectrics with ultra-high strain",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-56920-9/MediaObjects/41467_2025_56920_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-025-57028-w",
+          "author": "Xiaohong Zhang",
+          "description": "The stability and delivery of biopesticides limits application. Here, azadirachtin is co-assembled with plant secondary metabolites for efficient drug delivery, demonstrating pest management, the activation of plant defensive capacity, while increasing the production yield of crops.",
+          "link": "https://www.nature.com/articles/s41467-025-57028-w",
+          "publishedOn": "2025-02-18T00:00:00.000Z",
+          "wordCount": 11771,
+          "title": "Sustainable pest management using plant secondary metabolites regulated azadirachtin nano-assemblies",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-57028-w/MediaObjects/41467_2025_57028_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-025-57011-5",
+          "author": "Jizhong Wang",
+          "description": "Metabolic dysfunction is an important characteristic of vascular smooth muscle cells (VSMCs) phenotypic transition in aortic dissection. Here, the authors show lncRNA H19 could encode a peptide, GMRSP. GMRSP regulates the glycolysis by counteracting hnRNP A2B1-mediated pyruvate kinase M pre-mRNA alternative splicing and control the phenotypic transition of VSMCs.",
+          "link": "https://www.nature.com/articles/s41467-025-57011-5",
+          "publishedOn": "2025-02-18T00:00:00.000Z",
+          "wordCount": 15632,
+          "title": "GMRSP encoded by lncRNA H19 regulates metabolic reprogramming and alleviates aortic dissection",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-57011-5/MediaObjects/41467_2025_57011_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-025-57017-z",
+          "author": "Thomas Faherty",
+          "description": "Nature Communications - Author Correction: Acute particulate matter exposure diminishes executive cognitive functioning after four hours regardless of inhalation pathway",
+          "link": "https://www.nature.com/articles/s41467-025-57017-z",
+          "publishedOn": "2025-02-17T00:00:00.000Z",
+          "wordCount": 2296,
+          "title": "Author Correction: Acute particulate matter exposure diminishes executive cognitive functioning after four hours regardless of inhalation pathway",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-025-57020-4",
+          "author": "Tara Muijlwijk",
+          "description": "Nature Communications - Author Correction: Hallmarks of a genomically distinct subclass of head and neck cancer",
+          "link": "https://www.nature.com/articles/s41467-025-57020-4",
+          "publishedOn": "2025-02-17T00:00:00.000Z",
+          "wordCount": 3210,
+          "title": "Author Correction: Hallmarks of a genomically distinct subclass of head and neck cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-025-57021-3",
+          "author": "Chunlan Zhuang",
+          "description": "Effectiveness of the hepatitis E vaccine HEV 239 amongst high-risk groups isn’t well studied. Here, Zhuang et al. analyse a decade of surveillance data (2007–2017) from Dongtai, China, and estimate HEV 239 effectiveness of 72% amongst hepatitis B virus infected people.",
+          "link": "https://www.nature.com/articles/s41467-025-57021-3",
+          "publishedOn": "2025-02-17T00:00:00.000Z",
+          "wordCount": 8618,
+          "title": "Effectiveness of a hepatitis E vaccine against medically-attended symptomatic infection in HBsAg-positive adults from a test-negative design study",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-57021-3/MediaObjects/41467_2025_57021_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-025-56875-x",
+          "author": "Jana Marielle Modenbach",
+          "description": "Here, the authors show that cystatin C (CST3) regulates the activity of cathepsin B during pancreatitis in a pH dependent manner. Moreover, cathepsin B activity is inhibited by monomeric CST3 but activated by dimeric CST3.",
+          "link": "https://www.nature.com/articles/s41467-025-56875-x",
+          "publishedOn": "2025-02-17T00:00:00.000Z",
+          "wordCount": 17534,
+          "title": "Biochemical analyses of cystatin-C dimers and cathepsin-B reveals a trypsin-driven feedback mechanism in acute pancreatitis",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-56875-x/MediaObjects/41467_2025_56875_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41467-025-56990-9",
+          "author": "Clare MacRae",
+          "description": "The ability to manage ill health and care needs might be affected by who a person lives with. Here, authors show that living alone or with co-residents with multimorbidity poses additional risk for unplanned hospitalisation and care home transition beyond an individual’s characteristics.",
+          "link": "https://www.nature.com/articles/s41467-025-56990-9",
+          "publishedOn": "2025-02-17T00:00:00.000Z",
+          "wordCount": 8453,
+          "title": "Impact of household size and co-resident multimorbidity on unplanned hospitalisation and transition to care home",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-56990-9/MediaObjects/41467_2025_56990_Fig1_HTML.png"
+        },
         {
           "id": "https://www.nature.com/articles/s41467-025-56936-1",
           "author": "Tushar P. Patel",
@@ -1789,6 +1909,26 @@
       "siteUrl": "http://feeds.nature.com/natecolevol/rss/current",
       "articles": [
         {
+          "id": "https://www.nature.com/articles/s41559-025-02636-4",
+          "author": "Justine Bell-James",
+          "description": "Analysis of the 36 National Biodiversity Strategies and Action Plans that were submitted to the Convention on Biological Diversity by 21 October 2024 reveal that no nation has yet created a plan that meets all elements of targets 2 and 3 of the Kunming-Montreal Global Biodiversity Framework.",
+          "link": "https://www.nature.com/articles/s41559-025-02636-4",
+          "publishedOn": "2025-02-17T00:00:00.000Z",
+          "wordCount": 5609,
+          "title": "Ambitions in national plans do not yet match bold international protection and restoration commitments",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-025-02636-4/MediaObjects/41559_2025_2636_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41559-024-02575-6",
+          "author": "Sarah P. Saunders",
+          "description": "On the basis of data from >329,000 migratory birds, this study presents multispecies migratory connectivity as a parameter representing exposure to global change and shows that connections between breeding regions in Canada and non-breeding regions in South America are at greatest risk from global change.",
+          "link": "https://www.nature.com/articles/s41559-024-02575-6",
+          "publishedOn": "2025-02-17T00:00:00.000Z",
+          "wordCount": 7405,
+          "title": "Multispecies migratory connectivity indicates hemispheric-scale risk to bird populations from global change",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-024-02575-6/MediaObjects/41559_2024_2575_Fig1_HTML.png"
+        },
+        {
           "id": "https://www.nature.com/articles/s41559-025-02642-6",
           "author": "Ye Li",
           "description": "An analysis of single-cell RNA sequencing data from adult and developing lungs across vertebrate species reveals genetic components in the common ancestor of jawed vertebrates and new lung-specific enhancers that contribute to the evolution of vertebrate lungs.",
@@ -1885,6 +2025,16 @@
       "feedUrl": "https://onlinelibrary.wiley.com/action/showFeed?jc=13652486&type=etoc&feed=rss",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/13652486?af=R",
       "articles": [
+        {
+          "id": "10.1111/gcb.70082",
+          "author": "Irene Guerrero, \nManuel B. Morales",
+          "description": "Global Change Biology, Volume 31, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70082?af=R",
+          "publishedOn": "2025-02-17T08:06:04.000Z",
+          "wordCount": null,
+          "title": "Reinforcing the Significance of Crop Diversity for Biodiversity Conservation in the Face of Agricultural Expansion",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/gcb.70083",
           "author": "Eszter Lellei‐Kovács, \nZoltán Botta‐Dukát, \nGábor Ónodi, \nAndrea Mojzes, \nGyörgy Kröel‐Dulay",
@@ -3544,6 +3694,16 @@
       "siteUrl": "https://onlinelibrary.wiley.com/journal/14668238?af=R",
       "articles": [
         {
+          "id": "10.1111/geb.70004",
+          "author": "Joanne M. Morten, \nAna P. B. Carneiro, \nMartin Beal, \nAnne‐Sophie Bonnet‐Lebrun, \nMaria P. Dias, \nMarie‐Morgane Rouyer, \nAutumn‐Lynn Harrison, \nJacob González‐Solís, \nVictoria R. Jones, \nVirginia A. Garcia Alonso, \nMichelle Antolos, \nJavier A. Arata, \nChristophe Barbraud, \nElizabeth A. Bell, \nMike Bell, \nSamhita Bose, \nSharyn Broni, \nMichael de L Brooke, \nStuart H. M. Butchart, \nNicholas Carlile, \nPaulo Catry, \nTeresa Catry, \nMatt Charteris, \nYves Cherel, \nBethany L. Clark, \nThomas A. Clay, \nNik C. Cole, \nMelinda G. Conners, \nIgor Debski, \nKarine Delord, \nCarsten Egevang, \nGraeme Elliot, \nJan Esefeld, \nColin Facer, \nAnnette L. Fayet, \nRuben C. Fijn, \nJohannes H. Fischer, \nKirsty A. Franklin, \nOlivier Gilg, \nJennifer A. Gill, \nJosé P. Granadeiro, \nTim Guilford, \nJonathan M. Handley, \nSveinn A. Hanssen, \nLucy A. Hawkes, \nApril Hedd, \nAudrey Jaeger, \nCarl G. Jones, \nChristopher W. Jones, \nMatthias Kopp, \nJohannes Krietsch, \nTodd J. Landers, \nJohannes Lang, \nMatthieu Le Corre, \nMark L. Mallory, \nJuan F. Masello, \nSara M. Maxwell, \nFernando Medrano, \nTeresa Militão, \nCraig D. Millar, \nBørge Moe, \nWilliam A. Montevecchi, \nLeia Navarro‐Herrero, \nVerónica C. Neves, \nDavid G. Nicholls, \nMalcolm A. C. Nicoll, \nKen Norris, \nTerence W. O'Dwyer, \nGraham C. Parker, \nHans‐Ulrich Peter, \nRichard A. Phillips, \nPetra Quillfeldt, \nJaime A. Ramos, \nRaül Ramos, \nMatt J. Rayner, \nKalinka Rexer‐Huber, \nRobert A. Ronconi, \nKevin Ruhomaun, \nPeter G. Ryan, \nPaul M. Sagar, \nSarah Saldanha, \nNiels M. Schmidt, \nHendrik Schultz, \nScott A. Shaffer, \nIain J. Stenhouse, \nAkinori Takahashi, \nVikash Tatayah, \nGraeme A. Taylor, \nDavid R. Thompson, \nTheo Thompson, \nRob van Bemmelen, \nDiego Vicente‐Sastre, \nFreydís Vigfúsdottir, \nKath J. Walker, \nJim Watts, \nHenri Weimerskirch, \nTakashi Yamamoto, \nTammy E. Davies",
+          "description": "Global Ecology and Biogeography, Volume 34, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/geb.70004?af=R",
+          "publishedOn": "2025-02-17T05:08:40.000Z",
+          "wordCount": null,
+          "title": "Global Marine Flyways Identified for Long‐Distance Migrating Seabirds From Tracking Data",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/geb.70010",
           "author": "Bartłomiej Surmacz, \nPatricia María Rodríguez González, \nRoland Jansson, \nTomasz Suchan, \nRemigiusz Pielech",
           "description": "Global Ecology and Biogeography, Volume 34, Issue 2, February 2025.",
@@ -4334,6 +4494,16 @@
       "feedUrl": "https://epubs.siam.org/action/showFeed?feed=rss&type=etoc&jc=MMS",
       "siteUrl": "https://epubs.siam.org/loi/mmsubt?af=R",
       "articles": [
+        {
+          "id": "https://epubs.siam.org/doi/abs/10.1137/24M165168X?af=R",
+          "author": "Tina Torabi",
+          "description": "Multiscale Modeling & Simulation, Volume 23, Issue 1, Page 514-544, March 2025. \n Abstract. The temperature-dependent behavior of defect densities within a crystalline structure is intricately linked to the phenomenon of vibrational entropy. Traditional methods for evaluating vibrational entropy are computationally intensive, limiting their practical utility. Building on [J. Braun, M. H. Duong, and C. Ortner, Arch. Ration. Mech. Anal., 238 (2020), pp. 1413–1474], we show that total entropy can be decomposed into atomic site contributions and rigorously estimate the locality of site entropy. This analysis suggests that vibrational entropy can be effectively predicted using a surrogate model for site entropy. We employ machine learning to develop such a surrogate models employing the atomic cluster expansion model. We supplement our rigorous analysis with an empirical convergence study. In addition we demonstrate the performance of our method for predicting vibrational formation entropy and attempt frequency of the transition rates on point defects such as vacancies and interstitials.",
+          "link": "https://epubs.siam.org/doi/abs/10.1137/24M165168X?af=R",
+          "publishedOn": "2025-02-17T08:00:00.000Z",
+          "wordCount": null,
+          "title": "Surrogate Models for Vibrational Entropy Based on a Spatial Decomposition",
+          "imageUrl": null
+        },
         {
           "id": "https://epubs.siam.org/doi/abs/10.1137/23M1610720?af=R",
           "author": "Sam D. Howison",

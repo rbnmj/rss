@@ -2,10 +2,309 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-02-17T06:17:14.391Z</updated>
+    <updated>2025-02-18T06:16:21.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Phase transformation in lead titanate based relaxor ferroelectrics with ultra-high strain]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56920-9</id>
+        <link href="https://www.nature.com/articles/s41467-025-56920-9"/>
+        <updated>2025-02-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Erbium-doped lead magnesium niobium titanate ceramics demonstrate ultrahigh strain and piezoelectric coefficients under low electric fields, setting a benchmark for piezoelectric materials and offering versatile applications in precision actuators and sensors.]]></summary>
+        <author>
+            <name>Hangfeng Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sustainable pest management using plant secondary metabolites regulated azadirachtin nano-assemblies]]></title>
+        <id>https://www.nature.com/articles/s41467-025-57028-w</id>
+        <link href="https://www.nature.com/articles/s41467-025-57028-w"/>
+        <updated>2025-02-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The stability and delivery of biopesticides limits application. Here, azadirachtin is co-assembled with plant secondary metabolites for efficient drug delivery, demonstrating pest management, the activation of plant defensive capacity, while increasing the production yield of crops.]]></summary>
+        <author>
+            <name>Xiaohong Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GMRSP encoded by lncRNA H19 regulates metabolic reprogramming and alleviates aortic dissection]]></title>
+        <id>https://www.nature.com/articles/s41467-025-57011-5</id>
+        <link href="https://www.nature.com/articles/s41467-025-57011-5"/>
+        <updated>2025-02-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Metabolic dysfunction is an important characteristic of vascular smooth muscle cells (VSMCs) phenotypic transition in aortic dissection. Here, the authors show lncRNA H19 could encode a peptide, GMRSP. GMRSP regulates the glycolysis by counteracting hnRNP A2B1-mediated pyruvate kinase M pre-mRNA alternative splicing and control the phenotypic transition of VSMCs.]]></summary>
+        <author>
+            <name>Jizhong Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reassembly of a tropical rainforest: A new chronosequence in the Chocó tested with the recovery of tree attributes]]></title>
+        <id>10.1002/ecs2.70157</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70157?af=R"/>
+        <updated>2025-02-17T08:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Sebastián Escobar, 
+Felicity L. Newell, 
+María‐José Endara, 
+Juan E. Guevara‐Andino, 
+Anna R. Landim, 
+Eike Lena Neuschulz, 
+Ronja Hausmann, 
+Jörg Müller, 
+Karen M. Pedersen, 
+Matthias Schleuning, 
+Constance J. Tremlett, 
+Edith Villa‐Galaviz, 
+H. Martin Schaefer, 
+David A. Donoso, 
+Nico Blüthgen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deciphering the spectra of flowers to map landscape‐scale blooming dynamics]]></title>
+        <id>10.1002/ecs2.70127</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70127?af=R"/>
+        <updated>2025-02-17T08:25:28.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Yoseline Angel, 
+Ann Raiho, 
+Dhruva Kathuria, 
+K. Dana Chadwick, 
+Philip G. Brodrick, 
+Evan Lang, 
+Francisco Ochoa, 
+Alexey N. Shiklomanov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reinforcing the Significance of Crop Diversity for Biodiversity Conservation in the Face of Agricultural Expansion]]></title>
+        <id>10.1111/gcb.70082</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70082?af=R"/>
+        <updated>2025-02-17T08:06:04.000Z</updated>
+        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Irene Guerrero, 
+Manuel B. Morales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An accurate and efficient semiautomated approach to counting birds: Estimating Northern Gannet colony size in Canada]]></title>
+        <id>10.1002/ecs2.70183</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70183?af=R"/>
+        <updated>2025-02-17T08:05:57.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Jacob Walker, 
+Trevor S. Avery, 
+Francis St‐Pierre, 
+Jean‐François Rail, 
+Danielle E. A. Quinn, 
+Matthew English, 
+Stephanie Avery‐Gomm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surrogate Models for Vibrational Entropy Based on a Spatial Decomposition]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/24M165168X?af=R</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/24M165168X?af=R"/>
+        <updated>2025-02-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiscale Modeling & Simulation, Volume 23, Issue 1, Page 514-544, March 2025. 
+ Abstract. The temperature-dependent behavior of defect densities within a crystalline structure is intricately linked to the phenomenon of vibrational entropy. Traditional methods for evaluating vibrational entropy are computationally intensive, limiting their practical utility. Building on [J. Braun, M. H. Duong, and C. Ortner, Arch. Ration. Mech. Anal., 238 (2020), pp. 1413–1474], we show that total entropy can be decomposed into atomic site contributions and rigorously estimate the locality of site entropy. This analysis suggests that vibrational entropy can be effectively predicted using a surrogate model for site entropy. We employ machine learning to develop such a surrogate models employing the atomic cluster expansion model. We supplement our rigorous analysis with an empirical convergence study. In addition we demonstrate the performance of our method for predicting vibrational formation entropy and attempt frequency of the transition rates on point defects such as vacancies and interstitials.]]></summary>
+        <author>
+            <name>Tina Torabi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drivers of spatiotemporal variability in a marine foundation species]]></title>
+        <id>10.1002/eap.3092</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3092?af=R"/>
+        <updated>2025-02-17T07:49:35.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
+        <author>
+            <name>Anita Giraldo‐Ospina, 
+Tom Bell, 
+Mark H. Carr, 
+Jennifer E. Caselle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Marine Flyways Identified for Long‐Distance Migrating Seabirds From Tracking Data]]></title>
+        <id>10.1111/geb.70004</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/geb.70004?af=R"/>
+        <updated>2025-02-17T05:08:40.000Z</updated>
+        <summary type="html"><![CDATA[Global Ecology and Biogeography, Volume 34, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Joanne M. Morten, 
+Ana P. B. Carneiro, 
+Martin Beal, 
+Anne‐Sophie Bonnet‐Lebrun, 
+Maria P. Dias, 
+Marie‐Morgane Rouyer, 
+Autumn‐Lynn Harrison, 
+Jacob González‐Solís, 
+Victoria R. Jones, 
+Virginia A. Garcia Alonso, 
+Michelle Antolos, 
+Javier A. Arata, 
+Christophe Barbraud, 
+Elizabeth A. Bell, 
+Mike Bell, 
+Samhita Bose, 
+Sharyn Broni, 
+Michael de L Brooke, 
+Stuart H. M. Butchart, 
+Nicholas Carlile, 
+Paulo Catry, 
+Teresa Catry, 
+Matt Charteris, 
+Yves Cherel, 
+Bethany L. Clark, 
+Thomas A. Clay, 
+Nik C. Cole, 
+Melinda G. Conners, 
+Igor Debski, 
+Karine Delord, 
+Carsten Egevang, 
+Graeme Elliot, 
+Jan Esefeld, 
+Colin Facer, 
+Annette L. Fayet, 
+Ruben C. Fijn, 
+Johannes H. Fischer, 
+Kirsty A. Franklin, 
+Olivier Gilg, 
+Jennifer A. Gill, 
+José P. Granadeiro, 
+Tim Guilford, 
+Jonathan M. Handley, 
+Sveinn A. Hanssen, 
+Lucy A. Hawkes, 
+April Hedd, 
+Audrey Jaeger, 
+Carl G. Jones, 
+Christopher W. Jones, 
+Matthias Kopp, 
+Johannes Krietsch, 
+Todd J. Landers, 
+Johannes Lang, 
+Matthieu Le Corre, 
+Mark L. Mallory, 
+Juan F. Masello, 
+Sara M. Maxwell, 
+Fernando Medrano, 
+Teresa Militão, 
+Craig D. Millar, 
+Børge Moe, 
+William A. Montevecchi, 
+Leia Navarro‐Herrero, 
+Verónica C. Neves, 
+David G. Nicholls, 
+Malcolm A. C. Nicoll, 
+Ken Norris, 
+Terence W. O'Dwyer, 
+Graham C. Parker, 
+Hans‐Ulrich Peter, 
+Richard A. Phillips, 
+Petra Quillfeldt, 
+Jaime A. Ramos, 
+Raül Ramos, 
+Matt J. Rayner, 
+Kalinka Rexer‐Huber, 
+Robert A. Ronconi, 
+Kevin Ruhomaun, 
+Peter G. Ryan, 
+Paul M. Sagar, 
+Sarah Saldanha, 
+Niels M. Schmidt, 
+Hendrik Schultz, 
+Scott A. Shaffer, 
+Iain J. Stenhouse, 
+Akinori Takahashi, 
+Vikash Tatayah, 
+Graeme A. Taylor, 
+David R. Thompson, 
+Theo Thompson, 
+Rob van Bemmelen, 
+Diego Vicente‐Sastre, 
+Freydís Vigfúsdottir, 
+Kath J. Walker, 
+Jim Watts, 
+Henri Weimerskirch, 
+Takashi Yamamoto, 
+Tammy E. Davies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Author Correction: Acute particulate matter exposure diminishes executive cognitive functioning after four hours regardless of inhalation pathway]]></title>
+        <id>https://www.nature.com/articles/s41467-025-57017-z</id>
+        <link href="https://www.nature.com/articles/s41467-025-57017-z"/>
+        <updated>2025-02-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nature Communications - Author Correction: Acute particulate matter exposure diminishes executive cognitive functioning after four hours regardless of inhalation pathway]]></summary>
+        <author>
+            <name>Thomas Faherty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Author Correction: Hallmarks of a genomically distinct subclass of head and neck cancer]]></title>
+        <id>https://www.nature.com/articles/s41467-025-57020-4</id>
+        <link href="https://www.nature.com/articles/s41467-025-57020-4"/>
+        <updated>2025-02-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nature Communications - Author Correction: Hallmarks of a genomically distinct subclass of head and neck cancer]]></summary>
+        <author>
+            <name>Tara Muijlwijk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effectiveness of a hepatitis E vaccine against medically-attended symptomatic infection in HBsAg-positive adults from a test-negative design study]]></title>
+        <id>https://www.nature.com/articles/s41467-025-57021-3</id>
+        <link href="https://www.nature.com/articles/s41467-025-57021-3"/>
+        <updated>2025-02-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Effectiveness of the hepatitis E vaccine HEV 239 amongst high-risk groups isn’t well studied. Here, Zhuang et al. analyse a decade of surveillance data (2007–2017) from Dongtai, China, and estimate HEV 239 effectiveness of 72% amongst hepatitis B virus infected people.]]></summary>
+        <author>
+            <name>Chunlan Zhuang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biochemical analyses of cystatin-C dimers and cathepsin-B reveals a trypsin-driven feedback mechanism in acute pancreatitis]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56875-x</id>
+        <link href="https://www.nature.com/articles/s41467-025-56875-x"/>
+        <updated>2025-02-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here, the authors show that cystatin C (CST3) regulates the activity of cathepsin B during pancreatitis in a pH dependent manner. Moreover, cathepsin B activity is inhibited by monomeric CST3 but activated by dimeric CST3.]]></summary>
+        <author>
+            <name>Jana Marielle Modenbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impact of household size and co-resident multimorbidity on unplanned hospitalisation and transition to care home]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56990-9</id>
+        <link href="https://www.nature.com/articles/s41467-025-56990-9"/>
+        <updated>2025-02-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The ability to manage ill health and care needs might be affected by who a person lives with. Here, authors show that living alone or with co-residents with multimorbidity poses additional risk for unplanned hospitalisation and care home transition beyond an individual’s characteristics.]]></summary>
+        <author>
+            <name>Clare MacRae</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambitions in national plans do not yet match bold international protection and restoration commitments]]></title>
+        <id>https://www.nature.com/articles/s41559-025-02636-4</id>
+        <link href="https://www.nature.com/articles/s41559-025-02636-4"/>
+        <updated>2025-02-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Analysis of the 36 National Biodiversity Strategies and Action Plans that were submitted to the Convention on Biological Diversity by 21 October 2024 reveal that no nation has yet created a plan that meets all elements of targets 2 and 3 of the Kunming-Montreal Global Biodiversity Framework.]]></summary>
+        <author>
+            <name>Justine Bell-James</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multispecies migratory connectivity indicates hemispheric-scale risk to bird populations from global change]]></title>
+        <id>https://www.nature.com/articles/s41559-024-02575-6</id>
+        <link href="https://www.nature.com/articles/s41559-024-02575-6"/>
+        <updated>2025-02-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On the basis of data from >329,000 migratory birds, this study presents multispecies migratory connectivity as a parameter representing exposure to global change and shows that connections between breeding regions in Canada and non-breeding regions in South America are at greatest risk from global change.]]></summary>
+        <author>
+            <name>Sarah P. Saunders</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Melanocortin 3 receptor regulates hepatic autophagy and systemic adiposity]]></title>
         <id>https://www.nature.com/articles/s41467-025-56936-1</id>
