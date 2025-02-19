@@ -2,10 +2,190 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-02-19T06:16:43.769Z</updated>
+    <updated>2025-02-19T10:10:12.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gradient surface metrics of ecosystem structural diversity and their relationship with productivity across macrosystems]]></title>
+        <id>10.1002/ecs2.70172</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70172?af=R"/>
+        <updated>2025-02-19T08:55:20.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Elizabeth A. LaRue, 
+Kylie M. Rezendes, 
+Dennis H. Choi, 
+Jianmin Wang, 
+Anna G. Downing, 
+Songlin Fei, 
+Brady S. Hardiman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nutrient inputs in mesocosms of an oligotrophic lake fail to sustain an algal bloom]]></title>
+        <id>10.1002/ecs2.70175</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70175?af=R"/>
+        <updated>2025-02-19T08:54:19.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Jacquelyn L. Lewis, 
+Brian M. Mattes, 
+Erika K. Yates, 
+Emily Palmer, 
+Jeffrey R. Johansen, 
+Rick A. Relyea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urban Environments Promote Adaptation to Multiple Stressors]]></title>
+        <id>10.1111/ele.70074</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70074?af=R"/>
+        <updated>2025-02-19T08:03:49.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Elizabeta Briski, 
+Louisa Langrehr, 
+Syrmalenia G. Kotronaki, 
+Alena Sidow, 
+Cindy Giselle Martinez Reyes, 
+Antonios Geropoulos, 
+Gregor Steffen, 
+Nora Theurich, 
+James W. E. Dickey, 
+Jasmin C. Hütt, 
+Phillip J. Haubrock, 
+Ismael Soto, 
+Antonín Kouba, 
+Ross N. Cuthbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is a Specialist? Quantifying Host Breadth Enables Impact Prediction for Invasive Herbivores]]></title>
+        <id>10.1111/ele.70083</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70083?af=R"/>
+        <updated>2025-02-19T08:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Ashley N. Schulz, 
+Nathan P. Havill, 
+Travis D. Marsico, 
+Matthew P. Ayres, 
+Kamal J.K. Gandhi, 
+Daniel A. Herms, 
+Angela M. Hoover, 
+Ruth A. Hufbauer, 
+Andrew M. Liebhold, 
+Kenneth F. Raffa, 
+Kathryn A. Thomas, 
+Patrick C. Tobin, 
+Daniel R. Uden, 
+Angela M. Mech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paleorecords Reveal Biological Mechanisms Crucial for Reliable Species Range Shift Projections Amid Rapid Climate Change]]></title>
+        <id>10.1111/ele.70080</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70080?af=R"/>
+        <updated>2025-02-19T07:05:15.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Victor Van der Meersch, 
+Edward Armstrong, 
+Florent Mouillot, 
+Anne Duputié, 
+Hendrik Davi, 
+Frédérik Saltré, 
+Isabelle Chuine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The presence of American beech litter can alter the growth response of sugar maple seedlings to drought]]></title>
+        <id>10.1002/ecs2.70103</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70103?af=R"/>
+        <updated>2025-02-19T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Alexandre Collin, 
+Claudele Ghotsa Mekontchou, 
+Audrey Maheu, 
+Phillipe Nolet, 
+Francesca Sotelo, 
+David Rivest</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low‐cost technology supports propagation of endemic species from a global biodiversity hotspot]]></title>
+        <id>10.1111/rec.70005</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/rec.70005?af=R"/>
+        <updated>2025-02-19T06:59:14.000Z</updated>
+        <summary type="html"><![CDATA[Restoration Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Flávia S. Faria, 
+Carlos A. Ordóñez‐Parra, 
+Lívia Granata, 
+Luciane V. Resende, 
+Fernando A. O. Silveira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The fallacy of single imputation for trait databases: Use multiple imputation instead]]></title>
+        <id>10.1111/2041-210X.14494</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14494?af=R"/>
+        <updated>2025-02-19T06:45:02.000Z</updated>
+        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
+        <author>
+            <name>Simone P. Blomberg, 
+Orlin S. Todorov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evaluation of Environmental DNA as a Surveillance Tool for Invasive House Mice (Mus musculus)]]></title>
+        <id>10.1002/edn3.70069</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1002/edn3.70069?af=R"/>
+        <updated>2025-02-19T04:54:27.000Z</updated>
+        <summary type="html"><![CDATA[Environmental DNA, Volume 7, Issue 1, January–February 2025.]]></summary>
+        <author>
+            <name>Antoinette J. Piaggio, 
+Stacie J. Robinson, 
+Aaron B. Shiels, 
+Daniel R. Taylor, 
+Danika R. Spock, 
+Meagan Allira, 
+Megan Serr, 
+Caroline M. Klein, 
+John Godwin, 
+James C. Russell, 
+Shaun Wilkinson, 
+Nick D. Holmes, 
+David J. Will, 
+Neil J. Gemmell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using gravel pits as novel fire refugia for the threatened Tasmanian paleoendemic conifer Athrotaxis cupressoides]]></title>
+        <id>10.1111/rec.70003</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/rec.70003?af=R"/>
+        <updated>2025-02-19T03:29:56.000Z</updated>
+        <summary type="html"><![CDATA[Restoration Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Lynda D. Prior, 
+Scott C. Nichols, 
+Ben J. French, 
+Herbert Staubmann, 
+David M. J. S. Bowman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tip carbon encapsulation customizes cationic enrichment and valence stabilization for low K<sup>+</sup> acidic CO<sub>2</sub> electroreduction]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56977-6</id>
+        <link href="https://www.nature.com/articles/s41467-025-56977-6"/>
+        <updated>2025-02-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Acidic electrochemical CO2 conversion is a promising alternative to overcome low CO2 utilization. Here, the authors report a robust carbon coated tip-like In2O3 electrocatalyst that demonstrates an enhanced activity for the direct production of HCOOH in a strongly acidic and low K+ electrolyte.]]></summary>
+        <author>
+            <name>Zhitong Wang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A small signaling domain controls PPIP5K phosphatase activity in phosphate homeostasis]]></title>
         <id>https://www.nature.com/articles/s41467-025-56937-0</id>
@@ -336,6 +516,19 @@ Carlos E. L. Ferreira</name>
     <entry>
         <title type="html"><![CDATA[Spatial Modelling Approaches for Estimating Richness of Benthic Invertebrates Throughout New Zealand Waters]]></title>
         <id>10.1111/ddi.70006</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ddi.70006?af=R"/>
+        <updated>2025-02-18T11:18:23.000Z</updated>
+        <summary type="html"><![CDATA[Diversity and Distributions, Volume 31, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Tom Brough, 
+Fabrice Stephenson, 
+Eva Leunissen, 
+Carolyn Lundquist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spatial Modelling Approaches for Estimating Richness of Benthic Invertebrates Throughout New Zealand Waters]]></title>
+        <id>10.1111/ddi.70006</id>
         <link href="https://wol-prod-cdn.literatumonline.com/doi/10.1111/ddi.70006?af=R"/>
         <updated>2025-02-18T11:18:23.000Z</updated>
         <summary type="html"><![CDATA[Diversity and Distributions, Volume 31, Issue 2, February 2025.]]></summary>
@@ -493,6 +686,36 @@ Jairo Patiño</name>
         <author>
             <name>Jeffrey R. Smith, 
 Jonathan M. Levine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incorporating socioeconomic variables in coastal vulnerability assessment on the Southern Coast of Yogyakarta, Indonesia]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464918?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464918?af=R"/>
+        <updated>2025-02-18T05:34:28.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Asmorowati Muhammad Baiquni Langgeng Wahyu Santosa a Student of Doctoral Program in Geographical Science, Faculty of Geography, Universitas Gadjah Mada, Yogyakarta, Indonesiab Department of Development Geography, Faculty of Geography, Universitas Gadjah Mada, Yogyakarta, Indonesiac Department of Environmental Geography, Faculty of Geography, Universitas Gadjah Mada, Yogyakarta, Indonesia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hydrochemical characteristics, water quality, and probabilistic health risk assessments of groundwater in Caraveli Province, South Peru]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464916?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464916?af=R"/>
+        <updated>2025-02-18T05:33:40.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Qin Ge Huiman Wang Sheng Wan Xinyan Li Ping Wu Xiang Li a Water Resources and Environmental Engineering, East China University of Technology, Jiangxi, Nanchang, Chinab Jiangxi Province Key Laboratory of the Causes and Remediation of Groundwater Pollution, Jiangxi, Nanchang, Chinac Institute of Water Resources and Hydropower, China Railway Water Conservancy and Hydropower Planning and Design Group Co., Ltd, Nanchang, China</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analysis of the environmental background values and health risk assessment of shallow groundwater in the Jidong Plain]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464907?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464907?af=R"/>
+        <updated>2025-02-18T05:29:40.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Yue Wang Yan Zhang Sihui Shao Zhiqiang Gong Yang Wang Zhihui Qu a School of Ecology and Environment, Institute of Disaster Prevention, Sanhe, Hebei, Chinab Hebei Key Laboratory of Resource and Environmental Disaster Mechanism and Risk Monitoring, Sanhe, Hebei, Chinac Hebei Geological Environment Monitoring Institute, Shijiazhuang, Hebei, Chinad Hebei Key Laboratory of Geological Resources and Environment Monitoring and Protection, Shijiazhuang, Hebei, China</name>
         </author>
     </entry>
     <entry>

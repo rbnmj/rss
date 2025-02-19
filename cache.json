@@ -200,7 +200,7 @@
     {
       "title": "Wiley: Ecological Applications: Table of Contents",
       "feedUrl": "https://esajournals.onlinelibrary.wiley.com/feed/19395582/most-recent",
-      "siteUrl": "https://onlinelibrary.wiley.com/journal/19395582?af=R",
+      "siteUrl": "https://esajournals.onlinelibrary.wiley.com/journal/19395582?af=R",
       "articles": [
         {
           "id": "10.1002/eap.3092",
@@ -674,6 +674,36 @@
       "siteUrl": "https://esajournals.onlinelibrary.wiley.com/journal/21508925?af=R",
       "articles": [
         {
+          "id": "10.1002/ecs2.70172",
+          "author": "Elizabeth A. LaRue, \nKylie M. Rezendes, \nDennis H. Choi, \nJianmin Wang, \nAnna G. Downing, \nSonglin Fei, \nBrady S. Hardiman",
+          "description": "Ecosphere, Volume 16, Issue 2, February 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70172?af=R",
+          "publishedOn": "2025-02-19T08:55:20.000Z",
+          "wordCount": null,
+          "title": "Gradient surface metrics of ecosystem structural diversity and their relationship with productivity across macrosystems",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecs2.70175",
+          "author": "Jacquelyn L. Lewis, \nBrian M. Mattes, \nErika K. Yates, \nEmily Palmer, \nJeffrey R. Johansen, \nRick A. Relyea",
+          "description": "Ecosphere, Volume 16, Issue 2, February 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70175?af=R",
+          "publishedOn": "2025-02-19T08:54:19.000Z",
+          "wordCount": null,
+          "title": "Nutrient inputs in mesocosms of an oligotrophic lake fail to sustain an algal bloom",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecs2.70103",
+          "author": "Alexandre Collin, \nClaudele Ghotsa Mekontchou, \nAudrey Maheu, \nPhillipe Nolet, \nFrancesca Sotelo, \nDavid Rivest",
+          "description": "Ecosphere, Volume 16, Issue 2, February 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70103?af=R",
+          "publishedOn": "2025-02-19T07:00:00.000Z",
+          "wordCount": null,
+          "title": "The presence of American beech litter can alter the growth response of sugar maple seedlings to drought",
+          "imageUrl": null
+        },
+        {
           "id": "10.1002/ecs2.70193",
           "author": "S. Zarco‐Perello, \nS. Bennett, \nJ. Goetze, \nT. H. Holmes, \nR. D. Stuart‐Smith, \nE. R. White",
           "description": "Ecosphere, Volume 16, Issue 2, February 2025.",
@@ -911,6 +941,36 @@
       "siteUrl": "https://onlinelibrary.wiley.com/journal/14610248?af=R",
       "articles": [
         {
+          "id": "10.1111/ele.70074",
+          "author": "Elizabeta Briski, \nLouisa Langrehr, \nSyrmalenia G. Kotronaki, \nAlena Sidow, \nCindy Giselle Martinez Reyes, \nAntonios Geropoulos, \nGregor Steffen, \nNora Theurich, \nJames W. E. Dickey, \nJasmin C. Hütt, \nPhillip J. Haubrock, \nIsmael Soto, \nAntonín Kouba, \nRoss N. Cuthbert",
+          "description": "Ecology Letters, Volume 28, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70074?af=R",
+          "publishedOn": "2025-02-19T08:03:49.000Z",
+          "wordCount": null,
+          "title": "Urban Environments Promote Adaptation to Multiple Stressors",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/ele.70083",
+          "author": "Ashley N. Schulz, \nNathan P. Havill, \nTravis D. Marsico, \nMatthew P. Ayres, \nKamal J.K. Gandhi, \nDaniel A. Herms, \nAngela M. Hoover, \nRuth A. Hufbauer, \nAndrew M. Liebhold, \nKenneth F. Raffa, \nKathryn A. Thomas, \nPatrick C. Tobin, \nDaniel R. Uden, \nAngela M. Mech",
+          "description": "Ecology Letters, Volume 28, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70083?af=R",
+          "publishedOn": "2025-02-19T08:00:29.000Z",
+          "wordCount": null,
+          "title": "What Is a Specialist? Quantifying Host Breadth Enables Impact Prediction for Invasive Herbivores",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/ele.70080",
+          "author": "Victor Van der Meersch, \nEdward Armstrong, \nFlorent Mouillot, \nAnne Duputié, \nHendrik Davi, \nFrédérik Saltré, \nIsabelle Chuine",
+          "description": "Ecology Letters, Volume 28, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70080?af=R",
+          "publishedOn": "2025-02-19T07:05:15.000Z",
+          "wordCount": null,
+          "title": "Paleorecords Reveal Biological Mechanisms Crucial for Reliable Species Range Shift Projections Amid Rapid Climate Change",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/ele.70086",
           "author": "Xiaoxiao Li, \nWei Yang, \nMark Novak, \nLei Zhao, \nPeter C. de Ruiter, \nZhifeng Yang, \nChristian Guill",
           "description": "Ecology Letters, Volume 28, Issue 2, February 2025.",
@@ -1075,7 +1135,7 @@
     {
       "title": "Wiley: Oikos: Table of Contents",
       "feedUrl": "https://nsojournals.onlinelibrary.wiley.com/feed/16000706/most-recent",
-      "siteUrl": "https://onlinelibrary.wiley.com/journal/16000706?af=R",
+      "siteUrl": "https://nsojournals.onlinelibrary.wiley.com/journal/16000706?af=R",
       "articles": [
         {
           "id": "10.1111/oik.10992",
@@ -1724,6 +1784,16 @@
       "feedUrl": "https://www.nature.com/ncomms.rss",
       "siteUrl": "http://feeds.nature.com/ncomms/rss/current",
       "articles": [
+        {
+          "id": "https://www.nature.com/articles/s41467-025-56977-6",
+          "author": "Zhitong Wang",
+          "description": "Acidic electrochemical CO2 conversion is a promising alternative to overcome low CO2 utilization. Here, the authors report a robust carbon coated tip-like In2O3 electrocatalyst that demonstrates an enhanced activity for the direct production of HCOOH in a strongly acidic and low K+ electrolyte.",
+          "link": "https://www.nature.com/articles/s41467-025-56977-6",
+          "publishedOn": "2025-02-19T00:00:00.000Z",
+          "wordCount": 13299,
+          "title": "Tip carbon encapsulation customizes cationic enrichment and valence stabilization for low K<sup>+</sup> acidic CO<sub>2</sub> electroreduction",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-56977-6/MediaObjects/41467_2025_56977_Fig1_HTML.png"
+        },
         {
           "id": "https://www.nature.com/articles/s41467-025-56937-0",
           "author": "Pierre Raia",
@@ -3070,7 +3140,7 @@
     {
       "title": "Wiley: Conservation Biology: Table of Contents",
       "feedUrl": "https://conbio.onlinelibrary.wiley.com/feed/15231739/most-recent",
-      "siteUrl": "https://onlinelibrary.wiley.com/journal/15231739?af=R",
+      "siteUrl": "https://conbio.onlinelibrary.wiley.com/journal/15231739?af=R",
       "articles": [
         {
           "id": "10.1111/cobi.14447",
@@ -5111,6 +5181,26 @@
       "siteUrl": "https://onlinelibrary.wiley.com/journal/1526100x?af=R",
       "articles": [
         {
+          "id": "10.1111/rec.70005",
+          "author": "Flávia S. Faria, \nCarlos A. Ordóñez‐Parra, \nLívia Granata, \nLuciane V. Resende, \nFernando A. O. Silveira",
+          "description": "Restoration Ecology, EarlyView.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/rec.70005?af=R",
+          "publishedOn": "2025-02-19T06:59:14.000Z",
+          "wordCount": null,
+          "title": "Low‐cost technology supports propagation of endemic species from a global biodiversity hotspot",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/rec.70003",
+          "author": "Lynda D. Prior, \nScott C. Nichols, \nBen J. French, \nHerbert Staubmann, \nDavid M. J. S. Bowman",
+          "description": "Restoration Ecology, EarlyView.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/rec.70003?af=R",
+          "publishedOn": "2025-02-19T03:29:56.000Z",
+          "wordCount": null,
+          "title": "Using gravel pits as novel fire refugia for the threatened Tasmanian paleoendemic conifer Athrotaxis cupressoides",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/rec.70001",
           "author": "Carly J. Randall, \nValérie F. Chamberland, \nChristine Giuliano, \nCathie A. Page, \nKatie Allen, \nNico Briggs, \nRhys Cornish, \nAric Bickel, \nAndrea Severati",
           "description": "Restoration Ecology, EarlyView.",
@@ -5427,6 +5517,16 @@
       "feedUrl": "https://besjournals.onlinelibrary.wiley.com/feed/2041210x/most-recent",
       "siteUrl": "https://besjournals.onlinelibrary.wiley.com/journal/2041210x?af=R",
       "articles": [
+        {
+          "id": "10.1111/2041-210X.14494",
+          "author": "Simone P. Blomberg, \nOrlin S. Todorov",
+          "description": "Methods in Ecology and Evolution, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14494?af=R",
+          "publishedOn": "2025-02-19T06:45:02.000Z",
+          "wordCount": null,
+          "title": "The fallacy of single imputation for trait databases: Use multiple imputation instead",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/2041-210X.70003",
           "author": "Jeffrey R. Smith, \nJonathan M. Levine",
@@ -5931,6 +6031,36 @@
       "feedUrl": "https://www.tandfonline.com/feed/rss/bher20",
       "siteUrl": "https://www.tandfonline.com/loi/bher20?af=R",
       "articles": [
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464918?af=R",
+          "author": "Asmorowati Muhammad Baiquni Langgeng Wahyu Santosa a Student of Doctoral Program in Geographical Science, Faculty of Geography, Universitas Gadjah Mada, Yogyakarta, Indonesiab Department of Development Geography, Faculty of Geography, Universitas Gadjah Mada, Yogyakarta, Indonesiac Department of Environmental Geography, Faculty of Geography, Universitas Gadjah Mada, Yogyakarta, Indonesia",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464918?af=R",
+          "publishedOn": "2025-02-18T05:34:28.000Z",
+          "wordCount": null,
+          "title": "Incorporating socioeconomic variables in coastal vulnerability assessment on the Southern Coast of Yogyakarta, Indonesia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464916?af=R",
+          "author": "Qin Ge Huiman Wang Sheng Wan Xinyan Li Ping Wu Xiang Li a Water Resources and Environmental Engineering, East China University of Technology, Jiangxi, Nanchang, Chinab Jiangxi Province Key Laboratory of the Causes and Remediation of Groundwater Pollution, Jiangxi, Nanchang, Chinac Institute of Water Resources and Hydropower, China Railway Water Conservancy and Hydropower Planning and Design Group Co., Ltd, Nanchang, China",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464916?af=R",
+          "publishedOn": "2025-02-18T05:33:40.000Z",
+          "wordCount": null,
+          "title": "Hydrochemical characteristics, water quality, and probabilistic health risk assessments of groundwater in Caraveli Province, South Peru",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464907?af=R",
+          "author": "Yue Wang Yan Zhang Sihui Shao Zhiqiang Gong Yang Wang Zhihui Qu a School of Ecology and Environment, Institute of Disaster Prevention, Sanhe, Hebei, Chinab Hebei Key Laboratory of Resource and Environmental Disaster Mechanism and Risk Monitoring, Sanhe, Hebei, Chinac Hebei Geological Environment Monitoring Institute, Shijiazhuang, Hebei, Chinad Hebei Key Laboratory of Geological Resources and Environment Monitoring and Protection, Shijiazhuang, Hebei, China",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464907?af=R",
+          "publishedOn": "2025-02-18T05:29:40.000Z",
+          "wordCount": null,
+          "title": "Analysis of the environmental background values and health risk assessment of shallow groundwater in the Jidong Plain",
+          "imageUrl": null
+        },
         {
           "id": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464109?af=R",
           "author": "Maria Lundgren Rupert Lloyd Hough Luke Beesley Mads Troldborg Lukáš Trakal Eduardo Moreno-Jiménez Deliang Dai Anna Augustsson a Department of Biology and Environmental Science, Linnaeus University, Kalmar, Swedenb The James Hutton Institute, Aberdeen, Scotland, UKc Department of Environmental Geosciences, Czech University of Life Sciences Prague, Suchdol, Prague 6, Czech Republicd School of Science, Engineering & Environment, University of Salford, Salford, UKe The James Hutton Institute, Dundee, Scotland, UKf Department of Agricultural and Food Chemistry, Universidad Autónoma de Madrid, Madrid, Spaing Institute for Advanced Research in Chemical Sciences, Universidad Autónoma de Madrid, Madrid, Spainh Department of Economics and Statistics, School of Business and Economics, Linnaeus University, Växjö, Sweden",
@@ -6490,7 +6620,7 @@
     {
       "title": "Wiley: Ecography: Table of Contents",
       "feedUrl": "https://nsojournals.onlinelibrary.wiley.com/feed/16000587/most-recent",
-      "siteUrl": "https://onlinelibrary.wiley.com/journal/16000587?af=R",
+      "siteUrl": "https://nsojournals.onlinelibrary.wiley.com/journal/16000587?af=R",
       "articles": [
         {
           "id": "10.1111/ecog.07560",
@@ -7077,8 +7207,18 @@
     {
       "title": "Wiley: Diversity and Distributions: Table of Contents",
       "feedUrl": "https://onlinelibrary.wiley.com/feed/14724642/most-recent",
-      "siteUrl": "https://wol-prod-cdn.literatumonline.com/journal/14724642?af=R",
+      "siteUrl": "https://onlinelibrary.wiley.com/journal/14724642?af=R",
       "articles": [
+        {
+          "id": "10.1111/ddi.70006",
+          "author": "Tom Brough, \nFabrice Stephenson, \nEva Leunissen, \nCarolyn Lundquist",
+          "description": "Diversity and Distributions, Volume 31, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.70006?af=R",
+          "publishedOn": "2025-02-18T11:18:23.000Z",
+          "wordCount": null,
+          "title": "Spatial Modelling Approaches for Estimating Richness of Benthic Invertebrates Throughout New Zealand Waters",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/ddi.70006",
           "author": "Tom Brough, \nFabrice Stephenson, \nEva Leunissen, \nCarolyn Lundquist",
@@ -7296,6 +7436,16 @@
       "feedUrl": "https://onlinelibrary.wiley.com/feed/26374943/most-recent",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/26374943?af=R",
       "articles": [
+        {
+          "id": "10.1002/edn3.70069",
+          "author": "Antoinette J. Piaggio, \nStacie J. Robinson, \nAaron B. Shiels, \nDaniel R. Taylor, \nDanika R. Spock, \nMeagan Allira, \nMegan Serr, \nCaroline M. Klein, \nJohn Godwin, \nJames C. Russell, \nShaun Wilkinson, \nNick D. Holmes, \nDavid J. Will, \nNeil J. Gemmell",
+          "description": "Environmental DNA, Volume 7, Issue 1, January–February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1002/edn3.70069?af=R",
+          "publishedOn": "2025-02-19T04:54:27.000Z",
+          "wordCount": null,
+          "title": "Evaluation of Environmental DNA as a Surveillance Tool for Invasive House Mice (Mus musculus)",
+          "imageUrl": null
+        },
         {
           "id": "10.1002/edn3.70064",
           "author": "Mohammad Jamil Shuvo, \nTasmina Tabassum, \nGernot Segelbacher",
