@@ -13,12 +13,12 @@ sources:
   - href: https://onlinelibrary.wiley.com/feed/14610248/most-recent # Ecology Letters
   - href: https://rss.sciencedirect.com/publication/science/00225193 # Journal of Theoretical Ecology
   - href: https://nsojournals.onlinelibrary.wiley.com/feed/16000706/most-recent # OIKOS
-  - href: https://www.nature.com/ncomms.rss # Nature Communications
+# - href: https://www.nature.com/ncomms.rss # Nature Communications
   - href: https://www.nature.com/natsustain.rss # Nature Sustainability
   - href: https://www.nature.com/natecolevol.rss # Nature Ecology & Evolution
   - href: https://onlinelibrary.wiley.com/action/showFeed?jc=13652486&type=etoc&feed=rss # Global Change Biology
   - href: https://conbio.onlinelibrary.wiley.com/feed/15231739/most-recent # Conservation Biology
- #- href: https://journals.plos.org/ploscompbiol/feed/atom # PLOS Computational Biology
+# - href: https://journals.plos.org/ploscompbiol/feed/atom # PLOS Computational Biology
   - href: https://rss.sciencedirect.com/publication/science/09593780 # Global Environmental Change 
   - href: https://rss.sciencedirect.com/publication/science/01692046 # Landscape and Urban Planning
   - href: https://besjournals.onlinelibrary.wiley.com/feed/13652664/most-recent # Journal of Applied Ecology
