@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-02-19T12:20:30.307Z</updated>
+    <updated>2025-02-20T06:16:21.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Structural basis of urea transport by <i>Arabidopsis thaliana</i> DUR3]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56943-2</id>
+        <link href="https://www.nature.com/articles/s41467-025-56943-2"/>
+        <updated>2025-02-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DUR3 absorbs low-concentration urea from soil and recycles urea from senescent leaves. Here, authors resolve the DUR3 structure, clarify how urea is specifically recognized, and elucidate the proton-driven urea transport mechanisms of DUR3.]]></summary>
+        <author>
+            <name>Weidong An</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Organelle-like structural evolution of coacervate droplets induced by photopolymerization]]></title>
+        <id>https://www.nature.com/articles/s41467-025-57069-1</id>
+        <link href="https://www.nature.com/articles/s41467-025-57069-1"/>
+        <updated>2025-02-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Coacervate dynamics are studied to aid in understanding of phase separation cells, but obtaining sufficient stability can be challenging. Here, the authors report the development of multi-component coacervates that self-organise by protein mediated photopolymerisation, and are stable for over 300 days.]]></summary>
+        <author>
+            <name>Mei Zhu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polymer-like tetramer acceptor enables stable and 19.75% efficiency binary organic solar cells]]></title>
+        <id>https://www.nature.com/articles/s41467-025-57118-9</id>
+        <link href="https://www.nature.com/articles/s41467-025-57118-9"/>
+        <updated>2025-02-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The performance of all-polymer solar cells has been limited by batch-to-batch variations of polymer acceptors. Here, the authors report a linear tetramer acceptor with improved molecular ordering and uniform crystallinity with polymer donor, achieving certified device efficiency of 19.58%.]]></summary>
+        <author>
+            <name>Jianxiao Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A μGal MOEMS gravimeter designed with free-form anti-springs]]></title>
+        <id>https://www.nature.com/articles/s41467-025-57176-z</id>
+        <link href="https://www.nature.com/articles/s41467-025-57176-z"/>
+        <updated>2025-02-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MEMS gravimeters are compact and cost-effective but face challenges in achieving ultra-high sensitivity due to fabrication tolerances and size limitations. Here, authors introduce a μGal MOEMS gravimeter with locally adjustable free-form anti-springs, achieving picometer-level displacement sensitivity.]]></summary>
+        <author>
+            <name>Shuang Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple brain activation patterns for the same perceptual decision-making task]]></title>
+        <id>https://www.nature.com/articles/s41467-025-57115-y</id>
+        <link href="https://www.nature.com/articles/s41467-025-57115-y"/>
+        <updated>2025-02-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here, the authors show the brain uses multiple activation patterns to perform the same task. Even the default mode network, which is often inactive during focus, plays a role.]]></summary>
+        <author>
+            <name>Johan Nakuci</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gradient surface metrics of ecosystem structural diversity and their relationship with productivity across macrosystems]]></title>
         <id>10.1002/ecs2.70172</id>
@@ -174,6 +224,36 @@ Scott C. Nichols,
 Ben J. French, 
 Herbert Staubmann, 
 David M. J. S. Bowman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deciphering neuronal variability across states reveals dynamic sensory encoding]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56733-w</id>
+        <link href="https://www.nature.com/articles/s41467-025-56733-w"/>
+        <updated>2025-02-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How various factors dynamically influence neuronal variability is a longstanding question. Here, the authors build an encoding model to partition variability, revealing heterogeneous source contributions to individual units and state-dependent changes of variability across the visual hierarchy.]]></summary>
+        <author>
+            <name>Shailaja Akella</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lipogenic enzyme FASN promotes mutant p53 accumulation and gain-of-function through palmitoylation]]></title>
+        <id>https://www.nature.com/articles/s41467-025-57099-9</id>
+        <link href="https://www.nature.com/articles/s41467-025-57099-9"/>
+        <updated>2025-02-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Missense mutant p53 (mutp53) proteins often accumulate in cancers. Here the authors show that the lipogenic enzyme FASN enhances mutp53 protein stability to drive tumor growth by promoting mutp53 palmitoylation.]]></summary>
+        <author>
+            <name>Juan Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ball-and-chain inactivation of a human large conductance calcium-activated potassium channel]]></title>
+        <id>https://www.nature.com/articles/s41467-025-56844-4</id>
+        <link href="https://www.nature.com/articles/s41467-025-56844-4"/>
+        <updated>2025-02-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The accessory β2 subunit was proposed to inactivate BK channels via the ball-and-chain model, but structural evidence was missing. Here, using cryo-EM, the authors captured the occlusion of the BK channel pore by the N-terminus of the β2 subunit.]]></summary>
+        <author>
+            <name>Shubhangi Agarwal</name>
         </author>
     </entry>
     <entry>
@@ -10129,378 +10209,6 @@ Toshiya Okuro</name>
 Arron Watson, 
 Jiarui Zhou, 
 Luisa Orsini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DNA Metabarcoding Improves the Taxonomic Resolution of Visually Determined Diet Composition of Beaked Redfish (Sebastes sp.)]]></title>
-        <id>10.1002/edn3.70045</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1002/edn3.70045?af=R"/>
-        <updated>2025-01-21T12:43:50.000Z</updated>
-        <summary type="html"><![CDATA[Environmental DNA, Volume 7, Issue 1, January–February 2025.]]></summary>
-        <author>
-            <name>Sarah Brown‐Vuillemin, 
-Louis Bernatchez, 
-Eric Normandeau, 
-Cecilia Hernandez, 
-Denis Chabot, 
-Réjean Tremblay, 
-Pascal Sirois, 
-Claude Nozères, 
-Dominique Robert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avoiding confusion: Modelling image identification surveys with classification errors]]></title>
-        <id>10.1111/2041-210X.14484</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14484?af=R"/>
-        <updated>2025-01-21T11:44:51.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
-        <author>
-            <name>Michael A. Spence, 
-Jon Barry, 
-Thomas Bartos, 
-Robert Blackwell, 
-James Scott, 
-Sophie Pitois</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The effectiveness of harvest for limiting wildlife disease: Insights from 20 years of chronic wasting disease in Wyoming]]></title>
-        <id>10.1002/eap.3089</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1002/eap.3089?af=R"/>
-        <updated>2025-01-21T10:52:40.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Wynne E. Moss, 
-Justin Binfet, 
-L. Embere Hall, 
-Samantha E. Allen, 
-William H. Edwards, 
-Jessica E. Jennings‐Gaines, 
-Paul C. Cross</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The effectiveness of harvest for limiting wildlife disease: Insights from 20 years of chronic wasting disease in Wyoming]]></title>
-        <id>10.1002/eap.3089</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3089?af=R"/>
-        <updated>2025-01-21T10:52:40.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Wynne E. Moss, 
-Justin Binfet, 
-L. Embere Hall, 
-Samantha E. Allen, 
-William H. Edwards, 
-Jessica E. Jennings‐Gaines, 
-Paul C. Cross</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Size matching between fruits and bill gapes differentially affects gulper and masher frugivorous birds]]></title>
-        <id>10.1111/oik.10978</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/oik.10978?af=R"/>
-        <updated>2025-01-21T10:23:24.000Z</updated>
-        <summary type="html"><![CDATA[Oikos, EarlyView.]]></summary>
-        <author>
-            <name>Tobias Nicolas Rojas, 
-Marco A. Pizo, 
-Pedro G. Blendinger, 
-G. Giselle Mangini, 
-Iván Barberá</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Size matching between fruits and bill gapes differentially affects gulper and masher frugivorous birds]]></title>
-        <id>10.1111/oik.10978</id>
-        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10978?af=R"/>
-        <updated>2025-01-21T10:23:24.000Z</updated>
-        <summary type="html"><![CDATA[Oikos, EarlyView.]]></summary>
-        <author>
-            <name>Tobias Nicolas Rojas, 
-Marco A. Pizo, 
-Pedro G. Blendinger, 
-G. Giselle Mangini, 
-Iván Barberá</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resource redistribution mediated by hydrological connectivity modulates vegetation response to aridification in drylands]]></title>
-        <id>10.1111/ecog.07650</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ecog.07650?af=R"/>
-        <updated>2025-01-21T10:22:24.000Z</updated>
-        <summary type="html"><![CDATA[Ecography, EarlyView.]]></summary>
-        <author>
-            <name>Borja Rodríguez‐Lozano, 
-Emilio Rodríguez-Caballero, 
-and Yolanda Cantón</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resource redistribution mediated by hydrological connectivity modulates vegetation response to aridification in drylands]]></title>
-        <id>10.1111/ecog.07650</id>
-        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.07650?af=R"/>
-        <updated>2025-01-21T10:22:24.000Z</updated>
-        <summary type="html"><![CDATA[Ecography, EarlyView.]]></summary>
-        <author>
-            <name>Borja Rodríguez‐Lozano, 
-Emilio Rodríguez-Caballero, 
-and Yolanda Cantón</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing the abundant centre hypothesis in a seabird: higher energy expenditure at the wintering range centre does not reduce reproductive success]]></title>
-        <id>10.1111/ecog.07498</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ecog.07498?af=R"/>
-        <updated>2025-01-21T10:21:37.000Z</updated>
-        <summary type="html"><![CDATA[Ecography, EarlyView.]]></summary>
-        <author>
-            <name>Don‐Jean Léandri‐Breton, 
-Kyle H. Elliott, 
-Arnaud Tarroux, 
-Pierre Legagneux, 
-William Jouanneau, 
-Françoise Amélineau, 
-Frédéric Angelier, 
-Pierre Blévin, 
-Vegard Sandøy Bråthen, 
-Per Fauchald, 
-Geir W. Gabrielsen, 
-Aurélie Goutte, 
-Sabrina Tartu, 
-Børge Moe, 
-Olivier Chastel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing the abundant centre hypothesis in a seabird: higher energy expenditure at the wintering range centre does not reduce reproductive success]]></title>
-        <id>10.1111/ecog.07498</id>
-        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.07498?af=R"/>
-        <updated>2025-01-21T10:21:37.000Z</updated>
-        <summary type="html"><![CDATA[Ecography, EarlyView.]]></summary>
-        <author>
-            <name>Don‐Jean Léandri‐Breton, 
-Kyle H. Elliott, 
-Arnaud Tarroux, 
-Pierre Legagneux, 
-William Jouanneau, 
-Françoise Amélineau, 
-Frédéric Angelier, 
-Pierre Blévin, 
-Vegard Sandøy Bråthen, 
-Per Fauchald, 
-Geir W. Gabrielsen, 
-Aurélie Goutte, 
-Sabrina Tartu, 
-Børge Moe, 
-Olivier Chastel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep‐sea food‐web structure at South Sandwich Islands (Southern Ocean): net primary production as a main driver for interannual changes]]></title>
-        <id>10.1111/ecog.07263</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ecog.07263?af=R"/>
-        <updated>2025-01-21T10:21:32.000Z</updated>
-        <summary type="html"><![CDATA[Ecography, EarlyView.]]></summary>
-        <author>
-            <name>José P. Queirós, 
-Philip R. Hollyman, 
-Paco Bustamante, 
-Diana Vaz, 
-Mark Belchier, 
-José C. Xavier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep‐sea food‐web structure at South Sandwich Islands (Southern Ocean): net primary production as a main driver for interannual changes]]></title>
-        <id>10.1111/ecog.07263</id>
-        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.07263?af=R"/>
-        <updated>2025-01-21T10:21:32.000Z</updated>
-        <summary type="html"><![CDATA[Ecography, EarlyView.]]></summary>
-        <author>
-            <name>José P. Queirós, 
-Philip R. Hollyman, 
-Paco Bustamante, 
-Diana Vaz, 
-Mark Belchier, 
-José C. Xavier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A probabilistic approach to estimating timber harvest location]]></title>
-        <id>10.1002/eap.3077</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1002/eap.3077?af=R"/>
-        <updated>2025-01-21T09:22:02.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Jakub Truszkowski, 
-Roi Maor, 
-Raquib Bin Yousuf, 
-Subhodip Biswas, 
-Caspar Chater, 
-Peter Gasson, 
-Scot McQueen, 
-Marigold Norman, 
-Jade Saunders, 
-John Simeone, 
-Naren Ramakrishnan, 
-Alexandre Antonelli, 
-Victor Deklerck</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A probabilistic approach to estimating timber harvest location]]></title>
-        <id>10.1002/eap.3077</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3077?af=R"/>
-        <updated>2025-01-21T09:22:02.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Jakub Truszkowski, 
-Roi Maor, 
-Raquib Bin Yousuf, 
-Subhodip Biswas, 
-Caspar Chater, 
-Peter Gasson, 
-Scot McQueen, 
-Marigold Norman, 
-Jade Saunders, 
-John Simeone, 
-Naren Ramakrishnan, 
-Alexandre Antonelli, 
-Victor Deklerck</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A comparison and evaluation of strategies for bulk sequencing of mitogenomes from museum collections]]></title>
-        <id>10.1111/2041-210X.14495</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14495?af=R"/>
-        <updated>2025-01-21T08:55:41.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
-        <author>
-            <name>Yao‐Wei Zhu, 
-Mao He, 
-Hou‐Shuai Wang, 
-Dan Liang, 
-Peng Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Continuum From Positive to Negative Interactions Drives Plant Species' Performance in a Diverse Community]]></title>
-        <id>10.1111/ele.70059</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70059?af=R"/>
-        <updated>2025-01-21T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Lisa Buche, 
-Lauren G. Shoemaker, 
-Lauren M. Hallett, 
-Ignasi Bartomeus, 
-Peter Vesk, 
-Christopher Weiss‐Lehman, 
-Margaret Mayfield, 
-Oscar Godoy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Correction to “The importance of neutral over niche processes in structuring Ediacaran early animal communities”]]></title>
-        <id>10.1111/ele.70048</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70048?af=R"/>
-        <updated>2025-01-21T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Wiley: Ecology Letters: Table of Contents</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Causal Inference With Observational Data and Unobserved Confounding Variables]]></title>
-        <id>10.1111/ele.70023</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70023?af=R"/>
-        <updated>2025-01-21T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Jarrett E. K. Byrnes, 
-Laura E. Dee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COSST: A tool to facilitate seed provenancing for climate‐smart ecosystem restoration]]></title>
-        <id>10.1111/1365-2664.14854</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14854?af=R"/>
-        <updated>2025-01-21T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, EarlyView.]]></summary>
-        <author>
-            <name>Mateus C. Silva, 
-Peter Moonlight, 
-Rafael S. Oliveira, 
-Lucy Rowland, 
-R. Toby Pennington</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assessing foodborne pathogen survival in bird faeces to co‐manage farms for bird conservation, production, and food safety]]></title>
-        <id>10.1111/1365-2664.14853</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14853?af=R"/>
-        <updated>2025-01-21T05:01:38.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, EarlyView.]]></summary>
-        <author>
-            <name>Austin R. Spence, 
-Jeffery A. McGarvey, 
-SangIn Lee, 
-Olivia M. Smith, 
-Elissa M. Olimpi, 
-Wentao Yang, 
-Meirun Zhang, 
-Daniel S. Karp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Restoration of animal forests: a novel transplantion method for coastal octocorals in the NE Atlantic]]></title>
-        <id>10.1111/rec.14359</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/rec.14359?af=R"/>
-        <updated>2025-01-21T02:53:14.000Z</updated>
-        <summary type="html"><![CDATA[Restoration Ecology, EarlyView.]]></summary>
-        <author>
-            <name>Nuno M. Padrão, 
-Carolina V. Mourato, 
-Maria Rakka, 
-Ester A. Serrao, 
-Diogo Paulo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Functional leaf and plant use by leafcutter bees: Implications for management and conservation]]></title>
-        <id>10.1002/eap.3090</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1002/eap.3090?af=R"/>
-        <updated>2025-01-21T02:29:29.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Palatty Allesh Sinu, 
-Krishnan P. Abhiram, 
-Ashly Baby, 
-C. R. Akshatha, 
-K. Aneha, 
-Anjana P. Unni, 
-Harita Nalamati, 
-K. Manoj, 
-A. R. Pooja</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Functional leaf and plant use by leafcutter bees: Implications for management and conservation]]></title>
-        <id>10.1002/eap.3090</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3090?af=R"/>
-        <updated>2025-01-21T02:29:29.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Palatty Allesh Sinu, 
-Krishnan P. Abhiram, 
-Ashly Baby, 
-C. R. Akshatha, 
-K. Aneha, 
-Anjana P. Unni, 
-Harita Nalamati, 
-K. Manoj, 
-A. R. Pooja</name>
         </author>
     </entry>
 </feed>
