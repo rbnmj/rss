@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-02-23T06:14:56.383Z</updated>
+    <updated>2025-02-24T06:17:27.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stable isotopes of saproxylic beetles reveal low differences among trophic guilds and suggest a high dependence on fungi]]></title>
+        <id>10.1002/ecm.70002</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.70002?af=R"/>
+        <updated>2025-02-22T10:29:53.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
+        <author>
+            <name>Petr Kozel, 
+Benjamin Lejeune, 
+Gilles Lepoint, 
+Lukas Drag, 
+Lukas Cizek, 
+Pavel Sebek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating plasticity into conservation practice: Harnessing genetic estimates of epigenetic potential to study phenotypic plasticity in wild populations]]></title>
+        <id>10.1111/1365-2664.70019</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70019?af=R"/>
+        <updated>2025-02-22T08:34:43.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Applied Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Elizabeth L. Sheldon, 
+Lynn B. Martin, 
+Aaron W. Schrey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Global Trends of Trait Matching in Avian Frugivory and Its Consequences for the Complementarity and Irreplaceability of Birds]]></title>
         <id>10.1111/ele.70078</id>
