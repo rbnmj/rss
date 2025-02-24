@@ -2,10 +2,208 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-02-24T06:17:27.877Z</updated>
+    <updated>2025-02-24T14:57:38.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mechanistic home range capture–recapture models for the estimation of population density and landscape connectivity]]></title>
+        <id>10.1002/ecy.70046</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70046?af=R"/>
+        <updated>2025-02-24T09:11:10.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Keita Fukasawa, 
+Daishi Higashide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpine birds in a sky island: Resource subsidies from foothill areas]]></title>
+        <id>10.1002/ecy.70037</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70037?af=R"/>
+        <updated>2025-02-24T08:54:09.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Daichi Iijima, 
+Masashi Murakami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating remote sensing and field inventories to understand determinants of urban forest diversity and structure]]></title>
+        <id>10.1002/ecy.70020</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70020?af=R"/>
+        <updated>2025-02-24T07:49:32.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Vinicius Marcilio‐Silva, 
+Sally Donovan, 
+Sarah E. Hobbie, 
+J. Antonio Guzmán Q., 
+Joseph F. Knight, 
+Jeannine Cavender‐Bares</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andean grassland stability across spatial scales increases with camelid grazing intensity despite biotic homogenization]]></title>
+        <id>10.1111/1365-2745.70012</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70012?af=R"/>
+        <updated>2025-02-24T07:43:33.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Ana Patricia Sandoval‐Calderon, 
+Maarten J. J. Meijer, 
+Shaopeng Wang, 
+Marijke van Kuijk, 
+Pita Verweij, 
+Yann Hautier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Neglected Role of Sex‐Biased Dispersal in Range‐Shift Prediction Under Climate Change]]></title>
+        <id>10.1111/ddi.13942</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ddi.13942?af=R"/>
+        <updated>2025-02-24T07:37:16.000Z</updated>
+        <summary type="html"><![CDATA[Diversity and Distributions, Volume 31, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Luca Santini, 
+Martina Fernando, 
+Giordano Mancini, 
+Moreno Di Marco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High litter quality enhances plant energy channeling by soil macro‐detritivores and lowers their trophic position]]></title>
+        <id>10.1002/ecy.70004</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70004?af=R"/>
+        <updated>2025-02-24T07:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Linlin Zhong, 
+Thomas Larsen, 
+Jing‐Zhong Lu, 
+Stefan Scheu, 
+Melanie M. Pollierer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Movement Ecology of a Coastal Foundation Seagrass Species: Insights From Genetic Data and Oceanographic Modelling]]></title>
+        <id>10.1111/ddi.13944</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ddi.13944?af=R"/>
+        <updated>2025-02-24T07:29:24.000Z</updated>
+        <summary type="html"><![CDATA[Diversity and Distributions, Volume 31, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Miriam Ruocco, 
+Guglielmo Lacorata, 
+Luigi Palatella, 
+Isabella Provera, 
+Arturo Zenone, 
+Marco Martinez, 
+Emanuela Dattolo, 
+Jessica Pazzaglia, 
+Vincenzo Maximiliano Giacalone, 
+Fabio Badalamenti, 
+Gabriele Procaccini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Historical Bird Atlas and Contemporary Citizen Science Data Reveal Long‐Term Changes in Geographic Range of Kenyan Birds]]></title>
+        <id>10.1111/ddi.13935</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ddi.13935?af=R"/>
+        <updated>2025-02-24T07:21:36.000Z</updated>
+        <summary type="html"><![CDATA[Diversity and Distributions, Volume 31, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Raphaël Nussbaumer, 
+Améline Nussbaumer, 
+Samuel Guchu, 
+Richard Stratton Hatfield, 
+Erustus M. Kanga, 
+Gladys Nyakeru Kung'u, 
+Anthony Kuria, 
+Eliot Miller, 
+Paul Kariuki Ndang'ang'a, 
+Peter Njoroge, 
+Darcy Ogada, 
+Sidney Shema, 
+Colin Jackson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coexistence of coinvading species with mutualism and competition]]></title>
+        <id>10.1002/ecy.70039</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70039?af=R"/>
+        <updated>2025-02-24T07:05:30.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Naven Narayanan, 
+Peter Lutz, 
+Allison K. Shaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Do Species Traits and Biogeographical Factors Determine the Fate of Amphibians After Long‐Term Fragmentation?]]></title>
+        <id>10.1111/ddi.13943</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ddi.13943?af=R"/>
+        <updated>2025-02-24T06:55:27.000Z</updated>
+        <summary type="html"><![CDATA[Diversity and Distributions, Volume 31, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Chuanwu Chen, 
+Chengxiu Zhan, 
+Johannes Foufopoulos, 
+Yanping Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Functional trait analysis reveals the hidden stability of multitrophic communities]]></title>
+        <id>10.1002/ecy.70001</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70001?af=R"/>
+        <updated>2025-02-24T06:45:41.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Mallarie E. Yeager, 
+A. Randall Hughes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is known about the germination of plant species from open wetlands in the Cerrado?]]></title>
+        <id>10.1111/rec.70011</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/rec.70011?af=R"/>
+        <updated>2025-02-24T06:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Restoration Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Lauana V. dos Santos, 
+Anabele S. Gomes, 
+Natália R. Bijos, 
+Lucas C. Silva, 
+Cássia B. R. Munhoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variation in Salmon Migration Phenology Bolsters Population Stability but Is Threatened by Drought]]></title>
+        <id>10.1111/ele.70081</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70081?af=R"/>
+        <updated>2025-02-24T05:43:32.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Henry K. Baker, 
+Mariska Obedzinski, 
+Theodore E. Grantham, 
+Stephanie M. Carlson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating Landscapes of Fear and Energy Reveals the Behavioural Strategies That Shape Predator–Prey Interactions]]></title>
+        <id>10.1111/ele.70068</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70068?af=R"/>
+        <updated>2025-02-24T05:09:24.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Michael A. Gil, 
+Cyril J. Michel, 
+Simone Olivetti, 
+Vamsi Sridharan, 
+Andrew M. Hein</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stable isotopes of saproxylic beetles reveal low differences among trophic guilds and suggest a high dependence on fungi]]></title>
         <id>10.1002/ecm.70002</id>
