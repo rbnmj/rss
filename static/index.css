@@ -23,6 +23,9 @@
   font-style: italic, oblique;
 }
 
+body {
+  background-color: #dce6dc;
+  
 a {
     color: black;
     text-decoration: none;
@@ -32,6 +35,4 @@ a:hover {
     text-decoration: underline;
 }
 
-body {
-  background-color: #dce6dc;
 }
