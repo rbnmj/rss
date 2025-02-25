@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-02-24T15:01:56.962Z</updated>
+    <updated>2025-02-25T06:16:30.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
@@ -9694,16 +9694,6 @@ Tien Ming Lee</name>
         <summary type="html"><![CDATA[Recycling lithium (Li) from spent Li-ion batteries (LIBs) can promote the circularity of Li resources, but often requires substantial chemical and energy inputs. This study shows an electrochemical method enabling Li recycling from spent LIBs with electricity generation and minimized chemical input.]]></summary>
         <author>
             <name>Weiping Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Application of new approach methodology-derived points of departure with predicted or regulatory exposures to estimate bioactivity to exposure ratios (BER) for risk assessment]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2451143?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2451143?af=R"/>
-        <updated>2025-01-26T07:23:23.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Marilyn H. Silva Retired from a career in Toxicology and Risk Assessment, Currently Community Advisory Committee Member, Environmental Health Sciences Center, University of California, Davis, CA, USA</name>
         </author>
     </entry>
 </feed>
