@@ -2,10 +2,201 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-02-27T06:16:51.114Z</updated>
+    <updated>2025-02-28T06:16:35.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ecological niche models based on occurrence records of the amphibian chytrid fungus overestimate lethal chytridiomycosis risk]]></title>
+        <id>10.1111/1365-2664.70022</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70022?af=R"/>
+        <updated>2025-02-27T07:44:01.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Applied Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Barbora Thumsová, 
+Alejandra Zarzo‐Arias, 
+José V. Roces‐Díaz, 
+Albert Martínez‐Silvestre, 
+Jason R. Rohr, 
+Jaime Bosch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Root trait (multi)functionality in savanna trees: Progress and challenges]]></title>
+        <id>10.1111/1365-2745.70016</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70016?af=R"/>
+        <updated>2025-02-27T07:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Yong Zhou, 
+Madelon F. Case, 
+A. Carla Staver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MixME: An R package to simulation‐test fisheries management robustness to mixed‐fisheries interactions]]></title>
+        <id>10.1111/2041-210X.70005</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70005?af=R"/>
+        <updated>2025-02-26T17:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
+        <author>
+            <name>Matthew C. Pace, 
+José A. A. De Oliveira, 
+Simon H. Fischer, 
+Paul J. Dolder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Sign of Homogenisation in Reef Fish Communities Across an Ecological Transition Zone Exposed to Warming]]></title>
+        <id>10.1111/ddi.13923</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ddi.13923?af=R"/>
+        <updated>2025-02-26T12:54:24.000Z</updated>
+        <summary type="html"><![CDATA[Diversity and Distributions, Volume 31, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Fernanda C. Silva, 
+Juan P. Quimbayo, 
+Tim Spanheeden Dencker, 
+Laurene Pecuchet, 
+Sergio R. Floeter, 
+Martin Lindegren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplification of woody plant trait networks among communities along a climatic aridity gradient]]></title>
+        <id>10.1111/1365-2745.70010</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70010?af=R"/>
+        <updated>2025-02-26T12:20:35.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Camila D. Medeiros, 
+Santiago Trueba, 
+Christian Henry, 
+Leila R. Fletcher, 
+James A. Lutz, 
+Rodrigo Méndez Alonzo, 
+Nathan J. B. Kraft, 
+Lawren Sack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Divergent Importance and Geographic Patterns in Threats to Birds and Mammals in China]]></title>
+        <id>10.1111/ddi.13925</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ddi.13925?af=R"/>
+        <updated>2025-02-26T12:04:25.000Z</updated>
+        <summary type="html"><![CDATA[Diversity and Distributions, Volume 31, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Xin Gao, 
+Zhuoen Liu, 
+Richard T. Corlett, 
+Zhigang Jiang, 
+Alice Hughes, 
+Keping Ma, 
+Jens‐Christian Svenning, 
+Gang Feng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pan‐amphibia distribution of the fungal parasite Batrachochytrium dendrobatidis varies with species and temperature]]></title>
+        <id>10.1002/ecm.70001</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.70001?af=R"/>
+        <updated>2025-02-26T11:44:13.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
+        <author>
+            <name>Daniel A. Grear, 
+Michael J. Adams, 
+Adam R. Backlin, 
+William J. Barichivich, 
+Adrianne B. Brand, 
+Gary M. Bucciarelli, 
+Daniel L. Calhoun, 
+Tara Chestnut, 
+Jon M. Davenport, 
+Andrew E. Dietrich, 
+Graziella V. DiRenzo, 
+Robert N. Fisher, 
+Brad M. Glorioso, 
+Evan H. Campbell Grant, 
+Brian J. Halstead, 
+Marc P. Hayes, 
+Blake R. Hossack, 
+Morgan Kain, 
+Patrick M. Kleeman, 
+Jeffrey M. Lorch, 
+Brome McCreary, 
+David A. W. Miller, 
+Brittany A. Mosher, 
+Erin Muths, 
+Christopher A. Pearl, 
+Charles W. Robinson, 
+Mark F. Roth, 
+Jennifer C. Rowe, 
+Walt J. Sadinski, 
+Brent H. Sigafus, 
+Iga Stasiak, 
+Samuel Sweet, 
+J. Hardin Waddle, 
+Susan C. Walls, 
+Gregory J. Watkins‐Colwell, 
+Lori A. Williams, 
+Megan E. Winzeler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Fungal Endophyte Alters Poplar Leaf Chemistry, Deters Insect Feeding and Shapes Insect Community Assembly]]></title>
+        <id>10.1111/ele.70007</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70007?af=R"/>
+        <updated>2025-02-26T09:14:38.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Christin Walther, 
+Marine Vallet, 
+Michael Reichelt, 
+Prajakta Giri, 
+Beate Rothe, 
+Elina J. Negwer, 
+Pamela Medina van Berkum, 
+Jonathan Gershenzon, 
+Sybille B. Unsicker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plant Species Better Adapted to Climate Change Need Agricultural Extensification to Persist]]></title>
+        <id>10.1111/ele.70030</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70030?af=R"/>
+        <updated>2025-02-26T09:11:31.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Isis Poinas, 
+Christine N. Meynard, 
+Guillaume Fried</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Residence Time Structures Microbial Communities Through Niche Partitioning]]></title>
+        <id>10.1111/ele.70093</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70093?af=R"/>
+        <updated>2025-02-26T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Emmi A. Mueller, 
+Jay T. Lennon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extreme Fire Spread Events Burn More Severely and Homogenize Postfire Landscapes in the Southwestern United States]]></title>
+        <id>10.1111/gcb.70106</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70106?af=R"/>
+        <updated>2025-02-26T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Jessika R. McFarland, 
+Jonathan D. Coop, 
+Jared A. Balik, 
+Kyle C. Rodman, 
+Sean A. Parks, 
+Camille S. Stevens‐Rumann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Structured Demographic Buffering: A Framework to Explore the Environmental Components and Demographic Mechanisms Underlying Demographic Buffering]]></title>
         <id>10.1111/ele.70066</id>
@@ -10097,85 +10288,6 @@ T. M. Lilley</name>
         <summary type="html"><![CDATA[Nature Ecology & Evolution - Addendum: Mitochondrial somatic mutation and selection throughout ageing]]></summary>
         <author>
             <name>Isabel M. Serrano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fish eDNA Composition Along a Gradient of Freshwater eDNA in an Estuarine Bay]]></title>
-        <id>10.1002/edn3.70061</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1002/edn3.70061?af=R"/>
-        <updated>2025-01-29T15:13:48.000Z</updated>
-        <summary type="html"><![CDATA[Environmental DNA, Volume 7, Issue 1, January–February 2025.]]></summary>
-        <author>
-            <name>Shota Homma, 
-Shinya Hosokawa, 
-Takashi Komuro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Climate change impacts on blanket peatland in Great Britain]]></title>
-        <id>10.1111/1365-2664.14864</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14864?af=R"/>
-        <updated>2025-01-29T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, EarlyView.]]></summary>
-        <author>
-            <name>Jonathan P. Ritson, 
-Kirsten J. Lees, 
-James Hill, 
-Angela Gallego‐Sala, 
-Daniel P. Bebber</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving the Long-Time Nonlinear Schrödinger Equation by a Class of Oscillation-Relaxation Integrators]]></title>
-        <id>https://epubs.siam.org/doi/abs/10.1137/24M164879X?af=R</id>
-        <link href="https://epubs.siam.org/doi/abs/10.1137/24M164879X?af=R"/>
-        <updated>2025-01-29T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Multiscale Modeling & Simulation, Volume 23, Issue 1, Page 313-338, March 2025. 
- Abstract. In this paper, we numerically solve the long-time nonlinear Schrödinger equation (NLSE) by using an oscillation-relaxation formulation. Such a formulation allows us to propose a class of numerical methods named oscillation-relaxation integrators (ORIs) for NLSE. By convergence analysis, the [math]th order ORIs (for any [math]) are shown to offer error bounds of form [math] up to time interval [math] with [math] the time stepsize. Compared with the splitting schemes that give error bounds [math], the accuracy of ORIs are significantly improved. Numerical experiments and comparisons confirm the gain in practical efficiency. Long-term near-conservation laws of symmetric ORIs are also established and tested. Numerical exploration on longer time intervals show that ORIs can produce accurate results till times [math], thanks to the improved error constants.]]></summary>
-        <author>
-            <name>Kai Liu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RRphylogeography: A new method to find the area of origin of species and the history of past contacts between species]]></title>
-        <id>10.1111/2041-210X.14478</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14478?af=R"/>
-        <updated>2025-01-29T07:54:50.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
-        <author>
-            <name>Alessandro Mondanaro, 
-Silvia Castiglione, 
-Mirko Di Febbraro, 
-Axel Timmermann, 
-Giorgia Girardi, 
-Marina Melchionna, 
-Carmela Serio, 
-Arianna Morena Belfiore, 
-Pasquale Raia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coexisting with large carnivores based on the Volterra principle]]></title>
-        <id>10.1111/cobi.14448</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14448?af=R"/>
-        <updated>2025-01-29T06:19:25.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, EarlyView.]]></summary>
-        <author>
-            <name>Mark S. Boyce, 
-Cecile A. E. Carpentier, 
-John D. C. Linnell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coexisting with large carnivores based on the Volterra principle]]></title>
-        <id>10.1111/cobi.14448</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14448?af=R"/>
-        <updated>2025-01-29T06:19:25.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, EarlyView.]]></summary>
-        <author>
-            <name>Mark S. Boyce, 
-Cecile A. E. Carpentier, 
-John D. C. Linnell</name>
         </author>
     </entry>
 </feed>

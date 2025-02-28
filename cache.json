@@ -707,6 +707,16 @@
       "siteUrl": "https://esajournals.onlinelibrary.wiley.com/journal/15577015?af=R",
       "articles": [
         {
+          "id": "10.1002/ecm.70001",
+          "author": "Daniel A. Grear, \nMichael J. Adams, \nAdam R. Backlin, \nWilliam J. Barichivich, \nAdrianne B. Brand, \nGary M. Bucciarelli, \nDaniel L. Calhoun, \nTara Chestnut, \nJon M. Davenport, \nAndrew E. Dietrich, \nGraziella V. DiRenzo, \nRobert N. Fisher, \nBrad M. Glorioso, \nEvan H. Campbell Grant, \nBrian J. Halstead, \nMarc P. Hayes, \nBlake R. Hossack, \nMorgan Kain, \nPatrick M. Kleeman, \nJeffrey M. Lorch, \nBrome McCreary, \nDavid A. W. Miller, \nBrittany A. Mosher, \nErin Muths, \nChristopher A. Pearl, \nCharles W. Robinson, \nMark F. Roth, \nJennifer C. Rowe, \nWalt J. Sadinski, \nBrent H. Sigafus, \nIga Stasiak, \nSamuel Sweet, \nJ. Hardin Waddle, \nSusan C. Walls, \nGregory J. Watkins‐Colwell, \nLori A. Williams, \nMegan E. Winzeler",
+          "description": "Ecological Monographs, Volume 95, Issue 1, February 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.70001?af=R",
+          "publishedOn": "2025-02-26T11:44:13.000Z",
+          "wordCount": null,
+          "title": "Pan‐amphibia distribution of the fungal parasite Batrachochytrium dendrobatidis varies with species and temperature",
+          "imageUrl": null
+        },
+        {
           "id": "10.1002/ecm.70004",
           "author": "Oksana Y. Buzhdygan, \nBritta Tietjen, \nJana S. Petermann, \nNico Eisenhauer, \nJes Hines, \nBernhard Schmid, \nSelina Baldauf, \nAnne Ebeling, \nChristoph Scherber, \nNina Buchmann, \nStuart R. Borrett, \nHans de Kroon, \nWolfgang Weisser, \nSebastian T. Meyer",
           "description": "Ecological Monographs, Volume 95, Issue 1, February 2025.",
@@ -1190,6 +1200,36 @@
       "feedUrl": "https://onlinelibrary.wiley.com/feed/14610248/most-recent",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/14610248?af=R",
       "articles": [
+        {
+          "id": "10.1111/ele.70007",
+          "author": "Christin Walther, \nMarine Vallet, \nMichael Reichelt, \nPrajakta Giri, \nBeate Rothe, \nElina J. Negwer, \nPamela Medina van Berkum, \nJonathan Gershenzon, \nSybille B. Unsicker",
+          "description": "Ecology Letters, Volume 28, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70007?af=R",
+          "publishedOn": "2025-02-26T09:14:38.000Z",
+          "wordCount": null,
+          "title": "A Fungal Endophyte Alters Poplar Leaf Chemistry, Deters Insect Feeding and Shapes Insect Community Assembly",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/ele.70030",
+          "author": "Isis Poinas, \nChristine N. Meynard, \nGuillaume Fried",
+          "description": "Ecology Letters, Volume 28, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70030?af=R",
+          "publishedOn": "2025-02-26T09:11:31.000Z",
+          "wordCount": null,
+          "title": "Plant Species Better Adapted to Climate Change Need Agricultural Extensification to Persist",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/ele.70093",
+          "author": "Emmi A. Mueller, \nJay T. Lennon",
+          "description": "Ecology Letters, Volume 28, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70093?af=R",
+          "publishedOn": "2025-02-26T08:00:00.000Z",
+          "wordCount": null,
+          "title": "Residence Time Structures Microbial Communities Through Niche Partitioning",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/ele.70066",
           "author": "Samuel J. L. Gascoigne, \nMaja Kajin, \nShripad Tuljapurkar, \nGabriel Silva Santos, \nAldo Compagnoni, \nUlrich K. Steiner, \nAnna C. Vinton, \nHarman Jaggi, \nIrem Sepil, \nRoberto Salguero‐Gómez",
@@ -2378,6 +2418,16 @@
       "feedUrl": "https://onlinelibrary.wiley.com/action/showFeed?jc=13652486&type=etoc&feed=rss",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/13652486?af=R",
       "articles": [
+        {
+          "id": "10.1111/gcb.70106",
+          "author": "Jessika R. McFarland, \nJonathan D. Coop, \nJared A. Balik, \nKyle C. Rodman, \nSean A. Parks, \nCamille S. Stevens‐Rumann",
+          "description": "Global Change Biology, Volume 31, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70106?af=R",
+          "publishedOn": "2025-02-26T08:00:00.000Z",
+          "wordCount": null,
+          "title": "Extreme Fire Spread Events Burn More Severely and Homogenize Postfire Landscapes in the Southwestern United States",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/gcb.70089",
           "author": "Florian Schnabel, Joannès Guillemot, Kathryn E. Barry, Melanie Brunn, Simone Cesarz, Nico Eisenhauer, Tobias Gebauer, Nathaly R. Guerrero‐Ramirez, I. Tanya Handa, Chris Madsen, Lady Mancilla, Jose Monteza, Tim Moore, Yvonne Oelmann, Michael Scherer‐Lorenzen, Luitgard Schwendenmann, Audrey Wagner, Christian Wirth, Catherine Potvin",
@@ -3714,26 +3764,6 @@
           "wordCount": null,
           "title": "Conservation and coexistence at a crossroads",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14448",
-          "author": "Mark S. Boyce, \nCecile A. E. Carpentier, \nJohn D. C. Linnell",
-          "description": "Conservation Biology, EarlyView.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14448?af=R",
-          "publishedOn": "2025-01-29T06:19:25.000Z",
-          "wordCount": null,
-          "title": "Coexisting with large carnivores based on the Volterra principle",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14448",
-          "author": "Mark S. Boyce, \nCecile A. E. Carpentier, \nJohn D. C. Linnell",
-          "description": "Conservation Biology, EarlyView.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14448?af=R",
-          "publishedOn": "2025-01-29T06:19:25.000Z",
-          "wordCount": null,
-          "title": "Coexisting with large carnivores based on the Volterra principle",
-          "imageUrl": null
         }
       ]
     },
@@ -3742,6 +3772,16 @@
       "feedUrl": "https://besjournals.onlinelibrary.wiley.com/feed/13652664/most-recent",
       "siteUrl": "https://besjournals.onlinelibrary.wiley.com/journal/13652664?af=R",
       "articles": [
+        {
+          "id": "10.1111/1365-2664.70022",
+          "author": "Barbora Thumsová, \nAlejandra Zarzo‐Arias, \nJosé V. Roces‐Díaz, \nAlbert Martínez‐Silvestre, \nJason R. Rohr, \nJaime Bosch",
+          "description": "Journal of Applied Ecology, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70022?af=R",
+          "publishedOn": "2025-02-27T07:44:01.000Z",
+          "wordCount": null,
+          "title": "Ecological niche models based on occurrence records of the amphibian chytrid fungus overestimate lethal chytridiomycosis risk",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/1365-2664.70011",
           "author": "Miranda Rew‐Duffy, \nMartine Maron, \nRebecca Diete, \nLuke Leung, \nJohn Hunter, \nZachary Amir, \nApril Reside",
@@ -4190,16 +4230,6 @@
           "publishedOn": "2025-02-01T08:35:12.000Z",
           "wordCount": null,
           "title": "Act for the best, prepare for the worst—Defining strategic mesopredator triggers that safeguard apex predator eradication benefits",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/1365-2664.14864",
-          "author": "Jonathan P. Ritson, \nKirsten J. Lees, \nJames Hill, \nAngela Gallego‐Sala, \nDaniel P. Bebber",
-          "description": "Journal of Applied Ecology, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14864?af=R",
-          "publishedOn": "2025-01-29T08:00:00.000Z",
-          "wordCount": null,
-          "title": "Climate change impacts on blanket peatland in Great Britain",
           "imageUrl": null
         }
       ]
@@ -4774,6 +4804,16 @@
       "siteUrl": "https://besjournals.onlinelibrary.wiley.com/journal/2041210x?af=R",
       "articles": [
         {
+          "id": "10.1111/2041-210X.70005",
+          "author": "Matthew C. Pace, \nJosé A. A. De Oliveira, \nSimon H. Fischer, \nPaul J. Dolder",
+          "description": "Methods in Ecology and Evolution, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70005?af=R",
+          "publishedOn": "2025-02-26T17:39:28.000Z",
+          "wordCount": null,
+          "title": "MixME: An R package to simulation‐test fisheries management robustness to mixed‐fisheries interactions",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/2041-210X.70010",
           "author": "Tim Langlois, \nClaude Spencer, \nBrooke A. Gibbons, \nKingsley J. Griffin, \nKye Adams, \nCharlotte Aston, \nNeville Barrett, \nAshlee Bastiaansen, \nDonna Beach, \nAnt Bernard, \nTodd Bond, \nGenevieve R. Carey, \nJennifer E. Caselle, \nKatie Cieri, \nGabrielle H. Cummins, \nKatherine Cure, \nSimon de Lestang, \nJohn Fitzhardinge, \nAnita Giraldo‐Ospina, \nGretchen Grammer, \nDavid R. Guilfoyle, \nChristopher Henderson, \nSharyn Hickey, \nJamie Hicks, \nRenae Hovey, \nCharlie Huveneers, \nDaniel Ierodiaconou, \nJohn Keesing, \nNathan Knott, \nJennifer L. Lavers, \nSteve Lindfield, \nJames Lindholm, \nStanley Mastrantonis, \nKinsey Matthews, \nMatthew L. Navarro, \nJulian Partridge, \nDominique Pelletier, \nCamilla V. H. Piggott, \nRachel Przeslawski, \nBen Radford, \nMatthew Rees, \nRon (Doc) Reynolds, \nFernanda A. Rolim, \nAdam Smith, \nFelix Spencer, \nRick Starr, \nSamuel Thompson, \nIszaac Webb, \nWayne Webb, \nSasha Whitmarsh, \nJoel Williams, \nJacquomo Monk",
           "description": "Methods in Ecology and Evolution, EarlyView.",
@@ -5102,16 +5142,6 @@
           "wordCount": null,
           "title": "High‐magnification platform for characterising microscopic communities",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/2041-210X.14478",
-          "author": "Alessandro Mondanaro, \nSilvia Castiglione, \nMirko Di Febbraro, \nAxel Timmermann, \nGiorgia Girardi, \nMarina Melchionna, \nCarmela Serio, \nArianna Morena Belfiore, \nPasquale Raia",
-          "description": "Methods in Ecology and Evolution, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14478?af=R",
-          "publishedOn": "2025-01-29T07:54:50.000Z",
-          "wordCount": null,
-          "title": "RRphylogeography: A new method to find the area of origin of species and the history of past contacts between species",
-          "imageUrl": null
         }
       ]
     },
@@ -5208,16 +5238,6 @@
           "publishedOn": "2025-01-31T08:00:00.000Z",
           "wordCount": null,
           "title": "A Simple Collocation-Type Approach to Numerical Stochastic Homogenization",
-          "imageUrl": null
-        },
-        {
-          "id": "https://epubs.siam.org/doi/abs/10.1137/24M164879X?af=R",
-          "author": "Kai Liu",
-          "description": "Multiscale Modeling & Simulation, Volume 23, Issue 1, Page 313-338, March 2025. \n Abstract. In this paper, we numerically solve the long-time nonlinear Schrödinger equation (NLSE) by using an oscillation-relaxation formulation. Such a formulation allows us to propose a class of numerical methods named oscillation-relaxation integrators (ORIs) for NLSE. By convergence analysis, the [math]th order ORIs (for any [math]) are shown to offer error bounds of form [math] up to time interval [math] with [math] the time stepsize. Compared with the splitting schemes that give error bounds [math], the accuracy of ORIs are significantly improved. Numerical experiments and comparisons confirm the gain in practical efficiency. Long-term near-conservation laws of symmetric ORIs are also established and tested. Numerical exploration on longer time intervals show that ORIs can produce accurate results till times [math], thanks to the improved error constants.",
-          "link": "https://epubs.siam.org/doi/abs/10.1137/24M164879X?af=R",
-          "publishedOn": "2025-01-29T08:00:00.000Z",
-          "wordCount": null,
-          "title": "Solving the Long-Time Nonlinear Schrödinger Equation by a Class of Oscillation-Relaxation Integrators",
           "imageUrl": null
         }
       ]
@@ -5361,6 +5381,26 @@
       "feedUrl": "https://besjournals.onlinelibrary.wiley.com/feed/13652745/most-recent",
       "siteUrl": "https://besjournals.onlinelibrary.wiley.com/journal/13652745?af=R",
       "articles": [
+        {
+          "id": "10.1111/1365-2745.70016",
+          "author": "Yong Zhou, \nMadelon F. Case, \nA. Carla Staver",
+          "description": "Journal of Ecology, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70016?af=R",
+          "publishedOn": "2025-02-27T07:30:38.000Z",
+          "wordCount": null,
+          "title": "Root trait (multi)functionality in savanna trees: Progress and challenges",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/1365-2745.70010",
+          "author": "Camila D. Medeiros, \nSantiago Trueba, \nChristian Henry, \nLeila R. Fletcher, \nJames A. Lutz, \nRodrigo Méndez Alonzo, \nNathan J. B. Kraft, \nLawren Sack",
+          "description": "Journal of Ecology, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70010?af=R",
+          "publishedOn": "2025-02-26T12:20:35.000Z",
+          "wordCount": null,
+          "title": "Simplification of woody plant trait networks among communities along a climatic aridity gradient",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/1365-2745.70018",
           "author": "Rihan Da, \nHuaijiang He, \nZhonghui Zhang, \nXiuhai Zhao, \nKlaus von Gadow, \nChunyu Zhang",
@@ -6296,6 +6336,26 @@
       "siteUrl": "https://onlinelibrary.wiley.com/journal/14724642?af=R",
       "articles": [
         {
+          "id": "10.1111/ddi.13923",
+          "author": "Fernanda C. Silva, \nJuan P. Quimbayo, \nTim Spanheeden Dencker, \nLaurene Pecuchet, \nSergio R. Floeter, \nMartin Lindegren",
+          "description": "Diversity and Distributions, Volume 31, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13923?af=R",
+          "publishedOn": "2025-02-26T12:54:24.000Z",
+          "wordCount": null,
+          "title": "No Sign of Homogenisation in Reef Fish Communities Across an Ecological Transition Zone Exposed to Warming",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/ddi.13925",
+          "author": "Xin Gao, \nZhuoen Liu, \nRichard T. Corlett, \nZhigang Jiang, \nAlice Hughes, \nKeping Ma, \nJens‐Christian Svenning, \nGang Feng",
+          "description": "Diversity and Distributions, Volume 31, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13925?af=R",
+          "publishedOn": "2025-02-26T12:04:25.000Z",
+          "wordCount": null,
+          "title": "Divergent Importance and Geographic Patterns in Threats to Birds and Mammals in China",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/ddi.13942",
           "author": "Luca Santini, \nMartina Fernando, \nGiordano Mancini, \nMoreno Di Marco",
           "description": "Diversity and Distributions, Volume 31, Issue 2, February 2025.",
@@ -6610,16 +6670,6 @@
           "publishedOn": "2025-02-05T04:05:50.000Z",
           "wordCount": null,
           "title": "eDNA Sampling Systems for Salmon Ecosystem Monitoring",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1002/edn3.70061",
-          "author": "Shota Homma, \nShinya Hosokawa, \nTakashi Komuro",
-          "description": "Environmental DNA, Volume 7, Issue 1, January–February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1002/edn3.70061?af=R",
-          "publishedOn": "2025-01-29T15:13:48.000Z",
-          "wordCount": null,
-          "title": "Fish eDNA Composition Along a Gradient of Freshwater eDNA in an Estuarine Bay",
           "imageUrl": null
         }
       ]
