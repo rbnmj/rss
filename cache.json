@@ -1469,16 +1469,6 @@
           "wordCount": null,
           "title": "Seasonal Shifts in Trophic Interaction Strength Drive Stability of Natural Food Webs",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/ele.70055",
-          "author": "Arianna I. Krinos, \nSara K. Shapiro, \nWeixuan Li, \nSheean T. Haley, \nSonya T. Dyhrman, \nStephanie Dutkiewicz, \nMichael J. Follows, \nHarriet Alexander",
-          "description": "Ecology Letters, Volume 28, Issue 1, January 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70055?af=R",
-          "publishedOn": "2025-01-30T08:00:00.000Z",
-          "wordCount": null,
-          "title": "Intraspecific Diversity in Thermal Performance Determines Phytoplankton Ecological Niche",
-          "imageUrl": null
         }
       ]
     },
@@ -1487,6 +1477,26 @@
       "feedUrl": "https://nsojournals.onlinelibrary.wiley.com/feed/16000706/most-recent",
       "siteUrl": "https://nsojournals.onlinelibrary.wiley.com/journal/16000706?af=R",
       "articles": [
+        {
+          "id": "10.1111/oik.11201",
+          "author": "XiaoXuan Liu, \nJunMei Li, \nRuoBing Wang, \nRongting Ni, \nChangqun Duan, \nJiacheng Yu, \nErik Jeppesen, \nYing Pan",
+          "description": "Oikos, EarlyView.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.11201?af=R",
+          "publishedOn": "2025-02-27T13:06:04.000Z",
+          "wordCount": null,
+          "title": "Antibiotics disrupt bacteria‐phytoplankton symbioses: unveiling ecological risks in aquatic ecosystems",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/oik.10920",
+          "author": "Subhasish Halder, \nUtkarsh Bhore, \nBodhisatta Nandy",
+          "description": "Oikos, EarlyView.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10920?af=R",
+          "publishedOn": "2025-02-27T13:04:44.000Z",
+          "wordCount": null,
+          "title": "Female‐biased spontaneous dispersal in Drosophila melanogaster and sex‐specific effect of nutrition and density therein",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/oik.10959",
           "author": "Vaishnavi Purushotham, \nPaul Cuchot, \nCeline Teplitsky, \nErik Matthysen",
@@ -2222,6 +2232,36 @@
       "siteUrl": "http://feeds.nature.com/natecolevol/rss/current",
       "articles": [
         {
+          "id": "https://www.nature.com/articles/s41559-025-02658-y",
+          "author": null,
+          "description": "Whether sensory ‘trade-offs’ between vision and olfaction existed during diversifications of early primates is still an open question. By combining genomic, molecular and neuroanatomical evidence, these new results support sensory shifts and not just trade-offs during primate evolution.",
+          "link": "https://www.nature.com/articles/s41559-025-02658-y",
+          "publishedOn": "2025-02-28T00:00:00.000Z",
+          "wordCount": 3783,
+          "title": "Changes in sight and smell in early primate evolution",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-025-02658-y/MediaObjects/41559_2025_2658_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41559-025-02651-5",
+          "author": "Hai Chi",
+          "description": "An analysis of genomic, molecular and neuroanatomical traits across extant primates reveals early divergence in visual and olfactory systems of major primate lineages consistent with lineage-specific shifts in diel activity and dietary niche, providing support for a sensory ‘reallocation’ hypothesis.",
+          "link": "https://www.nature.com/articles/s41559-025-02651-5",
+          "publishedOn": "2025-02-28T00:00:00.000Z",
+          "wordCount": 8875,
+          "title": "Genomic and phenotypic evidence support visual and olfactory shifts in primate evolution",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-025-02651-5/MediaObjects/41559_2025_2651_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41559-025-02647-1",
+          "author": "Ovidio García-Oliva",
+          "description": "The structure of aquatic food webs does not fit standard allometric predictions. Here the authors explain the co-evolution of specialist and non-specialist predators in aquatic food webs and how this helps reconstruct food webs on the basis of a relatively small number of observations.",
+          "link": "https://www.nature.com/articles/s41559-025-02647-1",
+          "publishedOn": "2025-02-28T00:00:00.000Z",
+          "wordCount": 13004,
+          "title": "The complex structure of aquatic food webs emerges from a few assembly rules",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-025-02647-1/MediaObjects/41559_2025_2647_Fig1_HTML.png"
+        },
+        {
           "id": "https://www.nature.com/articles/s41559-025-02645-3",
           "author": "Ivan M. Vinogradov",
           "description": "The authors find that male mosquitofish with greater inhibitory control and better spatial learning ability gain a significantly higher share of paternity than do more impulsive males, suggesting that these cognitive abilities are under direct sexual selection in male mosquitofish.",
@@ -2380,36 +2420,6 @@
           "wordCount": 9926,
           "title": "The current state, opportunities and challenges for upscaling private investment in biodiversity in Europe",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-024-02632-0/MediaObjects/41559_2024_2632_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41559-025-02641-7",
-          "author": "Isabel M. Serrano",
-          "description": "Nature Ecology & Evolution - Author Correction: Mitochondrial somatic mutation and selection throughout ageing",
-          "link": "https://www.nature.com/articles/s41559-025-02641-7",
-          "publishedOn": "2025-01-30T00:00:00.000Z",
-          "wordCount": 2349,
-          "title": "Author Correction: Mitochondrial somatic mutation and selection throughout ageing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nature.com/articles/s41559-024-02628-w",
-          "author": null,
-          "description": "This study introduces a method to systematically compare the functions of homologous (shared) genes between the X and Y chromosomes (gametologues) across the human body. The authors discover differences that are linked to the evolutionary histories of these genes and could contribute to sex-biased biology and disease.",
-          "link": "https://www.nature.com/articles/s41559-024-02628-w",
-          "publishedOn": "2025-01-30T00:00:00.000Z",
-          "wordCount": 3802,
-          "title": "Insights into the human sex chromosomes from divergence between the X–Y gametologues",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-024-02628-w/MediaObjects/41559_2024_2628_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41559-025-02640-8",
-          "author": "Isabel M. Serrano",
-          "description": "Nature Ecology & Evolution - Addendum: Mitochondrial somatic mutation and selection throughout ageing",
-          "link": "https://www.nature.com/articles/s41559-025-02640-8",
-          "publishedOn": "2025-01-30T00:00:00.000Z",
-          "wordCount": 3009,
-          "title": "Addendum: Mitochondrial somatic mutation and selection throughout ageing",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-025-02640-8/MediaObjects/41559_2025_2640_Fig1_HTML.png"
         }
       ]
     },
@@ -2847,16 +2857,6 @@
           "wordCount": null,
           "title": "Dilemmas in Linking Microbial Carbon Use Efficiency With Soil Organic Carbon Dynamics",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/gcb.17322",
-          "author": null,
-          "description": "Global Change Biology, Volume 31, Issue 2, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.17322?af=R",
-          "publishedOn": "2025-01-30T16:24:20.000Z",
-          "wordCount": null,
-          "title": "Issue Information",
-          "imageUrl": null
         }
       ]
     },
@@ -2963,806 +2963,6 @@
           "publishedOn": "2025-01-31T11:01:47.000Z",
           "wordCount": null,
           "title": "Noted with interest",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14309",
-          "author": "Lisa A. Blankinship, \nSarah Gillaspie, \nBasil H. Aboul‐Enein",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14309?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Highlighting the importance of biodiversity conservation through the Holy Qur'an",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14321",
-          "author": "Kirsten Mya Leong, \nAshley Rochelle Gramza, \nJennifer N. Duberstein, \nChelsey Bryson, \nAngela Amlin",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14321?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Using applied social science disciplines to implement creative outdoor cat management solutions and avoid the trap of one‐size‐fits‐all policies",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14406",
-          "author": "Caroline E. Milson, \nJun Ying Lim, \nDaniel J. Ingram, \nDavid P. Edwards",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14406?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "The need for carbon finance schemes to tackle overexploitation of tropical forest wildlife",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14328",
-          "author": "Casey Visintin, \nGeorgia E. Garrard, \nWolfgang W. Weisser, \nMauro Baracco, \nRichard J. Hobbs, \nSarah A. Bekessy",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14328?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Designing cities for everyday nature",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14349",
-          "author": "Natasha Blaize Gardiner, \nNeil Gilbert, \nDaniela Liggett, \nMichael Bode",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14349?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Measuring the performance of Antarctic Treaty decision‐making",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14301",
-          "author": "Daniel J. Coleman, \nRachel K. Gittman, \nCraig E. Landry, \nJames E. Byers, \nClark R. Alexander, \nG. Paul Coughlin, \nC. Brock Woodson",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14301?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Quantifying the impacts of future shoreline modification on biodiversity in a case study of coastal Georgia, United States",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14310",
-          "author": "Can Ke, \nLi‐xin Gong, \nYang Geng, \nZhi‐qiang Wang, \nWen‐jun Zhang, \nJiang Feng, \nTing‐lei Jiang",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14310?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Patterns and correlates of potential range shifts of bat species in China in the context of climate change",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14311",
-          "author": "Zhining Wang, \nTao Chen, \nLi Yang, \nColin A. Chapman, \nPengfei Fan",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14311?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Effects of protected area coverage and research on conservation status of primates globally",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14312",
-          "author": "Nina Luisa Santostasi, \nSarah Bauduin, \nOksana Grente, \nOlivier Gimenez, \nPaolo Ciucci",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14312?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Simulating the efficacy of wolf–dog hybridization management with individual‐based modeling",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14313",
-          "author": "Ruth E. Dunn, \nCassandra E. Benkwitt, \nOlivier Maury, \nNicolas Barrier, \nPeter Carr, \nNicholas A. J. Graham",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14313?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Island restoration to rebuild seabird populations and amplify coral reef functioning",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14314",
-          "author": "Jacob Jones, \nAndrea S. Griffin, \nFrank W. Agbola, \nMatt W. Hayward",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14314?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Role of national regime ideology for predicting biodiversity outcomes",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14315",
-          "author": "Diogo Alagador",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14315?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Dependence of Europe's most threatened mammals on movement to adapt to climate change",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14323",
-          "author": "Jadelys Tonos, \nBastien Papinot, \nDaniel S. Park, \nMihajatiana Raelison, \nHerilantonirina Ramaroson, \nJessica Stubbs, \nOnja H. Razafindratsima",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14323?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Examining the structure of plant–lemur interactions in the face of imperfect knowledge",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14326",
-          "author": "Xavier Santos, \nBrahim Chergui, \nJosabel Belliure, \nFrancisco Moreira, \nJuli G. Pausas",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14326?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Reptile responses to fire across the western Mediterranean Basin",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14332",
-          "author": "Harriet Ibbett, \nLeejiah Dorward, \nJulia P. G. Jones, \nEdward M. Kohi, \nAsri A. Dwiyahreni, \nStephen Sankeni, \nKarlina Prayitno, \nJesca Mchomvu, \nJoseph Kaduma, \nAndie Wijaya Saputra, \nIka Yuni Agustin, \nTyassanti Tryswidiarini, \nRose Mawenya, \nJatna Supriatna, \nFreya A. V. St John",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14332?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Improving compliance around protected areas through fair administration of rules",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14333",
-          "author": "T. R. McClanahan, \nR. M. Oddenyo",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14333?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Stimulating the capacity to govern the commons",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14343",
-          "author": "Elia Lo Parrino, \nGentile Francesco Ficetola, \nMichel Devin, \nRaoul Manenti, \nMattia Falaschi",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14343?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Integrating adult occurrence and reproduction data to identify conservation measures for amphibians",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14345",
-          "author": "Sarah L. Becker, \nCharlotte Boyd, \nJonathan M. Handley, \nBen Raymond, \nRyan Reisinger, \nYan Ropert‐Coudert, \nNora Apelgren, \nTammy E. Davies, \nMary‐Anne Lea, \nMercedes Santos, \nPhilip N. Trathan, \nAnton P. Van de Putte, \nLuis A. Huckstadt, \nJean‐Benoit Charrassin, \nCassandra M. Brooks",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14345?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Scaling up ocean conservation through recognition of key biodiversity areas in the Southern Ocean from multispecies tracking data",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14363",
-          "author": "Molly C. Bletz, \nEvan H. Campbell Grant, \nGraziella DiRenzo",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14363?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Quantitative support for the benefits of proactive management for wildlife disease control",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14408",
-          "author": "Sarah L. Carroll, \nSusanne M. Vogel, \nPurity Nititi Taek, \nClevers Tumuti, \nDivya Vasudev, \nVarun R. Goswami, \nJake Wall, \nStephen Mwiu, \nRobin S. Reid, \nJonathan Salerno",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14408?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "A spatially explicit assessment of factors shaping attitudes toward African elephant conservation",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14317",
-          "author": "Thijs P. M. Fijen, \nGabriella A. Bishop, \nCristina Ganuza, \nJeroen Scheper, \nDavid Kleijn",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14317?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Analyzing the relative importance of habitat quantity and quality for boosting pollinator populations in agricultural landscapes",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14346",
-          "author": "Kevin W. Barnes, \nNeal D. Niemuth, \nRich Iovanna",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14346?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Landscape‐scale predictions of future grassland conversion to cropland or development",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14354",
-          "author": "Hannah Thomas, \nMichelle S. Ward, \nJeremy S. Simmonds, \nMartin F. J. Taylor, \nMartine Maron",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14354?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Poor compliance and exemptions facilitate ongoing deforestation",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14371",
-          "author": "Javier M. Cordier, \nLuis Osorio‐Olvera, \nPablo Y. Huais, \nAna N. Tomba, \nFabricio Villalobos, \nJavier Nori",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14371?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Capability of big data to capture threatened vertebrate diversity in protected areas",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14376",
-          "author": "Jeffrey O. Hanson, \nRichard Schuster, \nMatthew Strimas‐Mackey, \nNina Morrell, \nBrandon P. M. Edwards, \nPeter Arcese, \nJoseph R. Bennett, \nHugh P. Possingham",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14376?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Systematic conservation prioritization with the prioritizr R package",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14367",
-          "author": null,
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14367?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Noted with interest",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14378",
-          "author": "Clive Nuttman",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14378?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "The state of nature in Madagascar",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14438",
-          "author": "Christopher B. Anderson",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14438?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "COP16 and the process of consolidating an inclusive conservation paradigm",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14303",
-          "author": null,
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14303?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Issue Information",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14342",
-          "author": "Vera Horigue, \nArthur Tuda, \nJoseph Maina",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14342?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Design and management considerations for the Kenya–Tanzania marine transboundary conservation area",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14431",
-          "author": "Timothy M. Brown, \nAlison M. Dunn, \nRupert J. Quinnell, \nEllen Clarke, \nAndrew A. Cunningham, \nSimon J. Goodman",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14431?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "An interdisciplinary approach to improving conservation outcomes for parasites",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14237",
-          "author": "Xavier McNally, \nThomas L. Webb, \nCharlotte Smith, \nAndrew Moss, \nJilly Gibson‐Miller",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14237?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "A meta‐analysis of the effect of visiting zoos and aquariums on visitors’ conservation knowledge, beliefs, and behavior",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14249",
-          "author": "Michael A. Petriello, \nLauren Redmore, \nAby L. Sène, \nDhananjaya Katju, \nLilian Barraclough, \nSara Boyd, \nCarly Madge, \nAnastasia Papadopoulos, \nReddi S. Yalamala",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14249?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "The scope of empowerment for conservation and communities",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14344",
-          "author": "Carrol M. H. Chan, \nChristopher J. Owers, \nSascha Fuller, \nMatt W. Hayward, \nDavid Moverley, \nAndrea S. Griffin",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14344?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Capacity and capability of remote sensing to inform invasive plant species management in the Pacific Islands region",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14380",
-          "author": "Rachel E. Pausch, \nJessica R. Hale, \nPeter Kiffney, \nBeth Sanderson, \nSara Azat, \nKatie Barnas, \nW. Bryant Chesney, \nNatalie Cosentino‐Manning, \nStephanie Ehinger, \nDayv Lowry, \nSteve Marx",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14380?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Review of ecological valuation and equivalency analysis methods for assessing temperate nearshore submerged aquatic vegetation",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14392",
-          "author": "Raphael A. Ayambire, \nTrina Rytwinski, \nJessica J. Taylor, \nMatthew W. Luizza, \nMatthew J. Muir, \nCynthia Cadet, \nDerek Armitage, \nNathan J. Bennett, \nJeremy Brooks, \nSamantha H. Cheng, \nJenny Martinez, \nMeenakshi Nagendran, \nSiri Öckerman, \nShannon N. Rivera, \nAnne Savage, \nDavid S. Wilkie, \nSteven J. Cooke, \nJoseph R. Bennett",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14392?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Challenges in assessing the effects of environmental governance systems on conservation outcomes",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14414",
-          "author": "Jedediah F. Brodie, \nCarolina Bello, \nCarine Emer, \nMauro Galetti, \nMatthew S. Luskin, \nAnand Osuri, \nCarlos A. Peres, \nAnnina Stoll, \nNacho Villar, \nAna‐Benítez López",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14414?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Defaunation impacts on the carbon balance of tropical forests",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14262",
-          "author": "Christina Hiller, \nMichael ’t Sas‐Rolfes",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14262?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Systematic review of the impact of restrictive wildlife trade measures on conservation of iconic species in southern Africa",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14265",
-          "author": "F. Whiting‐Fawcett, \nA. S. Blomberg, \nT. Troitsky, \nM. B. Meierhofer, \nK. A. Field, \nS. J. Puechmaille, \nT. M. Lilley",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14265?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "A Palearctic view of a bat fungal disease",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14433",
-          "author": "Simon Pooley",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14433?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Conservation and coexistence at a crossroads",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14309",
-          "author": "Lisa A. Blankinship, \nSarah Gillaspie, \nBasil H. Aboul‐Enein",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14309?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Highlighting the importance of biodiversity conservation through the Holy Qur'an",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14321",
-          "author": "Kirsten Mya Leong, \nAshley Rochelle Gramza, \nJennifer N. Duberstein, \nChelsey Bryson, \nAngela Amlin",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14321?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Using applied social science disciplines to implement creative outdoor cat management solutions and avoid the trap of one‐size‐fits‐all policies",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14406",
-          "author": "Caroline E. Milson, \nJun Ying Lim, \nDaniel J. Ingram, \nDavid P. Edwards",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14406?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "The need for carbon finance schemes to tackle overexploitation of tropical forest wildlife",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14328",
-          "author": "Casey Visintin, \nGeorgia E. Garrard, \nWolfgang W. Weisser, \nMauro Baracco, \nRichard J. Hobbs, \nSarah A. Bekessy",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14328?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Designing cities for everyday nature",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14349",
-          "author": "Natasha Blaize Gardiner, \nNeil Gilbert, \nDaniela Liggett, \nMichael Bode",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14349?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Measuring the performance of Antarctic Treaty decision‐making",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14301",
-          "author": "Daniel J. Coleman, \nRachel K. Gittman, \nCraig E. Landry, \nJames E. Byers, \nClark R. Alexander, \nG. Paul Coughlin, \nC. Brock Woodson",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14301?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Quantifying the impacts of future shoreline modification on biodiversity in a case study of coastal Georgia, United States",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14310",
-          "author": "Can Ke, \nLi‐xin Gong, \nYang Geng, \nZhi‐qiang Wang, \nWen‐jun Zhang, \nJiang Feng, \nTing‐lei Jiang",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14310?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Patterns and correlates of potential range shifts of bat species in China in the context of climate change",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14311",
-          "author": "Zhining Wang, \nTao Chen, \nLi Yang, \nColin A. Chapman, \nPengfei Fan",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14311?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Effects of protected area coverage and research on conservation status of primates globally",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14312",
-          "author": "Nina Luisa Santostasi, \nSarah Bauduin, \nOksana Grente, \nOlivier Gimenez, \nPaolo Ciucci",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14312?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Simulating the efficacy of wolf–dog hybridization management with individual‐based modeling",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14313",
-          "author": "Ruth E. Dunn, \nCassandra E. Benkwitt, \nOlivier Maury, \nNicolas Barrier, \nPeter Carr, \nNicholas A. J. Graham",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14313?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Island restoration to rebuild seabird populations and amplify coral reef functioning",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14314",
-          "author": "Jacob Jones, \nAndrea S. Griffin, \nFrank W. Agbola, \nMatt W. Hayward",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14314?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Role of national regime ideology for predicting biodiversity outcomes",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14315",
-          "author": "Diogo Alagador",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14315?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Dependence of Europe's most threatened mammals on movement to adapt to climate change",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14323",
-          "author": "Jadelys Tonos, \nBastien Papinot, \nDaniel S. Park, \nMihajatiana Raelison, \nHerilantonirina Ramaroson, \nJessica Stubbs, \nOnja H. Razafindratsima",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14323?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Examining the structure of plant–lemur interactions in the face of imperfect knowledge",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14326",
-          "author": "Xavier Santos, \nBrahim Chergui, \nJosabel Belliure, \nFrancisco Moreira, \nJuli G. Pausas",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14326?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Reptile responses to fire across the western Mediterranean Basin",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14332",
-          "author": "Harriet Ibbett, \nLeejiah Dorward, \nJulia P. G. Jones, \nEdward M. Kohi, \nAsri A. Dwiyahreni, \nStephen Sankeni, \nKarlina Prayitno, \nJesca Mchomvu, \nJoseph Kaduma, \nAndie Wijaya Saputra, \nIka Yuni Agustin, \nTyassanti Tryswidiarini, \nRose Mawenya, \nJatna Supriatna, \nFreya A. V. St John",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14332?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Improving compliance around protected areas through fair administration of rules",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14333",
-          "author": "T. R. McClanahan, \nR. M. Oddenyo",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14333?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Stimulating the capacity to govern the commons",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14343",
-          "author": "Elia Lo Parrino, \nGentile Francesco Ficetola, \nMichel Devin, \nRaoul Manenti, \nMattia Falaschi",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14343?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Integrating adult occurrence and reproduction data to identify conservation measures for amphibians",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14345",
-          "author": "Sarah L. Becker, \nCharlotte Boyd, \nJonathan M. Handley, \nBen Raymond, \nRyan Reisinger, \nYan Ropert‐Coudert, \nNora Apelgren, \nTammy E. Davies, \nMary‐Anne Lea, \nMercedes Santos, \nPhilip N. Trathan, \nAnton P. Van de Putte, \nLuis A. Huckstadt, \nJean‐Benoit Charrassin, \nCassandra M. Brooks",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14345?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Scaling up ocean conservation through recognition of key biodiversity areas in the Southern Ocean from multispecies tracking data",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14363",
-          "author": "Molly C. Bletz, \nEvan H. Campbell Grant, \nGraziella DiRenzo",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14363?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Quantitative support for the benefits of proactive management for wildlife disease control",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14408",
-          "author": "Sarah L. Carroll, \nSusanne M. Vogel, \nPurity Nititi Taek, \nClevers Tumuti, \nDivya Vasudev, \nVarun R. Goswami, \nJake Wall, \nStephen Mwiu, \nRobin S. Reid, \nJonathan Salerno",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14408?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "A spatially explicit assessment of factors shaping attitudes toward African elephant conservation",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14317",
-          "author": "Thijs P. M. Fijen, \nGabriella A. Bishop, \nCristina Ganuza, \nJeroen Scheper, \nDavid Kleijn",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14317?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Analyzing the relative importance of habitat quantity and quality for boosting pollinator populations in agricultural landscapes",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14346",
-          "author": "Kevin W. Barnes, \nNeal D. Niemuth, \nRich Iovanna",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14346?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Landscape‐scale predictions of future grassland conversion to cropland or development",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14354",
-          "author": "Hannah Thomas, \nMichelle S. Ward, \nJeremy S. Simmonds, \nMartin F. J. Taylor, \nMartine Maron",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14354?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Poor compliance and exemptions facilitate ongoing deforestation",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14371",
-          "author": "Javier M. Cordier, \nLuis Osorio‐Olvera, \nPablo Y. Huais, \nAna N. Tomba, \nFabricio Villalobos, \nJavier Nori",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14371?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Capability of big data to capture threatened vertebrate diversity in protected areas",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14376",
-          "author": "Jeffrey O. Hanson, \nRichard Schuster, \nMatthew Strimas‐Mackey, \nNina Morrell, \nBrandon P. M. Edwards, \nPeter Arcese, \nJoseph R. Bennett, \nHugh P. Possingham",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14376?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Systematic conservation prioritization with the prioritizr R package",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14367",
-          "author": null,
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14367?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Noted with interest",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14378",
-          "author": "Clive Nuttman",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14378?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "The state of nature in Madagascar",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14438",
-          "author": "Christopher B. Anderson",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14438?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "COP16 and the process of consolidating an inclusive conservation paradigm",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14303",
-          "author": null,
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14303?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Issue Information",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14342",
-          "author": "Vera Horigue, \nArthur Tuda, \nJoseph Maina",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14342?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Design and management considerations for the Kenya–Tanzania marine transboundary conservation area",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14431",
-          "author": "Timothy M. Brown, \nAlison M. Dunn, \nRupert J. Quinnell, \nEllen Clarke, \nAndrew A. Cunningham, \nSimon J. Goodman",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14431?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "An interdisciplinary approach to improving conservation outcomes for parasites",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14237",
-          "author": "Xavier McNally, \nThomas L. Webb, \nCharlotte Smith, \nAndrew Moss, \nJilly Gibson‐Miller",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14237?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "A meta‐analysis of the effect of visiting zoos and aquariums on visitors’ conservation knowledge, beliefs, and behavior",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14249",
-          "author": "Michael A. Petriello, \nLauren Redmore, \nAby L. Sène, \nDhananjaya Katju, \nLilian Barraclough, \nSara Boyd, \nCarly Madge, \nAnastasia Papadopoulos, \nReddi S. Yalamala",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14249?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "The scope of empowerment for conservation and communities",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14344",
-          "author": "Carrol M. H. Chan, \nChristopher J. Owers, \nSascha Fuller, \nMatt W. Hayward, \nDavid Moverley, \nAndrea S. Griffin",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14344?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Capacity and capability of remote sensing to inform invasive plant species management in the Pacific Islands region",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14380",
-          "author": "Rachel E. Pausch, \nJessica R. Hale, \nPeter Kiffney, \nBeth Sanderson, \nSara Azat, \nKatie Barnas, \nW. Bryant Chesney, \nNatalie Cosentino‐Manning, \nStephanie Ehinger, \nDayv Lowry, \nSteve Marx",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14380?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Review of ecological valuation and equivalency analysis methods for assessing temperate nearshore submerged aquatic vegetation",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14392",
-          "author": "Raphael A. Ayambire, \nTrina Rytwinski, \nJessica J. Taylor, \nMatthew W. Luizza, \nMatthew J. Muir, \nCynthia Cadet, \nDerek Armitage, \nNathan J. Bennett, \nJeremy Brooks, \nSamantha H. Cheng, \nJenny Martinez, \nMeenakshi Nagendran, \nSiri Öckerman, \nShannon N. Rivera, \nAnne Savage, \nDavid S. Wilkie, \nSteven J. Cooke, \nJoseph R. Bennett",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14392?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Challenges in assessing the effects of environmental governance systems on conservation outcomes",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14414",
-          "author": "Jedediah F. Brodie, \nCarolina Bello, \nCarine Emer, \nMauro Galetti, \nMatthew S. Luskin, \nAnand Osuri, \nCarlos A. Peres, \nAnnina Stoll, \nNacho Villar, \nAna‐Benítez López",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14414?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Defaunation impacts on the carbon balance of tropical forests",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14262",
-          "author": "Christina Hiller, \nMichael ’t Sas‐Rolfes",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14262?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Systematic review of the impact of restrictive wildlife trade measures on conservation of iconic species in southern Africa",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14265",
-          "author": "F. Whiting‐Fawcett, \nA. S. Blomberg, \nT. Troitsky, \nM. B. Meierhofer, \nK. A. Field, \nS. J. Puechmaille, \nT. M. Lilley",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14265?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "A Palearctic view of a bat fungal disease",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14433",
-          "author": "Simon Pooley",
-          "description": "Conservation Biology, Volume 39, Issue 1, February 2025.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14433?af=R",
-          "publishedOn": "2025-01-30T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Conservation and coexistence at a crossroads",
           "imageUrl": null
         }
       ]
@@ -4407,6 +3607,16 @@
       "siteUrl": "https://onlinelibrary.wiley.com/journal/1526100x?af=R",
       "articles": [
         {
+          "id": "10.1111/rec.14387",
+          "author": "Chelsea Waters, \nPeter L. Harrison, \nMarine Gouezo, \nAndrea Severati, \nChristopher Doropoulos",
+          "description": "Restoration Ecology, EarlyView.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/rec.14387?af=R",
+          "publishedOn": "2025-02-27T08:58:33.000Z",
+          "wordCount": null,
+          "title": "Early‐stage coral survivorship using wild larval assemblages on coral seeding devices for reef restoration",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/rec.70016",
           "author": "Taylor N. Whitman, \nSaskia Jurriaans, \nCarine Lefevre, \nCarrie A. Sims, \nBen Radford, \nMarji Puotinen, \nMia O. Hoogenboom, \nAndrew P. Negri, \nCarly J. Randall",
           "description": "Restoration Ecology, EarlyView.",
@@ -4785,16 +3995,6 @@
           "wordCount": null,
           "title": "Why we should not assume that habitat fragmentation is generally bad for restoration: a reply to Watts and Hughes ()",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/rec.14380",
-          "author": "Caleb H. Redick, \nDouglass F. Jacobs",
-          "description": "Restoration Ecology, EarlyView.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/rec.14380?af=R",
-          "publishedOn": "2025-01-30T06:22:21.000Z",
-          "wordCount": null,
-          "title": "Site and management factors determining the fate of hardwood trees planted on reclaimed coal mines in the Illinois Basin, USA",
-          "imageUrl": null
         }
       ]
     },
@@ -4803,6 +4003,26 @@
       "feedUrl": "https://besjournals.onlinelibrary.wiley.com/feed/2041210x/most-recent",
       "siteUrl": "https://besjournals.onlinelibrary.wiley.com/journal/2041210x?af=R",
       "articles": [
+        {
+          "id": "10.1111/2041-210X.70008",
+          "author": "Brendan M. Carswell, \nTal Avgar, \nGarrett M. Street, \nSean P. Boyle, \nEric Vander Wal",
+          "description": "Methods in Ecology and Evolution, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70008?af=R",
+          "publishedOn": "2025-02-28T06:59:35.000Z",
+          "wordCount": null,
+          "title": "One size does not fit all: A novel approach for determining the Realised Viewshed Size for remote camera traps",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/2041-210X.70002",
+          "author": "Catarina Vila‐Pouca, \nHannah De Waele, \nAntoine Parsékian, \nSimone Erroi, \nMariska De Rooij, \nEmma Labohm, \nAmy Deacon, \nAlexander Kotrschal",
+          "description": "Methods in Ecology and Evolution, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70002?af=R",
+          "publishedOn": "2025-02-27T13:44:51.000Z",
+          "wordCount": null,
+          "title": "A novel apparatus for studying fish cognition in the wild",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/2041-210X.70005",
           "author": "Matthew C. Pace, \nJosé A. A. De Oliveira, \nSimon H. Fischer, \nPaul J. Dolder",
@@ -5132,16 +4352,6 @@
           "wordCount": null,
           "title": "EcologicalNetworksDynamics.jl: A Julia package to simulate the temporal dynamics of complex ecological networks",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/2041-210X.14504",
-          "author": "Gerhard du Preez",
-          "description": "Methods in Ecology and Evolution, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14504?af=R",
-          "publishedOn": "2025-01-30T07:52:15.000Z",
-          "wordCount": null,
-          "title": "High‐magnification platform for characterising microscopic communities",
-          "imageUrl": null
         }
       ]
     },
@@ -5248,6 +4458,16 @@
       "siteUrl": "https://www.tandfonline.com/loi/bher20?af=R",
       "articles": [
         {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2470759?af=R",
+          "author": "Qin Zhang Di Wu Jie Luo Zixuan Chen Yujie Wang Yu Tian Zongwei He Qin Liu a Research Center for Environment and Human Health, Research Center for Medicine and Social Development, School of Public Health, Chongqing Medical University, Chongqing, Chinab College of Medical Informatics, Chongqing Medical University, Chongqing, China",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2470759?af=R",
+          "publishedOn": "2025-02-27T03:56:47.000Z",
+          "wordCount": null,
+          "title": "Association between urinary polycyclic aromatic hydrocarbons and childhood obesity index: a cross-sectional study in China",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464901?af=R",
           "author": "Liu Yang Xueru Wen Zhaohuan Huang Jun Liu Yun He Yongping Li a Institute of Hydrogeology and Environmental Geology, Chinese Academy of Geological Sciences, Shijiazhuang, Hebei Province, Chinab Key Laboratory of Groundwater Sciences and Engineering, Ministry of Natural Resources, Shijiazhuang, Hebei Province, Chinac Technology Innovation Center for Geothermal and Hot Dry Rock Exploration and Development, Ministry of Natural Resources, Shijiazhuang, Chinad Yichun Water Conservancy Bureau, Yichun, Jiangxi Province, China",
           "description": ".",
@@ -5333,48 +4553,7 @@
       "title": "IEEE Transactions on Evolutionary Computation - new TOC",
       "feedUrl": "https://ieeexplore.ieee.org/rss/TOC4235.XML",
       "siteUrl": "http://ieeexplore.ieee.org",
-      "articles": [
-        {
-          "id": "http://ieeexplore.ieee.org/document/10858346",
-          "author": null,
-          "description": "null",
-          "link": "http://ieeexplore.ieee.org/document/10858346",
-          "publishedOn": "2025-01-30T13:17:00.000Z",
-          "wordCount": 1491,
-          "title": "IEEE Transactions on Evolutionary Computation Information for Authors",
-          "imageUrl": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png"
-        },
-        {
-          "id": "http://ieeexplore.ieee.org/document/10858465",
-          "author": null,
-          "description": "null",
-          "link": "http://ieeexplore.ieee.org/document/10858465",
-          "publishedOn": "2025-01-30T13:16:59.000Z",
-          "wordCount": 1471,
-          "title": "Table of Contents",
-          "imageUrl": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png"
-        },
-        {
-          "id": "http://ieeexplore.ieee.org/document/10858464",
-          "author": null,
-          "description": "null",
-          "link": "http://ieeexplore.ieee.org/document/10858464",
-          "publishedOn": "2025-01-30T13:16:59.000Z",
-          "wordCount": 1487,
-          "title": "IEEE Transactions on Evolutionary Computation Publication Information",
-          "imageUrl": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png"
-        },
-        {
-          "id": "http://ieeexplore.ieee.org/document/10858460",
-          "author": null,
-          "description": "null",
-          "link": "http://ieeexplore.ieee.org/document/10858460",
-          "publishedOn": "2025-01-30T13:16:59.000Z",
-          "wordCount": 1479,
-          "title": "IEEE Computational Intelligence Society Information",
-          "imageUrl": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Wiley: Journal of Ecology: Table of Contents",
@@ -5819,16 +4998,6 @@
           "publishedOn": "2025-01-31T08:00:00.000Z",
           "wordCount": null,
           "title": "Decline in plant species richness with a chronic decrease of precipitation: The mediating role of the dominant species",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/1365-2745.14488",
-          "author": "Clara Gracia, \nAleš Lisner, \nMarkéta Applová, \nThinles Chondol, \nVojtěch Dolejšek, \nEva Janíková, \nYogita Karpate, \nMarie Konečná, \nAthina Papatheodoulou, \nLeyre Pedrós, \nTereza Švancárová, \nJan Lepš, \nJules Segrestin",
-          "description": "Journal of Ecology, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14488?af=R",
-          "publishedOn": "2025-01-30T11:49:27.000Z",
-          "wordCount": null,
-          "title": "Plant diversity loss has limited effects on below‐ground biomass and traits but alters community short‐term root production in a species‐rich grassland",
           "imageUrl": null
         }
       ]
@@ -6335,6 +5504,26 @@
       "feedUrl": "https://onlinelibrary.wiley.com/feed/14724642/most-recent",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/14724642?af=R",
       "articles": [
+        {
+          "id": "10.1111/ddi.13937",
+          "author": "Franck Pichot, \nDavid Mouillot, \nJean‐Baptiste Juhel, \nAlicia Dalongeville, \nOlivier Adam, \nVéronique Arnal, \nThomas Bockel, \nEmilie Boulanger, \nPierre Boissery, \nMadeleine Cancemi, \nEric Charbonnel, \nJean‐Michel Culioli, \nTony Dejean, \nNacim Guellati, \nVirginie Hartmann, \nFlorian Holon, \nPhilippe Lenfant, \nSandra Mallol, \nVirginie Marques, \nLaetitia Mathon, \nJean‐Jacques Riutort, \nMarie‐Catherine Santoni, \nNicolas Tomasi, \nAlice Valentini, \nLaure Velez, \nStéphanie Manel, \nJulie Deter",
+          "description": "Diversity and Distributions, Volume 31, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13937?af=R",
+          "publishedOn": "2025-02-27T08:00:00.000Z",
+          "wordCount": null,
+          "title": "Mediterranean Islands as Refugia for Elasmobranch and Threatened Fishes",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/ddi.13929",
+          "author": "Javiera P. Olivares‐Rojas, \nCarly N. Cook, \nDavid H. Duncan, \nJessica C. Walsh",
+          "description": "Diversity and Distributions, Volume 31, Issue 2, February 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13929?af=R",
+          "publishedOn": "2025-02-27T08:00:00.000Z",
+          "wordCount": null,
+          "title": "A Synthesis of Threats Impacting Australian Threatened Ecological Communities",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/ddi.13923",
           "author": "Fernanda C. Silva, \nJuan P. Quimbayo, \nTim Spanheeden Dencker, \nLaurene Pecuchet, \nSergio R. Floeter, \nMartin Lindegren",

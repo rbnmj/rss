@@ -2,10 +2,163 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-02-28T06:16:35.085Z</updated>
+    <updated>2025-03-01T06:15:56.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[One size does not fit all: A novel approach for determining the Realised Viewshed Size for remote camera traps]]></title>
+        <id>10.1111/2041-210X.70008</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70008?af=R"/>
+        <updated>2025-02-28T06:59:35.000Z</updated>
+        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
+        <author>
+            <name>Brendan M. Carswell, 
+Tal Avgar, 
+Garrett M. Street, 
+Sean P. Boyle, 
+Eric Vander Wal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changes in sight and smell in early primate evolution]]></title>
+        <id>https://www.nature.com/articles/s41559-025-02658-y</id>
+        <link href="https://www.nature.com/articles/s41559-025-02658-y"/>
+        <updated>2025-02-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether sensory ‘trade-offs’ between vision and olfaction existed during diversifications of early primates is still an open question. By combining genomic, molecular and neuroanatomical evidence, these new results support sensory shifts and not just trade-offs during primate evolution.]]></summary>
+        <author>
+            <name>Nature Ecology &amp; Evolution</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genomic and phenotypic evidence support visual and olfactory shifts in primate evolution]]></title>
+        <id>https://www.nature.com/articles/s41559-025-02651-5</id>
+        <link href="https://www.nature.com/articles/s41559-025-02651-5"/>
+        <updated>2025-02-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An analysis of genomic, molecular and neuroanatomical traits across extant primates reveals early divergence in visual and olfactory systems of major primate lineages consistent with lineage-specific shifts in diel activity and dietary niche, providing support for a sensory ‘reallocation’ hypothesis.]]></summary>
+        <author>
+            <name>Hai Chi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The complex structure of aquatic food webs emerges from a few assembly rules]]></title>
+        <id>https://www.nature.com/articles/s41559-025-02647-1</id>
+        <link href="https://www.nature.com/articles/s41559-025-02647-1"/>
+        <updated>2025-02-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The structure of aquatic food webs does not fit standard allometric predictions. Here the authors explain the co-evolution of specialist and non-specialist predators in aquatic food webs and how this helps reconstruct food webs on the basis of a relatively small number of observations.]]></summary>
+        <author>
+            <name>Ovidio García-Oliva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A novel apparatus for studying fish cognition in the wild]]></title>
+        <id>10.1111/2041-210X.70002</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70002?af=R"/>
+        <updated>2025-02-27T13:44:51.000Z</updated>
+        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
+        <author>
+            <name>Catarina Vila‐Pouca, 
+Hannah De Waele, 
+Antoine Parsékian, 
+Simone Erroi, 
+Mariska De Rooij, 
+Emma Labohm, 
+Amy Deacon, 
+Alexander Kotrschal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antibiotics disrupt bacteria‐phytoplankton symbioses: unveiling ecological risks in aquatic ecosystems]]></title>
+        <id>10.1111/oik.11201</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.11201?af=R"/>
+        <updated>2025-02-27T13:06:04.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, EarlyView.]]></summary>
+        <author>
+            <name>XiaoXuan Liu, 
+JunMei Li, 
+RuoBing Wang, 
+Rongting Ni, 
+Changqun Duan, 
+Jiacheng Yu, 
+Erik Jeppesen, 
+Ying Pan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Female‐biased spontaneous dispersal in Drosophila melanogaster and sex‐specific effect of nutrition and density therein]]></title>
+        <id>10.1111/oik.10920</id>
+        <link href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10920?af=R"/>
+        <updated>2025-02-27T13:04:44.000Z</updated>
+        <summary type="html"><![CDATA[Oikos, EarlyView.]]></summary>
+        <author>
+            <name>Subhasish Halder, 
+Utkarsh Bhore, 
+Bodhisatta Nandy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early‐stage coral survivorship using wild larval assemblages on coral seeding devices for reef restoration]]></title>
+        <id>10.1111/rec.14387</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/rec.14387?af=R"/>
+        <updated>2025-02-27T08:58:33.000Z</updated>
+        <summary type="html"><![CDATA[Restoration Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Chelsea Waters, 
+Peter L. Harrison, 
+Marine Gouezo, 
+Andrea Severati, 
+Christopher Doropoulos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mediterranean Islands as Refugia for Elasmobranch and Threatened Fishes]]></title>
+        <id>10.1111/ddi.13937</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ddi.13937?af=R"/>
+        <updated>2025-02-27T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Diversity and Distributions, Volume 31, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Franck Pichot, 
+David Mouillot, 
+Jean‐Baptiste Juhel, 
+Alicia Dalongeville, 
+Olivier Adam, 
+Véronique Arnal, 
+Thomas Bockel, 
+Emilie Boulanger, 
+Pierre Boissery, 
+Madeleine Cancemi, 
+Eric Charbonnel, 
+Jean‐Michel Culioli, 
+Tony Dejean, 
+Nacim Guellati, 
+Virginie Hartmann, 
+Florian Holon, 
+Philippe Lenfant, 
+Sandra Mallol, 
+Virginie Marques, 
+Laetitia Mathon, 
+Jean‐Jacques Riutort, 
+Marie‐Catherine Santoni, 
+Nicolas Tomasi, 
+Alice Valentini, 
+Laure Velez, 
+Stéphanie Manel, 
+Julie Deter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Synthesis of Threats Impacting Australian Threatened Ecological Communities]]></title>
+        <id>10.1111/ddi.13929</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ddi.13929?af=R"/>
+        <updated>2025-02-27T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Diversity and Distributions, Volume 31, Issue 2, February 2025.]]></summary>
+        <author>
+            <name>Javiera P. Olivares‐Rojas, 
+Carly N. Cook, 
+David H. Duncan, 
+Jessica C. Walsh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ecological niche models based on occurrence records of the amphibian chytrid fungus overestimate lethal chytridiomycosis risk]]></title>
         <id>10.1111/1365-2664.70022</id>
@@ -31,6 +184,16 @@ Jaime Bosch</name>
             <name>Yong Zhou, 
 Madelon F. Case, 
 A. Carla Staver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Association between urinary polycyclic aromatic hydrocarbons and childhood obesity index: a cross-sectional study in China]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2470759?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2470759?af=R"/>
+        <updated>2025-02-27T03:56:47.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Qin Zhang Di Wu Jie Luo Zixuan Chen Yujie Wang Yu Tian Zongwei He Qin Liu a Research Center for Environment and Human Health, Research Center for Medicine and Social Development, School of Public Health, Chongqing Medical University, Chongqing, Chinab College of Medical Informatics, Chongqing Medical University, Chongqing, China</name>
         </author>
     </entry>
     <entry>
@@ -8972,1322 +9135,6 @@ Sumanta Bagchi</name>
         <summary type="html"><![CDATA[Wind erosion and dust transport present challenges to human wellbeing, health and infrastructure. Last estimated for the United States in the 1990s, present economic costs of wind erosion across the United States have nearly quadrupled, and an updated assessment of vulnerable systems is required.]]></summary>
         <author>
             <name>Irene Y. Feng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Issue Information]]></title>
-        <id>10.1111/gcb.17322</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.17322?af=R"/>
-        <updated>2025-01-30T16:24:20.000Z</updated>
-        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 2, February 2025.]]></summary>
-        <author>
-            <name>Wiley: Global Change Biology: Table of Contents</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IEEE Transactions on Evolutionary Computation Information for Authors]]></title>
-        <id>http://ieeexplore.ieee.org/document/10858346</id>
-        <link href="http://ieeexplore.ieee.org/document/10858346"/>
-        <updated>2025-01-30T13:17:00.000Z</updated>
-        <summary type="html"><![CDATA[null]]></summary>
-        <author>
-            <name>IEEE Transactions on Evolutionary Computation - new TOC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Table of Contents]]></title>
-        <id>http://ieeexplore.ieee.org/document/10858465</id>
-        <link href="http://ieeexplore.ieee.org/document/10858465"/>
-        <updated>2025-01-30T13:16:59.000Z</updated>
-        <summary type="html"><![CDATA[null]]></summary>
-        <author>
-            <name>IEEE Transactions on Evolutionary Computation - new TOC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IEEE Transactions on Evolutionary Computation Publication Information]]></title>
-        <id>http://ieeexplore.ieee.org/document/10858464</id>
-        <link href="http://ieeexplore.ieee.org/document/10858464"/>
-        <updated>2025-01-30T13:16:59.000Z</updated>
-        <summary type="html"><![CDATA[null]]></summary>
-        <author>
-            <name>IEEE Transactions on Evolutionary Computation - new TOC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IEEE Computational Intelligence Society Information]]></title>
-        <id>http://ieeexplore.ieee.org/document/10858460</id>
-        <link href="http://ieeexplore.ieee.org/document/10858460"/>
-        <updated>2025-01-30T13:16:59.000Z</updated>
-        <summary type="html"><![CDATA[null]]></summary>
-        <author>
-            <name>IEEE Transactions on Evolutionary Computation - new TOC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plant diversity loss has limited effects on below‐ground biomass and traits but alters community short‐term root production in a species‐rich grassland]]></title>
-        <id>10.1111/1365-2745.14488</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14488?af=R"/>
-        <updated>2025-01-30T11:49:27.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, EarlyView.]]></summary>
-        <author>
-            <name>Clara Gracia, 
-Aleš Lisner, 
-Markéta Applová, 
-Thinles Chondol, 
-Vojtěch Dolejšek, 
-Eva Janíková, 
-Yogita Karpate, 
-Marie Konečná, 
-Athina Papatheodoulou, 
-Leyre Pedrós, 
-Tereza Švancárová, 
-Jan Lepš, 
-Jules Segrestin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intraspecific Diversity in Thermal Performance Determines Phytoplankton Ecological Niche]]></title>
-        <id>10.1111/ele.70055</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70055?af=R"/>
-        <updated>2025-01-30T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Arianna I. Krinos, 
-Sara K. Shapiro, 
-Weixuan Li, 
-Sheean T. Haley, 
-Sonya T. Dyhrman, 
-Stephanie Dutkiewicz, 
-Michael J. Follows, 
-Harriet Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High‐magnification platform for characterising microscopic communities]]></title>
-        <id>10.1111/2041-210X.14504</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14504?af=R"/>
-        <updated>2025-01-30T07:52:15.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
-        <author>
-            <name>Gerhard du Preez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Site and management factors determining the fate of hardwood trees planted on reclaimed coal mines in the Illinois Basin, USA]]></title>
-        <id>10.1111/rec.14380</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/rec.14380?af=R"/>
-        <updated>2025-01-30T06:22:21.000Z</updated>
-        <summary type="html"><![CDATA[Restoration Ecology, EarlyView.]]></summary>
-        <author>
-            <name>Caleb H. Redick, 
-Douglass F. Jacobs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Highlighting the importance of biodiversity conservation through the Holy Qur'an]]></title>
-        <id>10.1111/cobi.14309</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14309?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Lisa A. Blankinship, 
-Sarah Gillaspie, 
-Basil H. Aboul‐Enein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using applied social science disciplines to implement creative outdoor cat management solutions and avoid the trap of one‐size‐fits‐all policies]]></title>
-        <id>10.1111/cobi.14321</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14321?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Kirsten Mya Leong, 
-Ashley Rochelle Gramza, 
-Jennifer N. Duberstein, 
-Chelsey Bryson, 
-Angela Amlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The need for carbon finance schemes to tackle overexploitation of tropical forest wildlife]]></title>
-        <id>10.1111/cobi.14406</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14406?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Caroline E. Milson, 
-Jun Ying Lim, 
-Daniel J. Ingram, 
-David P. Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing cities for everyday nature]]></title>
-        <id>10.1111/cobi.14328</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14328?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Casey Visintin, 
-Georgia E. Garrard, 
-Wolfgang W. Weisser, 
-Mauro Baracco, 
-Richard J. Hobbs, 
-Sarah A. Bekessy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measuring the performance of Antarctic Treaty decision‐making]]></title>
-        <id>10.1111/cobi.14349</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14349?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Natasha Blaize Gardiner, 
-Neil Gilbert, 
-Daniela Liggett, 
-Michael Bode</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantifying the impacts of future shoreline modification on biodiversity in a case study of coastal Georgia, United States]]></title>
-        <id>10.1111/cobi.14301</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14301?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Daniel J. Coleman, 
-Rachel K. Gittman, 
-Craig E. Landry, 
-James E. Byers, 
-Clark R. Alexander, 
-G. Paul Coughlin, 
-C. Brock Woodson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patterns and correlates of potential range shifts of bat species in China in the context of climate change]]></title>
-        <id>10.1111/cobi.14310</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14310?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Can Ke, 
-Li‐xin Gong, 
-Yang Geng, 
-Zhi‐qiang Wang, 
-Wen‐jun Zhang, 
-Jiang Feng, 
-Ting‐lei Jiang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effects of protected area coverage and research on conservation status of primates globally]]></title>
-        <id>10.1111/cobi.14311</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14311?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Zhining Wang, 
-Tao Chen, 
-Li Yang, 
-Colin A. Chapman, 
-Pengfei Fan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simulating the efficacy of wolf–dog hybridization management with individual‐based modeling]]></title>
-        <id>10.1111/cobi.14312</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14312?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Nina Luisa Santostasi, 
-Sarah Bauduin, 
-Oksana Grente, 
-Olivier Gimenez, 
-Paolo Ciucci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Island restoration to rebuild seabird populations and amplify coral reef functioning]]></title>
-        <id>10.1111/cobi.14313</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14313?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Ruth E. Dunn, 
-Cassandra E. Benkwitt, 
-Olivier Maury, 
-Nicolas Barrier, 
-Peter Carr, 
-Nicholas A. J. Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Role of national regime ideology for predicting biodiversity outcomes]]></title>
-        <id>10.1111/cobi.14314</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14314?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Jacob Jones, 
-Andrea S. Griffin, 
-Frank W. Agbola, 
-Matt W. Hayward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dependence of Europe's most threatened mammals on movement to adapt to climate change]]></title>
-        <id>10.1111/cobi.14315</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14315?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Diogo Alagador</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Examining the structure of plant–lemur interactions in the face of imperfect knowledge]]></title>
-        <id>10.1111/cobi.14323</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14323?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Jadelys Tonos, 
-Bastien Papinot, 
-Daniel S. Park, 
-Mihajatiana Raelison, 
-Herilantonirina Ramaroson, 
-Jessica Stubbs, 
-Onja H. Razafindratsima</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reptile responses to fire across the western Mediterranean Basin]]></title>
-        <id>10.1111/cobi.14326</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14326?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Xavier Santos, 
-Brahim Chergui, 
-Josabel Belliure, 
-Francisco Moreira, 
-Juli G. Pausas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving compliance around protected areas through fair administration of rules]]></title>
-        <id>10.1111/cobi.14332</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14332?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Harriet Ibbett, 
-Leejiah Dorward, 
-Julia P. G. Jones, 
-Edward M. Kohi, 
-Asri A. Dwiyahreni, 
-Stephen Sankeni, 
-Karlina Prayitno, 
-Jesca Mchomvu, 
-Joseph Kaduma, 
-Andie Wijaya Saputra, 
-Ika Yuni Agustin, 
-Tyassanti Tryswidiarini, 
-Rose Mawenya, 
-Jatna Supriatna, 
-Freya A. V. St John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stimulating the capacity to govern the commons]]></title>
-        <id>10.1111/cobi.14333</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14333?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>T. R. McClanahan, 
-R. M. Oddenyo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating adult occurrence and reproduction data to identify conservation measures for amphibians]]></title>
-        <id>10.1111/cobi.14343</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14343?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Elia Lo Parrino, 
-Gentile Francesco Ficetola, 
-Michel Devin, 
-Raoul Manenti, 
-Mattia Falaschi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling up ocean conservation through recognition of key biodiversity areas in the Southern Ocean from multispecies tracking data]]></title>
-        <id>10.1111/cobi.14345</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14345?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Sarah L. Becker, 
-Charlotte Boyd, 
-Jonathan M. Handley, 
-Ben Raymond, 
-Ryan Reisinger, 
-Yan Ropert‐Coudert, 
-Nora Apelgren, 
-Tammy E. Davies, 
-Mary‐Anne Lea, 
-Mercedes Santos, 
-Philip N. Trathan, 
-Anton P. Van de Putte, 
-Luis A. Huckstadt, 
-Jean‐Benoit Charrassin, 
-Cassandra M. Brooks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantitative support for the benefits of proactive management for wildlife disease control]]></title>
-        <id>10.1111/cobi.14363</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14363?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Molly C. Bletz, 
-Evan H. Campbell Grant, 
-Graziella DiRenzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A spatially explicit assessment of factors shaping attitudes toward African elephant conservation]]></title>
-        <id>10.1111/cobi.14408</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14408?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Sarah L. Carroll, 
-Susanne M. Vogel, 
-Purity Nititi Taek, 
-Clevers Tumuti, 
-Divya Vasudev, 
-Varun R. Goswami, 
-Jake Wall, 
-Stephen Mwiu, 
-Robin S. Reid, 
-Jonathan Salerno</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analyzing the relative importance of habitat quantity and quality for boosting pollinator populations in agricultural landscapes]]></title>
-        <id>10.1111/cobi.14317</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14317?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Thijs P. M. Fijen, 
-Gabriella A. Bishop, 
-Cristina Ganuza, 
-Jeroen Scheper, 
-David Kleijn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Landscape‐scale predictions of future grassland conversion to cropland or development]]></title>
-        <id>10.1111/cobi.14346</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14346?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Kevin W. Barnes, 
-Neal D. Niemuth, 
-Rich Iovanna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poor compliance and exemptions facilitate ongoing deforestation]]></title>
-        <id>10.1111/cobi.14354</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14354?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Hannah Thomas, 
-Michelle S. Ward, 
-Jeremy S. Simmonds, 
-Martin F. J. Taylor, 
-Martine Maron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capability of big data to capture threatened vertebrate diversity in protected areas]]></title>
-        <id>10.1111/cobi.14371</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14371?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Javier M. Cordier, 
-Luis Osorio‐Olvera, 
-Pablo Y. Huais, 
-Ana N. Tomba, 
-Fabricio Villalobos, 
-Javier Nori</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Systematic conservation prioritization with the prioritizr R package]]></title>
-        <id>10.1111/cobi.14376</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14376?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Jeffrey O. Hanson, 
-Richard Schuster, 
-Matthew Strimas‐Mackey, 
-Nina Morrell, 
-Brandon P. M. Edwards, 
-Peter Arcese, 
-Joseph R. Bennett, 
-Hugh P. Possingham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noted with interest]]></title>
-        <id>10.1111/cobi.14367</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14367?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Wiley: Conservation Biology: Table of Contents</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The state of nature in Madagascar]]></title>
-        <id>10.1111/cobi.14378</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14378?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Clive Nuttman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COP16 and the process of consolidating an inclusive conservation paradigm]]></title>
-        <id>10.1111/cobi.14438</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14438?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Christopher B. Anderson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Issue Information]]></title>
-        <id>10.1111/cobi.14303</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14303?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Wiley: Conservation Biology: Table of Contents</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design and management considerations for the Kenya–Tanzania marine transboundary conservation area]]></title>
-        <id>10.1111/cobi.14342</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14342?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Vera Horigue, 
-Arthur Tuda, 
-Joseph Maina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An interdisciplinary approach to improving conservation outcomes for parasites]]></title>
-        <id>10.1111/cobi.14431</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14431?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Timothy M. Brown, 
-Alison M. Dunn, 
-Rupert J. Quinnell, 
-Ellen Clarke, 
-Andrew A. Cunningham, 
-Simon J. Goodman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A meta‐analysis of the effect of visiting zoos and aquariums on visitors’ conservation knowledge, beliefs, and behavior]]></title>
-        <id>10.1111/cobi.14237</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14237?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Xavier McNally, 
-Thomas L. Webb, 
-Charlotte Smith, 
-Andrew Moss, 
-Jilly Gibson‐Miller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The scope of empowerment for conservation and communities]]></title>
-        <id>10.1111/cobi.14249</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14249?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Michael A. Petriello, 
-Lauren Redmore, 
-Aby L. Sène, 
-Dhananjaya Katju, 
-Lilian Barraclough, 
-Sara Boyd, 
-Carly Madge, 
-Anastasia Papadopoulos, 
-Reddi S. Yalamala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capacity and capability of remote sensing to inform invasive plant species management in the Pacific Islands region]]></title>
-        <id>10.1111/cobi.14344</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14344?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Carrol M. H. Chan, 
-Christopher J. Owers, 
-Sascha Fuller, 
-Matt W. Hayward, 
-David Moverley, 
-Andrea S. Griffin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review of ecological valuation and equivalency analysis methods for assessing temperate nearshore submerged aquatic vegetation]]></title>
-        <id>10.1111/cobi.14380</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14380?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Rachel E. Pausch, 
-Jessica R. Hale, 
-Peter Kiffney, 
-Beth Sanderson, 
-Sara Azat, 
-Katie Barnas, 
-W. Bryant Chesney, 
-Natalie Cosentino‐Manning, 
-Stephanie Ehinger, 
-Dayv Lowry, 
-Steve Marx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Challenges in assessing the effects of environmental governance systems on conservation outcomes]]></title>
-        <id>10.1111/cobi.14392</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14392?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Raphael A. Ayambire, 
-Trina Rytwinski, 
-Jessica J. Taylor, 
-Matthew W. Luizza, 
-Matthew J. Muir, 
-Cynthia Cadet, 
-Derek Armitage, 
-Nathan J. Bennett, 
-Jeremy Brooks, 
-Samantha H. Cheng, 
-Jenny Martinez, 
-Meenakshi Nagendran, 
-Siri Öckerman, 
-Shannon N. Rivera, 
-Anne Savage, 
-David S. Wilkie, 
-Steven J. Cooke, 
-Joseph R. Bennett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Defaunation impacts on the carbon balance of tropical forests]]></title>
-        <id>10.1111/cobi.14414</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14414?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Jedediah F. Brodie, 
-Carolina Bello, 
-Carine Emer, 
-Mauro Galetti, 
-Matthew S. Luskin, 
-Anand Osuri, 
-Carlos A. Peres, 
-Annina Stoll, 
-Nacho Villar, 
-Ana‐Benítez López</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Systematic review of the impact of restrictive wildlife trade measures on conservation of iconic species in southern Africa]]></title>
-        <id>10.1111/cobi.14262</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14262?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Christina Hiller, 
-Michael ’t Sas‐Rolfes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Palearctic view of a bat fungal disease]]></title>
-        <id>10.1111/cobi.14265</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14265?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>F. Whiting‐Fawcett, 
-A. S. Blomberg, 
-T. Troitsky, 
-M. B. Meierhofer, 
-K. A. Field, 
-S. J. Puechmaille, 
-T. M. Lilley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conservation and coexistence at a crossroads]]></title>
-        <id>10.1111/cobi.14433</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/cobi.14433?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Simon Pooley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Highlighting the importance of biodiversity conservation through the Holy Qur'an]]></title>
-        <id>10.1111/cobi.14309</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14309?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Lisa A. Blankinship, 
-Sarah Gillaspie, 
-Basil H. Aboul‐Enein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using applied social science disciplines to implement creative outdoor cat management solutions and avoid the trap of one‐size‐fits‐all policies]]></title>
-        <id>10.1111/cobi.14321</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14321?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Kirsten Mya Leong, 
-Ashley Rochelle Gramza, 
-Jennifer N. Duberstein, 
-Chelsey Bryson, 
-Angela Amlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The need for carbon finance schemes to tackle overexploitation of tropical forest wildlife]]></title>
-        <id>10.1111/cobi.14406</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14406?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Caroline E. Milson, 
-Jun Ying Lim, 
-Daniel J. Ingram, 
-David P. Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing cities for everyday nature]]></title>
-        <id>10.1111/cobi.14328</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14328?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Casey Visintin, 
-Georgia E. Garrard, 
-Wolfgang W. Weisser, 
-Mauro Baracco, 
-Richard J. Hobbs, 
-Sarah A. Bekessy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measuring the performance of Antarctic Treaty decision‐making]]></title>
-        <id>10.1111/cobi.14349</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14349?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Natasha Blaize Gardiner, 
-Neil Gilbert, 
-Daniela Liggett, 
-Michael Bode</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantifying the impacts of future shoreline modification on biodiversity in a case study of coastal Georgia, United States]]></title>
-        <id>10.1111/cobi.14301</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14301?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Daniel J. Coleman, 
-Rachel K. Gittman, 
-Craig E. Landry, 
-James E. Byers, 
-Clark R. Alexander, 
-G. Paul Coughlin, 
-C. Brock Woodson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patterns and correlates of potential range shifts of bat species in China in the context of climate change]]></title>
-        <id>10.1111/cobi.14310</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14310?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Can Ke, 
-Li‐xin Gong, 
-Yang Geng, 
-Zhi‐qiang Wang, 
-Wen‐jun Zhang, 
-Jiang Feng, 
-Ting‐lei Jiang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effects of protected area coverage and research on conservation status of primates globally]]></title>
-        <id>10.1111/cobi.14311</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14311?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Zhining Wang, 
-Tao Chen, 
-Li Yang, 
-Colin A. Chapman, 
-Pengfei Fan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simulating the efficacy of wolf–dog hybridization management with individual‐based modeling]]></title>
-        <id>10.1111/cobi.14312</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14312?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Nina Luisa Santostasi, 
-Sarah Bauduin, 
-Oksana Grente, 
-Olivier Gimenez, 
-Paolo Ciucci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Island restoration to rebuild seabird populations and amplify coral reef functioning]]></title>
-        <id>10.1111/cobi.14313</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14313?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Ruth E. Dunn, 
-Cassandra E. Benkwitt, 
-Olivier Maury, 
-Nicolas Barrier, 
-Peter Carr, 
-Nicholas A. J. Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Role of national regime ideology for predicting biodiversity outcomes]]></title>
-        <id>10.1111/cobi.14314</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14314?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Jacob Jones, 
-Andrea S. Griffin, 
-Frank W. Agbola, 
-Matt W. Hayward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dependence of Europe's most threatened mammals on movement to adapt to climate change]]></title>
-        <id>10.1111/cobi.14315</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14315?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Diogo Alagador</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Examining the structure of plant–lemur interactions in the face of imperfect knowledge]]></title>
-        <id>10.1111/cobi.14323</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14323?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Jadelys Tonos, 
-Bastien Papinot, 
-Daniel S. Park, 
-Mihajatiana Raelison, 
-Herilantonirina Ramaroson, 
-Jessica Stubbs, 
-Onja H. Razafindratsima</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reptile responses to fire across the western Mediterranean Basin]]></title>
-        <id>10.1111/cobi.14326</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14326?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Xavier Santos, 
-Brahim Chergui, 
-Josabel Belliure, 
-Francisco Moreira, 
-Juli G. Pausas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving compliance around protected areas through fair administration of rules]]></title>
-        <id>10.1111/cobi.14332</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14332?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Harriet Ibbett, 
-Leejiah Dorward, 
-Julia P. G. Jones, 
-Edward M. Kohi, 
-Asri A. Dwiyahreni, 
-Stephen Sankeni, 
-Karlina Prayitno, 
-Jesca Mchomvu, 
-Joseph Kaduma, 
-Andie Wijaya Saputra, 
-Ika Yuni Agustin, 
-Tyassanti Tryswidiarini, 
-Rose Mawenya, 
-Jatna Supriatna, 
-Freya A. V. St John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stimulating the capacity to govern the commons]]></title>
-        <id>10.1111/cobi.14333</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14333?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>T. R. McClanahan, 
-R. M. Oddenyo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating adult occurrence and reproduction data to identify conservation measures for amphibians]]></title>
-        <id>10.1111/cobi.14343</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14343?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Elia Lo Parrino, 
-Gentile Francesco Ficetola, 
-Michel Devin, 
-Raoul Manenti, 
-Mattia Falaschi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling up ocean conservation through recognition of key biodiversity areas in the Southern Ocean from multispecies tracking data]]></title>
-        <id>10.1111/cobi.14345</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14345?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Sarah L. Becker, 
-Charlotte Boyd, 
-Jonathan M. Handley, 
-Ben Raymond, 
-Ryan Reisinger, 
-Yan Ropert‐Coudert, 
-Nora Apelgren, 
-Tammy E. Davies, 
-Mary‐Anne Lea, 
-Mercedes Santos, 
-Philip N. Trathan, 
-Anton P. Van de Putte, 
-Luis A. Huckstadt, 
-Jean‐Benoit Charrassin, 
-Cassandra M. Brooks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantitative support for the benefits of proactive management for wildlife disease control]]></title>
-        <id>10.1111/cobi.14363</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14363?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Molly C. Bletz, 
-Evan H. Campbell Grant, 
-Graziella DiRenzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A spatially explicit assessment of factors shaping attitudes toward African elephant conservation]]></title>
-        <id>10.1111/cobi.14408</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14408?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Sarah L. Carroll, 
-Susanne M. Vogel, 
-Purity Nititi Taek, 
-Clevers Tumuti, 
-Divya Vasudev, 
-Varun R. Goswami, 
-Jake Wall, 
-Stephen Mwiu, 
-Robin S. Reid, 
-Jonathan Salerno</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analyzing the relative importance of habitat quantity and quality for boosting pollinator populations in agricultural landscapes]]></title>
-        <id>10.1111/cobi.14317</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14317?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Thijs P. M. Fijen, 
-Gabriella A. Bishop, 
-Cristina Ganuza, 
-Jeroen Scheper, 
-David Kleijn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Landscape‐scale predictions of future grassland conversion to cropland or development]]></title>
-        <id>10.1111/cobi.14346</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14346?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Kevin W. Barnes, 
-Neal D. Niemuth, 
-Rich Iovanna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poor compliance and exemptions facilitate ongoing deforestation]]></title>
-        <id>10.1111/cobi.14354</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14354?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Hannah Thomas, 
-Michelle S. Ward, 
-Jeremy S. Simmonds, 
-Martin F. J. Taylor, 
-Martine Maron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capability of big data to capture threatened vertebrate diversity in protected areas]]></title>
-        <id>10.1111/cobi.14371</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14371?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Javier M. Cordier, 
-Luis Osorio‐Olvera, 
-Pablo Y. Huais, 
-Ana N. Tomba, 
-Fabricio Villalobos, 
-Javier Nori</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Systematic conservation prioritization with the prioritizr R package]]></title>
-        <id>10.1111/cobi.14376</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14376?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Jeffrey O. Hanson, 
-Richard Schuster, 
-Matthew Strimas‐Mackey, 
-Nina Morrell, 
-Brandon P. M. Edwards, 
-Peter Arcese, 
-Joseph R. Bennett, 
-Hugh P. Possingham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noted with interest]]></title>
-        <id>10.1111/cobi.14367</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14367?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Wiley: Conservation Biology: Table of Contents</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The state of nature in Madagascar]]></title>
-        <id>10.1111/cobi.14378</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14378?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Clive Nuttman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COP16 and the process of consolidating an inclusive conservation paradigm]]></title>
-        <id>10.1111/cobi.14438</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14438?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Christopher B. Anderson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Issue Information]]></title>
-        <id>10.1111/cobi.14303</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14303?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Wiley: Conservation Biology: Table of Contents</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design and management considerations for the Kenya–Tanzania marine transboundary conservation area]]></title>
-        <id>10.1111/cobi.14342</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14342?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Vera Horigue, 
-Arthur Tuda, 
-Joseph Maina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An interdisciplinary approach to improving conservation outcomes for parasites]]></title>
-        <id>10.1111/cobi.14431</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14431?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Timothy M. Brown, 
-Alison M. Dunn, 
-Rupert J. Quinnell, 
-Ellen Clarke, 
-Andrew A. Cunningham, 
-Simon J. Goodman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A meta‐analysis of the effect of visiting zoos and aquariums on visitors’ conservation knowledge, beliefs, and behavior]]></title>
-        <id>10.1111/cobi.14237</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14237?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Xavier McNally, 
-Thomas L. Webb, 
-Charlotte Smith, 
-Andrew Moss, 
-Jilly Gibson‐Miller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The scope of empowerment for conservation and communities]]></title>
-        <id>10.1111/cobi.14249</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14249?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Michael A. Petriello, 
-Lauren Redmore, 
-Aby L. Sène, 
-Dhananjaya Katju, 
-Lilian Barraclough, 
-Sara Boyd, 
-Carly Madge, 
-Anastasia Papadopoulos, 
-Reddi S. Yalamala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capacity and capability of remote sensing to inform invasive plant species management in the Pacific Islands region]]></title>
-        <id>10.1111/cobi.14344</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14344?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Carrol M. H. Chan, 
-Christopher J. Owers, 
-Sascha Fuller, 
-Matt W. Hayward, 
-David Moverley, 
-Andrea S. Griffin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review of ecological valuation and equivalency analysis methods for assessing temperate nearshore submerged aquatic vegetation]]></title>
-        <id>10.1111/cobi.14380</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14380?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Rachel E. Pausch, 
-Jessica R. Hale, 
-Peter Kiffney, 
-Beth Sanderson, 
-Sara Azat, 
-Katie Barnas, 
-W. Bryant Chesney, 
-Natalie Cosentino‐Manning, 
-Stephanie Ehinger, 
-Dayv Lowry, 
-Steve Marx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Challenges in assessing the effects of environmental governance systems on conservation outcomes]]></title>
-        <id>10.1111/cobi.14392</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14392?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Raphael A. Ayambire, 
-Trina Rytwinski, 
-Jessica J. Taylor, 
-Matthew W. Luizza, 
-Matthew J. Muir, 
-Cynthia Cadet, 
-Derek Armitage, 
-Nathan J. Bennett, 
-Jeremy Brooks, 
-Samantha H. Cheng, 
-Jenny Martinez, 
-Meenakshi Nagendran, 
-Siri Öckerman, 
-Shannon N. Rivera, 
-Anne Savage, 
-David S. Wilkie, 
-Steven J. Cooke, 
-Joseph R. Bennett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Defaunation impacts on the carbon balance of tropical forests]]></title>
-        <id>10.1111/cobi.14414</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14414?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Jedediah F. Brodie, 
-Carolina Bello, 
-Carine Emer, 
-Mauro Galetti, 
-Matthew S. Luskin, 
-Anand Osuri, 
-Carlos A. Peres, 
-Annina Stoll, 
-Nacho Villar, 
-Ana‐Benítez López</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Systematic review of the impact of restrictive wildlife trade measures on conservation of iconic species in southern Africa]]></title>
-        <id>10.1111/cobi.14262</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14262?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Christina Hiller, 
-Michael ’t Sas‐Rolfes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Palearctic view of a bat fungal disease]]></title>
-        <id>10.1111/cobi.14265</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14265?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>F. Whiting‐Fawcett, 
-A. S. Blomberg, 
-T. Troitsky, 
-M. B. Meierhofer, 
-K. A. Field, 
-S. J. Puechmaille, 
-T. M. Lilley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conservation and coexistence at a crossroads]]></title>
-        <id>10.1111/cobi.14433</id>
-        <link href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14433?af=R"/>
-        <updated>2025-01-30T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Conservation Biology, Volume 39, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Simon Pooley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Author Correction: Mitochondrial somatic mutation and selection throughout ageing]]></title>
-        <id>https://www.nature.com/articles/s41559-025-02641-7</id>
-        <link href="https://www.nature.com/articles/s41559-025-02641-7"/>
-        <updated>2025-01-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nature Ecology & Evolution - Author Correction: Mitochondrial somatic mutation and selection throughout ageing]]></summary>
-        <author>
-            <name>Isabel M. Serrano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insights into the human sex chromosomes from divergence between the X–Y gametologues]]></title>
-        <id>https://www.nature.com/articles/s41559-024-02628-w</id>
-        <link href="https://www.nature.com/articles/s41559-024-02628-w"/>
-        <updated>2025-01-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This study introduces a method to systematically compare the functions of homologous (shared) genes between the X and Y chromosomes (gametologues) across the human body. The authors discover differences that are linked to the evolutionary histories of these genes and could contribute to sex-biased biology and disease.]]></summary>
-        <author>
-            <name>Nature Ecology &amp; Evolution</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Addendum: Mitochondrial somatic mutation and selection throughout ageing]]></title>
-        <id>https://www.nature.com/articles/s41559-025-02640-8</id>
-        <link href="https://www.nature.com/articles/s41559-025-02640-8"/>
-        <updated>2025-01-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nature Ecology & Evolution - Addendum: Mitochondrial somatic mutation and selection throughout ageing]]></summary>
-        <author>
-            <name>Isabel M. Serrano</name>
         </author>
     </entry>
 </feed>
