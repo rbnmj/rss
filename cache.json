@@ -561,26 +561,6 @@
           "wordCount": null,
           "title": "Dominant species drove the balance between biodiversity and productivity in mown grasslands under nitrogen fertilization",
           "imageUrl": null
-        },
-        {
-          "id": "10.1002/eap.3091",
-          "author": "Pronoy Baidya, \nShamik Roy, \nJalmesh Karapurkar, \nSumanta Bagchi",
-          "description": "Ecological Applications, Volume 35, Issue 1, January 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1002/eap.3091?af=R",
-          "publishedOn": "2025-01-31T02:19:40.000Z",
-          "wordCount": null,
-          "title": "Replacing native grazers with livestock influences arthropods to have implications for ecosystem functions and disease",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1002/eap.3091",
-          "author": "Pronoy Baidya, \nShamik Roy, \nJalmesh Karapurkar, \nSumanta Bagchi",
-          "description": "Ecological Applications, Volume 35, Issue 1, January 2025.",
-          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.3091?af=R",
-          "publishedOn": "2025-01-31T02:19:40.000Z",
-          "wordCount": null,
-          "title": "Replacing native grazers with livestock influences arthropods to have implications for ecosystem functions and disease",
-          "imageUrl": null
         }
       ]
     },
@@ -774,16 +754,6 @@
           "publishedOn": "2025-02-04T10:53:50.000Z",
           "wordCount": null,
           "title": "Linking spatial variations in life‐history traits to environmental conditions across American black bear populations",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1002/ecm.1648",
-          "author": "Sarah B. Bassing, \nDavid E. Ausband, \nMatthew A. Mumma, \nSarah Thompson, \nMark A. Hurley, \nMatthew R. Falcy",
-          "description": "Ecological Monographs, Volume 95, Issue 1, February 2025.",
-          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1648?af=R",
-          "publishedOn": "2025-01-31T03:11:36.000Z",
-          "wordCount": null,
-          "title": "Mammalian predator co‐occurrence affected by prey and habitat more than competitor presence at multiple time scales",
           "imageUrl": null
         }
       ]
@@ -1477,6 +1447,16 @@
       "feedUrl": "https://nsojournals.onlinelibrary.wiley.com/feed/16000706/most-recent",
       "siteUrl": "https://nsojournals.onlinelibrary.wiley.com/journal/16000706?af=R",
       "articles": [
+        {
+          "id": "10.1111/oik.10835",
+          "author": "Loraine Hablützel, \nClaudia Bank",
+          "description": "Oikos, EarlyView.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10835?af=R",
+          "publishedOn": "2025-02-28T08:00:00.000Z",
+          "wordCount": null,
+          "title": "Studying the genetic basis of ecological interactions with intergenomic epistasis",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/oik.11201",
           "author": "XiaoXuan Liu, \nJunMei Li, \nRuoBing Wang, \nRongting Ni, \nChangqun Duan, \nJiacheng Yu, \nErik Jeppesen, \nYing Pan",
@@ -2213,16 +2193,6 @@
           "wordCount": 5835,
           "title": "Rising socio-economic costs of PM<sub>2.5</sub> pollution and medical service mismatching",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-025-01509-9/MediaObjects/41893_2025_1509_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41893-024-01506-4",
-          "author": "Irene Y. Feng",
-          "description": "Wind erosion and dust transport present challenges to human wellbeing, health and infrastructure. Last estimated for the United States in the 1990s, present economic costs of wind erosion across the United States have nearly quadrupled, and an updated assessment of vulnerable systems is required.",
-          "link": "https://www.nature.com/articles/s41893-024-01506-4",
-          "publishedOn": "2025-01-31T00:00:00.000Z",
-          "wordCount": 6050,
-          "title": "Economic costs of wind erosion in the United States",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-024-01506-4/MediaObjects/41893_2024_1506_Fig1_HTML.png"
         }
       ]
     },
@@ -2428,6 +2398,16 @@
       "feedUrl": "https://onlinelibrary.wiley.com/action/showFeed?jc=13652486&type=etoc&feed=rss",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/13652486?af=R",
       "articles": [
+        {
+          "id": "10.1111/gcb.17323",
+          "author": null,
+          "description": "Global Change Biology, Volume 31, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.17323?af=R",
+          "publishedOn": "2025-02-28T12:34:13.000Z",
+          "wordCount": null,
+          "title": "Issue Information",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/gcb.70106",
           "author": "Jessika R. McFarland, \nJonathan D. Coop, \nJared A. Balik, \nKyle C. Rodman, \nSean A. Parks, \nCamille S. Stevens‐Rumann",
@@ -2847,16 +2827,6 @@
           "wordCount": null,
           "title": "Rising Water Levels and Vegetation Shifts Drive Substantial Reductions in Methane Emissions and Carbon Dioxide Uptake in a Great Lakes Coastal Freshwater Wetland",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/gcb.70047",
-          "author": "Jiacong Zhou, \nYiqi Luo, \nJi Chen",
-          "description": "Global Change Biology, Volume 31, Issue 2, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70047?af=R",
-          "publishedOn": "2025-01-31T12:19:09.000Z",
-          "wordCount": null,
-          "title": "Dilemmas in Linking Microbial Carbon Use Efficiency With Soil Organic Carbon Dynamics",
-          "imageUrl": null
         }
       ]
     },
@@ -2923,46 +2893,6 @@
           "publishedOn": "2025-02-10T08:00:00.000Z",
           "wordCount": null,
           "title": "Avoiding an impending collision in international conservation",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14451",
-          "author": "Filipa Coutinho Soares, \nMaud Mouchet, \nAnne‐Christine Monnet, \nNadline Kjelsberg, \nAlfredo García Fernández, \nAlexandre Robert, \nJean‐Baptiste Mihoub, \nBruno Colas, \nFrançois Sarrazin",
-          "description": "Conservation Biology, EarlyView.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14451?af=R",
-          "publishedOn": "2025-01-31T11:10:18.000Z",
-          "wordCount": null,
-          "title": "Taxonomic and phylogenetic biases in translocated angiosperm plant species across European countries",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14451",
-          "author": "Filipa Coutinho Soares, \nMaud Mouchet, \nAnne‐Christine Monnet, \nNadline Kjelsberg, \nAlfredo García Fernández, \nAlexandre Robert, \nJean‐Baptiste Mihoub, \nBruno Colas, \nFrançois Sarrazin",
-          "description": "Conservation Biology, EarlyView.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14451?af=R",
-          "publishedOn": "2025-01-31T11:10:18.000Z",
-          "wordCount": null,
-          "title": "Taxonomic and phylogenetic biases in translocated angiosperm plant species across European countries",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14443",
-          "author": null,
-          "description": "Conservation Biology, EarlyView.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/cobi.14443?af=R",
-          "publishedOn": "2025-01-31T11:01:47.000Z",
-          "wordCount": null,
-          "title": "Noted with interest",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/cobi.14443",
-          "author": null,
-          "description": "Conservation Biology, EarlyView.",
-          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14443?af=R",
-          "publishedOn": "2025-01-31T11:01:47.000Z",
-          "wordCount": null,
-          "title": "Noted with interest",
           "imageUrl": null
         }
       ]
@@ -3568,36 +3498,6 @@
           "wordCount": null,
           "title": "EuPPollNet: A European Database of Plant‐Pollinator Networks",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/geb.70002",
-          "author": "Vladimír Remeš, \nLenka Harmáčková",
-          "description": "Global Ecology and Biogeography, Volume 34, Issue 2, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/geb.70002?af=R",
-          "publishedOn": "2025-01-31T06:10:21.000Z",
-          "wordCount": null,
-          "title": "Completing the Speciation Cycle: Ecological Niches and Traits Predict Local Species Coexistence in Birds Across the Globe",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/geb.13955",
-          "author": "Camille Mellin, \nStuart Brown, \nScott F. Heron, \nDamien A. Fordham",
-          "description": "Global Ecology and Biogeography, Volume 34, Issue 2, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/geb.13955?af=R",
-          "publishedOn": "2025-01-31T06:00:44.000Z",
-          "wordCount": null,
-          "title": "CoralBleachRisk—Global Projections of Coral Bleaching Risk in the 21st Century",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/geb.13863",
-          "author": null,
-          "description": "Global Ecology and Biogeography, Volume 34, Issue 2, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/geb.13863?af=R",
-          "publishedOn": "2025-01-31T05:59:54.000Z",
-          "wordCount": null,
-          "title": "Issue Information",
-          "imageUrl": null
         }
       ]
     },
@@ -3985,16 +3885,6 @@
           "wordCount": null,
           "title": "Restoring Halodule uninervis: evaluating planting methods and biodiversity",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/rec.14385",
-          "author": "Federico Riva, \nCarmen Galán‐Acedo, \nAmanda E. Martin, \nLenore Fahrig",
-          "description": "Restoration Ecology, EarlyView.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/rec.14385?af=R",
-          "publishedOn": "2025-01-31T11:00:51.000Z",
-          "wordCount": null,
-          "title": "Why we should not assume that habitat fragmentation is generally bad for restoration: a reply to Watts and Hughes ()",
-          "imageUrl": null
         }
       ]
     },
@@ -4332,26 +4222,6 @@
           "wordCount": null,
           "title": "Benchmarking tree species classification from proximally sensed laser scanning data: Introducing the FOR‐species20K dataset",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/2041-210X.14451",
-          "author": "Konstantin Müller, \nJakob Schwalb‐Willmann, \nMartin Wegmann, \nBenjamin Leutner",
-          "description": "Methods in Ecology and Evolution, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14451?af=R",
-          "publishedOn": "2025-01-31T06:48:39.000Z",
-          "wordCount": null,
-          "title": "RStoolbox: An R package for remote sensing data analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/2041-210X.14497",
-          "author": "Ismaël Lajaaiti, \nIago Bonnici, \nSonia Kéfi, \nHana Mayall, \nAlain Danet, \nAndrew P. Beckerman, \nThomas Malpas, \nEva Delmas",
-          "description": "Methods in Ecology and Evolution, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14497?af=R",
-          "publishedOn": "2025-01-31T05:18:10.000Z",
-          "wordCount": null,
-          "title": "EcologicalNetworksDynamics.jl: A Julia package to simulate the temporal dynamics of complex ecological networks",
-          "imageUrl": null
         }
       ]
     },
@@ -4360,6 +4230,26 @@
       "feedUrl": "https://epubs.siam.org/action/showFeed?feed=rss&type=etoc&jc=MMS",
       "siteUrl": "https://epubs.siam.org/loi/mmsubt?af=R",
       "articles": [
+        {
+          "id": "https://epubs.siam.org/doi/abs/10.1137/24M1661674?af=R",
+          "author": "Konstantinos Alexopoulos",
+          "description": "Multiscale Modeling & Simulation, Volume 23, Issue 1, Page 611-639, March 2025. \n Abstract. This work extends the theory of topological protection to dispersive systems. We prove the existence of localized interface modes using the monotonicity of impedance functions and geometric symmetries of the material. We consider time-harmonic waves in one-dimensional systems with real-valued, frequency-dependent coefficients. Finally, we show that when such modes exist, they benefit from enhanced robustness with respect to imperfections.",
+          "link": "https://epubs.siam.org/doi/abs/10.1137/24M1661674?af=R",
+          "publishedOn": "2025-02-28T08:00:00.000Z",
+          "wordCount": null,
+          "title": "Topologically Protected Modes in Dispersive Materials: The Case of Undamped Systems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://epubs.siam.org/doi/abs/10.1137/23M1604989?af=R",
+          "author": "Giovanni Conni",
+          "description": "Multiscale Modeling & Simulation, Volume 23, Issue 1, Page 640-667, March 2025. \n Abstract. We propose a new model reduction technique for multiscale scalar transport problems that exhibit dominant axial dynamics. Toward this aim, we rely on the separation of variables to combine a hierarchical model (HiMod) reduction with a two-scale asymptotic expansion. We extend the two-scale asymptotic expansion to an arbitrary order and exploit the high-order correctors to define the HiMod modal basis which approximates the transverse dynamics of the flow, while we adopt a finite element discretization to model the leading stream. The resulting method, which is named HiPhom[math] (high-order projection-based homogenization), is successfully assessed both in steady and unsteady advection-diffusion-reaction settings. The numerical results confirm the very good performance of HiPhom[math], which improves the accuracy and the convergence rate of HiMod and extends the reliability of the standard homogenized solution to transient and preasymptotic regimes.",
+          "link": "https://epubs.siam.org/doi/abs/10.1137/23M1604989?af=R",
+          "publishedOn": "2025-02-28T08:00:00.000Z",
+          "wordCount": null,
+          "title": "HiPhom[math]: High-Order Projection-Based Homogenization for Advection-Diffusion-Reaction Problems",
+          "imageUrl": null
+        },
         {
           "id": "https://epubs.siam.org/doi/abs/10.1137/23M1620181?af=R",
           "author": "Yihong Chen",
@@ -4429,26 +4319,6 @@
           "wordCount": null,
           "title": "A Multiscale Model for Weakly Nonlinear Shallow Water Waves over Periodic Bathymetry",
           "imageUrl": null
-        },
-        {
-          "id": "https://epubs.siam.org/doi/abs/10.1137/24M1664538?af=R",
-          "author": "Maria Blum",
-          "description": "Multiscale Modeling & Simulation, Volume 23, Issue 1, Page 339-373, March 2025. \n Abstract. This paper considers minimizers of the Ginzburg–Landau energy functional in specific multiscale spaces that are based on finite elements. The spaces are constructed by localized orthogonal decomposition techniques and their usage for solving the Ginzburg–Landau equation was first suggested in [B. Dörich and P. Henning, SIAM J. Numer. Anal., 62 (2024), pp. 1313–1343]. In this work we further explore their approximation properties and give an analytical explanation for why vortex structures of energy minimizers can be captured more accurately in these spaces. We quantify the necessary mesh resolution in terms of the Ginzburg–Landau parameter [math] and a stabilization parameter [math] that is used in the construction of the multiscale spaces. Furthermore, we analyze how [math] affects the necessary locality of the multiscale basis functions and we prove that the choice [math] yields typically the highest accuracy. Our findings are supported by numerical experiments.",
-          "link": "https://epubs.siam.org/doi/abs/10.1137/24M1664538?af=R",
-          "publishedOn": "2025-01-31T08:00:00.000Z",
-          "wordCount": null,
-          "title": "Vortex-Capturing Multiscale Spaces for the Ginzburg–Landau Equation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://epubs.siam.org/doi/abs/10.1137/24M1650107?af=R",
-          "author": "Moritz Hauck",
-          "description": "Multiscale Modeling & Simulation, Volume 23, Issue 1, Page 374-396, March 2025. \n Abstract. This paper proposes a novel collocation-type numerical stochastic homogenization method for prototypical stochastic homogenization problems with random coefficient fields of small correlation lengths. The presented method is based on a recently introduced localization technique that enforces a super-exponential decay of the basis functions relative to the underlying coarse mesh, resulting in considerable computational savings during the sampling phase. More generally, the collocation-type structure offers a particularly simple and computationally efficient construction in the stochastic setting with minimized communication between the patches where the basis functions of the method are computed. An error analysis that bridges numerical homogenization and the quantitative theory of stochastic homogenization is performed. In a series of numerical experiments, we study the effect of the correlation length and the discretization parameters on the approximation quality of the method.",
-          "link": "https://epubs.siam.org/doi/abs/10.1137/24M1650107?af=R",
-          "publishedOn": "2025-01-31T08:00:00.000Z",
-          "wordCount": null,
-          "title": "A Simple Collocation-Type Approach to Numerical Stochastic Homogenization",
-          "imageUrl": null
         }
       ]
     },
@@ -4457,6 +4327,16 @@
       "feedUrl": "https://www.tandfonline.com/feed/rss/bher20",
       "siteUrl": "https://www.tandfonline.com/loi/bher20?af=R",
       "articles": [
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2467336?af=R",
+          "author": "Luiza Costa Mello Rivelino Martins Cavalcante Luciana Machado Bastos Arlene Bispo dos Santos Nossol Mário Machado Martins Caio Cesar-Ribeiro Guacira de Figueiredo Eufrasio Pauly Denis Moledo de Souza Abessa a Universidade Federal do Ceará – Labomar, Fortaleza, Brazilb Laboratory of Nanobiotechnology Professor Dr Luiz Ricardo Goulart Filho, Federal University of Uberlândia, Brazilc Universidade Estadual Paulista – IB-CLP, São Vicente, Brazil",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2467336?af=R",
+          "publishedOn": "2025-02-28T05:20:02.000Z",
+          "wordCount": null,
+          "title": "Oil spill effects in biota and traditional populations from protected areas of Brazil’s Northeast",
+          "imageUrl": null
+        },
         {
           "id": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2470759?af=R",
           "author": "Qin Zhang Di Wu Jie Luo Zixuan Chen Yujie Wang Yu Tian Zongwei He Qin Liu a Research Center for Environment and Human Health, Research Center for Medicine and Social Development, School of Public Health, Chongqing Medical University, Chongqing, Chinab College of Medical Informatics, Chongqing Medical University, Chongqing, China",
@@ -4979,26 +4859,6 @@
           "wordCount": null,
           "title": "Semiannual dormancy cycling results in two seedling cohorts of annual species in the cold desert of Central Asia",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/1365-2745.14492",
-          "author": "Anita Simha, \nJustin P. Wright",
-          "description": "Journal of Ecology, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14492?af=R",
-          "publishedOn": "2025-01-31T11:02:03.000Z",
-          "wordCount": null,
-          "title": "Short‐term prescribed fire frequency manipulation alters community response to subsequent fires in a southeastern pine savanna",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/1365-2745.14483",
-          "author": "Gábor Ónodi, \nMiklós Kertész, \nÁkos Bede‐Fazekas, \nPéter Batáry, \nGyörgy Kröel‐Dulay, \nZoltán Botta‐Dukát",
-          "description": "Journal of Ecology, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14483?af=R",
-          "publishedOn": "2025-01-31T08:00:00.000Z",
-          "wordCount": null,
-          "title": "Decline in plant species richness with a chronic decrease of precipitation: The mediating role of the dominant species",
-          "imageUrl": null
         }
       ]
     },
@@ -5007,6 +4867,16 @@
       "feedUrl": "https://nsojournals.onlinelibrary.wiley.com/feed/16000587/most-recent",
       "siteUrl": "https://nsojournals.onlinelibrary.wiley.com/journal/16000587?af=R",
       "articles": [
+        {
+          "id": "10.1111/ecog.07644",
+          "author": "Timothy D. Lambert, \nStephen P. Ellner",
+          "description": "Ecography, EarlyView.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.07644?af=R",
+          "publishedOn": "2025-02-28T13:19:50.000Z",
+          "wordCount": null,
+          "title": "SDM meets eDNA: optimal sampling of environmental DNA to estimate species–environment relationships in stream networks",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/ecog.07687",
           "author": "Yi Jin, \nHong Qian",
