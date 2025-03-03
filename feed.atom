@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-03-02T06:15:55.219Z</updated>
+    <updated>2025-03-03T06:18:20.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reconciling the Discrepancy in Projected Global Dryland Expansion in a Warming World]]></title>
+        <id>10.1111/gcb.70102</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70102?af=R"/>
+        <updated>2025-03-01T10:11:56.000Z</updated>
+        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Sha Zhou, 
+Bofu Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cover page]]></title>
+        <id>10.1111/ddi.13883</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ddi.13883?af=R"/>
+        <updated>2025-03-01T08:41:08.000Z</updated>
+        <summary type="html"><![CDATA[Diversity and Distributions, Volume 31, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Wiley: Diversity and Distributions: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Issue Information]]></title>
+        <id>10.1111/ddi.13874</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ddi.13874?af=R"/>
+        <updated>2025-03-01T08:40:35.000Z</updated>
+        <summary type="html"><![CDATA[Diversity and Distributions, Volume 31, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Wiley: Diversity and Distributions: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biogeographic Patterns of Iranian Lepidoptera: A Framework for Conservation]]></title>
+        <id>10.1111/ddi.70010</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ddi.70010?af=R"/>
+        <updated>2025-03-01T08:40:15.000Z</updated>
+        <summary type="html"><![CDATA[Diversity and Distributions, Volume 31, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Sajad Noori, 
+Dennis Rödder, 
+Gholam Hosein Yusefi, 
+Oliver Hawlitschek, 
+Dominic Wanke, 
+Martin Husemann, 
+Hossein Rajaei</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SDM meets eDNA: optimal sampling of environmental DNA to estimate species–environment relationships in stream networks]]></title>
         <id>10.1111/ecog.07644</id>
@@ -8860,101 +8907,6 @@ Chuan Yan</name>
 Katja R. Kasimatis, 
 Megan A. Greischar, 
 Asher D. Cutter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rising Water Levels and Vegetation Shifts Drive Substantial Reductions in Methane Emissions and Carbon Dioxide Uptake in a Great Lakes Coastal Freshwater Wetland]]></title>
-        <id>10.1111/gcb.70053</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70053?af=R"/>
-        <updated>2025-02-01T09:43:43.000Z</updated>
-        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 2, February 2025.]]></summary>
-        <author>
-            <name>Angela Che Ing Tang, 
-Gil Bohrer, 
-Avni Malhotra, 
-Justine Missik, 
-Fausto Machado‐Silva, 
-Inke Forbrich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benchmarking tree species classification from proximally sensed laser scanning data: Introducing the FOR‐species20K dataset]]></title>
-        <id>10.1111/2041-210X.14503</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14503?af=R"/>
-        <updated>2025-02-01T08:45:26.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
-        <author>
-            <name>Stefano Puliti, 
-Emily R. Lines, 
-Jana Müllerová, 
-Julian Frey, 
-Zoe Schindler, 
-Adrian Straker, 
-Matthew J. Allen, 
-Lukas Winiwarter, 
-Nataliia Rehush, 
-Hristina Hristova, 
-Brent Murray, 
-Kim Calders, 
-Nicholas Coops, 
-Bernhard Höfle, 
-Liam Irwin, 
-Samuli Junttila, 
-Martin Krůček, 
-Grzegorz Krok, 
-Kamil Král, 
-Shaun R. Levick, 
-Linda Luck, 
-Azim Missarov, 
-Martin Mokroš, 
-Harry J. F. Owen, 
-Krzysztof Stereńczak, 
-Timo P. Pitkänen, 
-Nicola Puletti, 
-Ninni Saarinen, 
-Chris Hopkinson, 
-Louise Terryn, 
-Chiara Torresan, 
-Enrico Tomelleri, 
-Hannah Weiser, 
-Rasmus Astrup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time and matrix quality increase the relative habitat value of smaller patches in fragmented landscapes]]></title>
-        <id>10.1111/1365-2664.14884</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14884?af=R"/>
-        <updated>2025-02-01T08:39:21.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, EarlyView.]]></summary>
-        <author>
-            <name>David C. Deane, 
-Federico Riva</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Act for the best, prepare for the worst—Defining strategic mesopredator triggers that safeguard apex predator eradication benefits]]></title>
-        <id>10.1111/1365-2664.14878</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14878?af=R"/>
-        <updated>2025-02-01T08:35:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, EarlyView.]]></summary>
-        <author>
-            <name>Rosalie Willacy, 
-Sarah Legge, 
-Eve McDonald‐Madden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seasonal Shifts in Trophic Interaction Strength Drive Stability of Natural Food Webs]]></title>
-        <id>10.1111/ele.70075</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70075?af=R"/>
-        <updated>2025-02-01T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 1, January 2025.]]></summary>
-        <author>
-            <name>Ursula Gaedke, 
-Xiaoxiao Li, 
-Christian Guill, 
-Lia Hemerik, 
-Peter C. de Ruiter</name>
         </author>
     </entry>
 </feed>

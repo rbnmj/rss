@@ -1429,16 +1429,6 @@
           "wordCount": null,
           "title": "Reproductive Interference Alters Species Coexistence in Nematodes due to Asymmetric Sperm‐Induced Harm",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/ele.70075",
-          "author": "Ursula Gaedke, \nXiaoxiao Li, \nChristian Guill, \nLia Hemerik, \nPeter C. de Ruiter",
-          "description": "Ecology Letters, Volume 28, Issue 1, January 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70075?af=R",
-          "publishedOn": "2025-02-01T08:00:00.000Z",
-          "wordCount": null,
-          "title": "Seasonal Shifts in Trophic Interaction Strength Drive Stability of Natural Food Webs",
-          "imageUrl": null
         }
       ]
     },
@@ -2399,6 +2389,16 @@
       "siteUrl": "https://onlinelibrary.wiley.com/journal/13652486?af=R",
       "articles": [
         {
+          "id": "10.1111/gcb.70102",
+          "author": "Sha Zhou, \nBofu Yu",
+          "description": "Global Change Biology, Volume 31, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70102?af=R",
+          "publishedOn": "2025-03-01T10:11:56.000Z",
+          "wordCount": null,
+          "title": "Reconciling the Discrepancy in Projected Global Dryland Expansion in a Warming World",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/gcb.17323",
           "author": null,
           "description": "Global Change Biology, Volume 31, Issue 3, March 2025.",
@@ -2816,16 +2816,6 @@
           "publishedOn": "2025-02-03T09:24:08.000Z",
           "wordCount": null,
           "title": "Global Projection of Terrestrial Vertebrate Food Webs Under Future Climate and Land‐Use Changes",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/gcb.70053",
-          "author": "Angela Che Ing Tang, \nGil Bohrer, \nAvni Malhotra, \nJustine Missik, \nFausto Machado‐Silva, \nInke Forbrich",
-          "description": "Global Change Biology, Volume 31, Issue 2, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70053?af=R",
-          "publishedOn": "2025-02-01T09:43:43.000Z",
-          "wordCount": null,
-          "title": "Rising Water Levels and Vegetation Shifts Drive Substantial Reductions in Methane Emissions and Carbon Dioxide Uptake in a Great Lakes Coastal Freshwater Wetland",
           "imageUrl": null
         }
       ]
@@ -3340,26 +3330,6 @@
           "publishedOn": "2025-02-04T12:29:44.000Z",
           "wordCount": null,
           "title": "Structural diversity is an important predictor of forest productivity responses to drought",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/1365-2664.14884",
-          "author": "David C. Deane, \nFederico Riva",
-          "description": "Journal of Applied Ecology, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14884?af=R",
-          "publishedOn": "2025-02-01T08:39:21.000Z",
-          "wordCount": null,
-          "title": "Time and matrix quality increase the relative habitat value of smaller patches in fragmented landscapes",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/1365-2664.14878",
-          "author": "Rosalie Willacy, \nSarah Legge, \nEve McDonald‐Madden",
-          "description": "Journal of Applied Ecology, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14878?af=R",
-          "publishedOn": "2025-02-01T08:35:12.000Z",
-          "wordCount": null,
-          "title": "Act for the best, prepare for the worst—Defining strategic mesopredator triggers that safeguard apex predator eradication benefits",
           "imageUrl": null
         }
       ]
@@ -4211,16 +4181,6 @@
           "publishedOn": "2025-02-04T06:39:55.000Z",
           "wordCount": null,
           "title": "Rapid ecological data collection from 360‐degree imagery using visualisation and immersive sampling in the R pannotator package",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/2041-210X.14503",
-          "author": "Stefano Puliti, \nEmily R. Lines, \nJana Müllerová, \nJulian Frey, \nZoe Schindler, \nAdrian Straker, \nMatthew J. Allen, \nLukas Winiwarter, \nNataliia Rehush, \nHristina Hristova, \nBrent Murray, \nKim Calders, \nNicholas Coops, \nBernhard Höfle, \nLiam Irwin, \nSamuli Junttila, \nMartin Krůček, \nGrzegorz Krok, \nKamil Král, \nShaun R. Levick, \nLinda Luck, \nAzim Missarov, \nMartin Mokroš, \nHarry J. F. Owen, \nKrzysztof Stereńczak, \nTimo P. Pitkänen, \nNicola Puletti, \nNinni Saarinen, \nChris Hopkinson, \nLouise Terryn, \nChiara Torresan, \nEnrico Tomelleri, \nHannah Weiser, \nRasmus Astrup",
-          "description": "Methods in Ecology and Evolution, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14503?af=R",
-          "publishedOn": "2025-02-01T08:45:26.000Z",
-          "wordCount": null,
-          "title": "Benchmarking tree species classification from proximally sensed laser scanning data: Introducing the FOR‐species20K dataset",
           "imageUrl": null
         }
       ]
@@ -5374,6 +5334,36 @@
       "feedUrl": "https://onlinelibrary.wiley.com/feed/14724642/most-recent",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/14724642?af=R",
       "articles": [
+        {
+          "id": "10.1111/ddi.13883",
+          "author": null,
+          "description": "Diversity and Distributions, Volume 31, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13883?af=R",
+          "publishedOn": "2025-03-01T08:41:08.000Z",
+          "wordCount": null,
+          "title": "Cover page",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/ddi.13874",
+          "author": null,
+          "description": "Diversity and Distributions, Volume 31, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13874?af=R",
+          "publishedOn": "2025-03-01T08:40:35.000Z",
+          "wordCount": null,
+          "title": "Issue Information",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/ddi.70010",
+          "author": "Sajad Noori, \nDennis Rödder, \nGholam Hosein Yusefi, \nOliver Hawlitschek, \nDominic Wanke, \nMartin Husemann, \nHossein Rajaei",
+          "description": "Diversity and Distributions, Volume 31, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.70010?af=R",
+          "publishedOn": "2025-03-01T08:40:15.000Z",
+          "wordCount": null,
+          "title": "Biogeographic Patterns of Iranian Lepidoptera: A Framework for Conservation",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/ddi.13937",
           "author": "Franck Pichot, \nDavid Mouillot, \nJean‐Baptiste Juhel, \nAlicia Dalongeville, \nOlivier Adam, \nVéronique Arnal, \nThomas Bockel, \nEmilie Boulanger, \nPierre Boissery, \nMadeleine Cancemi, \nEric Charbonnel, \nJean‐Michel Culioli, \nTony Dejean, \nNacim Guellati, \nVirginie Hartmann, \nFlorian Holon, \nPhilippe Lenfant, \nSandra Mallol, \nVirginie Marques, \nLaetitia Mathon, \nJean‐Jacques Riutort, \nMarie‐Catherine Santoni, \nNicolas Tomasi, \nAlice Valentini, \nLaure Velez, \nStéphanie Manel, \nJulie Deter",
