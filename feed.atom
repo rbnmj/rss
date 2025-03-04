@@ -2,10 +2,497 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-03-03T06:18:20.747Z</updated>
+    <updated>2025-03-04T06:16:49.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cover Image]]></title>
+        <id>10.1002/eap.2989</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2989?af=R"/>
+        <updated>2025-03-03T11:46:27.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 2, March 2025.]]></summary>
+        <author>
+            <name>Wiley: Ecological Applications: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NeoFrugivory: A comprehensive database for frugivory interactions and functional traits in the Neotropics]]></title>
+        <id>10.1002/ecy.70049</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70049?af=R"/>
+        <updated>2025-03-03T11:43:12.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Lisieux Fuzessy, 
+Marco Aurélio Pizo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Successful recovery of native plants post‐invasive removal in forest understories is driven by native community features]]></title>
+        <id>10.1002/eap.70012</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70012?af=R"/>
+        <updated>2025-03-03T11:39:22.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 2, March 2025.]]></summary>
+        <author>
+            <name>Laís Petri, 
+Inés Ibáñez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Issue Information]]></title>
+        <id>10.1002/eap.2988</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2988?af=R"/>
+        <updated>2025-03-03T11:38:48.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 2, March 2025.]]></summary>
+        <author>
+            <name>Wiley: Ecological Applications: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantitative assessment of past variations in Sphagnum bog community structure using paleo‐species distribution modeling]]></title>
+        <id>10.1002/ecy.70033</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70033?af=R"/>
+        <updated>2025-03-03T11:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Eleonor E. S. Ryberg, 
+Alicia Valdés, 
+Johan Ehrlén, 
+Minna Väliranta, 
+Malin E. Kylander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rapid geographic divergence in competitive ability of cane toad larvae (Rhinella marina) during a biological invasion]]></title>
+        <id>10.1002/ecy.70022</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70022?af=R"/>
+        <updated>2025-03-03T11:15:08.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Gregory S. Clarke, 
+Richard Shine, 
+Gregory P. Brown, 
+Benjamin L. Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Costs of floral larceny: A meta‐analytical evaluation of nectar robbing and nectar theft on animal‐pollinated plants]]></title>
+        <id>10.1002/ecy.70036</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70036?af=R"/>
+        <updated>2025-03-03T10:59:25.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Laura C. Leal, 
+Matthew H. Koski, 
+Rebecca E. Irwin, 
+Judith L. Bronstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conservation of the Atlantic Forest trees through Indigenous sustainability]]></title>
+        <id>10.1002/fee.2839</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2839?af=R"/>
+        <updated>2025-03-03T10:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Frontiers in Ecology and the Environment, Volume 23, Issue 2, March 2025.]]></summary>
+        <author>
+            <name>Francys Alves Paulino, 
+Orivaldo Nunes Júnior, 
+João Carlos Ferreira de Melo Júnior</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thank you for choosing…]]></title>
+        <id>10.1002/fee.2838</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2838?af=R"/>
+        <updated>2025-03-03T10:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Frontiers in Ecology and the Environment, Volume 23, Issue 2, March 2025.]]></summary>
+        <author>
+            <name>Scott L Collins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Issue Information]]></title>
+        <id>10.1002/fee.2754</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2754?af=R"/>
+        <updated>2025-03-03T10:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Frontiers in Ecology and the Environment, Volume 23, Issue 2, March 2025.]]></summary>
+        <author>
+            <name>Wiley: Frontiers in Ecology and the Environment: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cover Image]]></title>
+        <id>10.1002/fee.2755</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2755?af=R"/>
+        <updated>2025-03-03T10:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Frontiers in Ecology and the Environment, Volume 23, Issue 2, March 2025.]]></summary>
+        <author>
+            <name>Wiley: Frontiers in Ecology and the Environment: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Habitat‐mediated soundscape conservation in marine ecosystems]]></title>
+        <id>10.1002/fee.2824</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2824?af=R"/>
+        <updated>2025-03-03T10:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Frontiers in Ecology and the Environment, Volume 23, Issue 2, March 2025.]]></summary>
+        <author>
+            <name>Kieran D Cox, 
+Hailey L Davies, 
+Audrey Looby, 
+Kelsie A Murchy, 
+Francis Juanes, 
+Isabelle M Côté</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global mapping of social–ecological systems science in conservation conflict research]]></title>
+        <id>10.1002/fee.2806</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2806?af=R"/>
+        <updated>2025-03-03T10:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Frontiers in Ecology and the Environment, Volume 23, Issue 2, March 2025.]]></summary>
+        <author>
+            <name>Daniela Alba‐Patiño, 
+Miguel Delibes‐Mateos, 
+Antonio J Castro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A meta‐analysis of the impact of drones on birds]]></title>
+        <id>10.1002/fee.2809</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2809?af=R"/>
+        <updated>2025-03-03T10:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Frontiers in Ecology and the Environment, Volume 23, Issue 2, March 2025.]]></summary>
+        <author>
+            <name>Émile Brisson‐Curadeau, 
+Rose Lacombe, 
+Marianne Gousy‐Leblanc, 
+Vanessa Poirier, 
+Lauren Jackson, 
+Christina Petalas, 
+Eliane Miranda, 
+Alyssa Eby, 
+Julia Baak, 
+Don‐Jean Léandri‐Breton, 
+Emily Choy, 
+Jade Legros, 
+Elena Tranze‐Drabinia, 
+Kyle H Elliott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US lakes are monitored disproportionately less in communities of color]]></title>
+        <id>10.1002/fee.2803</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2803?af=R"/>
+        <updated>2025-03-03T10:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Frontiers in Ecology and the Environment, Volume 23, Issue 2, March 2025.]]></summary>
+        <author>
+            <name>Jessica Díaz Vázquez, 
+Ian M McCullough, 
+Maggie Haite, 
+Patricia A Soranno, 
+Kendra Spence Cheruvelil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Issue Information]]></title>
+        <id>10.1002/ecy.4339</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4339?af=R"/>
+        <updated>2025-03-03T10:33:07.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Wiley: Ecology: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cover Image]]></title>
+        <id>10.1002/ecy.4340</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4340?af=R"/>
+        <updated>2025-03-03T10:33:07.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Wiley: Ecology: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temperature‐dependent responses to light and nutrients in phytoplankton]]></title>
+        <id>10.1002/ecy.70027</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70027?af=R"/>
+        <updated>2025-03-03T10:33:07.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Anna Lena Heinrichs, 
+Anika Happe, 
+Apostolos‐Manuel Koussoroplis, 
+Helmut Hillebrand, 
+Julian Merder, 
+Maren Striebel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Erosion of Threatened Southern Mountain Caribou Migration]]></title>
+        <id>10.1111/gcb.70095</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70095?af=R"/>
+        <updated>2025-03-03T10:27:30.000Z</updated>
+        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Clayton T. Lamb, 
+Robin Steenweg, 
+Robert Serrouya, 
+Dave Hervieux, 
+R. Scott McNay, 
+Douglas C. Heard, 
+Bruce N. McLellan, 
+Carolyn Shores, 
+Eric Palm, 
+Line Giguere, 
+Jake Hubner, 
+Jean Polfus, 
+Michael Klaczek, 
+Natasha Crosland, 
+Shane White, 
+Mike Russel, 
+Adam Ford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plant nutrient‐acquisition strategies contribute to species replacement during primary succession]]></title>
+        <id>10.1111/1365-2745.70017</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70017?af=R"/>
+        <updated>2025-03-03T08:54:43.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Xiao‐Long Li, 
+Jun Zhou, 
+Hong‐Qiu Du, 
+Fei Peng, 
+Hongtao Zhong, 
+Yanhong Wu, 
+Ji Luo, 
+Shouqin Sun, 
+Yue‐Xin Ming, 
+Hongyang Sun, 
+Yang Chen, 
+Jun Wasaki, 
+Hans Lambers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Innovative chips for coral cultivation: Enhanced flexibility and experimental applications]]></title>
+        <id>10.1111/2041-210X.70009</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70009?af=R"/>
+        <updated>2025-03-03T07:29:47.000Z</updated>
+        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
+        <author>
+            <name>Po‐Shun Chuang, 
+Wei‐Chen Kao, 
+Zhao‐Rong Yu, 
+Tzu‐Cheng Lin, 
+Kai‐Ning Shih, 
+Wen‐Yuan Yang, 
+Yuen‐Yi Leung, 
+Ming‐Tsung Hsu, 
+Tsai‐Yen Chen, 
+Shinya Shikina, 
+Sen‐Lin Tang, 
+Ji‐Yen Cheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plant Invasion Increases Soil Microbial Biomass Carbon: Meta‐Analysis and Empirical Tests]]></title>
+        <id>10.1111/gcb.70109</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70109?af=R"/>
+        <updated>2025-03-03T07:19:49.000Z</updated>
+        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Yuyang He, 
+Junmei Li, 
+Evan Siemann, 
+Bo Li, 
+Yunjian Xu, 
+Yi Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Framework to Unify the Relationship Between Numerical Abundance, Biomass, and Environmental DNA]]></title>
+        <id>10.1002/edn3.70073</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1002/edn3.70073?af=R"/>
+        <updated>2025-03-03T04:45:14.000Z</updated>
+        <summary type="html"><![CDATA[Environmental DNA, Volume 7, Issue 2, March–April 2025.]]></summary>
+        <author>
+            <name>Matthew C. Yates, 
+Taylor M. Wilcox, 
+Shannon Kay, 
+Pedro Peres‐Neto, 
+Daniel D. Heath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Invasive Crayfish: Drivers or Passengers of Degradation in Freshwater Ecosystems?]]></title>
+        <id>10.1002/edn3.70062</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1002/edn3.70062?af=R"/>
+        <updated>2025-03-03T04:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Environmental DNA, Volume 7, Issue 2, March–April 2025.]]></summary>
+        <author>
+            <name>Jelle A. Dercksen, 
+Maarten J. J. Schrama, 
+Kevin K. Beentjes, 
+Bob N. Bastiaans, 
+Rody Blom, 
+André van Roon, 
+Peter W. Lindenburg, 
+Krijn B. Trimbos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Issue Information]]></title>
+        <id>10.1002/edn3.563</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1002/edn3.563?af=R"/>
+        <updated>2025-03-03T04:28:50.000Z</updated>
+        <summary type="html"><![CDATA[Environmental DNA, Volume 7, Issue 2, March–April 2025.]]></summary>
+        <author>
+            <name>Wiley: Environmental DNA: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drivers of Vegetation Structure Differ Between Proposed Natural Reference Conditions for Temperate Europe]]></title>
+        <id>10.1111/geb.70020</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/geb.70020?af=R"/>
+        <updated>2025-03-03T04:25:11.000Z</updated>
+        <summary type="html"><![CDATA[Global Ecology and Biogeography, Volume 34, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Elena A. Pearce, 
+Charles W. Davison, 
+Florence Mazier, 
+Signe Normand, 
+Ralph Fyfe, 
+Maria‐Antonia Serge, 
+Paolo Scussolini, 
+Jens‐Christian Svenning</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Correction to EuPPollNet: A European Database of Plant‐Pollinator Networks]]></title>
+        <id>10.1111/geb.70014</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/geb.70014?af=R"/>
+        <updated>2025-03-03T04:25:10.000Z</updated>
+        <summary type="html"><![CDATA[Global Ecology and Biogeography, Volume 34, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Wiley: Global Ecology and Biogeography: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tropical Niche Conservatism and Dispersal Limitation Jointly Determine Taxonomic and Phylogenetic β‐Diversities of Odonata in Eastern China]]></title>
+        <id>10.1111/geb.70018</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/geb.70018?af=R"/>
+        <updated>2025-03-03T04:18:59.000Z</updated>
+        <summary type="html"><![CDATA[Global Ecology and Biogeography, Volume 34, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Zhenyuan Liu, 
+Bo‐Ping Han, 
+Janne Soininen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Issue Information]]></title>
+        <id>10.1111/geb.13864</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/geb.13864?af=R"/>
+        <updated>2025-03-03T04:14:39.000Z</updated>
+        <summary type="html"><![CDATA[Global Ecology and Biogeography, Volume 34, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Wiley: Global Ecology and Biogeography: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dealing with systemic environmental risks]]></title>
+        <id>https://www.nature.com/articles/s41893-025-01525-9</id>
+        <link href="https://www.nature.com/articles/s41893-025-01525-9"/>
+        <updated>2025-03-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Only a holistic approach can help to mitigate the intensified global systemic environmental risks under climate change.]]></summary>
+        <author>
+            <name>Jing Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contrasting effects of urbanization on vegetation between the Global South and Global North]]></title>
+        <id>https://www.nature.com/articles/s41893-025-01520-0</id>
+        <link href="https://www.nature.com/articles/s41893-025-01520-0"/>
+        <updated>2025-03-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Understanding the urbanization-driven vegetation dynamics is currently limited but would be important knowledge to guide sustainable urban development. This study explores such impacts across 4,718 cities worldwide and reveals divergent dynamics of vegetation loss and urban vegetation growth.]]></summary>
+        <author>
+            <name>Jiuyi Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Environmental impacts of polymeric flame retardant breakdown]]></title>
+        <id>https://www.nature.com/articles/s41893-025-01513-z</id>
+        <link href="https://www.nature.com/articles/s41893-025-01513-z"/>
+        <updated>2025-03-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As a ‘safe’ alternative to harmful monomeric halogenated flame retardants, the use of polymeric flame retardants has surged in recent years. The authors show that polymeric flame retardants break down in the environment into small toxic molecules that can pose environmental hazards.]]></summary>
+        <author>
+            <name>Xiaotu Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-strength cellulose fibres enabled by molecular packing]]></title>
+        <id>https://www.nature.com/articles/s41893-025-01523-x</id>
+        <link href="https://www.nature.com/articles/s41893-025-01523-x"/>
+        <updated>2025-03-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fabricating high-performance cellulose fibres is desirable for the development of sustainable materials, but remains challenging. Here the authors report a draw spinning/de-acetylation method to fabricate cellulose fibres that exhibit mechanical strength exceeding that of existing fibre materials.]]></summary>
+        <author>
+            <name>Kaiqing Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mosaic evolution of eukaryotic carbon metabolism]]></title>
+        <id>https://www.nature.com/articles/s41559-025-02652-4</id>
+        <link href="https://www.nature.com/articles/s41559-025-02652-4"/>
+        <updated>2025-03-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A comparative genomic investigation of metabolism across the tree of life supports the hypothesis that syntrophy — metabolic exchange between symbiotic partners — had a key role in the evolution of eukaryotic cells.]]></summary>
+        <author>
+            <name>John M. Archibald</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep cuts]]></title>
+        <id>https://www.nature.com/articles/s41559-025-02666-y</id>
+        <link href="https://www.nature.com/articles/s41559-025-02666-y"/>
+        <updated>2025-03-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sweeping job losses and freezes to science funding in the USA have created a time of immense unease for researchers and are likely to result in costs to global health and innovation, and for the planet.]]></summary>
+        <author>
+            <name>Nature Ecology &amp; Evolution</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chimeric origins and dynamic evolution of central carbon metabolism in eukaryotes]]></title>
+        <id>https://www.nature.com/articles/s41559-025-02648-0</id>
+        <link href="https://www.nature.com/articles/s41559-025-02648-0"/>
+        <updated>2025-03-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Analysis of the eukaryotic gene repertoires mediating central carbon metabolism identifies ancestral contributions from Alphaproteobacteria, Asgardarchaeota and other microbial taxa, followed by gene loss, transfer and subcellular retargeting, which have remodelled central carbon metabolism over time.]]></summary>
+        <author>
+            <name>Carlos Santana-Molina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Characteristics of spatial and temporal evolution and coupling relationships between urbanization and atmospheric particulate matter in the Qianzhong urban agglomeration]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2471496?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2471496?af=R"/>
+        <updated>2025-03-02T04:47:55.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Qiongbing Xiong Xuecheng Wu Cizhen Yu a College of Tourism Management, Guizhou University of Commerce, Guiyang, Chinab Guizhou Provincial Research Center for Collaborative Intelligent Perception of Mountain Spatial Information, Guizhou University of Commerce, Guiyang, China</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Characteristics and environmental driving factors of plant rhizosphere bacterial communities in typical lead-zinc mine tailings in Southern Guizhou]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464114?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464114?af=R"/>
+        <updated>2025-03-02T04:39:32.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Liangliang Chen Jidi Ouyang Zhiwei Han Pan Wu a College of Resources and Environmental Engineering, Guizhou University, Guiyang, Chinab Qiannan Ecological Environment Monitoring Center, Qiannan, Chinac Key Laboratory of Karst Geological Resources and Environment, Ministry of Education, Guizhou University, Guiyang, Chinad Guizhou Karst Environmental Ecological Observation and Research Station, Ministry of Education, Guizhou University, Guiyang, China</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reconciling the Discrepancy in Projected Global Dryland Expansion in a Warming World]]></title>
         <id>10.1111/gcb.70102</id>

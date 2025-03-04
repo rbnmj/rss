@@ -6,6 +6,76 @@
       "siteUrl": "https://esajournals.onlinelibrary.wiley.com/journal/19399170?af=R",
       "articles": [
         {
+          "id": "10.1002/ecy.70049",
+          "author": "Lisieux Fuzessy, \nMarco Aurélio Pizo",
+          "description": "Ecology, Volume 106, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70049?af=R",
+          "publishedOn": "2025-03-03T11:43:12.000Z",
+          "wordCount": null,
+          "title": "NeoFrugivory: A comprehensive database for frugivory interactions and functional traits in the Neotropics",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecy.70033",
+          "author": "Eleonor E. S. Ryberg, \nAlicia Valdés, \nJohan Ehrlén, \nMinna Väliranta, \nMalin E. Kylander",
+          "description": "Ecology, Volume 106, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70033?af=R",
+          "publishedOn": "2025-03-03T11:29:00.000Z",
+          "wordCount": null,
+          "title": "Quantitative assessment of past variations in Sphagnum bog community structure using paleo‐species distribution modeling",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecy.70022",
+          "author": "Gregory S. Clarke, \nRichard Shine, \nGregory P. Brown, \nBenjamin L. Phillips",
+          "description": "Ecology, Volume 106, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70022?af=R",
+          "publishedOn": "2025-03-03T11:15:08.000Z",
+          "wordCount": null,
+          "title": "Rapid geographic divergence in competitive ability of cane toad larvae (Rhinella marina) during a biological invasion",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecy.70036",
+          "author": "Laura C. Leal, \nMatthew H. Koski, \nRebecca E. Irwin, \nJudith L. Bronstein",
+          "description": "Ecology, Volume 106, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70036?af=R",
+          "publishedOn": "2025-03-03T10:59:25.000Z",
+          "wordCount": null,
+          "title": "Costs of floral larceny: A meta‐analytical evaluation of nectar robbing and nectar theft on animal‐pollinated plants",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecy.4339",
+          "author": null,
+          "description": "Ecology, Volume 106, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4339?af=R",
+          "publishedOn": "2025-03-03T10:33:07.000Z",
+          "wordCount": null,
+          "title": "Issue Information",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecy.4340",
+          "author": null,
+          "description": "Ecology, Volume 106, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4340?af=R",
+          "publishedOn": "2025-03-03T10:33:07.000Z",
+          "wordCount": null,
+          "title": "Cover Image",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecy.70027",
+          "author": "Anna Lena Heinrichs, \nAnika Happe, \nApostolos‐Manuel Koussoroplis, \nHelmut Hillebrand, \nJulian Merder, \nMaren Striebel",
+          "description": "Ecology, Volume 106, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70027?af=R",
+          "publishedOn": "2025-03-03T10:33:07.000Z",
+          "wordCount": null,
+          "title": "Temperature‐dependent responses to light and nutrients in phytoplankton",
+          "imageUrl": null
+        },
+        {
           "id": "10.1002/ecy.70002",
           "author": "Niwu Te, \nRobert J. Griffin‐Nolan, \nIngrid J. Slette, \nYuan Shi, \nLin Song, \nJiaqi Chen, \nHongqiang Wang, \nJianqiang Qian, \nQiang Yu, \nZhengwen Wang, \nXiaotao Lü, \nXingguo Han, \nJitka Klimešová, \nScott L. Collins, \nWentao Luo",
           "description": "Ecology, Volume 106, Issue 2, February 2025.",
@@ -383,6 +453,36 @@
       "siteUrl": "https://esajournals.onlinelibrary.wiley.com/journal/19395582?af=R",
       "articles": [
         {
+          "id": "10.1002/eap.2989",
+          "author": null,
+          "description": "Ecological Applications, Volume 35, Issue 2, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2989?af=R",
+          "publishedOn": "2025-03-03T11:46:27.000Z",
+          "wordCount": null,
+          "title": "Cover Image",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/eap.70012",
+          "author": "Laís Petri, \nInés Ibáñez",
+          "description": "Ecological Applications, Volume 35, Issue 2, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70012?af=R",
+          "publishedOn": "2025-03-03T11:39:22.000Z",
+          "wordCount": null,
+          "title": "Successful recovery of native plants post‐invasive removal in forest understories is driven by native community features",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/eap.2988",
+          "author": null,
+          "description": "Ecological Applications, Volume 35, Issue 2, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2988?af=R",
+          "publishedOn": "2025-03-03T11:38:48.000Z",
+          "wordCount": null,
+          "title": "Issue Information",
+          "imageUrl": null
+        },
+        {
           "id": "10.1002/eap.70001",
           "author": "Lucas E. Nave, \nChristopher M. Gough, \nCameron Clay, \nFernanda Santos, \nJeff W. Atkins, \nSonja E. Benjamins‐Carey, \nGil Bohrer, \nBuck T. Castillo, \nRobert T. Fahey, \nBrady S. Hardiman, \nKathryn L. Hofmeister, \nValeriy Y. Ivanov, \nJennifer Kalejs, \nAshley M. Matheny, \nAngela C. Menna, \nKnute J. Nadelhoffer, \nBrooke E. Propson, \nAdam T. Schubel, \nJason M. Tallant",
           "description": "Ecological Applications, Volume 35, Issue 1, January 2025.",
@@ -569,6 +669,86 @@
       "feedUrl": "https://esajournals.onlinelibrary.wiley.com/feed/15409309/most-recent",
       "siteUrl": "https://esajournals.onlinelibrary.wiley.com/journal/15409309?af=R",
       "articles": [
+        {
+          "id": "10.1002/fee.2839",
+          "author": "Francys Alves Paulino, \nOrivaldo Nunes Júnior, \nJoão Carlos Ferreira de Melo Júnior",
+          "description": "Frontiers in Ecology and the Environment, Volume 23, Issue 2, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2839?af=R",
+          "publishedOn": "2025-03-03T10:33:54.000Z",
+          "wordCount": null,
+          "title": "Conservation of the Atlantic Forest trees through Indigenous sustainability",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/fee.2838",
+          "author": "Scott L Collins",
+          "description": "Frontiers in Ecology and the Environment, Volume 23, Issue 2, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2838?af=R",
+          "publishedOn": "2025-03-03T10:33:54.000Z",
+          "wordCount": null,
+          "title": "Thank you for choosing…",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/fee.2754",
+          "author": null,
+          "description": "Frontiers in Ecology and the Environment, Volume 23, Issue 2, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2754?af=R",
+          "publishedOn": "2025-03-03T10:33:54.000Z",
+          "wordCount": null,
+          "title": "Issue Information",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/fee.2755",
+          "author": null,
+          "description": "Frontiers in Ecology and the Environment, Volume 23, Issue 2, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2755?af=R",
+          "publishedOn": "2025-03-03T10:33:54.000Z",
+          "wordCount": null,
+          "title": "Cover Image",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/fee.2824",
+          "author": "Kieran D Cox, \nHailey L Davies, \nAudrey Looby, \nKelsie A Murchy, \nFrancis Juanes, \nIsabelle M Côté",
+          "description": "Frontiers in Ecology and the Environment, Volume 23, Issue 2, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2824?af=R",
+          "publishedOn": "2025-03-03T10:33:54.000Z",
+          "wordCount": null,
+          "title": "Habitat‐mediated soundscape conservation in marine ecosystems",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/fee.2806",
+          "author": "Daniela Alba‐Patiño, \nMiguel Delibes‐Mateos, \nAntonio J Castro",
+          "description": "Frontiers in Ecology and the Environment, Volume 23, Issue 2, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2806?af=R",
+          "publishedOn": "2025-03-03T10:33:54.000Z",
+          "wordCount": null,
+          "title": "Global mapping of social–ecological systems science in conservation conflict research",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/fee.2809",
+          "author": "Émile Brisson‐Curadeau, \nRose Lacombe, \nMarianne Gousy‐Leblanc, \nVanessa Poirier, \nLauren Jackson, \nChristina Petalas, \nEliane Miranda, \nAlyssa Eby, \nJulia Baak, \nDon‐Jean Léandri‐Breton, \nEmily Choy, \nJade Legros, \nElena Tranze‐Drabinia, \nKyle H Elliott",
+          "description": "Frontiers in Ecology and the Environment, Volume 23, Issue 2, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2809?af=R",
+          "publishedOn": "2025-03-03T10:33:54.000Z",
+          "wordCount": null,
+          "title": "A meta‐analysis of the impact of drones on birds",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/fee.2803",
+          "author": "Jessica Díaz Vázquez, \nIan M McCullough, \nMaggie Haite, \nPatricia A Soranno, \nKendra Spence Cheruvelil",
+          "description": "Frontiers in Ecology and the Environment, Volume 23, Issue 2, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2803?af=R",
+          "publishedOn": "2025-03-03T10:33:54.000Z",
+          "wordCount": null,
+          "title": "US lakes are monitored disproportionately less in communities of color",
+          "imageUrl": null
+        },
         {
           "id": "10.1002/fee.2837",
           "author": "Silke Lichtenberg, \nUdo Nehren, \nDieter Anhuf, \nIris Brémaud, \nTiago de Oliveira Pinto, \nViviane S Fonseca‐Kruel, \nVolker Haag, \nElisabeth Huber‐Sannwald, \nStefan Jänicke, \nGerald Koch, \nJakob Kusnick, \nHaroldo C Lima, \nEduardo Luiz Longui, \nDaniel Piotto, \nJuan Antonio Reyes‐Agüero, \nPatrícia Rosa",
@@ -2125,6 +2305,46 @@
       "siteUrl": "http://feeds.nature.com/natsustain/rss/current",
       "articles": [
         {
+          "id": "https://www.nature.com/articles/s41893-025-01525-9",
+          "author": "Jing Yang",
+          "description": "Only a holistic approach can help to mitigate the intensified global systemic environmental risks under climate change.",
+          "link": "https://www.nature.com/articles/s41893-025-01525-9",
+          "publishedOn": "2025-03-03T00:00:00.000Z",
+          "wordCount": 3448,
+          "title": "Dealing with systemic environmental risks",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-025-01525-9/MediaObjects/41893_2025_1525_Figa_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41893-025-01520-0",
+          "author": "Jiuyi Chen",
+          "description": "Understanding the urbanization-driven vegetation dynamics is currently limited but would be important knowledge to guide sustainable urban development. This study explores such impacts across 4,718 cities worldwide and reveals divergent dynamics of vegetation loss and urban vegetation growth.",
+          "link": "https://www.nature.com/articles/s41893-025-01520-0",
+          "publishedOn": "2025-03-03T00:00:00.000Z",
+          "wordCount": 7748,
+          "title": "Contrasting effects of urbanization on vegetation between the Global South and Global North",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-025-01520-0/MediaObjects/41893_2025_1520_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41893-025-01513-z",
+          "author": "Xiaotu Liu",
+          "description": "As a ‘safe’ alternative to harmful monomeric halogenated flame retardants, the use of polymeric flame retardants has surged in recent years. The authors show that polymeric flame retardants break down in the environment into small toxic molecules that can pose environmental hazards.",
+          "link": "https://www.nature.com/articles/s41893-025-01513-z",
+          "publishedOn": "2025-03-03T00:00:00.000Z",
+          "wordCount": 6704,
+          "title": "Environmental impacts of polymeric flame retardant breakdown",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-025-01513-z/MediaObjects/41893_2025_1513_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41893-025-01523-x",
+          "author": "Kaiqing Yu",
+          "description": "Fabricating high-performance cellulose fibres is desirable for the development of sustainable materials, but remains challenging. Here the authors report a draw spinning/de-acetylation method to fabricate cellulose fibres that exhibit mechanical strength exceeding that of existing fibre materials.",
+          "link": "https://www.nature.com/articles/s41893-025-01523-x",
+          "publishedOn": "2025-03-03T00:00:00.000Z",
+          "wordCount": 6735,
+          "title": "High-strength cellulose fibres enabled by molecular packing",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-025-01523-x/MediaObjects/41893_2025_1523_Fig1_HTML.png"
+        },
+        {
           "id": "https://www.nature.com/articles/s41893-025-01514-y",
           "author": "Stéphanie Barral",
           "description": "Biodiversity offsetting policies are increasing in number and variety around the world, but the process of moving from conceiving offsettings to implementing them is not always clear. This Review synthesizes evidence on how the main actors influence offset policies to support efforts towards developing more sustainable biodiversity offsetting.",
@@ -2191,6 +2411,36 @@
       "feedUrl": "https://www.nature.com/natecolevol.rss",
       "siteUrl": "http://feeds.nature.com/natecolevol/rss/current",
       "articles": [
+        {
+          "id": "https://www.nature.com/articles/s41559-025-02652-4",
+          "author": "John M. Archibald",
+          "description": "A comparative genomic investigation of metabolism across the tree of life supports the hypothesis that syntrophy — metabolic exchange between symbiotic partners — had a key role in the evolution of eukaryotic cells.",
+          "link": "https://www.nature.com/articles/s41559-025-02652-4",
+          "publishedOn": "2025-03-03T00:00:00.000Z",
+          "wordCount": 3827,
+          "title": "Mosaic evolution of eukaryotic carbon metabolism",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-025-02652-4/MediaObjects/41559_2025_2652_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41559-025-02666-y",
+          "author": null,
+          "description": "Sweeping job losses and freezes to science funding in the USA have created a time of immense unease for researchers and are likely to result in costs to global health and innovation, and for the planet.",
+          "link": "https://www.nature.com/articles/s41559-025-02666-y",
+          "publishedOn": "2025-03-03T00:00:00.000Z",
+          "wordCount": 2688,
+          "title": "Deep cuts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nature.com/articles/s41559-025-02648-0",
+          "author": "Carlos Santana-Molina",
+          "description": "Analysis of the eukaryotic gene repertoires mediating central carbon metabolism identifies ancestral contributions from Alphaproteobacteria, Asgardarchaeota and other microbial taxa, followed by gene loss, transfer and subcellular retargeting, which have remodelled central carbon metabolism over time.",
+          "link": "https://www.nature.com/articles/s41559-025-02648-0",
+          "publishedOn": "2025-03-03T00:00:00.000Z",
+          "wordCount": 15381,
+          "title": "Chimeric origins and dynamic evolution of central carbon metabolism in eukaryotes",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-025-02648-0/MediaObjects/41559_2025_2648_Fig1_HTML.png"
+        },
         {
           "id": "https://www.nature.com/articles/s41559-025-02658-y",
           "author": null,
@@ -2388,6 +2638,26 @@
       "feedUrl": "https://onlinelibrary.wiley.com/action/showFeed?jc=13652486&type=etoc&feed=rss",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/13652486?af=R",
       "articles": [
+        {
+          "id": "10.1111/gcb.70095",
+          "author": "Clayton T. Lamb, \nRobin Steenweg, \nRobert Serrouya, \nDave Hervieux, \nR. Scott McNay, \nDouglas C. Heard, \nBruce N. McLellan, \nCarolyn Shores, \nEric Palm, \nLine Giguere, \nJake Hubner, \nJean Polfus, \nMichael Klaczek, \nNatasha Crosland, \nShane White, \nMike Russel, \nAdam Ford",
+          "description": "Global Change Biology, Volume 31, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70095?af=R",
+          "publishedOn": "2025-03-03T10:27:30.000Z",
+          "wordCount": null,
+          "title": "The Erosion of Threatened Southern Mountain Caribou Migration",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/gcb.70109",
+          "author": "Yuyang He, \nJunmei Li, \nEvan Siemann, \nBo Li, \nYunjian Xu, \nYi Wang",
+          "description": "Global Change Biology, Volume 31, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70109?af=R",
+          "publishedOn": "2025-03-03T07:19:49.000Z",
+          "wordCount": null,
+          "title": "Plant Invasion Increases Soil Microbial Biomass Carbon: Meta‐Analysis and Empirical Tests",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/gcb.70102",
           "author": "Sha Zhou, \nBofu Yu",
@@ -3340,6 +3610,46 @@
       "siteUrl": "https://onlinelibrary.wiley.com/journal/14668238?af=R",
       "articles": [
         {
+          "id": "10.1111/geb.70020",
+          "author": "Elena A. Pearce, \nCharles W. Davison, \nFlorence Mazier, \nSigne Normand, \nRalph Fyfe, \nMaria‐Antonia Serge, \nPaolo Scussolini, \nJens‐Christian Svenning",
+          "description": "Global Ecology and Biogeography, Volume 34, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/geb.70020?af=R",
+          "publishedOn": "2025-03-03T04:25:11.000Z",
+          "wordCount": null,
+          "title": "Drivers of Vegetation Structure Differ Between Proposed Natural Reference Conditions for Temperate Europe",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/geb.70014",
+          "author": null,
+          "description": "Global Ecology and Biogeography, Volume 34, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/geb.70014?af=R",
+          "publishedOn": "2025-03-03T04:25:10.000Z",
+          "wordCount": null,
+          "title": "Correction to EuPPollNet: A European Database of Plant‐Pollinator Networks",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/geb.70018",
+          "author": "Zhenyuan Liu, \nBo‐Ping Han, \nJanne Soininen",
+          "description": "Global Ecology and Biogeography, Volume 34, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/geb.70018?af=R",
+          "publishedOn": "2025-03-03T04:18:59.000Z",
+          "wordCount": null,
+          "title": "Tropical Niche Conservatism and Dispersal Limitation Jointly Determine Taxonomic and Phylogenetic β‐Diversities of Odonata in Eastern China",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/geb.13864",
+          "author": null,
+          "description": "Global Ecology and Biogeography, Volume 34, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/geb.13864?af=R",
+          "publishedOn": "2025-03-03T04:14:39.000Z",
+          "wordCount": null,
+          "title": "Issue Information",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/geb.70015",
           "author": "Thiago Gonçalves‐Souza, \nMaurício Humberto Vancine, \nNathan J. Sanders, \nNick M. Haddad, \nLucas Cortinhas, \nAnne Lene T. O. Aase, \nWillian Moura de Aguiar, \nMarcelo Adrian Aizen, \nVíctor Arroyo‐Rodríguez, \nArturo Baz, \nMaíra Benchimol, \nEnrico Bernard, \nTássia Juliana Bertotto, \nArthur Angelo Bispo, \nJuliano A. Bogoni, \nGabriel X. Boldorini, \nCibele Bragagnolo, \nBerry Brosi, \nAníbal Silva Cantalice, \nRodrigo Felipe Rodrigues do Carmo, \nEliana Cazeta, \nAdriano G. Chiarello, \nNoé U. de la Sancha, \nRaphael K. Didham, \nDeborah Faria, \nBruno Filgueiras, \nJosé Eugênio Côrtes Figueira, \nGabriela Albuquerque Galvão, \nMichel Varajão Garey, \nHeloise Gibb, \nCarmelo Gómez‐Martínez, \nEzequiel González, \nReginaldo Augusto Farias de Gusmão, \nMickaël Henry, \nShayana de Jesus, \nThiago Gechel Kloss, \nAmparo Lázaro, \nVictor Leandro‐Silva, \nMarcelo G. de Lima, \nIngrid da Silva Lima, \nAna Carolina B. Lins‐e‐Silva, \nRalph Mac Nally, \nArthur Ramalho Magalhães, \nLuiz Fernando Silva Magnago, \nShiiwua Manu, \nEduardo Mariano‐Neto, \nDavid Nyaga Mugo Mbora, \nFelipe P. L. Melo, \nMorris Nzioka Mutua, \nSelvino Neckel‐Oliveira, \nAndré Nemésio, \nAndré Amaral Nogueira, \nPatricia Marques Do A. Oliveira, \nDiego G. Pádua, \nLuan Paes, \nAparecida Barbosa de Paiva, \nMarcelo Passamani, \nJoão Carlos Pena, \nCarlos A. Peres, \nBruno X. Pinho, \nJean‐Marc Pons, \nVictor Mateus Prasniewski, \nJenny Reiniö, \nMagda dos Santos Rocha, \nLarissa Rocha‐Santos, \nMaria J. Rodal, \nRodolpho Credo Rodrigues, \nNathalia V. H. Safar, \nRenato P. Salomão, \nBráulio A. Santos, \nMirela N. Santos, \nJessie Pereira dos Santos, \nSini Savilaakso, \nCarlos Ernesto Gonçalves Reynaud Schaefer, \nMaria Amanda Menezes Silva, \nFernando R. da Silva, \nRicardo J. Silva, \nMarcelo Simonelli, \nAlejandra Soto‐Werschitz, \nJohn O. Stireman III, \nDanielle Storck‐Tonon, \nNeucir Szinwelski, \nMarcelo Tabarelli, \nCamila Palhares Teixeira, \nØrjan Totland, \nMarcio Uehara‐Prado, \nFernando Zagury Vaz‐de‐Mello, \nHeraldo L. Vasconcelos, \nSimone A. Vieira, \nJonathan M. Chase",
           "description": "Global Ecology and Biogeography, Volume 34, Issue 2, February 2025.",
@@ -3864,6 +4174,16 @@
       "siteUrl": "https://besjournals.onlinelibrary.wiley.com/journal/2041210x?af=R",
       "articles": [
         {
+          "id": "10.1111/2041-210X.70009",
+          "author": "Po‐Shun Chuang, \nWei‐Chen Kao, \nZhao‐Rong Yu, \nTzu‐Cheng Lin, \nKai‐Ning Shih, \nWen‐Yuan Yang, \nYuen‐Yi Leung, \nMing‐Tsung Hsu, \nTsai‐Yen Chen, \nShinya Shikina, \nSen‐Lin Tang, \nJi‐Yen Cheng",
+          "description": "Methods in Ecology and Evolution, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70009?af=R",
+          "publishedOn": "2025-03-03T07:29:47.000Z",
+          "wordCount": null,
+          "title": "Innovative chips for coral cultivation: Enhanced flexibility and experimental applications",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/2041-210X.70008",
           "author": "Brendan M. Carswell, \nTal Avgar, \nGarrett M. Street, \nSean P. Boyle, \nEric Vander Wal",
           "description": "Methods in Ecology and Evolution, EarlyView.",
@@ -4288,6 +4608,26 @@
       "siteUrl": "https://www.tandfonline.com/loi/bher20?af=R",
       "articles": [
         {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2471496?af=R",
+          "author": "Qiongbing Xiong Xuecheng Wu Cizhen Yu a College of Tourism Management, Guizhou University of Commerce, Guiyang, Chinab Guizhou Provincial Research Center for Collaborative Intelligent Perception of Mountain Spatial Information, Guizhou University of Commerce, Guiyang, China",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2471496?af=R",
+          "publishedOn": "2025-03-02T04:47:55.000Z",
+          "wordCount": null,
+          "title": "Characteristics of spatial and temporal evolution and coupling relationships between urbanization and atmospheric particulate matter in the Qianzhong urban agglomeration",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464114?af=R",
+          "author": "Liangliang Chen Jidi Ouyang Zhiwei Han Pan Wu a College of Resources and Environmental Engineering, Guizhou University, Guiyang, Chinab Qiannan Ecological Environment Monitoring Center, Qiannan, Chinac Key Laboratory of Karst Geological Resources and Environment, Ministry of Education, Guizhou University, Guiyang, Chinad Guizhou Karst Environmental Ecological Observation and Research Station, Ministry of Education, Guizhou University, Guiyang, China",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464114?af=R",
+          "publishedOn": "2025-03-02T04:39:32.000Z",
+          "wordCount": null,
+          "title": "Characteristics and environmental driving factors of plant rhizosphere bacterial communities in typical lead-zinc mine tailings in Southern Guizhou",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2467336?af=R",
           "author": "Luiza Costa Mello Rivelino Martins Cavalcante Luciana Machado Bastos Arlene Bispo dos Santos Nossol Mário Machado Martins Caio Cesar-Ribeiro Guacira de Figueiredo Eufrasio Pauly Denis Moledo de Souza Abessa a Universidade Federal do Ceará – Labomar, Fortaleza, Brazilb Laboratory of Nanobiotechnology Professor Dr Luiz Ricardo Goulart Filho, Federal University of Uberlândia, Brazilc Universidade Estadual Paulista – IB-CLP, São Vicente, Brazil",
           "description": ".",
@@ -4400,6 +4740,16 @@
       "feedUrl": "https://besjournals.onlinelibrary.wiley.com/feed/13652745/most-recent",
       "siteUrl": "https://besjournals.onlinelibrary.wiley.com/journal/13652745?af=R",
       "articles": [
+        {
+          "id": "10.1111/1365-2745.70017",
+          "author": "Xiao‐Long Li, \nJun Zhou, \nHong‐Qiu Du, \nFei Peng, \nHongtao Zhong, \nYanhong Wu, \nJi Luo, \nShouqin Sun, \nYue‐Xin Ming, \nHongyang Sun, \nYang Chen, \nJun Wasaki, \nHans Lambers",
+          "description": "Journal of Ecology, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70017?af=R",
+          "publishedOn": "2025-03-03T08:54:43.000Z",
+          "wordCount": null,
+          "title": "Plant nutrient‐acquisition strategies contribute to species replacement during primary succession",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/1365-2745.70016",
           "author": "Yong Zhou, \nMadelon F. Case, \nA. Carla Staver",
@@ -5681,6 +6031,36 @@
       "feedUrl": "https://onlinelibrary.wiley.com/feed/26374943/most-recent",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/26374943?af=R",
       "articles": [
+        {
+          "id": "10.1002/edn3.70073",
+          "author": "Matthew C. Yates, \nTaylor M. Wilcox, \nShannon Kay, \nPedro Peres‐Neto, \nDaniel D. Heath",
+          "description": "Environmental DNA, Volume 7, Issue 2, March–April 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1002/edn3.70073?af=R",
+          "publishedOn": "2025-03-03T04:45:14.000Z",
+          "wordCount": null,
+          "title": "A Framework to Unify the Relationship Between Numerical Abundance, Biomass, and Environmental DNA",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/edn3.70062",
+          "author": "Jelle A. Dercksen, \nMaarten J. J. Schrama, \nKevin K. Beentjes, \nBob N. Bastiaans, \nRody Blom, \nAndré van Roon, \nPeter W. Lindenburg, \nKrijn B. Trimbos",
+          "description": "Environmental DNA, Volume 7, Issue 2, March–April 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1002/edn3.70062?af=R",
+          "publishedOn": "2025-03-03T04:35:00.000Z",
+          "wordCount": null,
+          "title": "Invasive Crayfish: Drivers or Passengers of Degradation in Freshwater Ecosystems?",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/edn3.563",
+          "author": null,
+          "description": "Environmental DNA, Volume 7, Issue 2, March–April 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1002/edn3.563?af=R",
+          "publishedOn": "2025-03-03T04:28:50.000Z",
+          "wordCount": null,
+          "title": "Issue Information",
+          "imageUrl": null
+        },
         {
           "id": "10.1002/edn3.70069",
           "author": "Antoinette J. Piaggio, \nStacie J. Robinson, \nAaron B. Shiels, \nDaniel R. Taylor, \nDanika R. Spock, \nMeagan Allira, \nMegan Serr, \nCaroline M. Klein, \nJohn Godwin, \nJames C. Russell, \nShaun Wilkinson, \nNick D. Holmes, \nDavid J. Will, \nNeil J. Gemmell",
