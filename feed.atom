@@ -2,10 +2,182 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-03-06T06:16:55.213Z</updated>
+    <updated>2025-03-07T06:17:07.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reseeding improved productivity but not soil functions in the severely degraded alpine meadows on the Qinghai‐Tibetan Plateau]]></title>
+        <id>10.1111/rec.70019</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/rec.70019?af=R"/>
+        <updated>2025-03-06T06:24:23.000Z</updated>
+        <summary type="html"><![CDATA[Restoration Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Yifan Liu, 
+Lingchao Meng, 
+Hui Fang, 
+Zhiqiang Dang, 
+Jingxue Zhao, 
+Gao‐Lin Wu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Assessing the priorities of stakeholders regarding forest ecosystem services in Japan]]></title>
+        <id>10.1111/1365-2664.70008</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70008?af=R"/>
+        <updated>2025-03-06T05:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Applied Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Akira S. Mori, 
+Kureha F. Suzuki, 
+Masashi Soga, 
+Tetsuji Ota, 
+Masumi Hisano, 
+Yohei Arata, 
+Kahoko Tochigi, 
+Kazuhiro Kawamura, 
+Makoto Ehara, 
+Wataru Hotta, 
+Kosuke Nakama, 
+Takanobu Aikawa, 
+Rei Shibata, 
+Fumiko Nakao, 
+Yosuke Kuramoto, 
+Mitsuru Hirose, 
+Kimika Sano, 
+Rebecca Spake, 
+Nobuya Mizoue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disease epidemics and species interactions: A manipulation of seasonal establishment of fungal diseases in an old field]]></title>
+        <id>10.1002/ecy.70051</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70051?af=R"/>
+        <updated>2025-03-06T03:24:16.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Rita L. Grunberg, 
+Fletcher W. Halliday, 
+Kayleigh R. O'Keeffe, 
+Brooklynn N. Joyner, 
+Robert W. Heckman, 
+Charles E. Mitchell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The case for history in planning future food systems transformations]]></title>
+        <id>https://www.nature.com/articles/s41893-025-01517-9</id>
+        <link href="https://www.nature.com/articles/s41893-025-01517-9"/>
+        <updated>2025-03-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[History can enhance the robustness of scenario planning for the food system. Through cases in Mozambique, Bangladesh and Holland, this Perspective illustrates how historical insights can guide interventions on various scales for more resilient food systems.]]></summary>
+        <author>
+            <name>Nel de Mûelenaere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simulated Climate Change Enhances Microbial Drought Resilience in Ethiopian Croplands but Not Forests]]></title>
+        <id>10.1111/gcb.70065</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70065?af=R"/>
+        <updated>2025-03-05T14:55:25.000Z</updated>
+        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Lettice C. Hicks, 
+Ainara Leizeaga, 
+Carla Cruz Paredes, 
+Albert C. Brangarí, 
+Dániel Tájmel, 
+Menale Wondie, 
+Hans Sandén, 
+Johannes Rousk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regional Processes Mediate Ecological Selection and the Distribution of Plant Diversity Across Scales]]></title>
+        <id>10.1111/ele.70095</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70095?af=R"/>
+        <updated>2025-03-05T12:13:53.000Z</updated>
+        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Christopher P. Catano, 
+Jonathan Bauer, 
+Tyler Bassett, 
+Eric Behrens, 
+Lars A. Brudvig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Riverine Barrier Removals Could Proliferate Biological Invasions]]></title>
+        <id>10.1111/gcb.70093</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70093?af=R"/>
+        <updated>2025-03-05T10:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Ellen J. Dolan, 
+Ismael Soto, 
+Jaimie T. A. Dick, 
+Fengzhi He, 
+Ross N. Cuthbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pro‐environmental values foster support for both general and local ecological management]]></title>
+        <id>10.1111/rec.70018</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/rec.70018?af=R"/>
+        <updated>2025-03-05T10:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Restoration Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Jonna M. Kukkonen, 
+Laura S. Tuominen, 
+Jon E. Brommer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wicked water problems and failure in water policy making: evidence from the Urmia Lake restoration in Iran]]></title>
+        <id>10.1111/rec.70000</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/rec.70000?af=R"/>
+        <updated>2025-03-05T09:48:50.000Z</updated>
+        <summary type="html"><![CDATA[Restoration Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Saeed Esmailzadeh, 
+Saeed Bagherzadeh, 
+Seyedeh S. M. Dehkordi, 
+Hojjat Mianabadi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amendments and seeding did not augment erosion control structure effectiveness in dry rangelands]]></title>
+        <id>10.1002/ecs2.70105</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70105?af=R"/>
+        <updated>2025-03-05T09:34:48.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Eva Stricker, 
+Megan O'Connell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple Stressors Simplify Freshwater Food Webs]]></title>
+        <id>10.1111/gcb.70114</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70114?af=R"/>
+        <updated>2025-03-05T09:25:12.000Z</updated>
+        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Peiyu Zhang, 
+Huan Zhang, 
+Shaopeng Wang, 
+Guy Woodward, 
+Eoin J. O'Gorman, 
+Michelle C. Jackson, 
+Lars‐Anders Hansson, 
+Sabine Hilt, 
+Thijs Frenken, 
+Huan Wang, 
+Libin Zhou, 
+Tao Wang, 
+Min Zhang, 
+Jun Xu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Correction to ‘Sap Flow Analyzer: A tool to standardize sap flow estimation and scaling to whole‐tree water use using the HFD method’]]></title>
         <id>10.1111/2041-210X.70020</id>
@@ -42,6 +214,46 @@ Xiaolong Yao,
 Ismael Aaron Kimirei, 
 Lu Zhang, 
 Jianjun Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tree species identity shapes the relationship between canopy cover and herb‐layer species in temperate forests]]></title>
+        <id>10.1111/1365-2745.14479</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14479?af=R"/>
+        <updated>2025-03-05T05:53:22.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 3, Page 582-597, March 2025.]]></summary>
+        <author>
+            <name>Clément Vallé, 
+Isabelle Le Viol, 
+Jean Nabias, 
+Karine Princé, 
+Frédéric Gosselin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lichens are more tolerant against winter warming stress than vascular and non‐vascular plants: Insights from an alpine field experiment]]></title>
+        <id>10.1111/1365-2745.14482</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14482?af=R"/>
+        <updated>2025-03-05T05:53:22.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 3, Page 518-530, March 2025.]]></summary>
+        <author>
+            <name>Eirik A. Finne, 
+Jarle W. Bjerke, 
+Frode Stordal, 
+Lena M. Tallaksen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The hidden half of ontogeny and seasonal dynamics in perennial herbs]]></title>
+        <id>10.1111/1365-2745.14494</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14494?af=R"/>
+        <updated>2025-03-05T05:53:22.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 3, Page 713-726, March 2025.]]></summary>
+        <author>
+            <name>Jana Martínková, 
+Adam Klimeš, 
+Iveta Marešová, 
+Jitka Klimešová</name>
         </author>
     </entry>
     <entry>
@@ -694,6 +906,41 @@ Carl Boettiger</name>
 David Kleijn, 
 Inês I. Vicente, 
 Thijs P. M. Fijen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rapid ecological data collection from 360‐degree imagery using visualisation and immersive sampling in the R pannotator package]]></title>
+        <id>10.1111/2041-210X.14472</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14472?af=R"/>
+        <updated>2025-03-05T05:20:39.000Z</updated>
+        <summary type="html"><![CDATA[Methods in Ecology and Evolution, Volume 16, Issue 3, Page 640-654, March 2025.]]></summary>
+        <author>
+            <name>Robert Godfree, 
+Nunzio Knerr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An integrative framework to combine migratory connectivity and demographic data]]></title>
+        <id>10.1111/2041-210X.14489</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14489?af=R"/>
+        <updated>2025-03-05T05:20:39.000Z</updated>
+        <summary type="html"><![CDATA[Methods in Ecology and Evolution, Volume 16, Issue 3, Page 596-610, March 2025.]]></summary>
+        <author>
+            <name>Killian A. Gregory, 
+Charlotte Francesiaz, 
+Frédéric Jiguet, 
+Pierre‐André Crochet, 
+Pierrick Bocher, 
+Heinz Düttmann, 
+Jaanus Elts, 
+Thomas Fartmann, 
+Stefan Garthe, 
+Steffen Kämpfer, 
+Helmut Kruckenberg, 
+Riho Marja, 
+Markus Piha, 
+Philipp Schwemmer, 
+Aurélien Besnard</name>
         </author>
     </entry>
     <entry>
@@ -9316,1141 +9563,6 @@ Katharina Schwesig,
 Nele Engel, 
 Norbert Hölzel, 
 Christoph Scherber</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[calibrar: An R package for fitting complex ecological models]]></title>
-        <id>10.1111/2041-210X.14452</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14452?af=R"/>
-        <updated>2025-02-05T11:40:44.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
-        <author>
-            <name>Ricardo Oliveros‐Ramos, 
-Yunne‐Jai Shin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plant trait networks reveal the ecological strategies of Arabidopsis thaliana along ontogeny]]></title>
-        <id>10.1002/ecs2.70180</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70180?af=R"/>
-        <updated>2025-02-05T11:24:08.000Z</updated>
-        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
-        <author>
-            <name>Hai‐rong Qian, 
-Jin‐lian Tong, 
-Shu‐wen Li, 
-Jiang‐bo Xie, 
-Zhong‐yuan Wang, 
-Yan Li, 
-Shi‐tong Lu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolution of the vaquita/totoaba socio‐ecological system in the Upper Gulf of California, Mexico]]></title>
-        <id>10.1002/ecs2.70170</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70170?af=R"/>
-        <updated>2025-02-05T10:57:16.000Z</updated>
-        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
-        <author>
-            <name>J. Alejandro Rodríguez‐Valencia, 
-Luis Fueyo‐Mac Donald, 
-Miguel Á. Cisneros‐Mata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Misreading or living in denial? Reindeer overstocking and long‐term effects on vegetation: An experimental approach]]></title>
-        <id>10.1002/ecs2.70174</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70174?af=R"/>
-        <updated>2025-02-05T10:55:48.000Z</updated>
-        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
-        <author>
-            <name>Bård‐Jørgen Bårdsen, 
-Hans Tømmervik, 
-Marius Warg Næss, 
-Jarle Werner Bjerke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving population analysis using indirect count data: A case study of chimpanzees and elephants]]></title>
-        <id>10.1002/ecs2.70150</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70150?af=R"/>
-        <updated>2025-02-05T10:46:11.000Z</updated>
-        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
-        <author>
-            <name>Samuel Ayebare, 
-Neil A. Gilbert, 
-Andrew J. Plumptre, 
-Simon Nampindo, 
-Elise F. Zipkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A centurial signature of anthropogenic nitrogen and carbon in California serpentine ecosystems]]></title>
-        <id>10.1002/ecs2.70167</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70167?af=R"/>
-        <updated>2025-02-05T10:40:39.000Z</updated>
-        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 2, February 2025.]]></summary>
-        <author>
-            <name>Blair C. McLaughlin, 
-Dena M. Vallano, 
-Jeff Garcia, 
-Paul L. Koch, 
-Connor N. Morozumi, 
-Pratigya J. Polissar, 
-Kelly M. Zilliacus, 
-Erika S. Zavaleta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Broad‐Scale Meta‐Analysis of Drivers Mediating Adverse Impacts of Flow Regulation on Riparian Vegetation]]></title>
-        <id>10.1111/gcb.70042</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70042?af=R"/>
-        <updated>2025-02-05T10:01:54.000Z</updated>
-        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 2, February 2025.]]></summary>
-        <author>
-            <name>Xiaolei Su, 
-María Dolores Bejarano, 
-Roland Jansson, 
-Francesca Pilotto, 
-Judith M. Sarneel, 
-Feng Lin, 
-Yi Wang, 
-Fu Cai, 
-Shan Wu, 
-Bo Zeng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing Fire Severity and Extent Bolsters Subalpine Forest Resilience to Global Change Through Key Demographic Pathways]]></title>
-        <id>10.1111/gcb.70052</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70052?af=R"/>
-        <updated>2025-02-05T10:01:21.000Z</updated>
-        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 2, February 2025.]]></summary>
-        <author>
-            <name>Daniel L. Perret, 
-David M. Bell, 
-Harold S. J. Zald</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zoonotic Host Richness in the Global Wildland–Urban Interface]]></title>
-        <id>10.1111/gcb.70039</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70039?af=R"/>
-        <updated>2025-02-05T10:01:21.000Z</updated>
-        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 2, February 2025.]]></summary>
-        <author>
-            <name>Rohan D. Simkin, 
-Barbara A. Han, 
-Volker C. Radeloff, 
-Shannon LaDeau, 
-Franz Schug, 
-Karen C. Seto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local‐ and Regional‐Scale Climate Variability Drives Complex Patterns of Growth Synchrony and Asynchrony in Deep‐Sea Snappers Across the Indo‐Pacific]]></title>
-        <id>10.1111/gcb.70051</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70051?af=R"/>
-        <updated>2025-02-05T10:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 2, February 2025.]]></summary>
-        <author>
-            <name>Joseph B. Widdrington, 
-Patrick Reis‐Santos, 
-Jed I. Macdonald, 
-Bradley R. Moore, 
-Simon J. Nicol, 
-John R. Morrongiello, 
-Bronwyn M. Gillanders</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using dynamic documents to mend cracks in the reproducible research pipeline]]></title>
-        <id>10.1111/1365-2745.14454</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14454?af=R"/>
-        <updated>2025-02-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 2, Page 270-274, February 2025.]]></summary>
-        <author>
-            <name>Yvonne M. Buckley, 
-Richard Bardgett, 
-Rowena Gordon, 
-Amy Iler, 
-Pierre Mariotte, 
-Samantha Ponton, 
-Andy Hector</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Correction to ‘Climate change and exotic pathogens shift carbon allocation in Mediterranean mixed forests’]]></title>
-        <id>10.1111/1365-2745.14478</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14478?af=R"/>
-        <updated>2025-02-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 2, Page 504-505, February 2025.]]></summary>
-        <author>
-            <name>Wiley: Journal of Ecology: Table of Contents</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cover Picture and Issue Information]]></title>
-        <id>10.1111/1365-2745.14327</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14327?af=R"/>
-        <updated>2025-02-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 2, Page 267-269, February 2025.]]></summary>
-        <author>
-            <name>Wiley: Journal of Ecology: Table of Contents</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transgenerational effects of mycorrhiza are stronger in sexual than in clonal offspring of Fragaria vesca and are partly adaptive]]></title>
-        <id>10.1111/1365-2745.14420</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14420?af=R"/>
-        <updated>2025-02-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 2, Page 289-301, February 2025.]]></summary>
-        <author>
-            <name>Vít Latzel, 
-Danej Mizgur‐Hribar, 
-Iris Sammarco, 
-Martina Janoušková</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aerial litter mimicry: A novel form of floral deception mediated by a monoterpene synthase]]></title>
-        <id>10.1111/1365-2745.14446</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14446?af=R"/>
-        <updated>2025-02-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 2, Page 302-321, February 2025.]]></summary>
-        <author>
-            <name>Ming‐Fai Liu, 
-Junhao Chen, 
-Katherine R. Goodrich, 
-Sung Kay Chiu, 
-Chun‐Chiu Pang, 
-Tanya Scharaschkin, 
-Richard M. K. Saunders</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Divergent resource‐use strategies of encroaching shrubs: Can traits predict encroachment success in tallgrass prairie?]]></title>
-        <id>10.1111/1365-2745.14456</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14456?af=R"/>
-        <updated>2025-02-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 2, Page 339-352, February 2025.]]></summary>
-        <author>
-            <name>Emily R. Wedel, 
-Zak Ratajczak, 
-E. Greg Tooley, 
-Jesse B. Nippert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiple disturbances, multiple legacies: Fire, canopy gaps and deer jointly change the forest seed bank]]></title>
-        <id>10.1111/1365-2745.14459</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14459?af=R"/>
-        <updated>2025-02-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 2, Page 353-370, February 2025.]]></summary>
-        <author>
-            <name>Samuel P. Reed, 
-Alejandro A. Royo, 
-Walter P. Carson, 
-Castilleja F. Olmsted, 
-Lee E. Frelich, 
-Peter B. Reich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More species, more trees: The role of tree packing in promoting forest productivity]]></title>
-        <id>10.1111/1365-2745.14460</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14460?af=R"/>
-        <updated>2025-02-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 2, Page 371-386, February 2025.]]></summary>
-        <author>
-            <name>Xavier Morin, 
-Maude Toigo, 
-Lorenz Fahse, 
-Joannès Guillemot, 
-Maxime Cailleret, 
-Romain Bertrand, 
-Eugénie Cateau, 
-François de Coligny, 
-Raúl García‐Valdés, 
-Sophia Ratcliffe, 
-Louise Riotte‐Lambert, 
-Miguel A. Zavala, 
-Patrick Vallet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Herbivory resistance in dwarf shrubs combines with simulated warming to shift phenology and decrease reproduction]]></title>
-        <id>10.1111/1365-2745.14462</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14462?af=R"/>
-        <updated>2025-02-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 2, Page 387-402, February 2025.]]></summary>
-        <author>
-            <name>Mark A. K. Gillespie, 
-Stein Joar Hegland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biodiversity of key soil phylotypes is associated with increased plant richness and productivity following agricultural abandonment and afforestation]]></title>
-        <id>10.1111/1365-2745.14463</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14463?af=R"/>
-        <updated>2025-02-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 2, Page 403-417, February 2025.]]></summary>
-        <author>
-            <name>Jianyu Wang, 
-Yuyu Li, 
-Yongbiao Ji, 
-Jia He, 
-Junhong Zhang, 
-Zhenghong Dong, 
-Zhangxing Zhang, 
-Ran Xu, 
-Wenhui Hu, 
-Miaochun Fan, 
-Wenqing Chen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coordinated variation in elemental composition and morphology in leaves, but independence in roots across Chinese grasslands]]></title>
-        <id>10.1111/1365-2745.14464</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14464?af=R"/>
-        <updated>2025-02-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 2, Page 418-432, February 2025.]]></summary>
-        <author>
-            <name>Chao Wang, 
-Yan Geng, 
-Jordi Sardans, 
-Josep Peñuelas, 
-Jin‐Sheng He</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Functional responses of Mediterranean flora to fire: A community‐scale perspective]]></title>
-        <id>10.1111/1365-2745.14465</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14465?af=R"/>
-        <updated>2025-02-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 2, Page 433-444, February 2025.]]></summary>
-        <author>
-            <name>Bérangère A. Leys, 
-Michelle Leydet, 
-Eric Meineri, 
-Arne Saatkamp, 
-Cyrille Violle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rooting depth and specific leaf area modify the impact of experimental drought duration on temperate grassland species]]></title>
-        <id>10.1111/1365-2745.14468</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14468?af=R"/>
-        <updated>2025-02-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 2, Page 445-458, February 2025.]]></summary>
-        <author>
-            <name>Yvonne Künzi, 
-Michaela Zeiter, 
-Markus Fischer, 
-Andreas Stampfli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing the biogeochemical niche hypothesis using leaves, stems and roots of 62 Artemisia species across China]]></title>
-        <id>10.1111/1365-2745.14469</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14469?af=R"/>
-        <updated>2025-02-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 2, Page 459-471, February 2025.]]></summary>
-        <author>
-            <name>Rong Liu, 
-Xuejun Yang, 
-Ruiru Gao, 
-Bohan Jiao, 
-Zhenying Huang, 
-Johannes H. C. Cornelissen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seasonal shifts in plant diversity effects on above‐ground–below‐ground phenological synchrony]]></title>
-        <id>10.1111/1365-2745.14470</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14470?af=R"/>
-        <updated>2025-02-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 2, Page 472-484, February 2025.]]></summary>
-        <author>
-            <name>Ana E. Bonato Asato, 
-Claudia Guimarães‐Steinicke, 
-Gideon Stein, 
-Berit Schreck, 
-Teja Kattenborn, 
-Anne Ebeling, 
-Stefan Posch, 
-Joachim Denzler, 
-Tim Büchner, 
-Maha Shadaydeh, 
-Christian Wirth, 
-Nico Eisenhauer, 
-Jes Hines</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the long‐term dynamics of vegetation since 1953 in high‐mountain regions]]></title>
-        <id>10.1111/1365-2745.14472</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14472?af=R"/>
-        <updated>2025-02-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 2, Page 485-503, February 2025.]]></summary>
-        <author>
-            <name>Katharina Ramskogler, 
-Léon Lepesant, 
-Erich Tasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plastic particles and their additives promote plant invasion through physicochemical mechanisms on seed germination]]></title>
-        <id>10.1111/1365-2745.14476</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14476?af=R"/>
-        <updated>2025-02-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 2, Page 275-288, February 2025.]]></summary>
-        <author>
-            <name>Yudi M. Lozano, 
-Lena Landt, 
-Matthias C. Rillig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fuel architecture influences interspecific variation in shoot flammability, but not as much as leaf traits]]></title>
-        <id>10.1111/1365-2745.14450</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14450?af=R"/>
-        <updated>2025-02-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 2, Page 322-338, February 2025.]]></summary>
-        <author>
-            <name>Md Azharul Alam, 
-Sarah V. Wyse, 
-Hannah L. Buckley, 
-George L. W. Perry, 
-Xinglei Cui, 
-Jon J. Sullivan, 
-Dylan W. Schwilk, 
-Timothy J. Curran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soil Moisture Threshold of Methane Uptake in Alpine Grassland Ecosystems]]></title>
-        <id>10.1111/gcb.70062</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70062?af=R"/>
-        <updated>2025-02-05T07:49:50.000Z</updated>
-        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 2, February 2025.]]></summary>
-        <author>
-            <name>Peiyan Wang, 
-Jinsong Wang, 
-Song Wang, 
-Ludovica D'Imperio, 
-Bo Elberling, 
-Per Ambus, 
-Zhen Zhang, 
-Akihiko Ito, 
-Yang Li, 
-Junxiao Pan, 
-Lei Song, 
-Ning Liu, 
-Ruiyang Zhang, 
-Weinan Chen, 
-Shuli Niu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cover Picture and Issue Information]]></title>
-        <id>10.1111/2041-210X.14344</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14344?af=R"/>
-        <updated>2025-02-05T05:42:32.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, Volume 16, Issue 2, Page 247-249, February 2025.]]></summary>
-        <author>
-            <name>Wiley: Methods in Ecology and Evolution: Table of Contents</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ten practical guidelines for microclimate research in terrestrial ecosystems]]></title>
-        <id>10.1111/2041-210X.14476</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14476?af=R"/>
-        <updated>2025-02-05T05:42:32.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, Volume 16, Issue 2, Page 269-294, February 2025.]]></summary>
-        <author>
-            <name>Pieter De Frenne, 
-Rémy Beugnon, 
-David Klinges, 
-Jonathan Lenoir, 
-Pekka Niittynen, 
-Sylvain Pincebourde, 
-Rebecca A. Senior, 
-Juha Aalto, 
-Kryštof Chytrý, 
-Phillipa K. Gillingham, 
-Caroline Greiser, 
-Eva Gril, 
-Stef Haesen, 
-Michael Kearney, 
-Martin Kopecký, 
-Peter C. le Roux, 
-Miska Luoto, 
-Ilya Maclean, 
-Matěj Man, 
-Rachel Penczykowski, 
-Liesbeth van den Brink, 
-Stijn Van de Vondel, 
-Karen De Pauw, 
-Jonas J. Lembrechts, 
-Julia Kemppinen, 
-Koenraad Van Meerbeek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sampling mass mortality events to enable diagnoses: A protocol using freshwater mussels]]></title>
-        <id>10.1111/2041-210X.14480</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14480?af=R"/>
-        <updated>2025-02-05T05:42:32.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, Volume 16, Issue 2, Page 250-268, February 2025.]]></summary>
-        <author>
-            <name>Daniel A. Cossey, 
-Michelle M. Dennis, 
-Jordan Richard, 
-Camilla Della Torre, 
-Andrew McElwain, 
-Diane L. Waller, 
-Susan Knowles, 
-Joshua I. Brian, 
-Eric Leis, 
-Erika A. V. Burioli, 
-David C. Aldridge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChirpArray: A low‐cost, easy‐to‐construct microphone array for long‐term ecoacoustic monitoring]]></title>
-        <id>10.1111/2041-210X.14474</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14474?af=R"/>
-        <updated>2025-02-05T05:42:32.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, Volume 16, Issue 2, Page 302-308, February 2025.]]></summary>
-        <author>
-            <name>Ryotaro Okamoto, 
-Hiroyuki Oguma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simple assay quantifying sediment resuspension effects on marine carbon storage]]></title>
-        <id>10.1111/2041-210X.14479</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14479?af=R"/>
-        <updated>2025-02-05T05:42:32.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, Volume 16, Issue 2, Page 309-316, February 2025.]]></summary>
-        <author>
-            <name>Ines Bartl, 
-Tegan Evans, 
-Jenny Hillman, 
-Simon Thrush</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Single‐egg comet assay: A protocol to quantify DNA damage in natural bioarchives]]></title>
-        <id>10.1111/2041-210X.14493</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14493?af=R"/>
-        <updated>2025-02-05T05:42:32.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, Volume 16, Issue 2, Page 295-301, February 2025.]]></summary>
-        <author>
-            <name>Rejin Salimraj, 
-Alessio Perotti, 
-Marcin W. Wojewodzic, 
-Dagmar Frisch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using unmanned aerial vehicles to estimate body volume at scale for ecological monitoring]]></title>
-        <id>10.1111/2041-210X.14457</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14457?af=R"/>
-        <updated>2025-02-05T05:42:32.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, Volume 16, Issue 2, Page 317-331, February 2025.]]></summary>
-        <author>
-            <name>Thomas C. Stone, 
-Katrina J. Davis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spatial conservation planning: Proposing clustering methods to improve connectivity protection]]></title>
-        <id>10.1111/2041-210X.14459</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14459?af=R"/>
-        <updated>2025-02-05T05:42:32.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, Volume 16, Issue 2, Page 377-387, February 2025.]]></summary>
-        <author>
-            <name>Nikolaos Nagkoulis, 
-Maria Papazekou, 
-Stelios Katsanevakis, 
-Antonios Mazaris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Challenges and opportunities for data integration to improve estimation of migratory connectivity]]></title>
-        <id>10.1111/2041-210X.14467</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14467?af=R"/>
-        <updated>2025-02-05T05:42:32.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, Volume 16, Issue 2, Page 362-376, February 2025.]]></summary>
-        <author>
-            <name>Jeffrey A. Hostetler, 
-Emily B. Cohen, 
-Christen M. Bossu, 
-Amy L. Scarpignato, 
-Kristen Ruegg, 
-Andrea Contina, 
-Clark S. Rushing, 
-Michael T. Hallworth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimal allocation of resources between control and surveillance for complex eradication scenarios]]></title>
-        <id>10.1111/2041-210X.14473</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14473?af=R"/>
-        <updated>2025-02-05T05:42:32.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, Volume 16, Issue 2, Page 388-399, February 2025.]]></summary>
-        <author>
-            <name>Mahdi Parsa, 
-David Ramsey, 
-Belinda Barnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RapidBenthos: Automated segmentation and multi‐view classification of coral reef communities from photogrammetric reconstruction]]></title>
-        <id>10.1111/2041-210X.14477</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14477?af=R"/>
-        <updated>2025-02-05T05:42:32.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, Volume 16, Issue 2, Page 427-441, February 2025.]]></summary>
-        <author>
-            <name>Tiny Remmers, 
-Nader Boutros, 
-Mathew Wyatt, 
-Sophie Gordon, 
-Maren Toor, 
-Chris Roelfsema, 
-Katharina Fabricius, 
-Alana Grech, 
-Marine Lechene, 
-Renata Ferrari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrated movement models for individual tracking and species distribution data]]></title>
-        <id>10.1111/2041-210X.14482</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14482?af=R"/>
-        <updated>2025-02-05T05:42:32.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, Volume 16, Issue 2, Page 345-361, February 2025.]]></summary>
-        <author>
-            <name>Frances E. Buderman, 
-Ephraim M. Hanks, 
-Viviana Ruiz‐Gutierrez, 
-Michael Shull, 
-Robert K. Murphy, 
-David A. W. Miller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Wayqecha Amazon Cloud Curtain Ecosystem Experiment: A new experimental method to manipulate fog water inputs in terrestrial systems]]></title>
-        <id>10.1111/2041-210X.14483</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14483?af=R"/>
-        <updated>2025-02-05T05:42:32.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, Volume 16, Issue 2, Page 400-413, February 2025.]]></summary>
-        <author>
-            <name>Daniel B. Metcalfe, 
-Darcy F. Galiano Cabrera, 
-Luis Miguel Alvarez Mayorga, 
-Roxana Sacatuma Cruz, 
-Daniela Corrales Alvarez, 
-Blanca Rosa Espinoza Otazu, 
-Walter Huaraca Huasco, 
-Jimmy R. Chambi, 
-Maria E. Ezquerra, 
-Beisit L. Puma Vilca, 
-Mark Mulligan, 
-Matthew A. Vadeboncoeur, 
-Heidi Asbjornsen, 
-Paulo R. L. Bittencourt, 
-Aline B. Horwath, 
-David C. Bartholomew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An aquaria set‐up for long‐term, multiple‐stressor research in marine organisms]]></title>
-        <id>10.1111/2041-210X.14488</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14488?af=R"/>
-        <updated>2025-02-05T05:42:32.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, Volume 16, Issue 2, Page 414-426, February 2025.]]></summary>
-        <author>
-            <name>Cristina Gutiérrez‐Zárate, 
-Alfredo Veiga, 
-Andrea Gori, 
-Fabián Gerpe, 
-Leo Domínguez, 
-Alberto Rodríguez, 
-Noelia Arias, 
-Marta Álvarez, 
-Rubén Acerbi, 
-Lucía Vázquez, 
-Juancho Movilla, 
-Marta M. Varela, 
-Rodrigo Alba‐Salgueiro, 
-Joaquín Valencia‐Vila, 
-Covadonga Orejas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using causal diagrams and superpopulation models to correct geographic biases in biodiversity monitoring data]]></title>
-        <id>10.1111/2041-210X.14492</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14492?af=R"/>
-        <updated>2025-02-05T05:42:32.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, Volume 16, Issue 2, Page 332-344, February 2025.]]></summary>
-        <author>
-            <name>Robin J. Boyd, 
-Marc Botham, 
-Emily Dennis, 
-Richard Fox, 
-Collin Harrower, 
-Ian Middlebrook, 
-David B. Roy, 
-Oliver L. Pescott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three‐trophic level food webs support the safety of a biocontrol agent 3 years after release]]></title>
-        <id>10.1111/rec.14371</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/rec.14371?af=R"/>
-        <updated>2025-02-05T05:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Restoration Ecology, EarlyView.]]></summary>
-        <author>
-            <name>Francisco A. López‐Núñez, 
-Elizabete Marchante, 
-Hélia Marchante, 
-Ruben H. Heleno</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Restoring Halodule uninervis: evaluating planting methods and biodiversity]]></title>
-        <id>10.1111/rec.14382</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/rec.14382?af=R"/>
-        <updated>2025-02-05T05:29:26.000Z</updated>
-        <summary type="html"><![CDATA[Restoration Ecology, EarlyView.]]></summary>
-        <author>
-            <name>Damboia Cossa, 
-Minda Cossa, 
-Jeremias Nhaca, 
-Ilário Timba, 
-Yudmila Chunguane, 
-Alvaro Vetina, 
-Adriano Macia, 
-Martin Gullström, 
-Eduardo Infantes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accommodation–repelling fields for mitigating human–goose conflicts]]></title>
-        <id>10.1111/1365-2664.14880</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14880?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 184-187, February 2025.]]></summary>
-        <author>
-            <name>Valeria I. Valanne, 
-Yanjie Xu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Correction to “Silvicultural regime shapes understory functional structure in European forests”]]></title>
-        <id>10.1111/1365-2664.14845</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14845?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 439-439, February 2025.]]></summary>
-        <author>
-            <name>Wiley: Journal of Applied Ecology: Table of Contents</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cover Picture and Issue Information]]></title>
-        <id>10.1111/1365-2664.14676</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14676?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 181-183, February 2025.]]></summary>
-        <author>
-            <name>Wiley: Journal of Applied Ecology: Table of Contents</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remote sensing approaches to monitor tropical forest restoration: Current methods and future possibilities]]></title>
-        <id>10.1111/1365-2664.14830</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14830?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 188-206, February 2025.]]></summary>
-        <author>
-            <name>Danilo R. A. de Almeida, 
-Laura B. Vedovato, 
-Matheus Fuza, 
-Paulo Molin, 
-Henrique Cassol, 
-Angélica F. Resende, 
-Pedro M. Krainovic, 
-Catherine T. de Almeida, 
-Cibele Amaral, 
-Leo Haneda, 
-Rafael W. Albuquerque, 
-Eric Gorgens, 
-João Romanelli, 
-Matheus Ferreira, 
-Carl Salk, 
-Nikolai Espinoza, 
-Carlos Silva, 
-Eben Broadbent, 
-Pedro H.S. Brancalion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disc mower versus bar mower: Evaluation of the direct effects of two common mowing techniques on the grassland arthropod fauna]]></title>
-        <id>10.1111/1365-2664.14852</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14852?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 360-370, February 2025.]]></summary>
-        <author>
-            <name>Lea von Berg, 
-Jonas Frank, 
-Oliver Betz, 
-Johannes L. M. Steidle, 
-Stefan Böttinger, 
-Manuela Sann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accounting for interspecies and intraspecies variation in swimming performance for fish passage solutions]]></title>
-        <id>10.1111/1365-2664.14828</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14828?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 231-241, February 2025.]]></summary>
-        <author>
-            <name>Rachel M. B. Crawford, 
-Eleanor Gee, 
-Brendan Hicks, 
-Dana Nolte, 
-Deborah Dupont, 
-Paul A. Franklin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weed management modifies functional properties of both weeds and microbial nitrogen‐cycling communities in Mediterranean vineyards]]></title>
-        <id>10.1111/1365-2664.14833</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14833?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 388-400, February 2025.]]></summary>
-        <author>
-            <name>Marie‐Charlotte Bopp, 
-Gerlinde B. De Deyn, 
-Marie J. Zwetsloot, 
-Gabriel Y. K. Moinet, 
-Guillaume Fried, 
-Aurélie Metay, 
-Nathalie Fromin, 
-Florian Fort, 
-Bruno Buatois, 
-Lammert Bastiaans, 
-Elena Kazakou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physiological and symbiotic flexibility of reef‐building corals to new habitats: Insights from clonal colony transplants]]></title>
-        <id>10.1111/1365-2664.14836</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14836?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 207-219, February 2025.]]></summary>
-        <author>
-            <name>Shelby E. Gantt, 
-Elise F. Keister, 
-Samantha E. Jerry, 
-Rose Ferguson Tindal, 
-Alicia A. Manfroy, 
-Dakotah E. Merck, 
-Erinn M. Muller, 
-Dustin W. Kemp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating human trail use in montane landscapes reveals larger zones of human influence for wary carnivores]]></title>
-        <id>10.1111/1365-2664.14837</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14837?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 344-359, February 2025.]]></summary>
-        <author>
-            <name>Peter R. Thompson, 
-John Paczkowski, 
-Jesse Whittington, 
-Colleen Cassady St. Clair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Site‐level connectivity identified from multiple sources of movement data to inform conservation of a migratory bird]]></title>
-        <id>10.1111/1365-2664.14839</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14839?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 303-316, February 2025.]]></summary>
-        <author>
-            <name>Martin Beal, 
-Josh Nightingale, 
-João R. Belo, 
-Chris Batey, 
-Heinrich Belting, 
-Pierrick Bocher, 
-Malcolm Burgess, 
-Taylor B. Craft, 
-Nicola Crockford, 
-Philippe Delaporte, 
-Lynda Donaldson, 
-Guillaume Gélinaud, 
-Jennifer A. Gill, 
-Tómas G. Gunnarsson, 
-Böðvar Þórisson, 
-Jorge S. Gutiérrez, 
-Jos C. E. W. Hooijmeijer, 
-Ruth A. Howison, 
-Philip Hunke, 
-Loïc Jomat, 
-Hilger Lemke, 
-Jürgen Ludwig, 
-Frank A. Majoor, 
-Christopher Marlow, 
-José A. Masero, 
-Johannes Melter, 
-Ian Nicholson, 
-Manuel Parejo, 
-Barry O'Mahony, 
-Esko Pasanen, 
-Jorma Pessa, 
-Theunis Piersma, 
-Afonso D. Rocha, 
-Frederic Robin, 
-Maja Roodbergen, 
-Pierre Rousseau, 
-Volker Salewski, 
-Luis Schmidt, 
-Jennifer Smart, 
-Anna Staneva, 
-T. Lee Tibbitts, 
-Sami Timonen, 
-José A. Alves, 
-Maria P. Dias</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In‐situ and ex‐situ conservation priorities and distribution of lentil wild relatives under climate change: A modelling approach]]></title>
-        <id>10.1111/1365-2664.14842</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14842?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 414-428, February 2025.]]></summary>
-        <author>
-            <name>Salma Rouichi, 
-Michel Edmond Ghanem, 
-Moez Amri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shining the light on marine infrastructure: The use of artificial light to manipulate benthic marine communities]]></title>
-        <id>10.1111/1365-2664.14843</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14843?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 220-230, February 2025.]]></summary>
-        <author>
-            <name>Nina Schaefer, 
-Andrew S. Hoey, 
-Melanie J. Bishop, 
-Ana B. Bugnot, 
-Brett Herbert, 
-Mariana Mayer‐Pinto, 
-Craig D. H. Sherman, 
-Cian Foster‐Thorpe, 
-Maria L. Vozzo, 
-Katherine A. Dafforn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seals exhibit localised avoidance of operational tidal turbines]]></title>
-        <id>10.1111/1365-2664.14844</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14844?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 242-252, February 2025.]]></summary>
-        <author>
-            <name>Jessica Montabaranom, 
-Douglas Gillespie, 
-Emma Longden, 
-Katie Rapson, 
-Anhelina Holoborodko, 
-Carol Sparling, 
-Gordon Hastie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Climate change threatens amphibians and species representation within protected areas in tropical wetlands]]></title>
-        <id>10.1111/1365-2664.14846</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14846?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 290-302, February 2025.]]></summary>
-        <author>
-            <name>Matheus O. Neves, 
-Olivier Broennimann, 
-Heidi K. Mod, 
-Bruna E. Bolochio, 
-Diego J. Santana, 
-Antoine Guisan, 
-Mario R. Moura</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Invasion stress mitigates climate stress in a brackish marsh amphipod]]></title>
-        <id>10.1111/1365-2664.14847</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14847?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 253-266, February 2025.]]></summary>
-        <author>
-            <name>Lorna E. Haworth, 
-Sarah Nancollas, 
-Susie N. Landa, 
-Anne E. Todgham, 
-Richelle L. Tanner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plant–soil feedback drives the ‘nursing effect’ on Sitka spruce]]></title>
-        <id>10.1111/1365-2664.14848</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14848?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 429-438, February 2025.]]></summary>
-        <author>
-            <name>Yichen Zhou, 
-Tingting Tao, 
-Filipa Cox, 
-David Johnson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Native cover crops enhance biodiversity and ecosystem services in hazelnut orchards]]></title>
-        <id>10.1111/1365-2664.14850</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14850?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 401-413, February 2025.]]></summary>
-        <author>
-            <name>Alejandro Brambila, 
-Steven Haring, 
-Ari Brown, 
-Marissa Lane‐Massee, 
-Lauren M. Hallett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selectivity of invasive species suppression efforts influences control efficacy]]></title>
-        <id>10.1111/1365-2664.14856</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14856?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 280-289, February 2025.]]></summary>
-        <author>
-            <name>Rae Fadlovich, 
-Kevin Landom, 
-Timothy E. Walsworth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategic planting and nutrient amendments to accelerate the revegetation of rapidly retreating coastal dunes]]></title>
-        <id>10.1111/1365-2664.14859</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14859?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 267-279, February 2025.]]></summary>
-        <author>
-            <name>Joseph P. Morton, 
-Hallie S. Fischman, 
-Orlando Cordero, 
-Jonathan T. Crabill, 
-Morgen R. Anthony, 
-Mary A. Schneider, 
-Peter N. Adams, 
-Christine Angelini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two decades of arthropod biodiversity after windthrow show different dynamics of functional groups]]></title>
-        <id>10.1111/1365-2664.14860</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14860?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 371-387, February 2025.]]></summary>
-        <author>
-            <name>Beat Wermelinger, 
-Martin K. Obrist, 
-Peter Duelli, 
-Doris Schneider Mathis, 
-Martin M. Gossner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arctic migrating barnacle geese utilize accommodation fields in a new agricultural staging area]]></title>
-        <id>10.1111/1365-2664.14838</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14838?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 317-328, February 2025.]]></summary>
-        <author>
-            <name>Martin W. Seltmann, 
-Anna‐Kaisa Ylitalo, 
-Antti Piironen, 
-Ron Store, 
-Juha Heikkinen, 
-Wieland Heim, 
-Markus Piha, 
-Tuomas Seimola, 
-Toni Laaksonen, 
-Jukka T. Forsman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Large‐scale forest disturbance and associated management shape bird communities in Central European spruce forests]]></title>
-        <id>10.1111/1365-2664.14849</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14849?af=R"/>
-        <updated>2025-02-05T04:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, Volume 62, Issue 2, Page 329-343, February 2025.]]></summary>
-        <author>
-            <name>Anne Graser, 
-Malte Georg, 
-Josef Kallmayer, 
-Andreas Marten, 
-Caren Pertl, 
-Hendrik Rumpf, 
-Cornelius Senf, 
-Johannes Kamp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investigating Fine‐Scale Breeding Habitat Use by Amphibians in a Continuous Wetland Using Environmental DNA]]></title>
-        <id>10.1002/edn3.70063</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1002/edn3.70063?af=R"/>
-        <updated>2025-02-05T04:35:19.000Z</updated>
-        <summary type="html"><![CDATA[Environmental DNA, Volume 7, Issue 1, January–February 2025.]]></summary>
-        <author>
-            <name>Julie Morgane Guenat, 
-Antoine Gander, 
-Luca Fumagalli, 
-Guillaume Lavanchy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eDNA Sampling Systems for Salmon Ecosystem Monitoring]]></title>
-        <id>10.1002/edn3.70059</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1002/edn3.70059?af=R"/>
-        <updated>2025-02-05T04:05:50.000Z</updated>
-        <summary type="html"><![CDATA[Environmental DNA, Volume 7, Issue 1, January–February 2025.]]></summary>
-        <author>
-            <name>Christoph M. Deeg, 
-Robert G. Saunders, 
-Christopher Tam, 
-Karia Kaukinen, 
-Shaorong Li, 
-Arthur L. Bass, 
-Uu‐a‐thluk Fisheries, 
-Kristina M. Miller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The current state, opportunities and challenges for upscaling private investment in biodiversity in Europe]]></title>
-        <id>https://www.nature.com/articles/s41559-024-02632-0</id>
-        <link href="https://www.nature.com/articles/s41559-024-02632-0"/>
-        <updated>2025-02-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Semistructured interviews and focus groups with experts in biodiversity finance in Europe identify opportunities and barriers to upscaling private investment in biodiversity, and emphasize that public policy is the key to enabling progression.]]></summary>
-        <author>
-            <name>Sophus O.S.E. zu Ermgassen</name>
         </author>
     </entry>
 </feed>
