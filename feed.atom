@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-03-09T06:13:03.242Z</updated>
+    <updated>2025-03-10T06:14:27.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Monitoring of the Invasive Round Goby (Neogobius melanostomus) in an Estuarine Seascape Based on eDNA]]></title>
+        <id>10.1002/edn3.70076</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1002/edn3.70076?af=R"/>
+        <updated>2025-03-08T11:33:19.000Z</updated>
+        <summary type="html"><![CDATA[Environmental DNA, Volume 7, Issue 2, March–April 2025.]]></summary>
+        <author>
+            <name>Leon Green, 
+Marina Panova, 
+Thomas G. Dahlgren, 
+Alizz Axberg, 
+Matthias Obst, 
+Per Sundberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elevated CO2 and drought modify plant–plant and plant–mycorrhizal interactions in two codominant grasses]]></title>
         <id>10.1002/ecs2.70198</id>
@@ -624,6 +639,28 @@ Xiaolong Yao,
 Ismael Aaron Kimirei, 
 Lu Zhang, 
 Jianjun Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Light competition affects how tree growth and survival respond to climate]]></title>
+        <id>10.1111/1365-2745.14489</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14489?af=R"/>
+        <updated>2025-03-05T05:53:22.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 3, Page 672-688, March 2025.]]></summary>
+        <author>
+            <name>Nathéo Beauchamp, 
+Georges Kunstler, 
+Laura Touzot, 
+Paloma Ruiz‐Benito, 
+Emil Cienciala, 
+Jonas Dahlgren, 
+Paweł Hawryło, 
+Matija Klopčič, 
+Aleksi Lehtonen, 
+Vladimír Šebeň, 
+Jarosław Socha, 
+Miguel A. Zavala, 
+Benoit Courbaud</name>
         </author>
     </entry>
     <entry>
@@ -1316,6 +1353,18 @@ Carl Boettiger</name>
 David Kleijn, 
 Inês I. Vicente, 
 Thijs P. M. Fijen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bioregionalization analyses with the bioregion R package]]></title>
+        <id>10.1111/2041-210X.14496</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14496?af=R"/>
+        <updated>2025-03-05T05:20:39.000Z</updated>
+        <summary type="html"><![CDATA[Methods in Ecology and Evolution, Volume 16, Issue 3, Page 496-506, March 2025.]]></summary>
+        <author>
+            <name>Pierre Denelle, 
+Boris Leroy, 
+Maxime Lenormand</name>
         </author>
     </entry>
     <entry>
@@ -9566,33 +9615,6 @@ Roxane Delle‐Vedove,
 Bruno Buatois, 
 Cécile Godé, 
 Mathilde Dufay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Correction to EGCop: An Expert‐Curated Occurrence Dataset of European Groundwater‐Dwelling Copepods (Crustacea: Copepoda)]]></title>
-        <id>10.1111/geb.70008</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/geb.70008?af=R"/>
-        <updated>2025-02-08T06:23:01.000Z</updated>
-        <summary type="html"><![CDATA[Global Ecology and Biogeography, Volume 34, Issue 2, February 2025.]]></summary>
-        <author>
-            <name>Wiley: Global Ecology and Biogeography: Table of Contents</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mtGrasp: Streamlined reference‐grade mitochondrial genome assembly and standardization to enhance metazoan mitogenome resources]]></title>
-        <id>10.1111/2041-210X.14506</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14506?af=R"/>
-        <updated>2025-02-08T06:11:05.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
-        <author>
-            <name>Mark Louie D. Lopez, 
-Cecilia L. Yang, 
-Lauren Coombe, 
-René L. Warren, 
-Michael J. Allison, 
-Jacob J. Imbery, 
-Inanc Birol, 
-Caren C. Helbing</name>
         </author>
     </entry>
 </feed>

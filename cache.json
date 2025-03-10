@@ -3948,16 +3948,6 @@
           "wordCount": null,
           "title": "Regional Occupancy Is Negatively Related to Richness Across Time and Space",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/geb.70008",
-          "author": null,
-          "description": "Global Ecology and Biogeography, Volume 34, Issue 2, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/geb.70008?af=R",
-          "publishedOn": "2025-02-08T06:23:01.000Z",
-          "wordCount": null,
-          "title": "Correction to EGCop: An Expert‐Curated Occurrence Dataset of European Groundwater‐Dwelling Copepods (Crustacea: Copepoda)",
-          "imageUrl": null
         }
       ]
     },
@@ -4424,6 +4414,16 @@
           "imageUrl": null
         },
         {
+          "id": "10.1111/2041-210X.14496",
+          "author": "Pierre Denelle, \nBoris Leroy, \nMaxime Lenormand",
+          "description": "Methods in Ecology and Evolution, Volume 16, Issue 3, Page 496-506, March 2025.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14496?af=R",
+          "publishedOn": "2025-03-05T05:20:39.000Z",
+          "wordCount": null,
+          "title": "Bioregionalization analyses with the bioregion R package",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/2041-210X.14452",
           "author": "Ricardo Oliveros‐Ramos, \nYunne‐Jai Shin",
           "description": "Methods in Ecology and Evolution, Volume 16, Issue 3, Page 507-519, March 2025.",
@@ -4702,16 +4702,6 @@
           "wordCount": null,
           "title": "Repairing gaps in ecological time series",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/2041-210X.14506",
-          "author": "Mark Louie D. Lopez, \nCecilia L. Yang, \nLauren Coombe, \nRené L. Warren, \nMichael J. Allison, \nJacob J. Imbery, \nInanc Birol, \nCaren C. Helbing",
-          "description": "Methods in Ecology and Evolution, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14506?af=R",
-          "publishedOn": "2025-02-08T06:11:05.000Z",
-          "wordCount": null,
-          "title": "mtGrasp: Streamlined reference‐grade mitochondrial genome assembly and standardization to enhance metazoan mitogenome resources",
-          "imageUrl": null
         }
       ]
     },
@@ -4948,6 +4938,16 @@
           "publishedOn": "2025-03-06T10:04:30.000Z",
           "wordCount": null,
           "title": "Global mycorrhizal status drives leaf δ15N patterns",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/1365-2745.14489",
+          "author": "Nathéo Beauchamp, \nGeorges Kunstler, \nLaura Touzot, \nPaloma Ruiz‐Benito, \nEmil Cienciala, \nJonas Dahlgren, \nPaweł Hawryło, \nMatija Klopčič, \nAleksi Lehtonen, \nVladimír Šebeň, \nJarosław Socha, \nMiguel A. Zavala, \nBenoit Courbaud",
+          "description": "Journal of Ecology, Volume 113, Issue 3, Page 672-688, March 2025.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14489?af=R",
+          "publishedOn": "2025-03-05T05:53:22.000Z",
+          "wordCount": null,
+          "title": "Light competition affects how tree growth and survival respond to climate",
           "imageUrl": null
         },
         {
@@ -6251,6 +6251,16 @@
       "feedUrl": "https://onlinelibrary.wiley.com/feed/26374943/most-recent",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/26374943?af=R",
       "articles": [
+        {
+          "id": "10.1002/edn3.70076",
+          "author": "Leon Green, \nMarina Panova, \nThomas G. Dahlgren, \nAlizz Axberg, \nMatthias Obst, \nPer Sundberg",
+          "description": "Environmental DNA, Volume 7, Issue 2, March–April 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1002/edn3.70076?af=R",
+          "publishedOn": "2025-03-08T11:33:19.000Z",
+          "wordCount": null,
+          "title": "Monitoring of the Invasive Round Goby (Neogobius melanostomus) in an Estuarine Seascape Based on eDNA",
+          "imageUrl": null
+        },
         {
           "id": "10.1002/edn3.70075",
           "author": "Alice Tagliabue, \nGiulia Furfaro, \nAndrea Galimberti, \nAntonia Bruno, \nLorenzo Zane, \nAlberto Pallavicini, \nStefano Piraino",
