@@ -2,10 +2,186 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-03-10T06:14:27.097Z</updated>
+    <updated>2025-03-11T06:17:27.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Homogenization of High-Contrast Dielectric Elastomer Composites]]></title>
+        <id>https://epubs.siam.org/doi/abs/10.1137/24M1631420?af=R</id>
+        <link href="https://epubs.siam.org/doi/abs/10.1137/24M1631420?af=R"/>
+        <updated>2025-03-10T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiscale Modeling & Simulation, Volume 23, Issue 1, Page 668-685, March 2025. 
+ Abstract. This paper focuses on the homogenization of high-contrast dielectric elastomer composites, which are materials that deform in response to electrical stimulation. The considered heterogeneous material, consisting of an ambient material with inserted particles, is described by a weakly coupled system of an electrostatic equation with an elastic equation enriched with electrostriction. It is assumed that particles gradually become rigid as the fine-scale parameter approaches zero. This study demonstrates that the effective response of this system entails a homogeneous dielectric elastomer, described by a system of PDEs whose equations are fully decoupled. The coefficients of the homogenized equations depend on various factors, including the geometry of the composite, the periodicity of the original microstructure, and the coefficients characterizing the initial heterogeneous material. In particular, these coefficients are significantly influenced by the high-contrast nature of the coefficients of the fine-scale problem.]]></summary>
+        <author>
+            <name>Thuyen Dang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volunteer plants obscure the benefits of seed mixes for wild pollinator communities]]></title>
+        <id>10.1111/rec.70002</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/rec.70002?af=R"/>
+        <updated>2025-03-10T06:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Restoration Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Allison Bistline‐East, 
+Hannah Kernen, 
+Eleanor Stroh, 
+Ian Kaplan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dense roots with low specific root length underpin performance of dryland restoration species under two types of drought]]></title>
+        <id>10.1111/rec.70021</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/rec.70021?af=R"/>
+        <updated>2025-03-10T05:59:33.000Z</updated>
+        <summary type="html"><![CDATA[Restoration Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Magda Garbowski, 
+Albert Kline, 
+Aneeyá Lowe, 
+Elise S. Gornish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Assessing the effects of climate and visitor use on amphibian occupancy in a protected landscape with long‐term data]]></title>
+        <id>10.1002/ecs2.70210</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70210?af=R"/>
+        <updated>2025-03-10T05:20:30.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Amanda M. Kissel, 
+Mary Kay Watry, 
+Evan Bredeweg, 
+Erin Muths</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High sensitivity of herbaceous legumes to freezing: Insights from a multiyear snow removal study]]></title>
+        <id>10.1002/ecs2.70219</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70219?af=R"/>
+        <updated>2025-03-10T05:19:32.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Samuel L. Rycroft, 
+Hugh A. L. Henry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Habitat suitability of common leopard in northern Pakistan]]></title>
+        <id>10.1002/ecs2.70218</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70218?af=R"/>
+        <updated>2025-03-10T05:13:57.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Faraz Akrim, 
+Kenneth F. Kellner, 
+Tariq Mahmood, 
+Muhammad Waseem, 
+Imad‐Ul‐Din Zangi, 
+Siddiqa Qasim, 
+Asad Aslam, 
+Shafqaat Ahmed Hashmi, 
+Hammad Bin Shoukat, 
+Muhammad Raqeeb, 
+Jerrold L. Belant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wayfinding, knowledge, perspective, and engagement: Preparing tribal liaisons for stewardship of Indigenous lands]]></title>
+        <id>10.1002/ecs2.70181</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70181?af=R"/>
+        <updated>2025-03-10T05:13:12.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>David C. Mays, 
+Timberley M. Roane, 
+Rafael Moreno‐Sanchez, 
+Cynthia Rice, 
+Jessica L. Romero, 
+Christine Velez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating uncertainty in life cycle assessment‐based approaches to biodiversity footprinting]]></title>
+        <id>10.1111/2041-210X.70001</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70001?af=R"/>
+        <updated>2025-03-10T05:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
+        <author>
+            <name>Talitha Bromwich, 
+Thomas B. White, 
+Alice Bouchez, 
+Isobel Hawkins, 
+Sophus zu Ermgassen, 
+Joseph Bull, 
+Harriet Bartlett, 
+Leon Bennun, 
+Elizabeth Biggs, 
+Hollie Booth, 
+Michael Clark, 
+Sami El Geneidy, 
+Graham W. Prescott, 
+Laura J. Sonter, 
+Malcolm Starkey, 
+E. J. Milner‐Gulland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A dominant plant species and insects interactively shape plant community structure and an ecosystem function]]></title>
+        <id>10.1002/ecs2.70201</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70201?af=R"/>
+        <updated>2025-03-10T03:54:56.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Julia N. Eckberg, 
+Akane Hubbard, 
+Nathan J. Sanders</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Restored streams recover food web properties but with different scaling relationships when compared with natural streams]]></title>
+        <id>10.1002/eap.70017</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70017?af=R"/>
+        <updated>2025-03-10T00:08:23.000Z</updated>
+        <summary type="html"><![CDATA[Ecological Applications, Volume 35, Issue 2, March 2025.]]></summary>
+        <author>
+            <name>Minyoung Lee, 
+Yongeun Kim, 
+Dougu Nam, 
+Kijong Cho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Greenhouse gases reduce the satellite carrying capacity of low Earth orbit]]></title>
+        <id>https://www.nature.com/articles/s41893-025-01512-0</id>
+        <link href="https://www.nature.com/articles/s41893-025-01512-0"/>
+        <updated>2025-03-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Satellites have become integral to our everyday life, but space debris threatens the sustainability of low Earth orbital space. Greenhouse gases are complicating the problem, leading to longer orbital retention of defunct satellites and increasing the risk of collision.]]></summary>
+        <author>
+            <name>William E. Parker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An eco-evolutionary game of hide-and-seek]]></title>
+        <id>https://www.nature.com/articles/s41559-025-02646-2</id>
+        <link href="https://www.nature.com/articles/s41559-025-02646-2"/>
+        <updated>2025-03-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Genomic and demographic analysis of an alpine plant–insect herbivore system shows that plants can use defensive camouflage to escape herbivores in an eco-evolutionary game of hide-and-seek that has been playing out for millennia.]]></summary>
+        <author>
+            <name>Marc T. J. Johnson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genetic basis of camouflage in an alpine plant and its long-term co-evolution with an insect herbivore]]></title>
+        <id>https://www.nature.com/articles/s41559-025-02653-3</id>
+        <link href="https://www.nature.com/articles/s41559-025-02653-3"/>
+        <updated>2025-03-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Multi-omics analysis reveals that a 254-bp transposon induces defensive camouflage in an alpine plant and reduces herbivory by caterpillars of a specialist butterfly. Protective effects of this camouflage are reflected in the long-term dynamics of co-evolving plant and butterfly populations.]]></summary>
+        <author>
+            <name>Han Zhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Monitoring of the Invasive Round Goby (Neogobius melanostomus) in an Estuarine Seascape Based on eDNA]]></title>
         <id>10.1002/edn3.70076</id>
@@ -9582,39 +9758,6 @@ Robert I. Colautti</name>
         <summary type="html"><![CDATA[Ex situ plant collections are key tools in the fight to preserve biodiversity. Numerous opportunities and challenges exist among their many different forms, but all are valuable.]]></summary>
         <author>
             <name>Nature Ecology &amp; Evolution</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating Climate Change: Exploring the Dynamics Between Plant–Soil Microbiomes and Their Impact on Plant Growth and Productivity]]></title>
-        <id>10.1111/gcb.70057</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70057?af=R"/>
-        <updated>2025-02-09T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 2, February 2025.]]></summary>
-        <author>
-            <name>Murad Muhammad, 
-Abdul Wahab, 
-Abdul Waheed, 
-Khalid Rehman Hakeem, 
-Heba Ibrahim Mohamed, 
-Abdul Basit, 
-Muhammad Danish Toor, 
-Yong‐Hong Liu, 
-Li Li, 
-Wen‐Jun Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Striking variation of pollinator attracting scent within a highly specialized pollination system]]></title>
-        <id>10.1111/1365-2745.14493</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14493?af=R"/>
-        <updated>2025-02-09T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, EarlyView.]]></summary>
-        <author>
-            <name>Isabelle De Cauwer, 
-Roxane Delle‐Vedove, 
-Bruno Buatois, 
-Cécile Godé, 
-Mathilde Dufay</name>
         </author>
     </entry>
 </feed>

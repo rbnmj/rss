@@ -453,6 +453,16 @@
       "siteUrl": "https://esajournals.onlinelibrary.wiley.com/journal/19395582?af=R",
       "articles": [
         {
+          "id": "10.1002/eap.70017",
+          "author": "Minyoung Lee, \nYongeun Kim, \nDougu Nam, \nKijong Cho",
+          "description": "Ecological Applications, Volume 35, Issue 2, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70017?af=R",
+          "publishedOn": "2025-03-10T00:08:23.000Z",
+          "wordCount": null,
+          "title": "Restored streams recover food web properties but with different scaling relationships when compared with natural streams",
+          "imageUrl": null
+        },
+        {
           "id": "10.1002/eap.70016",
           "author": "Tejas Bhagwat, \nPhilippe Rufin, \nTobias Kuemmerle, \nJohannes Kamp",
           "description": "Ecological Applications, Volume 35, Issue 2, March 2025.",
@@ -893,6 +903,56 @@
       "feedUrl": "https://esajournals.onlinelibrary.wiley.com/feed/21508925/most-recent",
       "siteUrl": "https://esajournals.onlinelibrary.wiley.com/journal/21508925?af=R",
       "articles": [
+        {
+          "id": "10.1002/ecs2.70210",
+          "author": "Amanda M. Kissel, \nMary Kay Watry, \nEvan Bredeweg, \nErin Muths",
+          "description": "Ecosphere, Volume 16, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70210?af=R",
+          "publishedOn": "2025-03-10T05:20:30.000Z",
+          "wordCount": null,
+          "title": "Assessing the effects of climate and visitor use on amphibian occupancy in a protected landscape with long‐term data",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecs2.70219",
+          "author": "Samuel L. Rycroft, \nHugh A. L. Henry",
+          "description": "Ecosphere, Volume 16, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70219?af=R",
+          "publishedOn": "2025-03-10T05:19:32.000Z",
+          "wordCount": null,
+          "title": "High sensitivity of herbaceous legumes to freezing: Insights from a multiyear snow removal study",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecs2.70218",
+          "author": "Faraz Akrim, \nKenneth F. Kellner, \nTariq Mahmood, \nMuhammad Waseem, \nImad‐Ul‐Din Zangi, \nSiddiqa Qasim, \nAsad Aslam, \nShafqaat Ahmed Hashmi, \nHammad Bin Shoukat, \nMuhammad Raqeeb, \nJerrold L. Belant",
+          "description": "Ecosphere, Volume 16, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70218?af=R",
+          "publishedOn": "2025-03-10T05:13:57.000Z",
+          "wordCount": null,
+          "title": "Habitat suitability of common leopard in northern Pakistan",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecs2.70181",
+          "author": "David C. Mays, \nTimberley M. Roane, \nRafael Moreno‐Sanchez, \nCynthia Rice, \nJessica L. Romero, \nChristine Velez",
+          "description": "Ecosphere, Volume 16, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70181?af=R",
+          "publishedOn": "2025-03-10T05:13:12.000Z",
+          "wordCount": null,
+          "title": "Wayfinding, knowledge, perspective, and engagement: Preparing tribal liaisons for stewardship of Indigenous lands",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecs2.70201",
+          "author": "Julia N. Eckberg, \nAkane Hubbard, \nNathan J. Sanders",
+          "description": "Ecosphere, Volume 16, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70201?af=R",
+          "publishedOn": "2025-03-10T03:54:56.000Z",
+          "wordCount": null,
+          "title": "A dominant plant species and insects interactively shape plant community structure and an ecosystem function",
+          "imageUrl": null
+        },
         {
           "id": "10.1002/ecs2.70198",
           "author": "Smriti Pehim Limbu, \nMeghan L. Avolio",
@@ -2315,6 +2375,16 @@
       "siteUrl": "http://feeds.nature.com/natsustain/rss/current",
       "articles": [
         {
+          "id": "https://www.nature.com/articles/s41893-025-01512-0",
+          "author": "William E. Parker",
+          "description": "Satellites have become integral to our everyday life, but space debris threatens the sustainability of low Earth orbital space. Greenhouse gases are complicating the problem, leading to longer orbital retention of defunct satellites and increasing the risk of collision.",
+          "link": "https://www.nature.com/articles/s41893-025-01512-0",
+          "publishedOn": "2025-03-10T00:00:00.000Z",
+          "wordCount": 10462,
+          "title": "Greenhouse gases reduce the satellite carrying capacity of low Earth orbit",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-025-01512-0/MediaObjects/41893_2025_1512_Fig1_HTML.png"
+        },
+        {
           "id": "https://www.nature.com/articles/s41893-025-01517-9",
           "author": "Nel de Mûelenaere",
           "description": "History can enhance the robustness of scenario planning for the food system. Through cases in Mozambique, Bangladesh and Holland, this Perspective illustrates how historical insights can guide interventions on various scales for more resilient food systems.",
@@ -2431,6 +2501,26 @@
       "feedUrl": "https://www.nature.com/natecolevol.rss",
       "siteUrl": "http://feeds.nature.com/natecolevol/rss/current",
       "articles": [
+        {
+          "id": "https://www.nature.com/articles/s41559-025-02646-2",
+          "author": "Marc T. J. Johnson",
+          "description": "Genomic and demographic analysis of an alpine plant–insect herbivore system shows that plants can use defensive camouflage to escape herbivores in an eco-evolutionary game of hide-and-seek that has been playing out for millennia.",
+          "link": "https://www.nature.com/articles/s41559-025-02646-2",
+          "publishedOn": "2025-03-10T00:00:00.000Z",
+          "wordCount": 3761,
+          "title": "An eco-evolutionary game of hide-and-seek",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-025-02646-2/MediaObjects/41559_2025_2646_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41559-025-02653-3",
+          "author": "Han Zhang",
+          "description": "Multi-omics analysis reveals that a 254-bp transposon induces defensive camouflage in an alpine plant and reduces herbivory by caterpillars of a specialist butterfly. Protective effects of this camouflage are reflected in the long-term dynamics of co-evolving plant and butterfly populations.",
+          "link": "https://www.nature.com/articles/s41559-025-02653-3",
+          "publishedOn": "2025-03-10T00:00:00.000Z",
+          "wordCount": 8350,
+          "title": "Genetic basis of camouflage in an alpine plant and its long-term co-evolution with an insect herbivore",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-025-02653-3/MediaObjects/41559_2025_2653_Fig1_HTML.png"
+        },
         {
           "id": "https://www.nature.com/articles/s41559-025-02665-z",
           "author": "Ossi I. Ollinaho",
@@ -3136,16 +3226,6 @@
           "publishedOn": "2025-02-10T09:28:38.000Z",
           "wordCount": null,
           "title": "Leaf Temperatures in an Indian Tropical Forest Exceed Physiological Limits but Durations of Exposures Are Currently Not Sufficient to Cause Lasting Damage",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/gcb.70057",
-          "author": "Murad Muhammad, \nAbdul Wahab, \nAbdul Waheed, \nKhalid Rehman Hakeem, \nHeba Ibrahim Mohamed, \nAbdul Basit, \nMuhammad Danish Toor, \nYong‐Hong Liu, \nLi Li, \nWen‐Jun Li",
-          "description": "Global Change Biology, Volume 31, Issue 2, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70057?af=R",
-          "publishedOn": "2025-02-09T08:00:00.000Z",
-          "wordCount": null,
-          "title": "Navigating Climate Change: Exploring the Dynamics Between Plant–Soil Microbiomes and Their Impact on Plant Growth and Productivity",
           "imageUrl": null
         }
       ]
@@ -3957,6 +4037,26 @@
       "siteUrl": "https://onlinelibrary.wiley.com/journal/1526100x?af=R",
       "articles": [
         {
+          "id": "10.1111/rec.70002",
+          "author": "Allison Bistline‐East, \nHannah Kernen, \nEleanor Stroh, \nIan Kaplan",
+          "description": "Restoration Ecology, EarlyView.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/rec.70002?af=R",
+          "publishedOn": "2025-03-10T06:00:17.000Z",
+          "wordCount": null,
+          "title": "Volunteer plants obscure the benefits of seed mixes for wild pollinator communities",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/rec.70021",
+          "author": "Magda Garbowski, \nAlbert Kline, \nAneeyá Lowe, \nElise S. Gornish",
+          "description": "Restoration Ecology, EarlyView.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/rec.70021?af=R",
+          "publishedOn": "2025-03-10T05:59:33.000Z",
+          "wordCount": null,
+          "title": "Dense roots with low specific root length underpin performance of dryland restoration species under two types of drought",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/rec.14388",
           "author": null,
           "description": "Restoration Ecology, EarlyView.",
@@ -4384,6 +4484,16 @@
       "siteUrl": "https://besjournals.onlinelibrary.wiley.com/journal/2041210x?af=R",
       "articles": [
         {
+          "id": "10.1111/2041-210X.70001",
+          "author": "Talitha Bromwich, \nThomas B. White, \nAlice Bouchez, \nIsobel Hawkins, \nSophus zu Ermgassen, \nJoseph Bull, \nHarriet Bartlett, \nLeon Bennun, \nElizabeth Biggs, \nHollie Booth, \nMichael Clark, \nSami El Geneidy, \nGraham W. Prescott, \nLaura J. Sonter, \nMalcolm Starkey, \nE. J. Milner‐Gulland",
+          "description": "Methods in Ecology and Evolution, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70001?af=R",
+          "publishedOn": "2025-03-10T05:01:00.000Z",
+          "wordCount": null,
+          "title": "Navigating uncertainty in life cycle assessment‐based approaches to biodiversity footprinting",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/2041-210X.14505",
           "author": "Xiaotian Zheng, \nNoel Cressie, \nDavid A. Clarke, \nMelodie A. McGeoch, \nAndrew Zammit‐Mangion",
           "description": "Methods in Ecology and Evolution, EarlyView.",
@@ -4710,6 +4820,16 @@
       "feedUrl": "https://epubs.siam.org/action/showFeed?feed=rss&type=etoc&jc=MMS",
       "siteUrl": "https://epubs.siam.org/loi/mmsubt?af=R",
       "articles": [
+        {
+          "id": "https://epubs.siam.org/doi/abs/10.1137/24M1631420?af=R",
+          "author": "Thuyen Dang",
+          "description": "Multiscale Modeling & Simulation, Volume 23, Issue 1, Page 668-685, March 2025. \n Abstract. This paper focuses on the homogenization of high-contrast dielectric elastomer composites, which are materials that deform in response to electrical stimulation. The considered heterogeneous material, consisting of an ambient material with inserted particles, is described by a weakly coupled system of an electrostatic equation with an elastic equation enriched with electrostriction. It is assumed that particles gradually become rigid as the fine-scale parameter approaches zero. This study demonstrates that the effective response of this system entails a homogeneous dielectric elastomer, described by a system of PDEs whose equations are fully decoupled. The coefficients of the homogenized equations depend on various factors, including the geometry of the composite, the periodicity of the original microstructure, and the coefficients characterizing the initial heterogeneous material. In particular, these coefficients are significantly influenced by the high-contrast nature of the coefficients of the fine-scale problem.",
+          "link": "https://epubs.siam.org/doi/abs/10.1137/24M1631420?af=R",
+          "publishedOn": "2025-03-10T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Homogenization of High-Contrast Dielectric Elastomer Composites",
+          "imageUrl": null
+        },
         {
           "id": "https://epubs.siam.org/doi/abs/10.1137/24M1661674?af=R",
           "author": "Konstantinos Alexopoulos",
@@ -5308,16 +5428,6 @@
           "publishedOn": "2025-02-10T08:00:00.000Z",
           "wordCount": null,
           "title": "Direct and indirect fitness effects of plant metabolites, and genetic constraints, limit evolution of allelopathy in an invading plant",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/1365-2745.14493",
-          "author": "Isabelle De Cauwer, \nRoxane Delle‐Vedove, \nBruno Buatois, \nCécile Godé, \nMathilde Dufay",
-          "description": "Journal of Ecology, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14493?af=R",
-          "publishedOn": "2025-02-09T08:00:00.000Z",
-          "wordCount": null,
-          "title": "Striking variation of pollinator attracting scent within a highly specialized pollination system",
           "imageUrl": null
         }
       ]
