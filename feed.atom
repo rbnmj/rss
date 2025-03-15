@@ -2,10 +2,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-03-14T06:17:07.098Z</updated>
+    <updated>2025-03-15T06:15:31.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Multiple Nutrient Additions Homogenize Multidimensional Plant Stoichiometry in a Meadow Steppe]]></title>
+        <id>10.1111/gcb.70123</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70123?af=R"/>
+        <updated>2025-03-14T04:33:59.000Z</updated>
+        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Yang Peng, 
+Jian‐Xia Yang, 
+Eric W. Seabloom, 
+Jordi Sardans, 
+Josep Peñuelas, 
+Hai‐Yang Zhang, 
+Cun‐Zheng Wei, 
+Xing‐Guo Han</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ecological novelty is the new norm on our planet]]></title>
+        <id>https://www.nature.com/articles/s41559-025-02668-w</id>
+        <link href="https://www.nature.com/articles/s41559-025-02668-w"/>
+        <updated>2025-03-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A global analysis of altered species compositions and climate change reveals the extent to which ecosystems, including in protected areas and biodiversity hotspots, are exposed to novel conditions due to anthropogenic forces.]]></summary>
+        <author>
+            <name>Anna Walentowitz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Widespread ecological novelty across the terrestrial biosphere]]></title>
+        <id>https://www.nature.com/articles/s41559-025-02662-2</id>
+        <link href="https://www.nature.com/articles/s41559-025-02662-2"/>
+        <updated>2025-03-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Even outside urban and agricultural areas, ecosystems are vastly transformed as a result of human activities. Here the authors map patterns in climate change, defaunation and floristic disruption to quantify the global exposure of ecosystems to novel conditions.]]></summary>
+        <author>
+            <name>Matthew R. Kerr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Movement‐integrated habitat selection reveals wolves balance ease of travel with human avoidance in a risk–reward trade‐off]]></title>
+        <id>10.1111/1365-2664.70031</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70031?af=R"/>
+        <updated>2025-03-13T12:20:38.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Applied Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Katrien A. Kingdon, 
+Christina M. Prokopenko, 
+Daniel L. J. Dupont, 
+Julie Turner, 
+Alec L. Robitaille, 
+Jonathan Wiens, 
+Vanessa B. Harriman, 
+Eric Vander Wal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bayesTPC: Bayesian inference for thermal performance curves in R]]></title>
+        <id>10.1111/2041-210X.70004</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70004?af=R"/>
+        <updated>2025-03-13T10:09:16.000Z</updated>
+        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
+        <author>
+            <name>Sean Sorek, 
+John W. Smith Jr., 
+Paul J. Huxley, 
+Leah R. Johnson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arctic tundra ecosystems under fire—Alternative ecosystem states in a changing climate?]]></title>
+        <id>10.1111/1365-2745.70022</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70022?af=R"/>
+        <updated>2025-03-13T10:00:47.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Ramona Julia Heim, 
+Adrian V. Rocha, 
+Vitalii Zemlianskii, 
+Kirsten Barrett, 
+Helga Bültmann, 
+Amy Breen, 
+Gerald Verner Frost, 
+Teresa Nettleton Hollingsworth, 
+Randi Jandt, 
+Maria Kozlova, 
+Anastasiya Kurka, 
+Mark Torre Jorgenson, 
+Simon M. Landhäusser, 
+Michael Mark Loranty, 
+Eric A. Miller, 
+Kenji Narita, 
+Evgeniya Pravdolyubova, 
+Norbert Hölzel, 
+Gabriela Schaepman‐Strub</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arctic tundra ecosystems under fire—Alternative ecosystem states in a changing climate?]]></title>
         <id>10.1111/1365-2745.70022</id>
@@ -56,6 +151,22 @@ Tjeerd J. Bouma,
 Francesco Cozzoli, 
 Johan van de Koppel, 
 Jim van Belzen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Survival and environmental filtering of angiosperm and conifer seedlings at range‐wide scales throughout temperate evergreen rainforests]]></title>
+        <id>10.1111/1365-2745.70024</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70024?af=R"/>
+        <updated>2025-03-13T09:07:27.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Ann‐Kathrin V. Schlesselmann, 
+Sarah J. Richardson, 
+Peter J. Bellingham, 
+Elaine Wright, 
+Insu Jo, 
+Amy Hawcroft, 
+Adrian Monks</name>
         </author>
     </entry>
     <entry>
@@ -298,6 +409,21 @@ Johan van den Hoogen,
 Loïc Pellissier, 
 Thomas W. Crowther, 
 Daniel S. Maynard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The effectiveness of indirect plant defence is dependent on plant competition]]></title>
+        <id>10.1111/1365-2745.70025</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70025?af=R"/>
+        <updated>2025-03-12T09:35:17.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Maximilien A. C. Cuny, 
+Jorad de Vries, 
+Mitchel E. Bourne, 
+Daan Mertens, 
+Rieta Gols, 
+Erik H. Poelman</name>
         </author>
     </entry>
     <entry>
@@ -2015,6 +2141,33 @@ Jianjun Wang</name>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Individual asynchrony promotes population‐level tree growth stability]]></title>
+        <id>10.1111/1365-2745.70004</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70004?af=R"/>
+        <updated>2025-03-05T05:53:22.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 3, Page 753-762, March 2025.]]></summary>
+        <author>
+            <name>Jingye Li, 
+Fangliang He</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wood trait–decay relationships vary with topography and rainfall seasonality in a subtropical forest in China]]></title>
+        <id>10.1111/1365-2745.70006</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70006?af=R"/>
+        <updated>2025-03-05T05:53:22.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 3, Page 763-777, March 2025.]]></summary>
+        <author>
+            <name>Donghao Wu, 
+Yong Chen, 
+M. D. Farnon Ellwood, 
+Zhenzhen Shao, 
+Yongjia Wang, 
+Johannes H. C. Cornelissen, 
+Chengjin Chu</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cover Picture and Issue Information]]></title>
         <id>10.1111/1365-2745.14328</id>
         <link href="https://onlinelibrary.wiley.com/doi/10.1111/1365-2745.14328?af=R"/>
@@ -3058,6 +3211,20 @@ Carl Boettiger</name>
 David Kleijn, 
 Inês I. Vicente, 
 Thijs P. M. Fijen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMMonitor 2: Remote monitoring of biodiversity in an adaptive framework in R]]></title>
+        <id>10.1111/2041-210X.14487</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14487?af=R"/>
+        <updated>2025-03-05T05:20:39.000Z</updated>
+        <summary type="html"><![CDATA[Methods in Ecology and Evolution, Volume 16, Issue 3, Page 477-485, March 2025.]]></summary>
+        <author>
+            <name>Laurence Clarfeld, 
+Caroline Tang, 
+Kaitlin Huber, 
+Cathleen Balantic, 
+Therese Donovan</name>
         </author>
     </entry>
     <entry>
@@ -9839,102 +10006,6 @@ Thomas Hourigan</name>
         <summary type="html"><![CDATA[An analysis of single-cell RNA sequencing data from adult and developing lungs across vertebrate species reveals genetic components in the common ancestor of jawed vertebrates and new lung-specific enhancers that contribute to the evolution of vertebrate lungs.]]></summary>
         <author>
             <name>Ye Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Timing Matters: Viticultural Land Use Determines Responses in Structure and Function of Fungal Stream Communities Across One Growing Season]]></title>
-        <id>10.1111/gcb.70085</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70085?af=R"/>
-        <updated>2025-02-13T11:58:35.000Z</updated>
-        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 2, February 2025.]]></summary>
-        <author>
-            <name>Verena C. Schreiner, 
-Moritz Link, 
-Gesa Amelung, 
-Katharina Ohler, 
-Romana Salis, 
-Florian Leese, 
-Ralf B. Schäfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disequilibrium in plant distributions: Challenges and approaches for species distribution models]]></title>
-        <id>10.1111/1365-2745.70009</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70009?af=R"/>
-        <updated>2025-02-13T11:46:44.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, EarlyView.]]></summary>
-        <author>
-            <name>Brody Sandel, 
-Cory Merow, 
-Pep Serra‐Diaz, 
-Jens‐Christian Svenning</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disequilibrium in plant distributions: Challenges and approaches for species distribution models]]></title>
-        <id>10.1111/1365-2745.70009</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/1365-2745.70009?af=R"/>
-        <updated>2025-02-13T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Ecology, EarlyView.]]></summary>
-        <author>
-            <name>Brody Sandel, 
-Cory Merow, 
-Josep M. Serra‐Diaz, 
-Jens‐Christian Svenning</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOLO‐Behaviour: A simple, flexible framework to automatically quantify animal behaviours from videos]]></title>
-        <id>10.1111/2041-210X.14502</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14502?af=R"/>
-        <updated>2025-02-13T05:01:25.000Z</updated>
-        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
-        <author>
-            <name>Alex Hoi Hang Chan, 
-Prasetia Putra, 
-Harald Schupp, 
-Johanna Köchling, 
-Jana Straßheim, 
-Britta Renner, 
-Julia Schroeder, 
-William D. Pearse, 
-Shinichi Nakagawa, 
-Terry Burke, 
-Michael Griesser, 
-Andrea Meltzer, 
-Saverio Lubrano, 
-Fumihiro Kano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Regional Occupancy Is Negatively Related to Richness Across Time and Space]]></title>
-        <id>10.1111/geb.70009</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/geb.70009?af=R"/>
-        <updated>2025-02-13T04:48:47.000Z</updated>
-        <summary type="html"><![CDATA[Global Ecology and Biogeography, Volume 34, Issue 2, February 2025.]]></summary>
-        <author>
-            <name>B. R. Shipley, 
-E. E. Saupe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When deforestation happens and should not]]></title>
-        <id>https://www.nature.com/articles/s41893-025-01516-w</id>
-        <link href="https://www.nature.com/articles/s41893-025-01516-w"/>
-        <updated>2025-02-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Advanced remote sensing shows illegal deforestation as it happens, allowing for prompt action when there is the political will to stop it, argues Stuart Pimm.]]></summary>
-        <author>
-            <name>Stuart Pimm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alarming patterns of mature forest loss in the Brazilian Atlantic Forest]]></title>
-        <id>https://www.nature.com/articles/s41893-025-01508-w</id>
-        <link href="https://www.nature.com/articles/s41893-025-01508-w"/>
-        <updated>2025-02-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The highly biodiverse Brazilian Atlantic Forest has a long history of deforestation and only a small portion of the original forest remains. This study examines the spatial and temporal patterns of this deforestation to understand the effectiveness of current laws at curbing forest loss.]]></summary>
-        <author>
-            <name>Silvana Amaral</name>
         </author>
     </entry>
 </feed>
