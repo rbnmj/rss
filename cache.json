@@ -2709,6 +2709,26 @@
       "siteUrl": "https://onlinelibrary.wiley.com/journal/13652486?af=R",
       "articles": [
         {
+          "id": "10.1111/gcb.70129",
+          "author": "Wenwen Guo, \nShengzhi Huang, \nLaibao Liu, \nGuoyong Leng, \nQiang Huang, \nDeliang Chen, \nJianfeng Li, \nPei Li, \nYiting Wang, \nXueying Zhu, \nJian Peng",
+          "description": "Global Change Biology, Volume 31, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70129?af=R",
+          "publishedOn": "2025-03-15T08:20:47.000Z",
+          "wordCount": null,
+          "title": "Global Critical Drought Thresholds of Terrestrial Carbon Sink–Source Transition",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/gcb.70132",
+          "author": "Hao Liu, \nXiangang Hu, \nAnning Wang, \nJiawei Li, \nPeng Deng, \nXu Dong",
+          "description": "Global Change Biology, Volume 31, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70132?af=R",
+          "publishedOn": "2025-03-15T08:20:12.000Z",
+          "wordCount": null,
+          "title": "Marine Heatwaves and Iceberg Melting in Polar Areas Intensify Phytoplankton Blooms",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/gcb.70127",
           "author": "Elise Pendall",
           "description": "Global Change Biology, Volume 31, Issue 3, March 2025.",
@@ -3167,26 +3187,6 @@
           "wordCount": null,
           "title": "Reinforcing the Significance of Crop Diversity for Biodiversity Conservation in the Face of Agricultural Expansion",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/gcb.70083",
-          "author": "Eszter Lellei‐Kovács, \nZoltán Botta‐Dukát, \nGábor Ónodi, \nAndrea Mojzes, \nGyörgy Kröel‐Dulay",
-          "description": "Global Change Biology, Volume 31, Issue 2, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70083?af=R",
-          "publishedOn": "2025-02-15T07:55:09.000Z",
-          "wordCount": null,
-          "title": "The Negative Legacy Effect of Extreme Drought on Soil Respiration Is Unaffected by Post‐Drought Precipitation Regime in a Temperate Grassland",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/gcb.70067",
-          "author": "L. A. Derry, \nO. A. Chadwick, \nS. Porder",
-          "description": "Global Change Biology, Volume 31, Issue 2, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70067?af=R",
-          "publishedOn": "2025-02-15T07:48:41.000Z",
-          "wordCount": null,
-          "title": "Estimation of Carbon Dioxide Removal via Enhanced Weathering",
-          "imageUrl": null
         }
       ]
     },
@@ -3302,6 +3302,16 @@
       "feedUrl": "https://besjournals.onlinelibrary.wiley.com/feed/13652664/most-recent",
       "siteUrl": "https://besjournals.onlinelibrary.wiley.com/journal/13652664?af=R",
       "articles": [
+        {
+          "id": "10.1111/1365-2664.70035",
+          "author": null,
+          "description": "Journal of Applied Ecology, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70035?af=R",
+          "publishedOn": "2025-03-15T08:09:19.000Z",
+          "wordCount": null,
+          "title": "Correction to “Mechanical management decreases arthropod biomass by changing vegetation structure in fallow fields of high conservation value”",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/1365-2664.70031",
           "author": "Katrien A. Kingdon, \nChristina M. Prokopenko, \nDaniel L. J. Dupont, \nJulie Turner, \nAlec L. Robitaille, \nJonathan Wiens, \nVanessa B. Harriman, \nEric Vander Wal",
@@ -3811,16 +3821,6 @@
           "wordCount": null,
           "title": "Coexistence between Przewalski's horse and Asiatic wild ass in the desert: The importance of people",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/1365-2664.70010",
-          "author": "Eduardo A. Silva‐Rodríguez, \nEsteban I. Cortés, \nViviana Vasquez‐Ibarra, \nNicolás Gálvez, \nJeremy Cusack, \nOmar Ohrens, \nDarío Moreira‐Arce, \nAriel A. Farías, \nJosé Infante‐Varela",
-          "description": "Journal of Applied Ecology, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70010?af=R",
-          "publishedOn": "2025-02-15T07:34:50.000Z",
-          "wordCount": null,
-          "title": "A protocol for error prevention and quality control in camera trap datasets",
-          "imageUrl": null
         }
       ]
     },
@@ -3957,26 +3957,6 @@
           "publishedOn": "2025-02-17T05:08:40.000Z",
           "wordCount": null,
           "title": "Global Marine Flyways Identified for Long‐Distance Migrating Seabirds From Tracking Data",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/geb.70010",
-          "author": "Bartłomiej Surmacz, \nPatricia María Rodríguez González, \nRoland Jansson, \nTomasz Suchan, \nRemigiusz Pielech",
-          "description": "Global Ecology and Biogeography, Volume 34, Issue 2, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/geb.70010?af=R",
-          "publishedOn": "2025-02-15T05:54:17.000Z",
-          "wordCount": null,
-          "title": "Global‐Scale Analysis Reveals Importance of Environment and Species Traits in Spatial Patterns of Riparian Plants' Genetic Diversity",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/geb.70006",
-          "author": "Joseph Braasch, \nJulio Betancourt, \nOlivier Dézerald, \nUdari Peiris, \nMaura Tapia‐Rozas, \nCristian Villagra, \nClaudio Latorre, \nAngélica L. González",
-          "description": "Global Ecology and Biogeography, Volume 34, Issue 2, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/geb.70006?af=R",
-          "publishedOn": "2025-02-15T05:48:40.000Z",
-          "wordCount": null,
-          "title": "Establishing Historical Baselines of Arthropod Assemblages Using Rodent Paleomiddens",
           "imageUrl": null
         }
       ]
@@ -4988,6 +4968,26 @@
           "publishedOn": "2025-03-06T10:04:30.000Z",
           "wordCount": null,
           "title": "Global mycorrhizal status drives leaf δ15N patterns",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/1365-2745.14491",
+          "author": "Dali Chen, \nCunzhi Jia, \nXiaohua Zhao, \nZhen Yuan, \nXinping Luo, \nJinglong Bao, \nHang Zhang, \nZhuo Zhang, \nXiaowen Hu",
+          "description": "Journal of Ecology, Volume 113, Issue 3, Page 689-700, March 2025.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14491?af=R",
+          "publishedOn": "2025-03-05T05:53:22.000Z",
+          "wordCount": null,
+          "title": "Local adaptation is highly dependent on common garden conditions where seeds were propagated: Evidence from a 7‐year study on a dominant alpine meadow species",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/1365-2745.70001",
+          "author": "Liangchao Jiang, \nJing Wang, \nGuojiao Yang, \nQiushi Ning, \nYinliu Wang, \nShuo Li, \nLingfei Yu, \nHuajie Liu, \nXiaotao Lü, \nYong Jiang, \nXingguo Han, \nCunzheng Wei, \nHaiyang Zhang",
+          "description": "Journal of Ecology, Volume 113, Issue 3, Page 742-752, March 2025.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70001?af=R",
+          "publishedOn": "2025-03-05T05:53:22.000Z",
+          "wordCount": null,
+          "title": "Labile carbon input alleviates nitrogen‐induced community instability in a meadow steppe",
           "imageUrl": null
         },
         {

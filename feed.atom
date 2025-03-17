@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-03-16T06:15:14.041Z</updated>
+    <updated>2025-03-17T06:17:57.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Global Critical Drought Thresholds of Terrestrial Carbon Sink–Source Transition]]></title>
+        <id>10.1111/gcb.70129</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70129?af=R"/>
+        <updated>2025-03-15T08:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Wenwen Guo, 
+Shengzhi Huang, 
+Laibao Liu, 
+Guoyong Leng, 
+Qiang Huang, 
+Deliang Chen, 
+Jianfeng Li, 
+Pei Li, 
+Yiting Wang, 
+Xueying Zhu, 
+Jian Peng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marine Heatwaves and Iceberg Melting in Polar Areas Intensify Phytoplankton Blooms]]></title>
+        <id>10.1111/gcb.70132</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70132?af=R"/>
+        <updated>2025-03-15T08:20:12.000Z</updated>
+        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Hao Liu, 
+Xiangang Hu, 
+Anning Wang, 
+Jiawei Li, 
+Peng Deng, 
+Xu Dong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Correction to “Mechanical management decreases arthropod biomass by changing vegetation structure in fallow fields of high conservation value”]]></title>
+        <id>10.1111/1365-2664.70035</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70035?af=R"/>
+        <updated>2025-03-15T08:09:19.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Applied Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Wiley: Journal of Applied Ecology: Table of Contents</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In situ estimation of active dispersal abilities in reef fish early life stages using tracking technologies]]></title>
         <id>10.1111/2041-210X.70011</id>
@@ -2259,6 +2304,46 @@ Xiaolong Yao,
 Ismael Aaron Kimirei, 
 Lu Zhang, 
 Jianjun Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local adaptation is highly dependent on common garden conditions where seeds were propagated: Evidence from a 7‐year study on a dominant alpine meadow species]]></title>
+        <id>10.1111/1365-2745.14491</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.14491?af=R"/>
+        <updated>2025-03-05T05:53:22.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 3, Page 689-700, March 2025.]]></summary>
+        <author>
+            <name>Dali Chen, 
+Cunzhi Jia, 
+Xiaohua Zhao, 
+Zhen Yuan, 
+Xinping Luo, 
+Jinglong Bao, 
+Hang Zhang, 
+Zhuo Zhang, 
+Xiaowen Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Labile carbon input alleviates nitrogen‐induced community instability in a meadow steppe]]></title>
+        <id>10.1111/1365-2745.70001</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70001?af=R"/>
+        <updated>2025-03-05T05:53:22.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Ecology, Volume 113, Issue 3, Page 742-752, March 2025.]]></summary>
+        <author>
+            <name>Liangchao Jiang, 
+Jing Wang, 
+Guojiao Yang, 
+Qiushi Ning, 
+Yinliu Wang, 
+Shuo Li, 
+Lingfei Yu, 
+Huajie Liu, 
+Xiaotao Lü, 
+Yong Jiang, 
+Xingguo Han, 
+Cunzheng Wei, 
+Haiyang Zhang</name>
         </author>
     </entry>
     <entry>
@@ -9625,81 +9710,6 @@ Tammy E. Davies</name>
         <summary type="html"><![CDATA[On the basis of data from >329,000 migratory birds, this study presents multispecies migratory connectivity as a parameter representing exposure to global change and shows that connections between breeding regions in Canada and non-breeding regions in South America are at greatest risk from global change.]]></summary>
         <author>
             <name>Sarah P. Saunders</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Negative Legacy Effect of Extreme Drought on Soil Respiration Is Unaffected by Post‐Drought Precipitation Regime in a Temperate Grassland]]></title>
-        <id>10.1111/gcb.70083</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70083?af=R"/>
-        <updated>2025-02-15T07:55:09.000Z</updated>
-        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 2, February 2025.]]></summary>
-        <author>
-            <name>Eszter Lellei‐Kovács, 
-Zoltán Botta‐Dukát, 
-Gábor Ónodi, 
-Andrea Mojzes, 
-György Kröel‐Dulay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Estimation of Carbon Dioxide Removal via Enhanced Weathering]]></title>
-        <id>10.1111/gcb.70067</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70067?af=R"/>
-        <updated>2025-02-15T07:48:41.000Z</updated>
-        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 2, February 2025.]]></summary>
-        <author>
-            <name>L. A. Derry, 
-O. A. Chadwick, 
-S. Porder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A protocol for error prevention and quality control in camera trap datasets]]></title>
-        <id>10.1111/1365-2664.70010</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70010?af=R"/>
-        <updated>2025-02-15T07:34:50.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, EarlyView.]]></summary>
-        <author>
-            <name>Eduardo A. Silva‐Rodríguez, 
-Esteban I. Cortés, 
-Viviana Vasquez‐Ibarra, 
-Nicolás Gálvez, 
-Jeremy Cusack, 
-Omar Ohrens, 
-Darío Moreira‐Arce, 
-Ariel A. Farías, 
-José Infante‐Varela</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global‐Scale Analysis Reveals Importance of Environment and Species Traits in Spatial Patterns of Riparian Plants' Genetic Diversity]]></title>
-        <id>10.1111/geb.70010</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/geb.70010?af=R"/>
-        <updated>2025-02-15T05:54:17.000Z</updated>
-        <summary type="html"><![CDATA[Global Ecology and Biogeography, Volume 34, Issue 2, February 2025.]]></summary>
-        <author>
-            <name>Bartłomiej Surmacz, 
-Patricia María Rodríguez González, 
-Roland Jansson, 
-Tomasz Suchan, 
-Remigiusz Pielech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Establishing Historical Baselines of Arthropod Assemblages Using Rodent Paleomiddens]]></title>
-        <id>10.1111/geb.70006</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/geb.70006?af=R"/>
-        <updated>2025-02-15T05:48:40.000Z</updated>
-        <summary type="html"><![CDATA[Global Ecology and Biogeography, Volume 34, Issue 2, February 2025.]]></summary>
-        <author>
-            <name>Joseph Braasch, 
-Julio Betancourt, 
-Olivier Dézerald, 
-Udari Peiris, 
-Maura Tapia‐Rozas, 
-Cristian Villagra, 
-Claudio Latorre, 
-Angélica L. González</name>
         </author>
     </entry>
 </feed>
