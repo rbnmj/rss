@@ -1264,6 +1264,46 @@
       "siteUrl": "https://esajournals.onlinelibrary.wiley.com/journal/21508925?af=R",
       "articles": [
         {
+          "id": "10.1002/ecs2.70220",
+          "author": "Angela J. L. Pestell, \nAnthony R. Rendall, \nRobin D. Sinclair, \nEuan G. Ritchie, \nDuc T. Nguyen, \nDean M. Corva, \nAnne C. Eichholtzer, \nAbbas Z. Kouzani, \nDon A. Driscoll",
+          "description": "Ecosphere, Volume 16, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70220?af=R",
+          "publishedOn": "2025-03-17T03:35:19.000Z",
+          "wordCount": null,
+          "title": "Smart camera traps and computer vision improve detections of small fauna",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecs2.70209",
+          "author": "Francisca Astorga, \nAbdelghafar Alkishe, \nPaanwaris Paansri, \nGabriel Mantilla, \nLuis E. Escobar",
+          "description": "Ecosphere, Volume 16, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70209?af=R",
+          "publishedOn": "2025-03-17T03:29:14.000Z",
+          "wordCount": null,
+          "title": "Hantavirus in rodents in the United States: Temporal and spatial trends and report of new hosts",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecs2.70207",
+          "author": "Lauren G. Hitt, \nMalte Willmes, \nGeorge Whitman, \nMackenzie C. Miner, \nCarson Jeffres, \nRachel C. Johnson, \nDennis E. Cocherell, \nNann A. Fangue, \nAndrew L. Rypel",
+          "description": "Ecosphere, Volume 16, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70207?af=R",
+          "publishedOn": "2025-03-17T03:15:12.000Z",
+          "wordCount": null,
+          "title": "Early evidence for establishment of a Chinook salmon population in a restored watershed",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecs2.70211",
+          "author": "Kerry M. Byrne, \nJustin C. Luong, \nKristen M. Kaczynski",
+          "description": "Ecosphere, Volume 16, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70211?af=R",
+          "publishedOn": "2025-03-17T02:49:22.000Z",
+          "wordCount": null,
+          "title": "Divergent drought responses in two cold desert shrublands",
+          "imageUrl": null
+        },
+        {
           "id": "10.1002/ecs2.70210",
           "author": "Amanda M. Kissel, \nMary Kay Watry, \nEvan Bredeweg, \nErin Muths",
           "description": "Ecosphere, Volume 16, Issue 3, March 2025.",
@@ -2334,6 +2374,26 @@
       "feedUrl": "https://www.nature.com/natsustain.rss",
       "siteUrl": "http://feeds.nature.com/natsustain/rss/current",
       "articles": [
+        {
+          "id": "https://www.nature.com/articles/s41893-025-01521-z",
+          "author": "U. Javourez",
+          "description": "Efforts to curb environmental effects of food systems have led to the development of ‘waste-to-nutrition’ pathways that process bioresidues into food and feed products such as microbial proteins and insects. This paper examines the environmental mitigation potential of such pathways across France.",
+          "link": "https://www.nature.com/articles/s41893-025-01521-z",
+          "publishedOn": "2025-03-17T00:00:00.000Z",
+          "wordCount": 6106,
+          "title": "Environmental mitigation potential of waste-to-nutrition pathways",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-025-01521-z/MediaObjects/41893_2025_1521_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41893-025-01529-5",
+          "author": "Guang Yang",
+          "description": "Wide-bandgap perovskites are critical to tandem solar cells for maximized solar energy capture and efficiency, but their stability remains a major issue. Here, by introducing reductive cations, the authors realize scalable fabrication of large-area solar cells in ambient conditions with good performance.",
+          "link": "https://www.nature.com/articles/s41893-025-01529-5",
+          "publishedOn": "2025-03-17T00:00:00.000Z",
+          "wordCount": 5769,
+          "title": "Reductive cation for scalable wide-bandgap perovskite solar cells in ambient air",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-025-01529-5/MediaObjects/41893_2025_1529_Fig1_HTML.png"
+        },
         {
           "id": "https://www.nature.com/articles/s41893-025-01526-8",
           "author": "Katherine A. Cresswell",
@@ -3967,6 +4027,16 @@
       "siteUrl": "https://onlinelibrary.wiley.com/journal/1526100x?af=R",
       "articles": [
         {
+          "id": "10.1111/rec.70022",
+          "author": "Elizabeth M. Becker, \nElizabeth M. Bach, \nBill P. Kleiman, \nNicholas A. Barber",
+          "description": "Restoration Ecology, EarlyView.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/rec.70022?af=R",
+          "publishedOn": "2025-03-17T02:28:37.000Z",
+          "wordCount": null,
+          "title": "Overcoming barriers to restoration: post‐restoration overseeding and topsoil disturbance improve native plant richness and diversity",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/rec.70033",
           "author": "Israel M. Pereira, \nDanielle P. Mucida, \nMarcio L. R. de Oliveira, \nGabriela M. Barroso, \nReynaldo C. Santana, \nMiranda Titon, \nJosé B. dos Santos",
           "description": "Restoration Ecology, EarlyView.",
@@ -4293,6 +4363,26 @@
       "feedUrl": "https://besjournals.onlinelibrary.wiley.com/feed/2041210x/most-recent",
       "siteUrl": "https://besjournals.onlinelibrary.wiley.com/journal/2041210x?af=R",
       "articles": [
+        {
+          "id": "10.1111/2041-210X.70021",
+          "author": "René Steinmann, \nTarje Nissen‐Meyer, \nFabrice Cotton, \nFrederik Tilmann, \nBeth Mortimer",
+          "description": "Methods in Ecology and Evolution, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70021?af=R",
+          "publishedOn": "2025-03-17T07:15:31.000Z",
+          "wordCount": null,
+          "title": "Decoding the footsteps of the African savanna: Classifying wildlife using seismic signals and machine learning",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/2041-210X.14508",
+          "author": "James Adam Campbell, \nSamuel Joseph Shry, \nPetter Lundberg, \nOlle Calles, \nFranz Hölker",
+          "description": "Methods in Ecology and Evolution, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14508?af=R",
+          "publishedOn": "2025-03-17T06:55:57.000Z",
+          "wordCount": null,
+          "title": "A population Monte Carlo model for underwater acoustic telemetry positioning in reflective environments",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/2041-210X.70011",
           "author": "Eliot Ruiz, \nPierre‐Yves Pascal, \nLucie Vanalderweireldt, \nSébastien Cordonnier, \nAmélia Chatagnon, \nPierre‐Louis Rault, \nSéverine Albouy‐Boyer, \nJuliette Silhol, \nRaphaël Thomas, \nCharlotte R. Dromard, \nLoïc Pellissier, \nThomas Le Berre, \nJacques Panfili, \nCamille Albouy, \nFabien Leprieur",

@@ -2,10 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-03-17T06:17:57.112Z</updated>
+    <updated>2025-03-18T06:17:22.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Decoding the footsteps of the African savanna: Classifying wildlife using seismic signals and machine learning]]></title>
+        <id>10.1111/2041-210X.70021</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70021?af=R"/>
+        <updated>2025-03-17T07:15:31.000Z</updated>
+        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
+        <author>
+            <name>René Steinmann, 
+Tarje Nissen‐Meyer, 
+Fabrice Cotton, 
+Frederik Tilmann, 
+Beth Mortimer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A population Monte Carlo model for underwater acoustic telemetry positioning in reflective environments]]></title>
+        <id>10.1111/2041-210X.14508</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14508?af=R"/>
+        <updated>2025-03-17T06:55:57.000Z</updated>
+        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
+        <author>
+            <name>James Adam Campbell, 
+Samuel Joseph Shry, 
+Petter Lundberg, 
+Olle Calles, 
+Franz Hölker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart camera traps and computer vision improve detections of small fauna]]></title>
+        <id>10.1002/ecs2.70220</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70220?af=R"/>
+        <updated>2025-03-17T03:35:19.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Angela J. L. Pestell, 
+Anthony R. Rendall, 
+Robin D. Sinclair, 
+Euan G. Ritchie, 
+Duc T. Nguyen, 
+Dean M. Corva, 
+Anne C. Eichholtzer, 
+Abbas Z. Kouzani, 
+Don A. Driscoll</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hantavirus in rodents in the United States: Temporal and spatial trends and report of new hosts]]></title>
+        <id>10.1002/ecs2.70209</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70209?af=R"/>
+        <updated>2025-03-17T03:29:14.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Francisca Astorga, 
+Abdelghafar Alkishe, 
+Paanwaris Paansri, 
+Gabriel Mantilla, 
+Luis E. Escobar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early evidence for establishment of a Chinook salmon population in a restored watershed]]></title>
+        <id>10.1002/ecs2.70207</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70207?af=R"/>
+        <updated>2025-03-17T03:15:12.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Lauren G. Hitt, 
+Malte Willmes, 
+George Whitman, 
+Mackenzie C. Miner, 
+Carson Jeffres, 
+Rachel C. Johnson, 
+Dennis E. Cocherell, 
+Nann A. Fangue, 
+Andrew L. Rypel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Divergent drought responses in two cold desert shrublands]]></title>
+        <id>10.1002/ecs2.70211</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70211?af=R"/>
+        <updated>2025-03-17T02:49:22.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Kerry M. Byrne, 
+Justin C. Luong, 
+Kristen M. Kaczynski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overcoming barriers to restoration: post‐restoration overseeding and topsoil disturbance improve native plant richness and diversity]]></title>
+        <id>10.1111/rec.70022</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/rec.70022?af=R"/>
+        <updated>2025-03-17T02:28:37.000Z</updated>
+        <summary type="html"><![CDATA[Restoration Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Elizabeth M. Becker, 
+Elizabeth M. Bach, 
+Bill P. Kleiman, 
+Nicholas A. Barber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Environmental mitigation potential of waste-to-nutrition pathways]]></title>
+        <id>https://www.nature.com/articles/s41893-025-01521-z</id>
+        <link href="https://www.nature.com/articles/s41893-025-01521-z"/>
+        <updated>2025-03-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Efforts to curb environmental effects of food systems have led to the development of ‘waste-to-nutrition’ pathways that process bioresidues into food and feed products such as microbial proteins and insects. This paper examines the environmental mitigation potential of such pathways across France.]]></summary>
+        <author>
+            <name>U. Javourez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reductive cation for scalable wide-bandgap perovskite solar cells in ambient air]]></title>
+        <id>https://www.nature.com/articles/s41893-025-01529-5</id>
+        <link href="https://www.nature.com/articles/s41893-025-01529-5"/>
+        <updated>2025-03-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Wide-bandgap perovskites are critical to tandem solar cells for maximized solar energy capture and efficiency, but their stability remains a major issue. Here, by introducing reductive cations, the authors realize scalable fabrication of large-area solar cells in ambient conditions with good performance.]]></summary>
+        <author>
+            <name>Guang Yang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Global Critical Drought Thresholds of Terrestrial Carbon Sink–Source Transition]]></title>
         <id>10.1111/gcb.70129</id>
