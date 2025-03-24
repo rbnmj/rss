@@ -1185,26 +1185,6 @@
           "wordCount": null,
           "title": "Plant diversity facets differentially affect energy dynamics in grasslands depending on trophic contexts",
           "imageUrl": null
-        },
-        {
-          "id": "10.1002/ecm.70002",
-          "author": "Petr Kozel, \nBenjamin Lejeune, \nGilles Lepoint, \nLukas Drag, \nLukas Cizek, \nPavel Sebek",
-          "description": "Ecological Monographs, Volume 95, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1002/ecm.70002?af=R",
-          "publishedOn": "2025-02-22T10:29:53.000Z",
-          "wordCount": null,
-          "title": "Stable isotopes of saproxylic beetles reveal low differences among trophic guilds and suggest a high dependence on fungi",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1002/ecm.70002",
-          "author": "Petr Kozel, \nBenjamin Lejeune, \nGilles Lepoint, \nLukas Drag, \nLukas Cizek, \nPavel Sebek",
-          "description": "Ecological Monographs, Volume 95, Issue 1, February 2025.",
-          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.70002?af=R",
-          "publishedOn": "2025-02-22T10:29:53.000Z",
-          "wordCount": null,
-          "title": "Stable isotopes of saproxylic beetles reveal low differences among trophic guilds and suggest a high dependence on fungi",
-          "imageUrl": null
         }
       ]
     },
@@ -1698,16 +1678,6 @@
           "publishedOn": "2025-02-24T05:09:24.000Z",
           "wordCount": null,
           "title": "Integrating Landscapes of Fear and Energy Reveals the Behavioural Strategies That Shape Predator–Prey Interactions",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/ele.70078",
-          "author": "T. Morán‐López, \nM. S. Campagna, \nM. Schleuning, \nD. García, \nJ. M. Morales",
-          "description": "Ecology Letters, Volume 28, Issue 2, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70078?af=R",
-          "publishedOn": "2025-02-22T05:11:11.000Z",
-          "wordCount": null,
-          "title": "Global Trends of Trait Matching in Avian Frugivory and Its Consequences for the Complementarity and Irreplaceability of Birds",
           "imageUrl": null
         }
       ]
@@ -3351,16 +3321,6 @@
           "wordCount": null,
           "title": "Livestock as a biological pest control: Experimental validation for oak savannas",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/1365-2664.70019",
-          "author": "Elizabeth L. Sheldon, \nLynn B. Martin, \nAaron W. Schrey",
-          "description": "Journal of Applied Ecology, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70019?af=R",
-          "publishedOn": "2025-02-22T08:34:43.000Z",
-          "wordCount": null,
-          "title": "Integrating plasticity into conservation practice: Harnessing genetic estimates of epigenetic potential to study phenotypic plasticity in wild populations",
-          "imageUrl": null
         }
       ]
     },
@@ -3484,6 +3444,16 @@
           "publishedOn": "2025-03-21T13:35:15.000Z",
           "wordCount": null,
           "title": "Promoting acorn survival using capsaicin seed coatings is strengthened by the removal of invasive shrubs",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/rec.14391",
+          "author": "Kaitalin White, \nFreya Cornwell‐Davison, \nChristopher Cockel, \nTed Chapman, \nEfisio Mattana, \nJuan Viruel",
+          "description": "Restoration Ecology, Volume 33, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/rec.14391?af=R",
+          "publishedOn": "2025-03-21T08:11:40.000Z",
+          "wordCount": null,
+          "title": "Application of a biological trait‐based framework for plant species conservation assessments in ecological restoration",
           "imageUrl": null
         },
         {
@@ -4780,6 +4750,16 @@
       "feedUrl": "https://besjournals.onlinelibrary.wiley.com/feed/13652745/most-recent",
       "siteUrl": "https://besjournals.onlinelibrary.wiley.com/journal/13652745?af=R",
       "articles": [
+        {
+          "id": "10.1111/1365-2745.70030",
+          "author": "Liping Shan, \nAyub M. O. Oduor, \nWenwen Tan, \nYanjie Liu",
+          "description": "Journal of Ecology, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70030?af=R",
+          "publishedOn": "2025-03-22T07:34:14.000Z",
+          "wordCount": null,
+          "title": "Drainage and nitrogen enrichment facilitate the encroachment of woody plants at various developmental stages in freshwater marshes",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/1365-2745.70031",
           "author": "Mingyan Hu, \nYang Chen, \nJordi Sardans, \nJosep Peñuelas, \nHan Y. H. Chen, \nChengjin Chu, \nZilong Ma",

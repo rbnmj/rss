@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-03-23T06:15:37.973Z</updated>
+    <updated>2025-03-24T06:18:09.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Drainage and nitrogen enrichment facilitate the encroachment of woody plants at various developmental stages in freshwater marshes]]></title>
+        <id>10.1111/1365-2745.70030</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70030?af=R"/>
+        <updated>2025-03-22T07:34:14.000Z</updated>
+        <summary type="html"><![CDATA[Journal of Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Liping Shan, 
+Ayub M. O. Oduor, 
+Wenwen Tan, 
+Yanjie Liu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tree Diversity Increases Forest Temperature Buffering via Enhancing Canopy Density and Structural Diversity]]></title>
         <id>10.1111/ele.70096</id>
@@ -149,6 +162,21 @@ Ernesto Villarino,
 Guillem Chust, 
 Valerio Sbragaglia, 
 Marta Coll</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Application of a biological trait‐based framework for plant species conservation assessments in ecological restoration]]></title>
+        <id>10.1111/rec.14391</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/rec.14391?af=R"/>
+        <updated>2025-03-21T08:11:40.000Z</updated>
+        <summary type="html"><![CDATA[Restoration Ecology, Volume 33, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Kaitalin White, 
+Freya Cornwell‐Davison, 
+Christopher Cockel, 
+Ted Chapman, 
+Efisio Mattana, 
+Juan Viruel</name>
         </author>
     </entry>
     <entry>
@@ -9568,62 +9596,6 @@ Cyril J. Michel,
 Simone Olivetti, 
 Vamsi Sridharan, 
 Andrew M. Hein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stable isotopes of saproxylic beetles reveal low differences among trophic guilds and suggest a high dependence on fungi]]></title>
-        <id>10.1002/ecm.70002</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1002/ecm.70002?af=R"/>
-        <updated>2025-02-22T10:29:53.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Petr Kozel, 
-Benjamin Lejeune, 
-Gilles Lepoint, 
-Lukas Drag, 
-Lukas Cizek, 
-Pavel Sebek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stable isotopes of saproxylic beetles reveal low differences among trophic guilds and suggest a high dependence on fungi]]></title>
-        <id>10.1002/ecm.70002</id>
-        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.70002?af=R"/>
-        <updated>2025-02-22T10:29:53.000Z</updated>
-        <summary type="html"><![CDATA[Ecological Monographs, Volume 95, Issue 1, February 2025.]]></summary>
-        <author>
-            <name>Petr Kozel, 
-Benjamin Lejeune, 
-Gilles Lepoint, 
-Lukas Drag, 
-Lukas Cizek, 
-Pavel Sebek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating plasticity into conservation practice: Harnessing genetic estimates of epigenetic potential to study phenotypic plasticity in wild populations]]></title>
-        <id>10.1111/1365-2664.70019</id>
-        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70019?af=R"/>
-        <updated>2025-02-22T08:34:43.000Z</updated>
-        <summary type="html"><![CDATA[Journal of Applied Ecology, EarlyView.]]></summary>
-        <author>
-            <name>Elizabeth L. Sheldon, 
-Lynn B. Martin, 
-Aaron W. Schrey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Trends of Trait Matching in Avian Frugivory and Its Consequences for the Complementarity and Irreplaceability of Birds]]></title>
-        <id>10.1111/ele.70078</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70078?af=R"/>
-        <updated>2025-02-22T05:11:11.000Z</updated>
-        <summary type="html"><![CDATA[Ecology Letters, Volume 28, Issue 2, February 2025.]]></summary>
-        <author>
-            <name>T. Morán‐López, 
-M. S. Campagna, 
-M. Schleuning, 
-D. García, 
-J. M. Morales</name>
         </author>
     </entry>
 </feed>
