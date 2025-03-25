@@ -1194,6 +1194,36 @@
       "siteUrl": "https://esajournals.onlinelibrary.wiley.com/journal/21508925?af=R",
       "articles": [
         {
+          "id": "10.1002/ecs2.70226",
+          "author": "Jahnelle Howe, \nShakila Merchant, \nWilliam J. Hernández, \nJeffery Pessutti, \nPeter Groffman",
+          "description": "Ecosphere, Volume 16, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70226?af=R",
+          "publishedOn": "2025-03-24T05:31:30.000Z",
+          "wordCount": null,
+          "title": "Assessing mangrove canopy height and health changes in Puerto Rico post‐Hurricane Maria using remote‐sensing techniques",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecs2.70221",
+          "author": "Line Tau Strand, \nVegard Martinsen, \nKjersti Selstad Utaaker, \nMarie Davey, \nGeir Rune Rauset, \nOlav Strand, \nJudd Aiken, \nAlsu Kuznetsova, \nBjørnar Ytrehus",
+          "description": "Ecosphere, Volume 16, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70221?af=R",
+          "publishedOn": "2025-03-24T05:18:38.000Z",
+          "wordCount": null,
+          "title": "Soil characteristics at artificial salt licks and their potential impacts on occurrence of chronic wasting disease",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecs2.70222",
+          "author": "Rodolfo Jaffé, \nCarrie Paul‐Gorsline, \nMolly McDermott, \nShannon Fluharty, \nIsmail Al‐Shaikh, \nSabrina L. Skeat, \nUmarfarooq A. Abdulwahab, \nLis Nelis, \nBenjamin D. Jaffe",
+          "description": "Ecosphere, Volume 16, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70222?af=R",
+          "publishedOn": "2025-03-24T05:14:51.000Z",
+          "wordCount": null,
+          "title": "Using habitat suitability modeling to integrate ecosystem‐based approaches for mangrove restoration site selection",
+          "imageUrl": null
+        },
+        {
           "id": "10.1002/ecs2.70194",
           "author": "K. Dana Chadwick, \nFrank Davis, \nKimberley R. Miner, \nRyan Pavlick, \nMark Reynolds, \nPhilip A. Townsend, \nPhilip G. Brodrick, \nChristiana Ade, \nJean Allen, \nLeander Anderegg, \nYoseline Angel, \nIndra Boving, \nKristin B. Byrd, \nPetya Campbell, \nLuke Carberry, \nKatherine C. Cavanaugh, \nKyle C. Cavanaugh, \nKelly Easterday, \nRegina Eckert, \nMichelle Gierach, \nKaitlin Gold, \nErin Hestir, \nFred Huemmrich, \nMaggie Klope, \nRaymond F Kokaly, \nPiper Lovegreen, \nKelly Luis, \nConor McMahon, \nNicholas Nidzieko, \nFrancisco Ochoa, \nAnna Jiselle Ongjoco, \nElsa Ordway, \nMadeleine Pascolini‐Campbell, \nNatalie Queally, \nDar A. Roberts, \nClare M. Saiki, \nFabian D. Schneider, \nAlexey N. Shiklomanov, \nGermán D. Silva, \nJordan Snyder, \nMichele Thornton, \nAnna T. Trugman, \nNidhi Vinod, \nTing Zheng, \nDulcinea M. Avouris, \nBrianna Baker, \nLatha Baskaran, \nTom Bell, \nMegan Berg, \nMichael Bernas, \nNiklas Bohn, \nRenato K. Braghiere, \nZach Breuer, \nAndrew J. Brooks, \nNolan Burkard, \nJulia Burmistrova, \nKerry Cawse‐Nicholson, \nJohn Chapman, \nJohana Chazaro‐Haraksin, \nJoel Cryer, \nK. C. Cushman, \nKyla Dahlin, \nPhuong D. Dao, \nAthena DiBartolo, \nMichael Eastwood, \nClayton D. Elder, \nAngela Giordani, \nKathleen Grant, \nRobert O. Green, \nAlexa Hanson, \nBrendan Heberlein, \nMark Helmlinger, \nSimon Hook, \nDaniel Jensen, \nEmma Johnson, \nMarie Johnson, \nMichael Kiper, \nChristopher Kibler, \nJennifer Y. King, \nKyle R. Kovach, \nAaron Kreisberg, \nDaniel Lacey, \nEvan Lang, \nChristine Lee, \nAmanda M. Lopez, \nBrittany Lopez Barreto, \nAndrew Maguire, \nElliott Marsh, \nCharles Miller, \nDieu My T. Nguyen, \nCassandra Nickles, \nJonathan P. Ocón, \nElijah P. Papen, \nMaria Park, \nBenjamin Poulter, \nAnn Raiho, \nPorter Reim, \nTimothy H. Robinson, \nFernando E. Romero Galvan, \nEthan Shafron, \nBrenen R. Skalitzky, \nSydney Stroschein, \nNiky C. Taylor, \nDavid R. Thompson, \nKate Thompson, \nCecily Tye, \nJoelie Van Beek, \nCecilia Vanden Heuvel, \nJonathan Vellanoweth, \nEvert Vermeer, \nClaire Villanueva‐Weeks, \nKristen Zumdahl, \nDavid Schimel",
           "description": "Ecosphere, Volume 16, Issue 3, March 2025.",
@@ -1965,6 +1995,26 @@
       "siteUrl": "http://feeds.nature.com/natsustain/rss/current",
       "articles": [
         {
+          "id": "https://www.nature.com/articles/s41893-025-01542-8",
+          "author": null,
+          "description": "Fast-moving trends in fashion and a global marketplace for low-quality synthetic garments have driven an ever-mounting crisis of textile waste, with large-scale environmental and societal implications. Innovative solutions and a fundamental change in our relationship with clothing is urgently needed to forge a sustainable path forward for fashion.",
+          "link": "https://www.nature.com/articles/s41893-025-01542-8",
+          "publishedOn": "2025-03-24T00:00:00.000Z",
+          "wordCount": 2424,
+          "title": "A waste-free future for fashion",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-025-01542-8/MediaObjects/41893_2025_1542_Figa_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41893-025-01528-6",
+          "author": "Mark A. A. Jwaideh",
+          "description": "Environmental impacts of agriculture can be difficult to assess due to limitations in current environmental sustainability indicators of crop production. This study develops a robust crop-specific environmental sustainability index that helps assess corporate sustainability strategies and policy.",
+          "link": "https://www.nature.com/articles/s41893-025-01528-6",
+          "publishedOn": "2025-03-24T00:00:00.000Z",
+          "wordCount": 11962,
+          "title": "The multi-dimensional environmental impact of global crop commodities",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-025-01528-6/MediaObjects/41893_2025_1528_Fig1_HTML.png"
+        },
+        {
           "id": "https://www.nature.com/articles/s41893-025-01521-z",
           "author": "U. Javourez",
           "description": "Efforts to curb environmental effects of food systems have led to the development of ‘waste-to-nutrition’ pathways that process bioresidues into food and feed products such as microbial proteins and insects. This paper examines the environmental mitigation potential of such pathways across France.",
@@ -2091,6 +2141,26 @@
       "feedUrl": "https://www.nature.com/natecolevol.rss",
       "siteUrl": "http://feeds.nature.com/natecolevol/rss/current",
       "articles": [
+        {
+          "id": "https://www.nature.com/articles/s41559-024-02630-2",
+          "author": "Jennifer L. Baltzer",
+          "description": "Field measurements of fires burning over winter at 20 sites in the Northwest Territories of Canada and in Alaska find that such fires occur in both peatlands and upland forests, and provide information on the ecological conditions and effects of such fires compared to single-season burns.",
+          "link": "https://www.nature.com/articles/s41559-024-02630-2",
+          "publishedOn": "2025-03-24T00:00:00.000Z",
+          "wordCount": 6051,
+          "title": "Overwintering fires can occur in both peatlands and upland forests with varying ecological impacts",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-024-02630-2/MediaObjects/41559_2024_2630_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41559-025-02664-0",
+          "author": "Stefan Pinkert",
+          "description": "Butterflies are a large, functionally important and charismatic invertebrate group. Here, the authors characterize global macroecological patterns of butterflies and project shifts in their bioclimatic niches under future climate scenarios.",
+          "link": "https://www.nature.com/articles/s41559-025-02664-0",
+          "publishedOn": "2025-03-24T00:00:00.000Z",
+          "wordCount": 13072,
+          "title": "Global hotspots of butterfly diversity are threatened in a warming world",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-025-02664-0/MediaObjects/41559_2025_2664_Fig1_HTML.png"
+        },
         {
           "id": "https://www.nature.com/articles/s41559-025-02677-9",
           "author": "Laura E. Dee",
@@ -3437,6 +3507,16 @@
       "siteUrl": "https://onlinelibrary.wiley.com/journal/1526100x?af=R",
       "articles": [
         {
+          "id": "10.1111/rec.70037",
+          "author": "Márton Vörös, \nÁkos Bede‐Fazekas, \nLorenzo Crecco, \nBalázs Deák, \nAdrienn Gyalus, \nAndrás Schmotzer, \nOrsolya Valkó, \nMelinda Halassy, \nImelda Somodi",
+          "description": "Restoration Ecology, EarlyView.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/rec.70037?af=R",
+          "publishedOn": "2025-03-24T01:19:40.000Z",
+          "wordCount": null,
+          "title": "Potential vegetation estimations help to assess feasibility and expected effort needed in grassland restoration by shrub removal",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/rec.70042",
           "author": "Mark E. Fuka, \nBrian Connolly, \nJohn L. Orrock",
           "description": "Restoration Ecology, EarlyView.",
@@ -4667,6 +4747,26 @@
       "feedUrl": "https://www.tandfonline.com/feed/rss/bher20",
       "siteUrl": "https://www.tandfonline.com/loi/bher20?af=R",
       "articles": [
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2479734?af=R",
+          "author": "Takehiko I. Hayashi Manuela Gertrud Hartwig Seita Emori Wataru Sano a Social Systems Division, National Institute for Environmental Studies, Tsukuba, Japanb Institute for Future Initiatives, The University of Tokyo, Bunkyō, Japanc Graduate School of Human and Environmental Studies, Kyoto University, Kyoto, Japan",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2479734?af=R",
+          "publishedOn": "2025-03-24T12:01:51.000Z",
+          "wordCount": null,
+          "title": "Compiling scientific risk assessment and normative analyses in a single chart: development of a framework including exposure-pathway-targets and value arguments",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2480180?af=R",
+          "author": "Sulagna De Arup Das Tarak Nath Mazumder Department of Architecture and Regional Planning, Indian Institute of Technology Kharagpur, Kharagpur, India",
+          "description": ".",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2480180?af=R",
+          "publishedOn": "2025-03-24T12:00:12.000Z",
+          "wordCount": null,
+          "title": "Beyond ‘Quantity-Quality’ debate: a multi-objective risk assessment framework to evaluate urban green spaces",
+          "imageUrl": null
+        },
         {
           "id": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2477503?af=R",
           "author": "Liwei Wang Yong Xiao Zhen Zhao Guangxiong Qin Wenxu Hu Huijuan Chen Shaokang Yang Yuqing Zhang Jie Wang Hongjie Yang Dongyang Zhao a Faculty of Geosciences and Engineering, Southwest Jiaotong University, Chengdu, Chinab Key Lab of Geo-environment of Qinghai Province, Xi’ning, Chinac Bureau of Qinghai Environmental Geological Prospecting, Xi’ning, Chinad Qinghai 906 Engineering Survey and Design Institute Co., Ltd., Xi’ning, Chinae Fujian Provincial Key Laboratory of Water Cycling and Eco-Geological Processes, Xiamen, Chinaf Sichuan Province Engineering Technology Research Center of Ecological Mitigation of Geohazards in Tibet Plateau Transportation Corridors, Chengdu, China",

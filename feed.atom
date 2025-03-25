@@ -2,10 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-03-24T06:18:09.504Z</updated>
+    <updated>2025-03-25T06:17:55.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Compiling scientific risk assessment and normative analyses in a single chart: development of a framework including exposure-pathway-targets and value arguments]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2479734?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2479734?af=R"/>
+        <updated>2025-03-24T12:01:51.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Takehiko I. Hayashi Manuela Gertrud Hartwig Seita Emori Wataru Sano a Social Systems Division, National Institute for Environmental Studies, Tsukuba, Japanb Institute for Future Initiatives, The University of Tokyo, Bunkyō, Japanc Graduate School of Human and Environmental Studies, Kyoto University, Kyoto, Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond ‘Quantity-Quality’ debate: a multi-objective risk assessment framework to evaluate urban green spaces]]></title>
+        <id>https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2480180?af=R</id>
+        <link href="https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2480180?af=R"/>
+        <updated>2025-03-24T12:00:12.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Sulagna De Arup Das Tarak Nath Mazumder Department of Architecture and Regional Planning, Indian Institute of Technology Kharagpur, Kharagpur, India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Assessing mangrove canopy height and health changes in Puerto Rico post‐Hurricane Maria using remote‐sensing techniques]]></title>
+        <id>10.1002/ecs2.70226</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70226?af=R"/>
+        <updated>2025-03-24T05:31:30.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Jahnelle Howe, 
+Shakila Merchant, 
+William J. Hernández, 
+Jeffery Pessutti, 
+Peter Groffman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soil characteristics at artificial salt licks and their potential impacts on occurrence of chronic wasting disease]]></title>
+        <id>10.1002/ecs2.70221</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70221?af=R"/>
+        <updated>2025-03-24T05:18:38.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Line Tau Strand, 
+Vegard Martinsen, 
+Kjersti Selstad Utaaker, 
+Marie Davey, 
+Geir Rune Rauset, 
+Olav Strand, 
+Judd Aiken, 
+Alsu Kuznetsova, 
+Bjørnar Ytrehus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using habitat suitability modeling to integrate ecosystem‐based approaches for mangrove restoration site selection]]></title>
+        <id>10.1002/ecs2.70222</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70222?af=R"/>
+        <updated>2025-03-24T05:14:51.000Z</updated>
+        <summary type="html"><![CDATA[Ecosphere, Volume 16, Issue 3, March 2025.]]></summary>
+        <author>
+            <name>Rodolfo Jaffé, 
+Carrie Paul‐Gorsline, 
+Molly McDermott, 
+Shannon Fluharty, 
+Ismail Al‐Shaikh, 
+Sabrina L. Skeat, 
+Umarfarooq A. Abdulwahab, 
+Lis Nelis, 
+Benjamin D. Jaffe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Potential vegetation estimations help to assess feasibility and expected effort needed in grassland restoration by shrub removal]]></title>
+        <id>10.1111/rec.70037</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/rec.70037?af=R"/>
+        <updated>2025-03-24T01:19:40.000Z</updated>
+        <summary type="html"><![CDATA[Restoration Ecology, EarlyView.]]></summary>
+        <author>
+            <name>Márton Vörös, 
+Ákos Bede‐Fazekas, 
+Lorenzo Crecco, 
+Balázs Deák, 
+Adrienn Gyalus, 
+András Schmotzer, 
+Orsolya Valkó, 
+Melinda Halassy, 
+Imelda Somodi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A waste-free future for fashion]]></title>
+        <id>https://www.nature.com/articles/s41893-025-01542-8</id>
+        <link href="https://www.nature.com/articles/s41893-025-01542-8"/>
+        <updated>2025-03-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fast-moving trends in fashion and a global marketplace for low-quality synthetic garments have driven an ever-mounting crisis of textile waste, with large-scale environmental and societal implications. Innovative solutions and a fundamental change in our relationship with clothing is urgently needed to forge a sustainable path forward for fashion.]]></summary>
+        <author>
+            <name>Nature Sustainability</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The multi-dimensional environmental impact of global crop commodities]]></title>
+        <id>https://www.nature.com/articles/s41893-025-01528-6</id>
+        <link href="https://www.nature.com/articles/s41893-025-01528-6"/>
+        <updated>2025-03-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Environmental impacts of agriculture can be difficult to assess due to limitations in current environmental sustainability indicators of crop production. This study develops a robust crop-specific environmental sustainability index that helps assess corporate sustainability strategies and policy.]]></summary>
+        <author>
+            <name>Mark A. A. Jwaideh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overwintering fires can occur in both peatlands and upland forests with varying ecological impacts]]></title>
+        <id>https://www.nature.com/articles/s41559-024-02630-2</id>
+        <link href="https://www.nature.com/articles/s41559-024-02630-2"/>
+        <updated>2025-03-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Field measurements of fires burning over winter at 20 sites in the Northwest Territories of Canada and in Alaska find that such fires occur in both peatlands and upland forests, and provide information on the ecological conditions and effects of such fires compared to single-season burns.]]></summary>
+        <author>
+            <name>Jennifer L. Baltzer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global hotspots of butterfly diversity are threatened in a warming world]]></title>
+        <id>https://www.nature.com/articles/s41559-025-02664-0</id>
+        <link href="https://www.nature.com/articles/s41559-025-02664-0"/>
+        <updated>2025-03-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Butterflies are a large, functionally important and charismatic invertebrate group. Here, the authors characterize global macroecological patterns of butterflies and project shifts in their bioclimatic niches under future climate scenarios.]]></summary>
+        <author>
+            <name>Stefan Pinkert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Drainage and nitrogen enrichment facilitate the encroachment of woody plants at various developmental stages in freshwater marshes]]></title>
         <id>10.1111/1365-2745.70030</id>
