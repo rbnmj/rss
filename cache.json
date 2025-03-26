@@ -6,6 +6,36 @@
       "siteUrl": "https://esajournals.onlinelibrary.wiley.com/journal/19399170?af=R",
       "articles": [
         {
+          "id": "10.1002/ecy.70057",
+          "author": "Yang Liu, \nYuanhe Yang, \nYe Deng, \nYunfeng Peng",
+          "description": "Ecology, Volume 106, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70057?af=R",
+          "publishedOn": "2025-03-25T06:23:11.000Z",
+          "wordCount": null,
+          "title": "Long‐term ammonium nitrate addition strengthens soil microbial cross‐trophic interactions in a Tibetan alpine steppe",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecy.70066",
+          "author": "Fabienne Maihoff, \nLukas Bofinger, \nKristof Brenzinger, \nAlexander Keller, \nAlice Classen",
+          "description": "Ecology, Volume 106, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70066?af=R",
+          "publishedOn": "2025-03-25T06:06:28.000Z",
+          "wordCount": null,
+          "title": "Exploring climate‐related gut microbiome variation in bumble bees: An experimental and observational perspective",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecy.70065",
+          "author": "Simon J. Brandl, \nHelen F. Yan, \nJordan M. Casey, \nNina M. D. Schiettekatte, \nJulianna J. Renzi, \nAlexandre Mercière, \nFabien Morat, \nIsabelle M. Côté, \nValeriano Parravicini",
+          "description": "Ecology, Volume 106, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70065?af=R",
+          "publishedOn": "2025-03-24T10:09:39.000Z",
+          "wordCount": null,
+          "title": "A seascape dichotomy in the role of small consumers for coral reef energy fluxes",
+          "imageUrl": null
+        },
+        {
           "id": "10.1002/ecy.70064",
           "author": "Rudolf P. Rohr, \nLouis‐Félix Bersier, \nRoger Arditi",
           "description": "Ecology, Volume 106, Issue 3, March 2025.",
@@ -574,106 +604,6 @@
           "wordCount": null,
           "title": "Caatinga diaspores: Descriptive overview of dispersal units of seasonally dry tropical forests and woodlands",
           "imageUrl": null
-        },
-        {
-          "id": "10.1002/ecy.70034",
-          "author": "Lucas Ferrante",
-          "description": "Ecology, Volume 106, Issue 2, February 2025.",
-          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70034?af=R",
-          "publishedOn": "2025-02-24T12:44:34.000Z",
-          "wordCount": null,
-          "title": "Breaking stereotypes in sexual selection: The female frogs' subtle seduction",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1002/ecy.70007",
-          "author": "Alejandro Pérez‐Matus, \nFiorenza Micheli, \nBrenda Konar, \nNick Shears, \nNatalie H. N. Low, \nDaniel K. Okamoto, \nThomas Wernberg, \nKira A. Krumhansl, \nScott D. Ling, \nMichael Kingsford, \nTeresa Navarrete‐Fernandez, \nCatalina S. Ruz, \nJarrett E. K. Byrnes",
-          "description": "Ecology, Volume 106, Issue 2, February 2025.",
-          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70007?af=R",
-          "publishedOn": "2025-02-24T10:53:29.000Z",
-          "wordCount": null,
-          "title": "Kelp forests as nursery and foundational habitat for reef fishes",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1002/ecy.4533",
-          "author": "Hai‐Tao Miao, \nRoberto Salguero‐Gómez, \nKatriona Shea, \nJoseph A. Keller, \nZhenhua Zhang, \nJin‐Sheng He, \nShou‐Li Li",
-          "description": "Ecology, Volume 106, Issue 2, February 2025.",
-          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4533?af=R",
-          "publishedOn": "2025-02-24T10:15:21.000Z",
-          "wordCount": null,
-          "title": "Differences in adult survival drive divergent demographic responses to warming on the Tibetan Plateau",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1002/ecy.70035",
-          "author": "Khum B. Thapa‐Magar, \nEric R. Sokol, \nMichael N. Gooseff, \nMark R. Salvatore, \nJohn E. Barrett, \nJoseph S. Levy, \nPaul Knightly, \nSarah N. Power",
-          "description": "Ecology, Volume 106, Issue 2, February 2025.",
-          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70035?af=R",
-          "publishedOn": "2025-02-24T09:31:01.000Z",
-          "wordCount": null,
-          "title": "Remote sensing for species distribution models: An illustration from a sentinel taxon of the world's driest ecosystem",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1002/ecy.70046",
-          "author": "Keita Fukasawa, \nDaishi Higashide",
-          "description": "Ecology, Volume 106, Issue 2, February 2025.",
-          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70046?af=R",
-          "publishedOn": "2025-02-24T09:11:10.000Z",
-          "wordCount": null,
-          "title": "Mechanistic home range capture–recapture models for the estimation of population density and landscape connectivity",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1002/ecy.70037",
-          "author": "Daichi Iijima, \nMasashi Murakami",
-          "description": "Ecology, Volume 106, Issue 2, February 2025.",
-          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70037?af=R",
-          "publishedOn": "2025-02-24T08:54:09.000Z",
-          "wordCount": null,
-          "title": "Alpine birds in a sky island: Resource subsidies from foothill areas",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1002/ecy.70020",
-          "author": "Vinicius Marcilio‐Silva, \nSally Donovan, \nSarah E. Hobbie, \nJ. Antonio Guzmán Q., \nJoseph F. Knight, \nJeannine Cavender‐Bares",
-          "description": "Ecology, Volume 106, Issue 2, February 2025.",
-          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70020?af=R",
-          "publishedOn": "2025-02-24T07:49:32.000Z",
-          "wordCount": null,
-          "title": "Integrating remote sensing and field inventories to understand determinants of urban forest diversity and structure",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1002/ecy.70004",
-          "author": "Linlin Zhong, \nThomas Larsen, \nJing‐Zhong Lu, \nStefan Scheu, \nMelanie M. Pollierer",
-          "description": "Ecology, Volume 106, Issue 2, February 2025.",
-          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70004?af=R",
-          "publishedOn": "2025-02-24T07:35:18.000Z",
-          "wordCount": null,
-          "title": "High litter quality enhances plant energy channeling by soil macro‐detritivores and lowers their trophic position",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1002/ecy.70039",
-          "author": "Naven Narayanan, \nPeter Lutz, \nAllison K. Shaw",
-          "description": "Ecology, Volume 106, Issue 2, February 2025.",
-          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70039?af=R",
-          "publishedOn": "2025-02-24T07:05:30.000Z",
-          "wordCount": null,
-          "title": "Coexistence of coinvading species with mutualism and competition",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1002/ecy.70001",
-          "author": "Mallarie E. Yeager, \nA. Randall Hughes",
-          "description": "Ecology, Volume 106, Issue 2, February 2025.",
-          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70001?af=R",
-          "publishedOn": "2025-02-24T06:45:41.000Z",
-          "wordCount": null,
-          "title": "Functional trait analysis reveals the hidden stability of multitrophic communities",
-          "imageUrl": null
         }
       ]
     },
@@ -682,6 +612,16 @@
       "feedUrl": "https://esajournals.onlinelibrary.wiley.com/feed/19395582/most-recent",
       "siteUrl": "https://esajournals.onlinelibrary.wiley.com/journal/19395582?af=R",
       "articles": [
+        {
+          "id": "10.1002/eap.70015",
+          "author": "Sierra L. Robatcek, \nLisa A. Shipley, \nCraig White, \nRyan A. Long",
+          "description": "Ecological Applications, Volume 35, Issue 2, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70015?af=R",
+          "publishedOn": "2025-03-25T06:59:43.000Z",
+          "wordCount": null,
+          "title": "Using dynamic foodscape models to assess bottom‐up constraints on population performance of herbivores",
+          "imageUrl": null
+        },
         {
           "id": "10.1002/eap.70014",
           "author": "Arpitha Jayanth, \nZankhna Patel, \nMohammed Mubeen, \nKarthikayan M., \nRohit Naniwadekar",
@@ -790,16 +730,6 @@
           "publishedOn": "2025-03-03T11:38:48.000Z",
           "wordCount": null,
           "title": "Issue Information",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1002/eap.70001",
-          "author": "Lucas E. Nave, \nChristopher M. Gough, \nCameron Clay, \nFernanda Santos, \nJeff W. Atkins, \nSonja E. Benjamins‐Carey, \nGil Bohrer, \nBuck T. Castillo, \nRobert T. Fahey, \nBrady S. Hardiman, \nKathryn L. Hofmeister, \nValeriy Y. Ivanov, \nJennifer Kalejs, \nAshley M. Matheny, \nAngela C. Menna, \nKnute J. Nadelhoffer, \nBrooke E. Propson, \nAdam T. Schubel, \nJason M. Tallant",
-          "description": "Ecological Applications, Volume 35, Issue 1, January 2025.",
-          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70001?af=R",
-          "publishedOn": "2025-02-24T10:22:00.000Z",
-          "wordCount": null,
-          "title": "Carbon cycling across ecosystem succession in a north temperate forest: Controls and management implications",
           "imageUrl": null
         }
       ]
@@ -1164,26 +1094,6 @@
           "publishedOn": "2025-02-26T11:44:13.000Z",
           "wordCount": null,
           "title": "Pan‐amphibia distribution of the fungal parasite Batrachochytrium dendrobatidis varies with species and temperature",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1002/ecm.70004",
-          "author": "Oksana Y. Buzhdygan, \nBritta Tietjen, \nJana S. Petermann, \nNico Eisenhauer, \nJes Hines, \nBernhard Schmid, \nSelina Baldauf, \nAnne Ebeling, \nChristoph Scherber, \nNina Buchmann, \nStuart R. Borrett, \nHans de Kroon, \nWolfgang Weisser, \nSebastian T. Meyer",
-          "description": "Ecological Monographs, Volume 95, Issue 1, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1002/ecm.70004?af=R",
-          "publishedOn": "2025-02-24T09:41:50.000Z",
-          "wordCount": null,
-          "title": "Plant diversity facets differentially affect energy dynamics in grasslands depending on trophic contexts",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1002/ecm.70004",
-          "author": "Oksana Y. Buzhdygan, \nBritta Tietjen, \nJana S. Petermann, \nNico Eisenhauer, \nJes Hines, \nBernhard Schmid, \nSelina Baldauf, \nAnne Ebeling, \nChristoph Scherber, \nNina Buchmann, \nStuart R. Borrett, \nHans de Kroon, \nWolfgang Weisser, \nSebastian T. Meyer",
-          "description": "Ecological Monographs, Volume 95, Issue 1, February 2025.",
-          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.70004?af=R",
-          "publishedOn": "2025-02-24T09:41:50.000Z",
-          "wordCount": null,
-          "title": "Plant diversity facets differentially affect energy dynamics in grasslands depending on trophic contexts",
           "imageUrl": null
         }
       ]
@@ -1689,26 +1599,6 @@
           "wordCount": null,
           "title": "Environmental Variability Shapes Life History of the World's Birds",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/ele.70081",
-          "author": "Henry K. Baker, \nMariska Obedzinski, \nTheodore E. Grantham, \nStephanie M. Carlson",
-          "description": "Ecology Letters, Volume 28, Issue 2, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70081?af=R",
-          "publishedOn": "2025-02-24T05:43:32.000Z",
-          "wordCount": null,
-          "title": "Variation in Salmon Migration Phenology Bolsters Population Stability but Is Threatened by Drought",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/ele.70068",
-          "author": "Michael A. Gil, \nCyril J. Michel, \nSimone Olivetti, \nVamsi Sridharan, \nAndrew M. Hein",
-          "description": "Ecology Letters, Volume 28, Issue 2, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70068?af=R",
-          "publishedOn": "2025-02-24T05:09:24.000Z",
-          "wordCount": null,
-          "title": "Integrating Landscapes of Fear and Energy Reveals the Behavioural Strategies That Shape Predator–Prey Interactions",
-          "imageUrl": null
         }
       ]
     },
@@ -1717,6 +1607,26 @@
       "feedUrl": "https://nsojournals.onlinelibrary.wiley.com/feed/16000706/most-recent",
       "siteUrl": "https://nsojournals.onlinelibrary.wiley.com/journal/16000706?af=R",
       "articles": [
+        {
+          "id": "10.1002/oik.11095",
+          "author": "Ryan A. Chisholm, \nNicholas Z. W. Fong, \nDaniel A. Friess, \nAndre S. Rovai",
+          "description": "Oikos, EarlyView.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/oik.11095?af=R",
+          "publishedOn": "2025-03-24T11:58:51.000Z",
+          "wordCount": null,
+          "title": "Inferring community assembly processes from mangrove species–area relationships",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/oik.11196",
+          "author": "Juliane Vigneault, \n Sandra Ann Binning, \nÉric Harvey",
+          "description": "Oikos, EarlyView.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/oik.11196?af=R",
+          "publishedOn": "2025-03-24T11:49:47.000Z",
+          "wordCount": null,
+          "title": "Local environment and sampling bias drive parasite prevalence estimates in freshwater fish communities",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/oik.10746",
           "author": "Melanie R. Wells, \nAnnie Philips, \nMary‐Anne Lea, \nScott Carver",
@@ -1976,16 +1886,6 @@
           "wordCount": null,
           "title": "Female‐biased spontaneous dispersal in Drosophila melanogaster and sex‐specific effect of nutrition and density therein",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/oik.10959",
-          "author": "Vaishnavi Purushotham, \nPaul Cuchot, \nCeline Teplitsky, \nErik Matthysen",
-          "description": "Oikos, EarlyView.",
-          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10959?af=R",
-          "publishedOn": "2025-02-24T11:50:34.000Z",
-          "wordCount": null,
-          "title": "Multidimensional plasticity of phenology: assessing the effects of population density on plastic responses of breeding time to temperature",
-          "imageUrl": null
         }
       ]
     },
@@ -1994,6 +1894,26 @@
       "feedUrl": "https://www.nature.com/natsustain.rss",
       "siteUrl": "http://feeds.nature.com/natsustain/rss/current",
       "articles": [
+        {
+          "id": "https://www.nature.com/articles/s41893-025-01522-y",
+          "author": null,
+          "description": "Waste-to-nutrition pathways convert organic waste into food for people and livestock. Simulations of nine future scenarios in France reveal that the potential of five such pathways for reducing the environmental impacts of food and waste systems depends on process efficiencies, availability of low-carbon energy and the extent to which novel foods replace meat.",
+          "link": "https://www.nature.com/articles/s41893-025-01522-y",
+          "publishedOn": "2025-03-25T00:00:00.000Z",
+          "wordCount": 3675,
+          "title": "Technologies turning waste into food and feed have limited environmental benefits",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-025-01522-y/MediaObjects/41893_2025_1522_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41893-025-01537-5",
+          "author": "Hanzhou Liu",
+          "description": "It is extremely difficult to separate tritium from radioactively contaminated water. Here the authors introduce catalytic hydrogen isotope exchange to water distillation, realizing excellent detritiation performance.",
+          "link": "https://www.nature.com/articles/s41893-025-01537-5",
+          "publishedOn": "2025-03-25T00:00:00.000Z",
+          "wordCount": 6893,
+          "title": "Catalytic proton exchange in water distillation for efficient tritiated water clean-up",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-025-01537-5/MediaObjects/41893_2025_1537_Fig1_HTML.png"
+        },
         {
           "id": "https://www.nature.com/articles/s41893-025-01542-8",
           "author": null,
@@ -2141,6 +2061,16 @@
       "feedUrl": "https://www.nature.com/natecolevol.rss",
       "siteUrl": "http://feeds.nature.com/natecolevol/rss/current",
       "articles": [
+        {
+          "id": "https://www.nature.com/articles/s41559-025-02674-y",
+          "author": "Marian Turner",
+          "description": "Nature Ecology & Evolution - Green divides",
+          "link": "https://www.nature.com/articles/s41559-025-02674-y",
+          "publishedOn": "2025-03-25T00:00:00.000Z",
+          "wordCount": 3522,
+          "title": "Green divides",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nature.com/articles/s41559-024-02630-2",
           "author": "Jennifer L. Baltzer",
@@ -2338,6 +2268,16 @@
       "feedUrl": "https://onlinelibrary.wiley.com/action/showFeed?jc=13652486&type=etoc&feed=rss",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/13652486?af=R",
       "articles": [
+        {
+          "id": "10.1111/gcb.70154",
+          "author": "Eric R. Annis, \nAubrey Jane, \nMarkus Frederich, \nJesica Waller, \nClaire D. Fecteau‐Volk, \nHannah O'Loughlin, \nRiley Larkin, \nDouglas B. Rasher",
+          "description": "Global Change Biology, Volume 31, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70154?af=R",
+          "publishedOn": "2025-03-25T06:40:33.000Z",
+          "wordCount": null,
+          "title": "Laboratory‐Reared Lobster Larvae Yield Inaccurate Estimates of Thermal Tolerance",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/gcb.70125",
           "author": "Boya Zhou, \nWenjia Cai, \nZiqi Zhu, \nHan Wang, \nSandy P. Harrison, \nI. Colin Prentice",
@@ -2816,6 +2756,36 @@
       "siteUrl": "https://conbio.onlinelibrary.wiley.com/journal/15231739?af=R",
       "articles": [
         {
+          "id": "10.1111/cobi.70014",
+          "author": "Chao Zhang, \nYumei Li, \nXiaoyu Hu, \nHaoyang Wang, \nZexuan Gao, \nYonggang Nie",
+          "description": "Conservation Biology, EarlyView.",
+          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.70014?af=R",
+          "publishedOn": "2025-03-24T13:10:18.000Z",
+          "wordCount": null,
+          "title": "Conservation gaps for threatened ungulates in China under human disturbance and climate change",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/cobi.70015",
+          "author": "Zhixin Zhang, \nJamie M. Kass, \nÁkos Bede‐Fazekas, \nStefano Mammola, \nJunmei Qu, \nJorge García Molinos, \nJiqi Gu, \nHongwei Huang, \nMeng Qu, \nYing Yue, \nGeng Qin, \nQiang Lin",
+          "description": "Conservation Biology, EarlyView.",
+          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.70015?af=R",
+          "publishedOn": "2025-03-24T13:04:53.000Z",
+          "wordCount": null,
+          "title": "Differences in predictions of marine species distribution models based on expert maps and opportunistic occurrences",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/cobi.70017",
+          "author": "Lucy Mitchell, \nVera Brust, \nThiemo Karwinkel, \nSusanne Åkesson, \nDmitry Kishkinev, \nGabriel Norevik, \nTibor Szep, \nAnders Hedenström, \nSander Lagerveld, \nBarbara Helm, \nHeiko Schmaljohann",
+          "description": "Conservation Biology, EarlyView.",
+          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.70017?af=R",
+          "publishedOn": "2025-03-24T13:04:17.000Z",
+          "wordCount": null,
+          "title": "Conservation‐focused mapping of avian migratory routes using a pan‐European automated telemetry network",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/cobi.70013",
           "author": "Laura Kor, \nFiona Perez, \nKaren Inwood, \nIain Darbyshire, \nMauricio Diazgranados",
           "description": "Conservation Biology, EarlyView.",
@@ -2922,6 +2892,16 @@
       "feedUrl": "https://besjournals.onlinelibrary.wiley.com/feed/13652664/most-recent",
       "siteUrl": "https://besjournals.onlinelibrary.wiley.com/journal/13652664?af=R",
       "articles": [
+        {
+          "id": "10.1111/1365-2664.70036",
+          "author": "Kirsten Krüger, \nCornelius Senf, \nJonas Hagge, \nRupert Seidl",
+          "description": "Journal of Applied Ecology, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70036?af=R",
+          "publishedOn": "2025-03-25T06:35:29.000Z",
+          "wordCount": null,
+          "title": "Setting aside areas for conservation does not increase disturbances in temperate forests",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/1365-2664.70038",
           "author": "Marisa T. Martinez, \nLaura E. D'Acunto, \nStephanie S. Romañach",
@@ -3361,36 +3341,6 @@
           "wordCount": null,
           "title": "Ecological niche models based on occurrence records of the amphibian chytrid fungus overestimate lethal chytridiomycosis risk",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/1365-2664.70011",
-          "author": "Miranda Rew‐Duffy, \nMartine Maron, \nRebecca Diete, \nLuke Leung, \nJohn Hunter, \nZachary Amir, \nApril Reside",
-          "description": "Journal of Applied Ecology, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70011?af=R",
-          "publishedOn": "2025-02-24T10:21:04.000Z",
-          "wordCount": null,
-          "title": "Geographic variation in mammal and reptile responses to fire and livestock grazing regimes",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/1365-2664.70020",
-          "author": "Hao Du, \nXuan Ban, \nPengcheng Li, \nWurong Shih, \nPanayiotis Diplas, \nJinming Wu, \nJunyi Li, \nPeilin Cheng, \nPengsheng Li, \nWencheng Liu, \nFengzhi He",
-          "description": "Journal of Applied Ecology, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70020?af=R",
-          "publishedOn": "2025-02-24T10:11:59.000Z",
-          "wordCount": null,
-          "title": "The crucial role of ecohydraulic factors in triggering sturgeon reproduction: Implications for active habitat restoration strategies in the Yangtze River",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/1365-2664.70012",
-          "author": "Tara Canelo, \nMichal Bogdziewicz, \nCarlos Pérez‐Izquierdo, \nÁlvaro Gaytán, \nRaúl Bonal",
-          "description": "Journal of Applied Ecology, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70012?af=R",
-          "publishedOn": "2025-02-24T10:10:20.000Z",
-          "wordCount": null,
-          "title": "Livestock as a biological pest control: Experimental validation for oak savannas",
-          "imageUrl": null
         }
       ]
     },
@@ -3399,6 +3349,16 @@
       "feedUrl": "https://onlinelibrary.wiley.com/feed/14668238/most-recent",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/14668238?af=R",
       "articles": [
+        {
+          "id": "10.1111/geb.70013",
+          "author": "Shyamolina Ghosh, \nBlake Matthews, \nSarah R. Supp, \nRoel van Klink, \nFrancesco Pomati, \nJames A. Rusak, \nImran Khaliq, \nNiklaus E. Zimmermann, \nThomas Wohlgemuth, \nOle Seehausen, \nChristian Rixen, \nMartin M. Gossner, \nAnita Narwani, \nJonathan M. Chase, \nCatherine H. Graham",
+          "description": "Global Ecology and Biogeography, Volume 34, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/geb.70013?af=R",
+          "publishedOn": "2025-03-25T03:48:45.000Z",
+          "wordCount": null,
+          "title": "Synchrony and Tail‐Dependent Synchrony Have Different Effects on Stability of Terrestrial and Freshwater Communities",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/geb.70025",
           "author": "Hongbo Guo, \nJiahui Zhang, \nXiaoyan Kang, \nCong Yu, \nNianpeng He",
@@ -3506,6 +3466,26 @@
       "feedUrl": "https://onlinelibrary.wiley.com/feed/1526100x/most-recent",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/1526100x?af=R",
       "articles": [
+        {
+          "id": "10.1111/rec.70036",
+          "author": "Laura Cedillo, \nMariana Y. Alvarez‐Añorve, \nRoberto Lindig‐Cisneros, \nMiguel Martinez‐Ramos",
+          "description": "Restoration Ecology, EarlyView.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/rec.70036?af=R",
+          "publishedOn": "2025-03-24T14:44:53.000Z",
+          "wordCount": null,
+          "title": "Functional complementarity: a review and a new methodological protocol applied to agroforestry systems",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/rec.70047",
+          "author": "Daniela C. Zappi, \nSinzinando Albuquerque‐Lima, \nMarcelo F. Moro, \nSilvia Ziller",
+          "description": "Restoration Ecology, EarlyView.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/rec.70047?af=R",
+          "publishedOn": "2025-03-24T14:38:48.000Z",
+          "wordCount": null,
+          "title": "How did the Caatinga, the largest neotropical dry forest, disappear from view? A response to Hardy et al. ()",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/rec.70037",
           "author": "Márton Vörös, \nÁkos Bede‐Fazekas, \nLorenzo Crecco, \nBalázs Deák, \nAdrienn Gyalus, \nAndrás Schmotzer, \nOrsolya Valkó, \nMelinda Halassy, \nImelda Somodi",
@@ -4295,16 +4275,6 @@
           "wordCount": null,
           "title": "Artificial macropores enhance mangrove establishment in hypersaline environments",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/rec.70011",
-          "author": "Lauana V. dos Santos, \nAnabele S. Gomes, \nNatália R. Bijos, \nLucas C. Silva, \nCássia B. R. Munhoz",
-          "description": "Restoration Ecology, EarlyView.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/rec.70011?af=R",
-          "publishedOn": "2025-02-24T06:30:02.000Z",
-          "wordCount": null,
-          "title": "What is known about the germination of plant species from open wetlands in the Cerrado?",
-          "imageUrl": null
         }
       ]
     },
@@ -4313,6 +4283,16 @@
       "feedUrl": "https://besjournals.onlinelibrary.wiley.com/feed/2041210x/most-recent",
       "siteUrl": "https://besjournals.onlinelibrary.wiley.com/journal/2041210x?af=R",
       "articles": [
+        {
+          "id": "10.1111/2041-210X.70024",
+          "author": "Pauline Müller, \nStefano Puliti, \nJohannes Breidenbach",
+          "description": "Methods in Ecology and Evolution, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70024?af=R",
+          "publishedOn": "2025-03-24T10:25:38.000Z",
+          "wordCount": null,
+          "title": "Towards enhancing field‐based vegetation monitoring: A deep learning approach for species coverage estimation from ground‐level imagery",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/2041-210X.70007",
           "author": "James Kemp, \nJuan Carlos Azofeifa‐Solano, \nDiego R. Barneche, \nRohan Brooker, \nJ. Edgardo Arévalo, \nChristine Erbe, \nMiles Parsons",
@@ -4728,16 +4708,6 @@
           "publishedOn": "2025-02-28T08:00:00.000Z",
           "wordCount": null,
           "title": "HiPhom[math]: High-Order Projection-Based Homogenization for Advection-Diffusion-Reaction Problems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://epubs.siam.org/doi/abs/10.1137/23M1620181?af=R",
-          "author": "Yihong Chen",
-          "description": "Multiscale Modeling & Simulation, Volume 23, Issue 1, Page 577-610, March 2025. \n Abstract. This work is concerned with kinetic equations with velocity of constant magnitude. We propose a quadrature method of moments based on the Poisson kernel, called Poisson-EQMOM. The derived moment closure systems are well defined for all physically relevant moments, and the resultant approximations of the distribution function converge as the number of moments goes to infinity. The convergence makes our method stand out from most existing moment methods. Moreover, we devise a delicate moment inversion algorithm. As an application, the Vicsek model is studied for overdamped active particles, and the Poisson-EQMOM is validated with a series of numerical tests including spatially homogeneous, one-dimensional, and two-dimensional problems.",
-          "link": "https://epubs.siam.org/doi/abs/10.1137/23M1620181?af=R",
-          "publishedOn": "2025-02-24T08:00:00.000Z",
-          "wordCount": null,
-          "title": "Poisson Quadrature Method of Moments for 2D Kinetic Equations with Velocity of Constant Magnitude",
           "imageUrl": null
         }
       ]
@@ -5579,26 +5549,6 @@
           "wordCount": null,
           "title": "Leaf and root economics space in Fraxinus mandshurica: A test of the multidimensional trait framework within species",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/1365-2745.70012",
-          "author": "Ana Patricia Sandoval‐Calderon, \nMaarten J. J. Meijer, \nShaopeng Wang, \nMarijke van Kuijk, \nPita Verweij, \nYann Hautier",
-          "description": "Journal of Ecology, EarlyView.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/1365-2745.70012?af=R",
-          "publishedOn": "2025-02-24T07:43:33.000Z",
-          "wordCount": null,
-          "title": "Andean grassland stability across spatial scales increases with camelid grazing intensity despite biotic homogenization",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/1365-2745.70012",
-          "author": "Ana Patricia Sandoval‐Calderon, \nMaarten J. J. Meijer, \nShaopeng Wang, \nMarijke van Kuijk, \nPita Verweij, \nYann Hautier",
-          "description": "Journal of Ecology, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70012?af=R",
-          "publishedOn": "2025-02-24T07:43:33.000Z",
-          "wordCount": null,
-          "title": "Andean grassland stability across spatial scales increases with camelid grazing intensity despite biotic homogenization",
-          "imageUrl": null
         }
       ]
     },
@@ -6135,6 +6085,56 @@
       "siteUrl": "https://onlinelibrary.wiley.com/journal/14724642?af=R",
       "articles": [
         {
+          "id": "10.1111/ddi.13918",
+          "author": "Daniel A. Villar, \nEdwin R. Gutiérrez Tito, \nPaola Velásquez‐Noriega, \nAnahi Cosky Paca‐Condori, \nEdmundo G. Moreno Terrazas, \nAlfredo Balcón Cuno, \nRonald Hinojosa Cárdenas, \nCarmen Villanueva, \nPatrick Chapman, \nLuca Chiaverini, \nJorgelina Marino, \nAndrew G. Gosler",
+          "description": "Diversity and Distributions, Volume 31, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13918?af=R",
+          "publishedOn": "2025-03-24T11:49:26.000Z",
+          "wordCount": null,
+          "title": "Problems with combining modelling and social science approaches to understand artisanal fisheries bycatch",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/ddi.13852",
+          "author": "Dave J. I. Seaman, \nMaria Voigt, \nMarc Ancrenaz, \nGreta Bocedi, \nErik Meijaard, \nFelicity Oram, \nStephen C. F. Palmer, \nTruly Santika, \nJulie Sherman, \nJustin M. J. Travis, \nSerge Wich, \nTatyana Humle, \nJatna Supriatna, \nMatthew J. Struebig",
+          "description": "Diversity and Distributions, Volume 31, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13852?af=R",
+          "publishedOn": "2025-03-24T11:41:17.000Z",
+          "wordCount": null,
+          "title": "Capacity for recovery in Bornean orangutan populations when limiting offtake and retaining forest",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/ddi.13771",
+          "author": "Jooel Rinne, \nRitwik Kulkarni, \nAndrea Soriano‐Redondo, \nRicardo Correia, \nEnrico Di Minin",
+          "description": "Diversity and Distributions, Volume 31, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13771?af=R",
+          "publishedOn": "2025-03-24T11:40:37.000Z",
+          "wordCount": null,
+          "title": "Using automated content analysis to monitor global online trade in endemic reptile species",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/ddi.13701",
+          "author": "Ricardo Torres, \nTobias Kuemmerle, \nMatthias Baumann, \nAlfredo Romero‐Muñoz, \nMariana Altrichter, \nGabriel I. Boaglio, \nHugo Cabral, \nMicaela Camino, \nJuan M. Campos Krauer, \nJosé L. Cartes, \nRosa L. Cuéllar, \nJulieta Decarre, \nMarcelo Gallegos, \nAnthony J. Giordano, \nLeónidas Lizarraga, \nLeonardo Maffei, \nNora N. Neris, \nVerónica Quiroga, \nSilvia Saldivar, \nDaniela Tamburini, \nJeffrey Thompson, \nMarianela Velilla, \nRobert B. Wallace, \nAlberto Yanosky",
+          "description": "Diversity and Distributions, Volume 31, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13701?af=R",
+          "publishedOn": "2025-03-24T11:40:15.000Z",
+          "wordCount": null,
+          "title": "Partitioning the effects of habitat loss, hunting and climate change on the endangered Chacoan peccary",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/ddi.13855",
+          "author": "Iago Ferreiro‐Arias, \nLuca Santini, \nH. S. Sathya Chandra Sagar, \nCécile Richard‐Hansen, \nEric Guilbert, \nPierre‐Michel Forget, \nMarijke van Kuijk, \nAndressa B. Scabin, \nCarlos A. Peres, \nEloy Revilla, \nAna Benítez‐López",
+          "description": "Diversity and Distributions, Volume 31, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13855?af=R",
+          "publishedOn": "2025-03-24T11:39:32.000Z",
+          "wordCount": null,
+          "title": "Drivers and spatial patterns of avian defaunation in tropical forests",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/ddi.70013",
           "author": "Virginia Morera‐Pujol, \nPaulo Catry, \nMaria Magalhães, \nClara Péron, \nJosé Manuel Reyes‐González, \nJosé Pedro Granadeiro, \nTeresa Militão, \nMaria P. Dias, \nDaniel Oro, \nJosé Manuel Igual, \nGiacomo Dell'Omo, \nMartina Müller, \nVitor H. Paiva, \nBenjamin Metzger, \nVerónica Neves, \nJoan Navarro, \nGeorgios Karris, \nStavros Xirouchakis, \nJacopo G. Cecere, \nJosé Manuel Zamora‐Marín, \nManuela G. Forero, \nIsabel Afán, \nRidha Ouni, \nMohamed Salah Romdhane, \nFernanda De Felipe, \nZuzana Zajková, \nMarta Cruz‐Flores, \nDavid Grémillet, \nJacob González‐Solís, \nRaül Ramos",
           "description": "Diversity and Distributions, Volume 31, Issue 3, March 2025.",
@@ -6243,46 +6243,6 @@
           "wordCount": null,
           "title": "Divergent Importance and Geographic Patterns in Threats to Birds and Mammals in China",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/ddi.13942",
-          "author": "Luca Santini, \nMartina Fernando, \nGiordano Mancini, \nMoreno Di Marco",
-          "description": "Diversity and Distributions, Volume 31, Issue 2, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13942?af=R",
-          "publishedOn": "2025-02-24T07:37:16.000Z",
-          "wordCount": null,
-          "title": "The Neglected Role of Sex‐Biased Dispersal in Range‐Shift Prediction Under Climate Change",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/ddi.13944",
-          "author": "Miriam Ruocco, \nGuglielmo Lacorata, \nLuigi Palatella, \nIsabella Provera, \nArturo Zenone, \nMarco Martinez, \nEmanuela Dattolo, \nJessica Pazzaglia, \nVincenzo Maximiliano Giacalone, \nFabio Badalamenti, \nGabriele Procaccini",
-          "description": "Diversity and Distributions, Volume 31, Issue 2, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13944?af=R",
-          "publishedOn": "2025-02-24T07:29:24.000Z",
-          "wordCount": null,
-          "title": "Movement Ecology of a Coastal Foundation Seagrass Species: Insights From Genetic Data and Oceanographic Modelling",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/ddi.13935",
-          "author": "Raphaël Nussbaumer, \nAméline Nussbaumer, \nSamuel Guchu, \nRichard Stratton Hatfield, \nErustus M. Kanga, \nGladys Nyakeru Kung'u, \nAnthony Kuria, \nEliot Miller, \nPaul Kariuki Ndang'ang'a, \nPeter Njoroge, \nDarcy Ogada, \nSidney Shema, \nColin Jackson",
-          "description": "Diversity and Distributions, Volume 31, Issue 2, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13935?af=R",
-          "publishedOn": "2025-02-24T07:21:36.000Z",
-          "wordCount": null,
-          "title": "Historical Bird Atlas and Contemporary Citizen Science Data Reveal Long‐Term Changes in Geographic Range of Kenyan Birds",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/ddi.13943",
-          "author": "Chuanwu Chen, \nChengxiu Zhan, \nJohannes Foufopoulos, \nYanping Wang",
-          "description": "Diversity and Distributions, Volume 31, Issue 2, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13943?af=R",
-          "publishedOn": "2025-02-24T06:55:27.000Z",
-          "wordCount": null,
-          "title": "How Do Species Traits and Biogeographical Factors Determine the Fate of Amphibians After Long‐Term Fragmentation?",
-          "imageUrl": null
         }
       ]
     },
@@ -6291,6 +6251,16 @@
       "feedUrl": "https://onlinelibrary.wiley.com/feed/26374943/most-recent",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/26374943?af=R",
       "articles": [
+        {
+          "id": "10.1002/edn3.70082",
+          "author": "Gerlien Verhaegen, \nTatsuya Kawakami, \nAyla Murray, \nAkihide Kasai, \nCharlotte Havermans",
+          "description": "Environmental DNA, Volume 7, Issue 2, March–April 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1002/edn3.70082?af=R",
+          "publishedOn": "2025-03-24T16:09:51.000Z",
+          "wordCount": null,
+          "title": "Metazoan Diversity and Its Drivers: An eDNA Survey in the Pacific Gateway of a Changing Arctic Ocean",
+          "imageUrl": null
+        },
         {
           "id": "10.1002/edn3.70083",
           "author": "Hyo‐Young Kang, \nYoonhang Lee, \nJiyeon Park, \nJu‐Yeop Lee, \nYoung‐Ung Heo, \nNameun Kim, \nJae‐Ok Kim, \nMun‐Gyeong Kwon, \nChan‐Il Park, \nDo‐Hyung Kim",
