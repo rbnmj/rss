@@ -1014,6 +1014,46 @@
       "siteUrl": "https://esajournals.onlinelibrary.wiley.com/journal/21508925?af=R",
       "articles": [
         {
+          "id": "10.1002/ecs2.70117",
+          "author": "A. Raine Detmer, \nEric J. Ward, \nMary E. Hunsicker, \nKelly S. Andrews, \nMichele Conrad, \nBridget E. Ferriss, \nElliott L. Hazen, \nKirstin K. Holsman, \nJulia Indivero, \nScott I. Large, \nMichael Malick, \nKristin N. Marshall, \nStuart H. Munsch, \nKiva L. Oken, \nWilliam H. Satterthwaite, \nS. Kalei Shotwell, \nAndrew R. Thompson, \nJameal F. Samhouri",
+          "description": "Ecosphere, Volume 16, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70117?af=R",
+          "publishedOn": "2025-03-28T07:48:41.000Z",
+          "wordCount": null,
+          "title": "Evaluating the robustness of generalized additive models as a tool for threshold detection in variable environments",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecs2.70233",
+          "author": "Baylee L. Wade, \nAnna Carolina Resende, \nDanielle Willis‐Kaio, \nAlice Rogers",
+          "description": "Ecosphere, Volume 16, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70233?af=R",
+          "publishedOn": "2025-03-27T23:45:01.000Z",
+          "wordCount": null,
+          "title": "Exploring the consequences of complex habitat loss for the New Zealand blue cod, Parapercis colias",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecs2.70197",
+          "author": "Kaleb A. Goff, \nMeagan F. Oldfather, \nJan Nachlinger, \nBrian V. Smithers, \nMichael J. Koontz, \nCatie Bishop, \nJim Bishop, \nMary T. Burke, \nSeema N. Sheth",
+          "description": "Ecosphere, Volume 16, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70197?af=R",
+          "publishedOn": "2025-03-27T23:19:12.000Z",
+          "wordCount": null,
+          "title": "Limited directional change in mountaintop plant communities over 19 years in western North America",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecs2.70205",
+          "author": "Adrianne P. Smits, \nEd K. Hall, \nBridget R. Deemer, \nFacundo Scordo, \nCarolina C. Barbosa, \nStephanie M. Carlson, \nKaelin Cawley, \nHans‐Peter Grossart, \nPatrick Kelly, \nStefano Mammola, \nMatthew R. Pintar, \nCaleb J. Robbins, \nAlbert Ruhi, \nMattia Saccò",
+          "description": "Ecosphere, Volume 16, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70205?af=R",
+          "publishedOn": "2025-03-27T23:14:46.000Z",
+          "wordCount": null,
+          "title": "Too much and not enough data: Challenges and solutions for generating information in freshwater research and monitoring",
+          "imageUrl": null
+        },
+        {
           "id": "10.1002/ecs2.70234",
           "author": "Michelle L. Fearon, \nKristel F. Sánchez, \nSyuan‐Jyun Sun, \nSiobhan K. Calhoun, \nKira J. Monell, \nVarun Ravichandran, \nMeghan A. Duffy",
           "description": "Ecosphere, Volume 16, Issue 3, March 2025.",
@@ -1290,6 +1330,16 @@
       "feedUrl": "https://onlinelibrary.wiley.com/feed/14610248/most-recent",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/14610248?af=R",
       "articles": [
+        {
+          "id": "10.1111/ele.70101",
+          "author": "Michel P. Laforge, \nEric Vander Wal, \nQuinn M. R. Webber, \nChris Geremia, \nMatthew J. Kauffman, \nDouglas E. McWhirter, \nArthur Middleton, \nTony W. Mong, \nKevin L. Monteith, \nAnna C. Ortega, \nHall Sawyer, \nJerod A. Merkle",
+          "description": "Ecology Letters, Volume 28, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70101?af=R",
+          "publishedOn": "2025-03-27T09:03:29.000Z",
+          "wordCount": null,
+          "title": "Consistent Individual Differences and Plasticity in Migration Behaviour of Three North American Ungulates",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/ele.70096",
           "author": "Florian Schnabel, \nRémy Beugnon, \nBo Yang, \nRonny Richter, \nNico Eisenhauer, \nYuanyuan Huang, \nXiaojuan Liu, \nChristian Wirth, \nSimone Cesarz, \nAndreas Fichtner, \nMaria D. Perles‐Garcia, \nGeorg J. A. Hähn, \nWerner Härdtle, \nMatthias Kunz, \nNadia C. Castro Izaguirre, \nPascal A. Niklaus, \nGoddert von Oheimb, \nBernhard Schmid, \nStefan Trogisch, \nManfred Wendisch, \nKeping Ma, \nHelge Bruelheide",
@@ -1656,26 +1706,6 @@
           "wordCount": null,
           "title": "Studying the genetic basis of ecological interactions with intergenomic epistasis",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/oik.11201",
-          "author": "XiaoXuan Liu, \nJunMei Li, \nRuoBing Wang, \nRongting Ni, \nChangqun Duan, \nJiacheng Yu, \nErik Jeppesen, \nYing Pan",
-          "description": "Oikos, EarlyView.",
-          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.11201?af=R",
-          "publishedOn": "2025-02-27T13:06:04.000Z",
-          "wordCount": null,
-          "title": "Antibiotics disrupt bacteria‐phytoplankton symbioses: unveiling ecological risks in aquatic ecosystems",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/oik.10920",
-          "author": "Subhasish Halder, \nUtkarsh Bhore, \nBodhisatta Nandy",
-          "description": "Oikos, EarlyView.",
-          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10920?af=R",
-          "publishedOn": "2025-02-27T13:04:44.000Z",
-          "wordCount": null,
-          "title": "Female‐biased spontaneous dispersal in Drosophila melanogaster and sex‐specific effect of nutrition and density therein",
-          "imageUrl": null
         }
       ]
     },
@@ -1684,6 +1714,26 @@
       "feedUrl": "https://www.nature.com/natsustain.rss",
       "siteUrl": "http://feeds.nature.com/natsustain/rss/current",
       "articles": [
+        {
+          "id": "https://www.nature.com/articles/s41893-025-01536-6",
+          "author": "Owen Gaffney",
+          "description": "At a time when the world must cut greenhouse gas emissions precipitously, artificial intelligence (AI) brings large opportunities and large risks. To address its uncertain environmental impact, we propose the ‘Earth alignment’ principle to guide AI development and deployment towards planetary stability.",
+          "link": "https://www.nature.com/articles/s41893-025-01536-6",
+          "publishedOn": "2025-03-28T00:00:00.000Z",
+          "wordCount": 4180,
+          "title": "The Earth alignment principle for artificial intelligence",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-025-01536-6/MediaObjects/41893_2025_1536_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41893-025-01530-y",
+          "author": "Rui-Ting Gao",
+          "description": "Active chlorine is the most widely used water disinfectant, but its production has environmental consequences. This work shows a photoelectrochemical synthetic route using only solar energy and seawater.",
+          "link": "https://www.nature.com/articles/s41893-025-01530-y",
+          "publishedOn": "2025-03-28T00:00:00.000Z",
+          "wordCount": 5411,
+          "title": "Photoelectrochemical production of disinfectants from seawater",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-025-01530-y/MediaObjects/41893_2025_1530_Fig1_HTML.png"
+        },
         {
           "id": "https://www.nature.com/articles/s41893-025-01531-x",
           "author": "Tamara Wall",
@@ -1902,6 +1952,26 @@
       "siteUrl": "http://feeds.nature.com/natecolevol/rss/current",
       "articles": [
         {
+          "id": "https://www.nature.com/articles/s41559-025-02649-z",
+          "author": null,
+          "description": "Self-domestication in Aedes aegypti mosquitoes (the behaviour of living in association with humans for the past 5,000 years) was accompanied by hundreds of genetic adaptations that affect chemosensory, neuronal, regulatory and metabolic functions. Such adaptations arose by selection acting on preexisting genetic variation and local adaptation driven by neuronal olfactory redundancy.",
+          "link": "https://www.nature.com/articles/s41559-025-02649-z",
+          "publishedOn": "2025-03-28T00:00:00.000Z",
+          "wordCount": 3699,
+          "title": "Genetic adaptations from self-domestication in the yellow fever mosquito",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-025-02649-z/MediaObjects/41559_2025_2649_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41559-025-02643-5",
+          "author": "Alejandro N. Lozada-Chávez",
+          "description": "Analysing phylogenetic relationships, genome-wide selective sweeps and genetic differentiation among global populations of Aedes aegypti, the authors identify adaptive signals in 186 genes related to self-domestication that distinguish the globally distributed non-African ecotype from its African ancestor.",
+          "link": "https://www.nature.com/articles/s41559-025-02643-5",
+          "publishedOn": "2025-03-28T00:00:00.000Z",
+          "wordCount": 23744,
+          "title": "Adaptive genomic signatures of globally invasive populations of the yellow fever mosquito <i>Aedes aegypti</i>",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-025-02643-5/MediaObjects/41559_2025_2643_Fig1_HTML.png"
+        },
+        {
           "id": "https://www.nature.com/articles/s41559-025-02654-2",
           "author": "Jing Wang",
           "description": "An experimental study shows that interspecific hybridization transferred components of genetic incompatibility across species, which facilitated the evolution of reproductive isolation between two swordtail fish species.",
@@ -2118,6 +2188,56 @@
       "feedUrl": "https://onlinelibrary.wiley.com/action/showFeed?jc=13652486&type=etoc&feed=rss",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/13652486?af=R",
       "articles": [
+        {
+          "id": "10.1111/gcb.70121",
+          "author": "Nathaniel E. Seavy, \nMelanie A. Smith, \nWilliam V. DeLuca, \nErika J. Knight, \nChad J. Witko, \nSarah P. Saunders, \nLotem Taylor, \nDaniela Linero‐Triana, \nJorge Velásquez‐Tibatá, \nChad B. Wilsey, \nJill L. Deppe",
+          "description": "Global Change Biology, Volume 31, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70121?af=R",
+          "publishedOn": "2025-03-27T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Seasonal Exposure to Hemispheric Conservation Challenges Influences Population Trends of Migratory Warblers (Parulidae)",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/gcb.70141",
+          "author": "Kathryn S. Chen, \nColleen M. Petrik, \nRebecca G. Asch, \nAndrew R. Thompson, \nToby D. Auth",
+          "description": "Global Change Biology, Volume 31, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70141?af=R",
+          "publishedOn": "2025-03-27T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Continuing Long‐Term Shifts in Larval Fish Phenology in the Southern California Current Ecosystem Are Matched by Rapid Advances in the North",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/gcb.70143",
+          "author": "Lisa G. Crozier, \nDylan G. E. Gomes, \nDavid D. Huff",
+          "description": "Global Change Biology, Volume 31, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70143?af=R",
+          "publishedOn": "2025-03-27T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Climate Change and Marine Food Webs: Navigating Structural Uncertainty Using Qualitative Network Analysis With Insights for Salmon Survival",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/gcb.70144",
+          "author": "Camille Leclerc, \nVictor Frossard, \nNajwa Sharaf, \nSimon Bazin, \nRosalie Bruel, \nArnaud Sentis",
+          "description": "Global Change Biology, Volume 31, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70144?af=R",
+          "publishedOn": "2025-03-27T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Climate Impacts on Lake Food‐Webs Are Mediated by Biological Invasions",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/gcb.70159",
+          "author": "Sharon Zhao, \nAlexander H. Krichels, \nElizah Z. Stephens, \nAnthony D. Calma, \nEmma L. Aronson, \nG. Darrel Jenerette, \nMarko J. Spasojevic, \nJoshua P. Schimel, \nErin J. Hanan, \nPeter M. Homyak",
+          "description": "Global Change Biology, Volume 31, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70159?af=R",
+          "publishedOn": "2025-03-27T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Nitrogen Availability and Changes in Precipitation Alter Microbially Mediated NO and N2O Emissions From a Pinyon–Juniper Dryland",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/gcb.70151",
           "author": "Dana Lanceman, \nMariana Mayer‐Pinto, \nWilliam Glamore",
@@ -3191,16 +3311,6 @@
           "wordCount": null,
           "title": "Active wetland restoration kickstarts vegetation establishment, but natural development promotes greater plant diversity",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/1365-2664.70022",
-          "author": "Barbora Thumsová, \nAlejandra Zarzo‐Arias, \nJosé V. Roces‐Díaz, \nAlbert Martínez‐Silvestre, \nJason R. Rohr, \nJaime Bosch",
-          "description": "Journal of Applied Ecology, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70022?af=R",
-          "publishedOn": "2025-02-27T07:44:01.000Z",
-          "wordCount": null,
-          "title": "Ecological niche models based on occurrence records of the amphibian chytrid fungus overestimate lethal chytridiomycosis risk",
-          "imageUrl": null
         }
       ]
     },
@@ -3384,6 +3494,16 @@
           "publishedOn": "2025-03-21T13:35:15.000Z",
           "wordCount": null,
           "title": "Promoting acorn survival using capsaicin seed coatings is strengthened by the removal of invasive shrubs",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/rec.14390",
+          "author": "Johan Svensson, \nAndres Lopez‐Peinado, \nBengt Gunnar Jonsson, \nNavinder J. Singh",
+          "description": "Restoration Ecology, Volume 33, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/rec.14390?af=R",
+          "publishedOn": "2025-03-21T08:11:40.000Z",
+          "wordCount": null,
+          "title": "The contribution to forest conservation and restoration in Sweden of small, protected patches on private forest land",
           "imageUrl": null
         },
         {
@@ -4115,16 +4235,6 @@
           "wordCount": null,
           "title": "Factors impacting the variability of post‐fire forest regeneration in central European pine plantations",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/rec.14387",
-          "author": "Chelsea Waters, \nPeter L. Harrison, \nMarine Gouezo, \nAndrea Severati, \nChristopher Doropoulos",
-          "description": "Restoration Ecology, EarlyView.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/rec.14387?af=R",
-          "publishedOn": "2025-02-27T08:58:33.000Z",
-          "wordCount": null,
-          "title": "Early‐stage coral survivorship using wild larval assemblages on coral seeding devices for reef restoration",
-          "imageUrl": null
         }
       ]
     },
@@ -4502,16 +4612,6 @@
           "wordCount": null,
           "title": "One size does not fit all: A novel approach for determining the Realised Viewshed Size for remote camera traps",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/2041-210X.70002",
-          "author": "Catarina Vila‐Pouca, \nHannah De Waele, \nAntoine Parsékian, \nSimone Erroi, \nMariska De Rooij, \nEmma Labohm, \nAmy Deacon, \nAlexander Kotrschal",
-          "description": "Methods in Ecology and Evolution, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70002?af=R",
-          "publishedOn": "2025-02-27T13:44:51.000Z",
-          "wordCount": null,
-          "title": "A novel apparatus for studying fish cognition in the wild",
-          "imageUrl": null
         }
       ]
     },
@@ -4626,16 +4726,6 @@
           "wordCount": null,
           "title": "Oil spill effects in biota and traditional populations from protected areas of Brazil’s Northeast",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2470759?af=R",
-          "author": "Qin Zhang Di Wu Jie Luo Zixuan Chen Yujie Wang Yu Tian Zongwei He Qin Liu a Research Center for Environment and Human Health, Research Center for Medicine and Social Development, School of Public Health, Chongqing Medical University, Chongqing, Chinab College of Medical Informatics, Chongqing Medical University, Chongqing, China",
-          "description": ".",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2470759?af=R",
-          "publishedOn": "2025-02-27T03:56:47.000Z",
-          "wordCount": null,
-          "title": "Association between urinary polycyclic aromatic hydrocarbons and childhood obesity index: a cross-sectional study in China",
-          "imageUrl": null
         }
       ]
     },
@@ -4650,6 +4740,16 @@
       "feedUrl": "https://besjournals.onlinelibrary.wiley.com/feed/13652745/most-recent",
       "siteUrl": "https://besjournals.onlinelibrary.wiley.com/journal/13652745?af=R",
       "articles": [
+        {
+          "id": "10.1111/1365-2745.70032",
+          "author": "Changchun Zhai, \nYunfeng Yang, \nLingjie Kong, \nXueke Wang, \nJiawei Hou, \nQing Zeng, \nAnhui Ge, \nBaomin Yao, \nZhenxing Zhou, \nJiayin Feng, \nJingyi Ru, \nJian Song, \nXueli Qiu, \nLimei Zhang, \nShiqiang Wan",
+          "description": "Journal of Ecology, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70032?af=R",
+          "publishedOn": "2025-03-27T15:04:18.000Z",
+          "wordCount": null,
+          "title": "Nitrogen deposition decouples grassland plant community from soil bacterial and fungal communities along a precipitation gradient",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/1365-2745.70030",
           "author": "Liping Shan, \nAyub M. O. Oduor, \nWenwen Tan, \nYanjie Liu",
@@ -5318,26 +5418,6 @@
           "publishedOn": "2025-03-03T08:54:43.000Z",
           "wordCount": null,
           "title": "Plant nutrient‐acquisition strategies contribute to species replacement during primary succession",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/1365-2745.70016",
-          "author": "Yong Zhou, \nMadelon F. Case, \nA. Carla Staver",
-          "description": "Journal of Ecology, EarlyView.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/1365-2745.70016?af=R",
-          "publishedOn": "2025-02-27T07:30:38.000Z",
-          "wordCount": null,
-          "title": "Root trait (multi)functionality in savanna trees: Progress and challenges",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/1365-2745.70016",
-          "author": "Yong Zhou, \nMadelon F. Case, \nA. Carla Staver",
-          "description": "Journal of Ecology, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70016?af=R",
-          "publishedOn": "2025-02-27T07:30:38.000Z",
-          "wordCount": null,
-          "title": "Root trait (multi)functionality in savanna trees: Progress and challenges",
           "imageUrl": null
         }
       ]
@@ -6022,26 +6102,6 @@
           "publishedOn": "2025-03-01T08:40:15.000Z",
           "wordCount": null,
           "title": "Biogeographic Patterns of Iranian Lepidoptera: A Framework for Conservation",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/ddi.13937",
-          "author": "Franck Pichot, \nDavid Mouillot, \nJean‐Baptiste Juhel, \nAlicia Dalongeville, \nOlivier Adam, \nVéronique Arnal, \nThomas Bockel, \nEmilie Boulanger, \nPierre Boissery, \nMadeleine Cancemi, \nEric Charbonnel, \nJean‐Michel Culioli, \nTony Dejean, \nNacim Guellati, \nVirginie Hartmann, \nFlorian Holon, \nPhilippe Lenfant, \nSandra Mallol, \nVirginie Marques, \nLaetitia Mathon, \nJean‐Jacques Riutort, \nMarie‐Catherine Santoni, \nNicolas Tomasi, \nAlice Valentini, \nLaure Velez, \nStéphanie Manel, \nJulie Deter",
-          "description": "Diversity and Distributions, Volume 31, Issue 2, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13937?af=R",
-          "publishedOn": "2025-02-27T08:00:00.000Z",
-          "wordCount": null,
-          "title": "Mediterranean Islands as Refugia for Elasmobranch and Threatened Fishes",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/ddi.13929",
-          "author": "Javiera P. Olivares‐Rojas, \nCarly N. Cook, \nDavid H. Duncan, \nJessica C. Walsh",
-          "description": "Diversity and Distributions, Volume 31, Issue 2, February 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13929?af=R",
-          "publishedOn": "2025-02-27T08:00:00.000Z",
-          "wordCount": null,
-          "title": "A Synthesis of Threats Impacting Australian Threatened Ecological Communities",
           "imageUrl": null
         }
       ]
