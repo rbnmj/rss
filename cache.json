@@ -957,6 +957,16 @@
       "siteUrl": "https://esajournals.onlinelibrary.wiley.com/journal/15577015?af=R",
       "articles": [
         {
+          "id": "10.1002/ecm.70010",
+          "author": "Rubén del Campo, \nRosetta C. Blackman, \nJan Martini, \nThomas Fuß, \nLukas Thuile Bistarelli, \nMark O. Gessner, \nFlorian Altermatt, \nGabriel Singer",
+          "description": "Ecological Monographs, Volume 95, Issue 1, February 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.70010?af=R",
+          "publishedOn": "2025-03-28T07:58:52.000Z",
+          "wordCount": null,
+          "title": "Functional macroinvertebrate diversity stabilizes decomposition among leaf litter resources across a river network",
+          "imageUrl": null
+        },
+        {
           "id": "10.1002/ecm.70008",
           "author": "Chuliang Song, \nMuyang Lu, \nJoseph R. Bennett, \nBenjamin Gilbert, \nMarie‐Josée Fortin, \nAndrew Gonzalez",
           "description": "Ecological Monographs, Volume 95, Issue 1, February 2025.",
@@ -1021,6 +1031,26 @@
           "publishedOn": "2025-03-28T07:48:41.000Z",
           "wordCount": null,
           "title": "Evaluating the robustness of generalized additive models as a tool for threshold detection in variable environments",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecs2.70070",
+          "author": "Tadeo H. Ramirez‐Parada, \nIsaac W. Park, \nSydne Record, \nCharles C. Davis, \nSusan J. Mazer",
+          "description": "Ecosphere, Volume 16, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70070?af=R",
+          "publishedOn": "2025-03-28T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Scaling flowering onset and duration responses among species predicts phenological community reassembly under warming",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecs2.70236",
+          "author": "Matthew Baker, \nIan Yesilonis, \nLaura Templeton, \nBeatriz Shobe, \nJaelyn Bos, \nNancy F. Sonti, \nKatherine Lautar",
+          "description": "Ecosphere, Volume 16, Issue 3, March 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.70236?af=R",
+          "publishedOn": "2025-03-28T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Distributed urban forest patch sampling detects edge effects and woodland condition for monitoring and management",
           "imageUrl": null
         },
         {
@@ -1448,6 +1478,16 @@
       "siteUrl": "https://nsojournals.onlinelibrary.wiley.com/journal/16000706?af=R",
       "articles": [
         {
+          "id": "10.1111/oik.10962",
+          "author": "Ashley Baragary, \nLin Wang, \nKing‐Yeung Adrian Lam, \nArwa Ali, \nJason Belden, \nKevin Collins, \nBo Zhang",
+          "description": "Oikos, EarlyView.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10962?af=R",
+          "publishedOn": "2025-03-28T12:28:51.000Z",
+          "wordCount": null,
+          "title": "Determining the optimal movement strategies in environments with heterogeneously distributed resources and toxicants",
+          "imageUrl": null
+        },
+        {
           "id": "10.1002/oik.11095",
           "author": "Ryan A. Chisholm, \nNicholas Z. W. Fong, \nDaniel A. Friess, \nAndre S. Rovai",
           "description": "Oikos, EarlyView.",
@@ -1695,16 +1735,6 @@
           "publishedOn": "2025-03-04T11:41:12.000Z",
           "wordCount": null,
           "title": "Polyploidy confers better cold tolerance in Daphnia",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/oik.10835",
-          "author": "Loraine Hablützel, \nClaudia Bank",
-          "description": "Oikos, EarlyView.",
-          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10835?af=R",
-          "publishedOn": "2025-02-28T08:00:00.000Z",
-          "wordCount": null,
-          "title": "Studying the genetic basis of ecological interactions with intergenomic epistasis",
           "imageUrl": null
         }
       ]
@@ -2150,36 +2180,6 @@
           "wordCount": 15381,
           "title": "Chimeric origins and dynamic evolution of central carbon metabolism in eukaryotes",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-025-02648-0/MediaObjects/41559_2025_2648_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41559-025-02658-y",
-          "author": null,
-          "description": "Whether sensory ‘trade-offs’ between vision and olfaction existed during diversifications of early primates is still an open question. By combining genomic, molecular and neuroanatomical evidence, these new results support sensory shifts and not just trade-offs during primate evolution.",
-          "link": "https://www.nature.com/articles/s41559-025-02658-y",
-          "publishedOn": "2025-02-28T00:00:00.000Z",
-          "wordCount": 3783,
-          "title": "Changes in sight and smell in early primate evolution",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-025-02658-y/MediaObjects/41559_2025_2658_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41559-025-02651-5",
-          "author": "Hai Chi",
-          "description": "An analysis of genomic, molecular and neuroanatomical traits across extant primates reveals early divergence in visual and olfactory systems of major primate lineages consistent with lineage-specific shifts in diel activity and dietary niche, providing support for a sensory ‘reallocation’ hypothesis.",
-          "link": "https://www.nature.com/articles/s41559-025-02651-5",
-          "publishedOn": "2025-02-28T00:00:00.000Z",
-          "wordCount": 8875,
-          "title": "Genomic and phenotypic evidence support visual and olfactory shifts in primate evolution",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-025-02651-5/MediaObjects/41559_2025_2651_Fig1_HTML.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41559-025-02647-1",
-          "author": "Ovidio García-Oliva",
-          "description": "The structure of aquatic food webs does not fit standard allometric predictions. Here the authors explain the co-evolution of specialist and non-specialist predators in aquatic food webs and how this helps reconstruct food webs on the basis of a relatively small number of observations.",
-          "link": "https://www.nature.com/articles/s41559-025-02647-1",
-          "publishedOn": "2025-02-28T00:00:00.000Z",
-          "wordCount": 13004,
-          "title": "The complex structure of aquatic food webs emerges from a few assembly rules",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-025-02647-1/MediaObjects/41559_2025_2647_Fig1_HTML.png"
         }
       ]
     },
@@ -2707,16 +2707,6 @@
           "wordCount": null,
           "title": "Reconciling the Discrepancy in Projected Global Dryland Expansion in a Warming World",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/gcb.17323",
-          "author": null,
-          "description": "Global Change Biology, Volume 31, Issue 3, March 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.17323?af=R",
-          "publishedOn": "2025-02-28T12:34:13.000Z",
-          "wordCount": null,
-          "title": "Issue Information",
-          "imageUrl": null
         }
       ]
     },
@@ -2725,6 +2715,46 @@
       "feedUrl": "https://conbio.onlinelibrary.wiley.com/feed/15231739/most-recent",
       "siteUrl": "https://conbio.onlinelibrary.wiley.com/journal/15231739?af=R",
       "articles": [
+        {
+          "id": "10.1111/cobi.70020",
+          "author": "Mattia Falaschi, \nElia Lo Parrino, \nRaoul Manenti, \nGentile Francesco Ficetola",
+          "description": "Conservation Biology, EarlyView.",
+          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.70020?af=R",
+          "publishedOn": "2025-03-28T09:30:47.000Z",
+          "wordCount": null,
+          "title": "Differences in estimates of extinction risk between occupancy and abundance data",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/cobi.70021",
+          "author": "Huayao Gao, \nYumei Li, \nChao Zhang, \nHaoyang Wang, \nYonggang Nie",
+          "description": "Conservation Biology, EarlyView.",
+          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.70021?af=R",
+          "publishedOn": "2025-03-28T09:25:47.000Z",
+          "wordCount": null,
+          "title": "Effects of climate, virus, and host characteristics on the seroprevalence of pathogenic viruses in terrestrial mammals",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/cobi.70019",
+          "author": "Yin Yang, \nChen Li, \nYi‐Hao Fang, \nGuo‐Peng Ren, \nZhi‐Pang Huang, \nYan‐Peng Li, \nLiang‐Wei Cui, \nMeng‐Ran Chu‐yuan, \nColin A. Chapmman, \nCyril C. Grueter, \nJian Zhou, \nWen‐Bo Yan, \nXin Liu, \nLi‐Xiang Zhang, \nRui‐An Tang, \nYing‐Ping Tian, \nFei Li, \nKe‐Guo Hang, \nPeng‐Ying Li, \nPaul A. Garber, \nRui‐Dong Wu, \nWen Xiao",
+          "description": "Conservation Biology, EarlyView.",
+          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.70019?af=R",
+          "publishedOn": "2025-03-28T09:25:05.000Z",
+          "wordCount": null,
+          "title": "Effect of primate protection on threatened and endemic vertebrates, plants, ecosystem services, and future climate refugia",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/cobi.70016",
+          "author": "Daniel Zayonc, \nBrian E. Robinson, \nOliver T. Coomes, \nYoshito Takasaki, \nChristian Abizaid",
+          "description": "Conservation Biology, EarlyView.",
+          "link": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.70016?af=R",
+          "publishedOn": "2025-03-28T09:24:47.000Z",
+          "wordCount": null,
+          "title": "Use of community characteristics to predict hunting and game harvests in western Amazonian forests",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/cobi.70014",
           "author": "Chao Zhang, \nYumei Li, \nXiaoyu Hu, \nHaoyang Wang, \nZexuan Gao, \nYonggang Nie",
@@ -2842,6 +2872,16 @@
       "feedUrl": "https://besjournals.onlinelibrary.wiley.com/feed/13652664/most-recent",
       "siteUrl": "https://besjournals.onlinelibrary.wiley.com/journal/13652664?af=R",
       "articles": [
+        {
+          "id": "10.1111/1365-2664.70041",
+          "author": "Charlotte M. Reemts, \nJustin C. Havird, \nWhitney L. Behr, \nMegan K. Clayton, \nJamie L. Foster, \nMeagan M. Lesak, \nCarolyn V. Whiting, \nCaroline E. Farrior, \nAmelia A. Wolf",
+          "description": "Journal of Applied Ecology, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70041?af=R",
+          "publishedOn": "2025-03-29T07:09:46.000Z",
+          "wordCount": null,
+          "title": "Fire season and drought influence fire effects on invasive grasses: A meta‐analysis",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/1365-2664.70027",
           "author": "Charlie J. Gardner, \nJames M. Bullock",
@@ -3494,6 +3534,16 @@
           "publishedOn": "2025-03-21T13:35:15.000Z",
           "wordCount": null,
           "title": "Promoting acorn survival using capsaicin seed coatings is strengthened by the removal of invasive shrubs",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/rec.14387",
+          "author": "Chelsea Waters, \nPeter L. Harrison, \nMarine Gouezo, \nAndrea Severati, \nChristopher Doropoulos",
+          "description": "Restoration Ecology, Volume 33, Issue 3, March 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/rec.14387?af=R",
+          "publishedOn": "2025-03-21T08:11:40.000Z",
+          "wordCount": null,
+          "title": "Early‐stage coral survivorship using wild larval assemblages on coral seeding devices for reef restoration",
           "imageUrl": null
         },
         {
@@ -4244,6 +4294,16 @@
       "siteUrl": "https://besjournals.onlinelibrary.wiley.com/journal/2041210x?af=R",
       "articles": [
         {
+          "id": "10.1111/2041-210X.70031",
+          "author": "Alice Michelot‐Antalik, \nAlban Langlois, \nFrancesco de Bello, \nJames Desaegher, \nLéa Genty, \nJérémie Goulnik, \nJérémy Grosjean, \nAnne‐Laure Jacquemart, \nAlan Kergunteuil, \nRobert R. Junker, \nLéna Jeannerod, \nJean‐François Odoux, \nMagali Proffit, \nBertrand Schatz, \nMaryse Vanderplanck, \nAnna E‐Vojtkó, \nMathilde Baude",
+          "description": "Methods in Ecology and Evolution, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70031?af=R",
+          "publishedOn": "2025-03-28T10:41:05.000Z",
+          "wordCount": null,
+          "title": "Handbook of protocols for standardized measurements of floral traits for pollinators in temperate communities",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/2041-210X.70000",
           "author": "Abigail G. Keller, \nRyan P. Kelly",
           "description": "Methods in Ecology and Evolution, EarlyView.",
@@ -4602,16 +4662,6 @@
           "wordCount": null,
           "title": "Innovative chips for coral cultivation: Enhanced flexibility and experimental applications",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/2041-210X.70008",
-          "author": "Brendan M. Carswell, \nTal Avgar, \nGarrett M. Street, \nSean P. Boyle, \nEric Vander Wal",
-          "description": "Methods in Ecology and Evolution, EarlyView.",
-          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70008?af=R",
-          "publishedOn": "2025-02-28T06:59:35.000Z",
-          "wordCount": null,
-          "title": "One size does not fit all: A novel approach for determining the Realised Viewshed Size for remote camera traps",
-          "imageUrl": null
         }
       ]
     },
@@ -4628,26 +4678,6 @@
           "publishedOn": "2025-03-10T07:00:00.000Z",
           "wordCount": null,
           "title": "Homogenization of High-Contrast Dielectric Elastomer Composites",
-          "imageUrl": null
-        },
-        {
-          "id": "https://epubs.siam.org/doi/abs/10.1137/24M1661674?af=R",
-          "author": "Konstantinos Alexopoulos",
-          "description": "Multiscale Modeling & Simulation, Volume 23, Issue 1, Page 611-639, March 2025. \n Abstract. This work extends the theory of topological protection to dispersive systems. We prove the existence of localized interface modes using the monotonicity of impedance functions and geometric symmetries of the material. We consider time-harmonic waves in one-dimensional systems with real-valued, frequency-dependent coefficients. Finally, we show that when such modes exist, they benefit from enhanced robustness with respect to imperfections.",
-          "link": "https://epubs.siam.org/doi/abs/10.1137/24M1661674?af=R",
-          "publishedOn": "2025-02-28T08:00:00.000Z",
-          "wordCount": null,
-          "title": "Topologically Protected Modes in Dispersive Materials: The Case of Undamped Systems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://epubs.siam.org/doi/abs/10.1137/23M1604989?af=R",
-          "author": "Giovanni Conni",
-          "description": "Multiscale Modeling & Simulation, Volume 23, Issue 1, Page 640-667, March 2025. \n Abstract. We propose a new model reduction technique for multiscale scalar transport problems that exhibit dominant axial dynamics. Toward this aim, we rely on the separation of variables to combine a hierarchical model (HiMod) reduction with a two-scale asymptotic expansion. We extend the two-scale asymptotic expansion to an arbitrary order and exploit the high-order correctors to define the HiMod modal basis which approximates the transverse dynamics of the flow, while we adopt a finite element discretization to model the leading stream. The resulting method, which is named HiPhom[math] (high-order projection-based homogenization), is successfully assessed both in steady and unsteady advection-diffusion-reaction settings. The numerical results confirm the very good performance of HiPhom[math], which improves the accuracy and the convergence rate of HiMod and extends the reliability of the standard homogenized solution to transient and preasymptotic regimes.",
-          "link": "https://epubs.siam.org/doi/abs/10.1137/23M1604989?af=R",
-          "publishedOn": "2025-02-28T08:00:00.000Z",
-          "wordCount": null,
-          "title": "HiPhom[math]: High-Order Projection-Based Homogenization for Advection-Diffusion-Reaction Problems",
           "imageUrl": null
         }
       ]
@@ -4715,16 +4745,6 @@
           "publishedOn": "2025-03-02T04:39:32.000Z",
           "wordCount": null,
           "title": "Characteristics and environmental driving factors of plant rhizosphere bacterial communities in typical lead-zinc mine tailings in Southern Guizhou",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2467336?af=R",
-          "author": "Luiza Costa Mello Rivelino Martins Cavalcante Luciana Machado Bastos Arlene Bispo dos Santos Nossol Mário Machado Martins Caio Cesar-Ribeiro Guacira de Figueiredo Eufrasio Pauly Denis Moledo de Souza Abessa a Universidade Federal do Ceará – Labomar, Fortaleza, Brazilb Laboratory of Nanobiotechnology Professor Dr Luiz Ricardo Goulart Filho, Federal University of Uberlândia, Brazilc Universidade Estadual Paulista – IB-CLP, São Vicente, Brazil",
-          "description": ".",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2467336?af=R",
-          "publishedOn": "2025-02-28T05:20:02.000Z",
-          "wordCount": null,
-          "title": "Oil spill effects in biota and traditional populations from protected areas of Brazil’s Northeast",
           "imageUrl": null
         }
       ]
@@ -5428,6 +5448,16 @@
       "siteUrl": "https://nsojournals.onlinelibrary.wiley.com/journal/16000587?af=R",
       "articles": [
         {
+          "id": "10.1111/ecog.07479",
+          "author": "Maxime Lenormand, \nJean-Baptiste Féret, \nGuillaume Papuga, \nSamuel Alleaume, \nSandra Luque",
+          "description": "Ecography, EarlyView.",
+          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.07479?af=R",
+          "publishedOn": "2025-03-28T12:28:49.000Z",
+          "wordCount": null,
+          "title": "Coupling in situ and remote sensing data to assess α‐ and β‐diversity over biogeographic gradients",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/ecog.07488",
           "author": "Ken Joseph E. Clemente, \nMads S. Thomsen",
           "description": "Ecography, EarlyView.",
@@ -5926,26 +5956,6 @@
           "wordCount": null,
           "title": "Dissecting earthworm diversity in tropical rainforests",
           "imageUrl": null
-        },
-        {
-          "id": "10.1111/ecog.07644",
-          "author": "Timothy D. Lambert, \nStephen P. Ellner",
-          "description": "Ecography, EarlyView.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ecog.07644?af=R",
-          "publishedOn": "2025-02-28T13:19:50.000Z",
-          "wordCount": null,
-          "title": "SDM meets eDNA: optimal sampling of environmental DNA to estimate species–environment relationships in stream networks",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/ecog.07644",
-          "author": "Timothy D. Lambert, \nStephen P. Ellner",
-          "description": "Ecography, EarlyView.",
-          "link": "https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.07644?af=R",
-          "publishedOn": "2025-02-28T13:19:50.000Z",
-          "wordCount": null,
-          "title": "SDM meets eDNA: optimal sampling of environmental DNA to estimate species–environment relationships in stream networks",
-          "imageUrl": null
         }
       ]
     },
@@ -5954,6 +5964,36 @@
       "feedUrl": "https://onlinelibrary.wiley.com/feed/14724642/most-recent",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/14724642?af=R",
       "articles": [
+        {
+          "id": "10.1111/ddi.13876",
+          "author": null,
+          "description": "Diversity and Distributions, Volume 31, Issue 4, April 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13876?af=R",
+          "publishedOn": "2025-03-29T07:04:01.000Z",
+          "wordCount": null,
+          "title": "Issue Information",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/ddi.70015",
+          "author": "Matthew J. Young, \nPeter J. Unmack, \nBernd Gruber, \nDianne M. Gleeson, \nCarla C. Eisemberg, \nYolarnie Amepou, \nDotty Ibana, \nArthur Georges",
+          "description": "Diversity and Distributions, Volume 31, Issue 4, April 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.70015?af=R",
+          "publishedOn": "2025-03-29T07:04:01.000Z",
+          "wordCount": null,
+          "title": "Historical Biogeography and Genetic Status of the Enigmatic Pig‐Nosed Turtle (Carettochelys insculpta) Within the Australo‐Papuan Region",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/ddi.13885",
+          "author": null,
+          "description": "Diversity and Distributions, Volume 31, Issue 4, April 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13885?af=R",
+          "publishedOn": "2025-03-29T07:03:51.000Z",
+          "wordCount": null,
+          "title": "Cover page",
+          "imageUrl": null
+        },
         {
           "id": "10.1111/ddi.70016",
           "author": "André Vicente Liz, \nFulvio Licata, \nBárbara Santos, \nDuarte Vasconcelos Gonçalves, \nMargareta Lakušić, \nMyrto Roumelioti, \nNina Serén, \nPedro Tarroso, \nAyman Abdulkareem, \nPatkó László, \nJosé Carlos Brito",
@@ -6111,6 +6151,26 @@
       "feedUrl": "https://onlinelibrary.wiley.com/feed/26374943/most-recent",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/26374943?af=R",
       "articles": [
+        {
+          "id": "10.1002/edn3.70084",
+          "author": "Dana Bludau, \nGuido Sieber, \nManan Shah, \nAman Deep, \nJens Boenigk, \nDaniela Beisser",
+          "description": "Environmental DNA, Volume 7, Issue 2, March–April 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1002/edn3.70084?af=R",
+          "publishedOn": "2025-03-28T15:56:17.000Z",
+          "wordCount": null,
+          "title": "Breaking the Standard: Can Oxford Nanopore Technologies Sequencing Compete With Illumina in Protistan Amplicon Studies?",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/edn3.70086",
+          "author": "Pedro A. Peres, \nHeather Bracken‐Grissom",
+          "description": "Environmental DNA, Volume 7, Issue 2, March–April 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1002/edn3.70086?af=R",
+          "publishedOn": "2025-03-28T15:55:40.000Z",
+          "wordCount": null,
+          "title": "Water Volume, Biological and PCR Replicates Influence the Characterization of Deep‐Sea Pelagic Fish Communities",
+          "imageUrl": null
+        },
         {
           "id": "10.1002/edn3.70081",
           "author": "Megan M. A. Elsmore, \nSarah Dalesman, \nJames P. Glass, \nJéssica Escobar‐Porras, \nCharles R. Treleven, \nSarah Helyar, \nPaul W. Shaw, \nNiall J. McKeown",
