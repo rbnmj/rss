@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-03-30T06:16:12.446Z</updated>
+    <updated>2025-03-31T06:18:23.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Issue Information]]></title>
+        <id>10.1111/gcb.17324</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.17324?af=R"/>
+        <updated>2025-03-29T09:59:52.000Z</updated>
+        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 4, April 2025.]]></summary>
+        <author>
+            <name>Wiley: Global Change Biology: Table of Contents</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fire season and drought influence fire effects on invasive grasses: A meta‐analysis]]></title>
         <id>10.1111/1365-2664.70041</id>
@@ -9370,53 +9380,6 @@ Janne Soininen</name>
         <summary type="html"><![CDATA[.]]></summary>
         <author>
             <name>Liangliang Chen Jidi Ouyang Zhiwei Han Pan Wu a College of Resources and Environmental Engineering, Guizhou University, Guiyang, Chinab Qiannan Ecological Environment Monitoring Center, Qiannan, Chinac Key Laboratory of Karst Geological Resources and Environment, Ministry of Education, Guizhou University, Guiyang, Chinad Guizhou Karst Environmental Ecological Observation and Research Station, Ministry of Education, Guizhou University, Guiyang, China</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reconciling the Discrepancy in Projected Global Dryland Expansion in a Warming World]]></title>
-        <id>10.1111/gcb.70102</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70102?af=R"/>
-        <updated>2025-03-01T10:11:56.000Z</updated>
-        <summary type="html"><![CDATA[Global Change Biology, Volume 31, Issue 3, March 2025.]]></summary>
-        <author>
-            <name>Sha Zhou, 
-Bofu Yu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cover page]]></title>
-        <id>10.1111/ddi.13883</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ddi.13883?af=R"/>
-        <updated>2025-03-01T08:41:08.000Z</updated>
-        <summary type="html"><![CDATA[Diversity and Distributions, Volume 31, Issue 3, March 2025.]]></summary>
-        <author>
-            <name>Wiley: Diversity and Distributions: Table of Contents</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Issue Information]]></title>
-        <id>10.1111/ddi.13874</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ddi.13874?af=R"/>
-        <updated>2025-03-01T08:40:35.000Z</updated>
-        <summary type="html"><![CDATA[Diversity and Distributions, Volume 31, Issue 3, March 2025.]]></summary>
-        <author>
-            <name>Wiley: Diversity and Distributions: Table of Contents</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biogeographic Patterns of Iranian Lepidoptera: A Framework for Conservation]]></title>
-        <id>10.1111/ddi.70010</id>
-        <link href="https://onlinelibrary.wiley.com/doi/10.1111/ddi.70010?af=R"/>
-        <updated>2025-03-01T08:40:15.000Z</updated>
-        <summary type="html"><![CDATA[Diversity and Distributions, Volume 31, Issue 3, March 2025.]]></summary>
-        <author>
-            <name>Sajad Noori, 
-Dennis Rödder, 
-Gholam Hosein Yusefi, 
-Oliver Hawlitschek, 
-Dominic Wanke, 
-Martin Husemann, 
-Hossein Rajaei</name>
         </author>
     </entry>
 </feed>

@@ -2189,6 +2189,16 @@
       "siteUrl": "https://onlinelibrary.wiley.com/journal/13652486?af=R",
       "articles": [
         {
+          "id": "10.1111/gcb.17324",
+          "author": null,
+          "description": "Global Change Biology, Volume 31, Issue 4, April 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.17324?af=R",
+          "publishedOn": "2025-03-29T09:59:52.000Z",
+          "wordCount": null,
+          "title": "Issue Information",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/gcb.70121",
           "author": "Nathaniel E. Seavy, \nMelanie A. Smith, \nWilliam V. DeLuca, \nErika J. Knight, \nChad J. Witko, \nSarah P. Saunders, \nLotem Taylor, \nDaniela Linero‐Triana, \nJorge Velásquez‐Tibatá, \nChad B. Wilsey, \nJill L. Deppe",
           "description": "Global Change Biology, Volume 31, Issue 3, March 2025.",
@@ -2696,16 +2706,6 @@
           "publishedOn": "2025-03-03T07:19:49.000Z",
           "wordCount": null,
           "title": "Plant Invasion Increases Soil Microbial Biomass Carbon: Meta‐Analysis and Empirical Tests",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/gcb.70102",
-          "author": "Sha Zhou, \nBofu Yu",
-          "description": "Global Change Biology, Volume 31, Issue 3, March 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70102?af=R",
-          "publishedOn": "2025-03-01T10:11:56.000Z",
-          "wordCount": null,
-          "title": "Reconciling the Discrepancy in Projected Global Dryland Expansion in a Warming World",
           "imageUrl": null
         }
       ]
@@ -6112,36 +6112,6 @@
           "publishedOn": "2025-03-11T12:05:54.000Z",
           "wordCount": null,
           "title": "A Simple, Quantitative Determination of the Appropriate Duration of Site Closure to Improve Occupancy Modelling for Nomadic Species",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/ddi.13883",
-          "author": null,
-          "description": "Diversity and Distributions, Volume 31, Issue 3, March 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13883?af=R",
-          "publishedOn": "2025-03-01T08:41:08.000Z",
-          "wordCount": null,
-          "title": "Cover page",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/ddi.13874",
-          "author": null,
-          "description": "Diversity and Distributions, Volume 31, Issue 3, March 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.13874?af=R",
-          "publishedOn": "2025-03-01T08:40:35.000Z",
-          "wordCount": null,
-          "title": "Issue Information",
-          "imageUrl": null
-        },
-        {
-          "id": "10.1111/ddi.70010",
-          "author": "Sajad Noori, \nDennis Rödder, \nGholam Hosein Yusefi, \nOliver Hawlitschek, \nDominic Wanke, \nMartin Husemann, \nHossein Rajaei",
-          "description": "Diversity and Distributions, Volume 31, Issue 3, March 2025.",
-          "link": "https://onlinelibrary.wiley.com/doi/10.1111/ddi.70010?af=R",
-          "publishedOn": "2025-03-01T08:40:15.000Z",
-          "wordCount": null,
-          "title": "Biogeographic Patterns of Iranian Lepidoptera: A Framework for Conservation",
           "imageUrl": null
         }
       ]
