@@ -1982,6 +1982,26 @@
       "siteUrl": "http://feeds.nature.com/natecolevol/rss/current",
       "articles": [
         {
+          "id": "https://www.nature.com/articles/s41559-025-02681-z",
+          "author": "Vaishali Bhaumik",
+          "description": "Nature Ecology & Evolution - Butterfly optics underlie mate preference",
+          "link": "https://www.nature.com/articles/s41559-025-02681-z",
+          "publishedOn": "2025-03-31T00:00:00.000Z",
+          "wordCount": 3522,
+          "title": "Butterfly optics underlie mate preference",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nature.com/articles/s41559-025-02680-0",
+          "author": "Vaishali Bhaumik",
+          "description": "Nature Ecology & Evolution - Protein priorities",
+          "link": "https://www.nature.com/articles/s41559-025-02680-0",
+          "publishedOn": "2025-03-31T00:00:00.000Z",
+          "wordCount": 3441,
+          "title": "Protein priorities",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nature.com/articles/s41559-025-02649-z",
           "author": null,
           "description": "Self-domestication in Aedes aegypti mosquitoes (the behaviour of living in association with humans for the past 5,000 years) was accompanied by hundreds of genetic adaptations that affect chemosensory, neuronal, regulatory and metabolic functions. Such adaptations arose by selection acting on preexisting genetic variation and local adaptation driven by neuronal olfactory redundancy.",
@@ -4294,6 +4314,36 @@
       "siteUrl": "https://besjournals.onlinelibrary.wiley.com/journal/2041210x?af=R",
       "articles": [
         {
+          "id": "10.1111/2041-210X.70013",
+          "author": "Luís F. Pereira, \nRui Seabra, \nBruno Loureiro, \nFrancisco Arenas, \nFernando P. Lima",
+          "description": "Methods in Ecology and Evolution, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70013?af=R",
+          "publishedOn": "2025-03-31T07:31:29.000Z",
+          "wordCount": null,
+          "title": "Intertidal Environmental Chamber: An automatic system to accurately simulate the thermal complexity of intertidal environments",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/2041-210X.70030",
+          "author": "Owen R. Jones",
+          "description": "Methods in Ecology and Evolution, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70030?af=R",
+          "publishedOn": "2025-03-31T07:30:49.000Z",
+          "wordCount": null,
+          "title": "mpmsim: An R package for simulating matrix population models",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/2041-210X.70019",
+          "author": "Holly I. Niven, \nJana W. E. Jeglinski, \nGeert Aarts, \nEwan D. Wakefield, \nJason Matthiopoulos",
+          "description": "Methods in Ecology and Evolution, EarlyView.",
+          "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70019?af=R",
+          "publishedOn": "2025-03-31T04:01:22.000Z",
+          "wordCount": null,
+          "title": "Towards biologically realistic estimates of home range and spatial exposure for colonial animals",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/2041-210X.70031",
           "author": "Alice Michelot‐Antalik, \nAlban Langlois, \nFrancesco de Bello, \nJames Desaegher, \nLéa Genty, \nJérémie Goulnik, \nJérémy Grosjean, \nAnne‐Laure Jacquemart, \nAlan Kergunteuil, \nRobert R. Junker, \nLéna Jeannerod, \nJean‐François Odoux, \nMagali Proffit, \nBertrand Schatz, \nMaryse Vanderplanck, \nAnna E‐Vojtkó, \nMathilde Baude",
           "description": "Methods in Ecology and Evolution, EarlyView.",
@@ -4725,26 +4775,6 @@
           "publishedOn": "2025-03-03T06:27:28.000Z",
           "wordCount": null,
           "title": "Risk assessment of seawater intrusion disaster based on FDAHP-EWM method in coastal region of Jinzhou City, China",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2471496?af=R",
-          "author": "Qiongbing Xiong Xuecheng Wu Cizhen Yu a College of Tourism Management, Guizhou University of Commerce, Guiyang, Chinab Guizhou Provincial Research Center for Collaborative Intelligent Perception of Mountain Spatial Information, Guizhou University of Commerce, Guiyang, China",
-          "description": ".",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2471496?af=R",
-          "publishedOn": "2025-03-02T04:47:55.000Z",
-          "wordCount": null,
-          "title": "Characteristics of spatial and temporal evolution and coupling relationships between urbanization and atmospheric particulate matter in the Qianzhong urban agglomeration",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464114?af=R",
-          "author": "Liangliang Chen Jidi Ouyang Zhiwei Han Pan Wu a College of Resources and Environmental Engineering, Guizhou University, Guiyang, Chinab Qiannan Ecological Environment Monitoring Center, Qiannan, Chinac Key Laboratory of Karst Geological Resources and Environment, Ministry of Education, Guizhou University, Guiyang, Chinad Guizhou Karst Environmental Ecological Observation and Research Station, Ministry of Education, Guizhou University, Guiyang, China",
-          "description": ".",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464114?af=R",
-          "publishedOn": "2025-03-02T04:39:32.000Z",
-          "wordCount": null,
-          "title": "Characteristics and environmental driving factors of plant rhizosphere bacterial communities in typical lead-zinc mine tailings in Southern Guizhou",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-03-31T06:18:23.433Z</updated>
+    <updated>2025-04-01T06:18:22.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intertidal Environmental Chamber: An automatic system to accurately simulate the thermal complexity of intertidal environments]]></title>
+        <id>10.1111/2041-210X.70013</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70013?af=R"/>
+        <updated>2025-03-31T07:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
+        <author>
+            <name>Luís F. Pereira, 
+Rui Seabra, 
+Bruno Loureiro, 
+Francisco Arenas, 
+Fernando P. Lima</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mpmsim: An R package for simulating matrix population models]]></title>
+        <id>10.1111/2041-210X.70030</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70030?af=R"/>
+        <updated>2025-03-31T07:30:49.000Z</updated>
+        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
+        <author>
+            <name>Owen R. Jones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards biologically realistic estimates of home range and spatial exposure for colonial animals]]></title>
+        <id>10.1111/2041-210X.70019</id>
+        <link href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70019?af=R"/>
+        <updated>2025-03-31T04:01:22.000Z</updated>
+        <summary type="html"><![CDATA[Methods in Ecology and Evolution, EarlyView.]]></summary>
+        <author>
+            <name>Holly I. Niven, 
+Jana W. E. Jeglinski, 
+Geert Aarts, 
+Ewan D. Wakefield, 
+Jason Matthiopoulos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Butterfly optics underlie mate preference]]></title>
+        <id>https://www.nature.com/articles/s41559-025-02681-z</id>
+        <link href="https://www.nature.com/articles/s41559-025-02681-z"/>
+        <updated>2025-03-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nature Ecology & Evolution - Butterfly optics underlie mate preference]]></summary>
+        <author>
+            <name>Vaishali Bhaumik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protein priorities]]></title>
+        <id>https://www.nature.com/articles/s41559-025-02680-0</id>
+        <link href="https://www.nature.com/articles/s41559-025-02680-0"/>
+        <updated>2025-03-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nature Ecology & Evolution - Protein priorities]]></summary>
+        <author>
+            <name>Vaishali Bhaumik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Issue Information]]></title>
         <id>10.1111/gcb.17324</id>
@@ -9360,26 +9418,6 @@ Janne Soininen</name>
         <summary type="html"><![CDATA[Analysis of the eukaryotic gene repertoires mediating central carbon metabolism identifies ancestral contributions from Alphaproteobacteria, Asgardarchaeota and other microbial taxa, followed by gene loss, transfer and subcellular retargeting, which have remodelled central carbon metabolism over time.]]></summary>
         <author>
             <name>Carlos Santana-Molina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Characteristics of spatial and temporal evolution and coupling relationships between urbanization and atmospheric particulate matter in the Qianzhong urban agglomeration]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2471496?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2471496?af=R"/>
-        <updated>2025-03-02T04:47:55.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Qiongbing Xiong Xuecheng Wu Cizhen Yu a College of Tourism Management, Guizhou University of Commerce, Guiyang, Chinab Guizhou Provincial Research Center for Collaborative Intelligent Perception of Mountain Spatial Information, Guizhou University of Commerce, Guiyang, China</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Characteristics and environmental driving factors of plant rhizosphere bacterial communities in typical lead-zinc mine tailings in Southern Guizhou]]></title>
-        <id>https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464114?af=R</id>
-        <link href="https://www.tandfonline.com/doi/full/10.1080/10807039.2025.2464114?af=R"/>
-        <updated>2025-03-02T04:39:32.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Liangliang Chen Jidi Ouyang Zhiwei Han Pan Wu a College of Resources and Environmental Engineering, Guizhou University, Guiyang, Chinab Qiannan Ecological Environment Monitoring Center, Qiannan, Chinac Key Laboratory of Karst Geological Resources and Environment, Ministry of Education, Guizhou University, Guiyang, Chinad Guizhou Karst Environmental Ecological Observation and Research Station, Ministry of Education, Guizhou University, Guiyang, China</name>
         </author>
     </entry>
 </feed>
