@@ -6,39 +6,37 @@
 cacheUrl: https://rbnmj.github.io/rss/cache.json
 sources:
   - href: https://esajournals.onlinelibrary.wiley.com/feed/19399170/most-recent # Ecology
-    tags: [none]
   - href: https://esajournals.onlinelibrary.wiley.com/feed/19395582/most-recent # Ecological Applications
-    tags: [eco]
-#   - href: https://esajournals.onlinelibrary.wiley.com/feed/15409309/most-recent # Frontiers in Ecology and the Environment
-#   - href: https://esajournals.onlinelibrary.wiley.com/feed/15577015/most-recent # Ecological Monographs
-#   - href: https://esajournals.onlinelibrary.wiley.com/feed/21508925/most-recent # Ecosphere
-#   - href: https://onlinelibrary.wiley.com/feed/14610248/most-recent # Ecology Letters
-#   - href: https://rss.sciencedirect.com/publication/science/00225193 # Journal of Theoretical Ecology
-#   - href: https://nsojournals.onlinelibrary.wiley.com/feed/16000706/most-recent # OIKOS
-# # - href: https://www.nature.com/ncomms.rss # Nature Communications
-#   - href: https://www.nature.com/natsustain.rss # Nature Sustainability
-#   - href: https://www.nature.com/natecolevol.rss # Nature Ecology & Evolution
-#   - href: https://onlinelibrary.wiley.com/action/showFeed?jc=13652486&type=etoc&feed=rss # Global Change Biology
-#   - href: https://conbio.onlinelibrary.wiley.com/feed/15231739/most-recent # Conservation Biology
-# # - href: https://journals.plos.org/ploscompbiol/feed/atom # PLOS Computational Biology
-#   - href: https://rss.sciencedirect.com/publication/science/09593780 # Global Environmental Change 
-#   - href: https://rss.sciencedirect.com/publication/science/01692046 # Landscape and Urban Planning
-#   - href: https://besjournals.onlinelibrary.wiley.com/feed/13652664/most-recent # Journal of Applied Ecology
-#   - href: https://onlinelibrary.wiley.com/feed/14668238/most-recent # Global Ecology and Biogeography 
-#   - href: https://rss.sciencedirect.com/publication/science/03043800 # Ecological Modelling
-#   - href: https://onlinelibrary.wiley.com/feed/1526100x/most-recent # Restoration Ecology
-#   - href: https://rss.sciencedirect.com/publication/science/13648152 # Environmental Modelling and Software 
-#   - href: https://besjournals.onlinelibrary.wiley.com/feed/2041210x/most-recent # Methods in Ecology and Evolution
-#   - href: https://rss.sciencedirect.com/publication/science/15749541 # Ecological Informatics
-#   - href: https://epubs.siam.org/action/showFeed?feed=rss&type=etoc&jc=MMS # Multiscale Modeling and Simulation 
-#   - href: https://www.tandfonline.com/feed/rss/bher20 # Human and Ecological Risk Assessment
-#   - href: https://ieeexplore.ieee.org/rss/TOC4235.XML # IEEE Transactions on Evolutionary Computation
-#   - href: https://rss.sciencedirect.com/publication/science/1470160X # Ecological Indicators
-#   - href: https://besjournals.onlinelibrary.wiley.com/feed/13652745/most-recent # Journal of Ecology
-#   - href: https://nsojournals.onlinelibrary.wiley.com/feed/16000587/most-recent # Ecography
-#   - href: https://onlinelibrary.wiley.com/feed/14724642/most-recent # Diversity and Distributions
-#   - href: https://onlinelibrary.wiley.com/feed/26374943/most-recent # Environmental DNA
-#   - href: https://rss.sciencedirect.com/publication/science/1476945X # Ecological Complexity
+  - href: https://esajournals.onlinelibrary.wiley.com/feed/15409309/most-recent # Frontiers in Ecology and the Environment
+  - href: https://esajournals.onlinelibrary.wiley.com/feed/15577015/most-recent # Ecological Monographs
+  - href: https://esajournals.onlinelibrary.wiley.com/feed/21508925/most-recent # Ecosphere
+  - href: https://onlinelibrary.wiley.com/feed/14610248/most-recent # Ecology Letters
+  - href: https://rss.sciencedirect.com/publication/science/00225193 # Journal of Theoretical Ecology
+  - href: https://nsojournals.onlinelibrary.wiley.com/feed/16000706/most-recent # OIKOS
+# - href: https://www.nature.com/ncomms.rss # Nature Communications
+  - href: https://www.nature.com/natsustain.rss # Nature Sustainability
+  - href: https://www.nature.com/natecolevol.rss # Nature Ecology & Evolution
+  - href: https://onlinelibrary.wiley.com/action/showFeed?jc=13652486&type=etoc&feed=rss # Global Change Biology
+  - href: https://conbio.onlinelibrary.wiley.com/feed/15231739/most-recent # Conservation Biology
+# - href: https://journals.plos.org/ploscompbiol/feed/atom # PLOS Computational Biology
+  - href: https://rss.sciencedirect.com/publication/science/09593780 # Global Environmental Change 
+  - href: https://rss.sciencedirect.com/publication/science/01692046 # Landscape and Urban Planning
+  - href: https://besjournals.onlinelibrary.wiley.com/feed/13652664/most-recent # Journal of Applied Ecology
+  - href: https://onlinelibrary.wiley.com/feed/14668238/most-recent # Global Ecology and Biogeography 
+  - href: https://rss.sciencedirect.com/publication/science/03043800 # Ecological Modelling
+  - href: https://onlinelibrary.wiley.com/feed/1526100x/most-recent # Restoration Ecology
+  - href: https://rss.sciencedirect.com/publication/science/13648152 # Environmental Modelling and Software 
+  - href: https://besjournals.onlinelibrary.wiley.com/feed/2041210x/most-recent # Methods in Ecology and Evolution
+  - href: https://rss.sciencedirect.com/publication/science/15749541 # Ecological Informatics
+  - href: https://epubs.siam.org/action/showFeed?feed=rss&type=etoc&jc=MMS # Multiscale Modeling and Simulation 
+  - href: https://www.tandfonline.com/feed/rss/bher20 # Human and Ecological Risk Assessment
+  - href: https://ieeexplore.ieee.org/rss/TOC4235.XML # IEEE Transactions on Evolutionary Computation
+  - href: https://rss.sciencedirect.com/publication/science/1470160X # Ecological Indicators
+  - href: https://besjournals.onlinelibrary.wiley.com/feed/13652745/most-recent # Journal of Ecology
+  - href: https://nsojournals.onlinelibrary.wiley.com/feed/16000587/most-recent # Ecography
+  - href: https://onlinelibrary.wiley.com/feed/14724642/most-recent # Diversity and Distributions
+  - href: https://onlinelibrary.wiley.com/feed/26374943/most-recent # Environmental DNA
+  - href: https://rss.sciencedirect.com/publication/science/1476945X # Ecological Complexity
   
 siteTitle: "EcoRSS"
 timezone: Europe/Amsterdam

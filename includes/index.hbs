@@ -1,9 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+
+
 <head>
   <title>{{siteTitle}}</title>
   <meta charset="utf-8" />
-  <!-- Keep existing meta tags and styles -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" href="https://rbnmj.github.io/rss/favicon.ico"/>
+  <link rel="alternate" type="application/rss+xml" title="{{siteTitle}}" href="{{feedHref}}" />
   <link href="index.css" rel="stylesheet" />
 </head>
 
@@ -15,72 +21,29 @@
     </dl>
   </header>
 
-  <!-- Add this dropdown section -->
-  <section style="margin: 20px 0;">
-    <label>Filter by tag:</label>
-    <select id="tag-filter" onchange="filterArticles()">
-      <option value="all">All</option>
-    </select>
-  </section>
-
-  <ul>
-    {{#each dates}}
-    <li>
-      <section>
-        <h3>{{isoPublishDate}}</h3>
-        {{#each articles}}
-        <article class="article-item" data-tags="{{source.tags}}">
-          <strong><a href="{{link}}">{{title}}</a></strong>
-          <div>
-            <span><a href="{{source.siteUrl}}">{{source.title}}</a></span> | 
-            <span><time>{{publishedOn}}</time></span>
-          </div>
-          <p>{{description}}</p>
-          <hr>
-        </article>
-        {{/each}}
-      </section>
-    </li>
+<ul>
+  {{#each dates}}
+  <li>
+    <section>
+    <h3>{{isoPublishDate}}</h3>
+    
+    {{#each articles}}
+    <article>
+        <strong><a href={{link}}>{{title}}</a></strong>
+        <div>
+          <span><a href={{source.siteUrl}}>{{source.title}}</a></span> | 
+          <span><time>{{publishedOn}}</time></span> |
+        </div>
+        <p>{{description}}</p>
+      </details>
+      <hr>
+    </article>
     {{/each}}
+      
+    </section>
+    </li>
+  {{/each}}
   </ul>
-
-  <script>
-    window.onload = () => {
-      const tags = new Set();
-
-      // Collect unique tags from all articles
-      document.querySelectorAll('.article-item').forEach(article => {
-        const rawTags = article.getAttribute('data-tags') || 'none';
-        rawTags.split(',').forEach(tag => {
-          if (tag.trim() && tag.trim() !== 'none') {
-            tags.add(tag.trim());
-          }
-        });
-      });
-
-      // Populate dropdown with collected tags
-      const dropdown = document.getElementById('tag-filter');
-      Array.from(tags).sort().forEach(tag => {
-        const option = document.createElement('option');
-        option.value = tag;
-        option.textContent = tag;
-        dropdown.appendChild(option);
-      });
-    };
-
-    function filterArticles() {
-      const selectedTag = document.getElementById('tag-filter').value;
-      document.querySelectorAll('.article-item').forEach(article => {
-        const rawTags = article.getAttribute('data-tags') || 'none';
-        const articleTags = rawTags.split(',').map(tag => tag.trim());
-        
-        if (selectedTag === 'all' || articleTags.includes(selectedTag)) {
-          article.style.display = 'block';
-        } else {
-          article.style.display = 'none';
-        }
-      });
-    }
-  </script>
 </body>
+
 </html>
