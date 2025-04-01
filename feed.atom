@@ -2,10 +2,142 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rbnmj.github.io/rss/index.html</id>
     <title>EcoRSS</title>
-    <updated>2025-04-01T06:18:22.836Z</updated>
+    <updated>2025-04-01T08:51:15.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rbnmj.github.io/rss/index.html"/>
     <link rel="self" href="https://rbnmj.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reconstruction of Marimo Population Dynamics Over 200 Years Using Molecular Markers and Fossil Plankton Remains]]></title>
+        <id>10.1002/edn3.70085</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1002/edn3.70085?af=R"/>
+        <updated>2025-04-01T03:48:40.000Z</updated>
+        <summary type="html"><![CDATA[Environmental DNA, Volume 7, Issue 2, March–April 2025.]]></summary>
+        <author>
+            <name>Jotaro Urabe, 
+Isamu Wakana, 
+Hajime Ohtsuki, 
+Masayuki K. Sakata, 
+Yurie Otake, 
+Ryotaro Ichige, 
+Michinobu Kuwae, 
+Toshifumi Minamoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Divergent Responses of Soil Positive and Negative Priming Effects to Experimental Warming]]></title>
+        <id>10.1111/geb.70028</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/geb.70028?af=R"/>
+        <updated>2025-03-31T10:13:37.000Z</updated>
+        <summary type="html"><![CDATA[Global Ecology and Biogeography, Volume 34, Issue 4, April 2025.]]></summary>
+        <author>
+            <name>Junxia Ding, 
+Yanghui He, 
+Liming Yin, 
+Changjiang Huang, 
+Kui Xue, 
+Shaobin Yan, 
+Ruiqiang Liu, 
+Peng Wang, 
+Xuhui Zhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Climate Underlies Variation in Plant Disease Severity by Altering Grassland Plant Communities]]></title>
+        <id>10.1111/geb.70029</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/geb.70029?af=R"/>
+        <updated>2025-03-31T10:09:42.000Z</updated>
+        <summary type="html"><![CDATA[Global Ecology and Biogeography, Volume 34, Issue 4, April 2025.]]></summary>
+        <author>
+            <name>Kui Hu, 
+Peixi Jiang, 
+Eric Allan, 
+Jianquan Liu, 
+Jonathan M. Chase, 
+Xiang Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Some Habitat Types Are Locally Much More Species‐Rich Than Others: Ongoing Assembly of Species Produced by Long and Rapid Macroevolutionary Diversification]]></title>
+        <id>10.1111/geb.70037</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/geb.70037?af=R"/>
+        <updated>2025-03-31T10:04:08.000Z</updated>
+        <summary type="html"><![CDATA[Global Ecology and Biogeography, Volume 34, Issue 4, April 2025.]]></summary>
+        <author>
+            <name>Andreas Prinzing, 
+Igor V. Bartish, 
+Keliang Zhang, 
+Benjamin Yguel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boreal Tree Growth May Be More Tolerant to Warming Than Previously Considered: Implications for Future Modelling Studies]]></title>
+        <id>10.1111/geb.70034</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/geb.70034?af=R"/>
+        <updated>2025-03-31T09:59:35.000Z</updated>
+        <summary type="html"><![CDATA[Global Ecology and Biogeography, Volume 34, Issue 4, April 2025.]]></summary>
+        <author>
+            <name>Jiejie Wang, 
+Anthony R. Taylor, 
+Chris Hennigar, 
+Loïc D'Orangeville</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disentangling small‐island multilayer networks: Underlying ecological and evolutionary patterns]]></title>
+        <id>10.1002/ecy.70058</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70058?af=R"/>
+        <updated>2025-03-31T09:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 4, April 2025.]]></summary>
+        <author>
+            <name>Manuel Nogales, 
+Anna Traveset, 
+Heriberto López, 
+Ruben Heleno, 
+Susana Rodríguez‐Echeverría, 
+Rafael García, 
+Sandra Hervías‐Parejo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cover Image]]></title>
+        <id>10.1002/ecy.4342</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4342?af=R"/>
+        <updated>2025-03-31T09:49:31.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 4, April 2025.]]></summary>
+        <author>
+            <name>Wiley: Ecology: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Issue Information]]></title>
+        <id>10.1002/ecy.4341</id>
+        <link href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4341?af=R"/>
+        <updated>2025-03-31T09:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Ecology, Volume 106, Issue 4, April 2025.]]></summary>
+        <author>
+            <name>Wiley: Ecology: Table of Contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contrasting Exogenous and Endogenous Soil Microbial Carbon Use Efficiencies Under Global Changes]]></title>
+        <id>10.1111/geb.70027</id>
+        <link href="https://onlinelibrary.wiley.com/doi/10.1111/geb.70027?af=R"/>
+        <updated>2025-03-31T08:49:52.000Z</updated>
+        <summary type="html"><![CDATA[Global Ecology and Biogeography, Volume 34, Issue 4, April 2025.]]></summary>
+        <author>
+            <name>Xiaodong Sun, 
+Chenyang Zhang, 
+Zhenghu Zhou, 
+Yakov Kuzyakov, 
+Yiqi Luo, 
+Xuhui Wang, 
+Xiaobo Qin, 
+Bin Wang, 
+Yue Li, 
+Minggang Xu, 
+Andong Cai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intertidal Environmental Chamber: An automatic system to accurately simulate the thermal complexity of intertidal environments]]></title>
         <id>10.1111/2041-210X.70013</id>

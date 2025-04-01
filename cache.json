@@ -6,6 +6,36 @@
       "siteUrl": "https://esajournals.onlinelibrary.wiley.com/journal/19399170?af=R",
       "articles": [
         {
+          "id": "10.1002/ecy.70058",
+          "author": "Manuel Nogales, \nAnna Traveset, \nHeriberto López, \nRuben Heleno, \nSusana Rodríguez‐Echeverría, \nRafael García, \nSandra Hervías‐Parejo",
+          "description": "Ecology, Volume 106, Issue 4, April 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70058?af=R",
+          "publishedOn": "2025-03-31T09:50:00.000Z",
+          "wordCount": null,
+          "title": "Disentangling small‐island multilayer networks: Underlying ecological and evolutionary patterns",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecy.4342",
+          "author": null,
+          "description": "Ecology, Volume 106, Issue 4, April 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4342?af=R",
+          "publishedOn": "2025-03-31T09:49:31.000Z",
+          "wordCount": null,
+          "title": "Cover Image",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1002/ecy.4341",
+          "author": null,
+          "description": "Ecology, Volume 106, Issue 4, April 2025.",
+          "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4341?af=R",
+          "publishedOn": "2025-03-31T09:49:00.000Z",
+          "wordCount": null,
+          "title": "Issue Information",
+          "imageUrl": null
+        },
+        {
           "id": "10.1002/ecy.70057",
           "author": "Yang Liu, \nYuanhe Yang, \nYe Deng, \nYunfeng Peng",
           "description": "Ecology, Volume 106, Issue 3, March 2025.",
@@ -3380,6 +3410,56 @@
       "siteUrl": "https://onlinelibrary.wiley.com/journal/14668238?af=R",
       "articles": [
         {
+          "id": "10.1111/geb.70028",
+          "author": "Junxia Ding, \nYanghui He, \nLiming Yin, \nChangjiang Huang, \nKui Xue, \nShaobin Yan, \nRuiqiang Liu, \nPeng Wang, \nXuhui Zhou",
+          "description": "Global Ecology and Biogeography, Volume 34, Issue 4, April 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/geb.70028?af=R",
+          "publishedOn": "2025-03-31T10:13:37.000Z",
+          "wordCount": null,
+          "title": "Divergent Responses of Soil Positive and Negative Priming Effects to Experimental Warming",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/geb.70029",
+          "author": "Kui Hu, \nPeixi Jiang, \nEric Allan, \nJianquan Liu, \nJonathan M. Chase, \nXiang Liu",
+          "description": "Global Ecology and Biogeography, Volume 34, Issue 4, April 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/geb.70029?af=R",
+          "publishedOn": "2025-03-31T10:09:42.000Z",
+          "wordCount": null,
+          "title": "Climate Underlies Variation in Plant Disease Severity by Altering Grassland Plant Communities",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/geb.70037",
+          "author": "Andreas Prinzing, \nIgor V. Bartish, \nKeliang Zhang, \nBenjamin Yguel",
+          "description": "Global Ecology and Biogeography, Volume 34, Issue 4, April 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/geb.70037?af=R",
+          "publishedOn": "2025-03-31T10:04:08.000Z",
+          "wordCount": null,
+          "title": "Why Some Habitat Types Are Locally Much More Species‐Rich Than Others: Ongoing Assembly of Species Produced by Long and Rapid Macroevolutionary Diversification",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/geb.70034",
+          "author": "Jiejie Wang, \nAnthony R. Taylor, \nChris Hennigar, \nLoïc D'Orangeville",
+          "description": "Global Ecology and Biogeography, Volume 34, Issue 4, April 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/geb.70034?af=R",
+          "publishedOn": "2025-03-31T09:59:35.000Z",
+          "wordCount": null,
+          "title": "Boreal Tree Growth May Be More Tolerant to Warming Than Previously Considered: Implications for Future Modelling Studies",
+          "imageUrl": null
+        },
+        {
+          "id": "10.1111/geb.70027",
+          "author": "Xiaodong Sun, \nChenyang Zhang, \nZhenghu Zhou, \nYakov Kuzyakov, \nYiqi Luo, \nXuhui Wang, \nXiaobo Qin, \nBin Wang, \nYue Li, \nMinggang Xu, \nAndong Cai",
+          "description": "Global Ecology and Biogeography, Volume 34, Issue 4, April 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1111/geb.70027?af=R",
+          "publishedOn": "2025-03-31T08:49:52.000Z",
+          "wordCount": null,
+          "title": "Contrasting Exogenous and Endogenous Soil Microbial Carbon Use Efficiencies Under Global Changes",
+          "imageUrl": null
+        },
+        {
           "id": "10.1111/geb.70017",
           "author": "Kieran N. Althaus, \nM. Socorro González‐Elizondo, \nAntonio González‐Rodríguez, \nHernando Rodríguez Correa, \nAndrew L. Hipp",
           "description": "Global Ecology and Biogeography, Volume 34, Issue 4, April 2025.",
@@ -6151,6 +6231,16 @@
       "feedUrl": "https://onlinelibrary.wiley.com/feed/26374943/most-recent",
       "siteUrl": "https://onlinelibrary.wiley.com/journal/26374943?af=R",
       "articles": [
+        {
+          "id": "10.1002/edn3.70085",
+          "author": "Jotaro Urabe, \nIsamu Wakana, \nHajime Ohtsuki, \nMasayuki K. Sakata, \nYurie Otake, \nRyotaro Ichige, \nMichinobu Kuwae, \nToshifumi Minamoto",
+          "description": "Environmental DNA, Volume 7, Issue 2, March–April 2025.",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1002/edn3.70085?af=R",
+          "publishedOn": "2025-04-01T03:48:40.000Z",
+          "wordCount": null,
+          "title": "Reconstruction of Marimo Population Dynamics Over 200 Years Using Molecular Markers and Fossil Plankton Remains",
+          "imageUrl": null
+        },
         {
           "id": "10.1002/edn3.70084",
           "author": "Dana Bludau, \nGuido Sieber, \nManan Shah, \nAman Deep, \nJens Boenigk, \nDaniela Beisser",
