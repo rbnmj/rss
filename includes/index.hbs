@@ -44,35 +44,41 @@
     {{/each}}
   </ul>
 
-  <!-- Add this JavaScript -->
-  <script>
-    // Populate dropdown with unique tags
-    window.onload = () => {
-      const tags = new Set();
-      document.querySelectorAll('.article-item').forEach(article => {
-        const articleTags = article.getAttribute('data-tags').split(',');
-        articleTags.forEach(tag => tags.add(tag.trim()));
+<script>
+  window.onload = () => {
+    const tags = new Set();
+    
+    // Collect tags from all articles
+    document.querySelectorAll('.article-item').forEach(article => {
+      const rawTags = article.getAttribute('data-tags') || 'none';
+      const articleTags = rawTags.split(',').map(tag => tag.trim());
+      
+      articleTags.forEach(tag => {
+        if (tag) tags.add(tag); // Exclude empty tags
       });
+    });
 
-      const dropdown = document.getElementById('tag-filter');
-      tags.forEach(tag => {
-        const option = document.createElement('option');
-        option.value = tag;
-        option.textContent = tag;
-        dropdown.appendChild(option);
-      });
-    };
+    // Populate dropdown
+    const dropdown = document.getElementById('tag-filter');
+    Array.from(tags).sort().forEach(tag => {
+      const option = document.createElement('option');
+      option.value = tag;
+      option.textContent = tag;
+      dropdown.appendChild(option);
+    });
+  };
 
-    // Filter articles
-    function filterArticles() {
-      const selectedTag = document.getElementById('tag-filter').value;
-      document.querySelectorAll('.article-item').forEach(article => {
-        const tags = article.getAttribute('data-tags');
-        article.style.display = (selectedTag === 'all' || tags.includes(selectedTag)) 
-          ? 'block' 
-          : 'none';
-      });
-    }
-  </script>
+  function filterArticles() {
+    const selectedTag = document.getElementById('tag-filter').value;
+    document.querySelectorAll('.article-item').forEach(article => {
+      const rawTags = article.getAttribute('data-tags') || 'none';
+      const articleTags = rawTags.split(',').map(tag => tag.trim());
+      
+      article.style.display = (selectedTag === 'all' || articleTags.includes(selectedTag)) 
+        ? 'block' 
+        : 'none';
+    });
+  }
+</script>
 </body>
 </html>
