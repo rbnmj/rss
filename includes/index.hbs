@@ -3,11 +3,7 @@
 <head>
   <title>{{siteTitle}}</title>
   <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="robots" content="noindex, nofollow" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="icon" href="https://rbnmj.github.io/rss/favicon.ico"/>
-  <link rel="alternate" type="application/rss+xml" title="{{siteTitle}}" href="{{feedHref}}" />
+  <!-- Keep existing meta tags and styles -->
   <link href="index.css" rel="stylesheet" />
 </head>
 
@@ -19,54 +15,62 @@
     </dl>
   </header>
 
-  <!-- Filter Dropdown Section -->
-  <section id="filter-section" style="margin-bottom: 20px;">
-    <label for="journal-filter">Filter by Tag:</label>
-    <select id="journal-filter" onchange="filterArticles()" style="padding: 5px;">
+  <!-- Add this dropdown section -->
+  <section style="margin: 20px 0;">
+    <label>Filter by tag:</label>
+    <select id="tag-filter" onchange="filterArticles()">
       <option value="all">All</option>
-      {{#each tags}}
-        <option value="{{this}}">{{this}}</option>
-      {{/each}}
     </select>
   </section>
 
-  <!-- Articles List -->
-  <ul id="articles-list">
+  <ul>
     {{#each dates}}
     <li>
       <section>
         <h3>{{isoPublishDate}}</h3>
-
         {{#each articles}}
         <article class="article-item" data-tags="{{source.tags}}">
-          <strong><a href={{link}}>{{title}}</a></strong>
+          <strong><a href="{{link}}">{{title}}</a></strong>
           <div>
-            <span><a href={{source.siteUrl}}>{{source.title}}</a></span> | 
-            <span><time>{{publishedOn}}</time></span> |
+            <span><a href="{{source.siteUrl}}">{{source.title}}</a></span> | 
+            <span><time>{{publishedOn}}</time></span>
           </div>
           <p>{{description}}</p>
           <hr>
         </article>
         {{/each}}
-
       </section>
     </li>
     {{/each}}
   </ul>
 
-  <!-- JavaScript for Filtering -->
+  <!-- Add this JavaScript -->
   <script>
-    function filterArticles() {
-      const selectedTag = document.getElementById('journal-filter').value;
-      const articles = document.querySelectorAll('.article-item');
+    // Populate dropdown with unique tags
+    window.onload = () => {
+      const tags = new Set();
+      document.querySelectorAll('.article-item').forEach(article => {
+        const articleTags = article.getAttribute('data-tags').split(',');
+        articleTags.forEach(tag => tags.add(tag.trim()));
+      });
 
-      articles.forEach(article => {
-        const articleTags = article.getAttribute('data-tags');
-        if (selectedTag === 'all' || articleTags.includes(selectedTag)) {
-          article.style.display = 'block';
-        } else {
-          article.style.display = 'none';
-        }
+      const dropdown = document.getElementById('tag-filter');
+      tags.forEach(tag => {
+        const option = document.createElement('option');
+        option.value = tag;
+        option.textContent = tag;
+        dropdown.appendChild(option);
+      });
+    };
+
+    // Filter articles
+    function filterArticles() {
+      const selectedTag = document.getElementById('tag-filter').value;
+      document.querySelectorAll('.article-item').forEach(article => {
+        const tags = article.getAttribute('data-tags');
+        article.style.display = (selectedTag === 'all' || tags.includes(selectedTag)) 
+          ? 'block' 
+          : 'none';
       });
     }
   </script>
