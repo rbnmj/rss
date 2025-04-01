@@ -1,66 +1,74 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>{{siteTitle}}</title>
-    <style>
-        /* Minimal styling for dropdown and entries */
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 0 20px;
-        }
-
-        #filter-container {
-            margin-bottom: 20px;
-        }
-
-        .entry {
-            margin-bottom: 15px;
-            padding-bottom: 10px;
-            border-bottom: 1px solid #ddd;
-        }
-    </style>
+  <title>{{siteTitle}}</title>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" href="https://rbnmj.github.io/rss/favicon.ico"/>
+  <link rel="alternate" type="application/rss+xml" title="{{siteTitle}}" href="{{feedHref}}" />
+  <link href="index.css" rel="stylesheet" />
 </head>
-<body>
-    <h1>{{siteTitle}}</h1>
 
-    <!-- Filter Dropdown -->
-    <div id="filter-container">
-        <label for="tag-filter">Filter by tag:</label>
-        <select id="tag-filter">
-            <option value="all">All</option>
-            <option value="none">None</option>
-            <!-- Add more options dynamically if needed -->
-        </select>
-    </div>
+<body style="background-color:#dce6dc; font-family: 'Computer Modern', sans-serif;">
+  <header>
+    <dl>
+      <a href="https://rbnmj.github.io">back</a>
+      <dt><b>Built on</b></dt><dd>{{siteBuildTimestamp}}</dd>
+    </dl>
+  </header>
 
-    <!-- RSS Feed Entries -->
-    {{#each sources}}
-    <div class="entry" data-tags="{{this.tags}}">
-        <a href="{{this.href}}" target="_blank">{{this.href}}</a>
-    </div>
+  <!-- Filter Dropdown Section -->
+  <section id="filter-section" style="margin-bottom: 20px;">
+    <label for="journal-filter">Filter by Tag:</label>
+    <select id="journal-filter" onchange="filterArticles()" style="padding: 5px;">
+      <option value="all">All</option>
+      {{#each tags}}
+        <option value="{{this}}">{{this}}</option>
+      {{/each}}
+    </select>
+  </section>
+
+  <!-- Articles List -->
+  <ul id="articles-list">
+    {{#each dates}}
+    <li>
+      <section>
+        <h3>{{isoPublishDate}}</h3>
+
+        {{#each articles}}
+        <article class="article-item" data-tags="{{source.tags}}">
+          <strong><a href={{link}}>{{title}}</a></strong>
+          <div>
+            <span><a href={{source.siteUrl}}>{{source.title}}</a></span> | 
+            <span><time>{{publishedOn}}</time></span> |
+          </div>
+          <p>{{description}}</p>
+          <hr>
+        </article>
+        {{/each}}
+
+      </section>
+    </li>
     {{/each}}
+  </ul>
 
-    <!-- JavaScript for Filtering -->
-    <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            const filterDropdown = document.getElementById('tag-filter');
-            
-            filterDropdown.addEventListener('change', () => {
-                const selectedTag = filterDropdown.value;
+  <!-- JavaScript for Filtering -->
+  <script>
+    function filterArticles() {
+      const selectedTag = document.getElementById('journal-filter').value;
+      const articles = document.querySelectorAll('.article-item');
 
-                document.querySelectorAll('.entry').forEach(entry => {
-                    const entryTags = entry.dataset.tags.split(',');
-                    if (selectedTag === 'all' || entryTags.includes(selectedTag)) {
-                        entry.style.display = 'block';
-                    } else {
-                        entry.style.display = 'none';
-                    }
-                });
-            });
-        });
-    </script>
+      articles.forEach(article => {
+        const articleTags = article.getAttribute('data-tags');
+        if (selectedTag === 'all' || articleTags.includes(selectedTag)) {
+          article.style.display = 'block';
+        } else {
+          article.style.display = 'none';
+        }
+      });
+    }
+  </script>
 </body>
 </html>
