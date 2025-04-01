@@ -11,7 +11,7 @@
   <header>
     <dl>
       <a href="https://rbnmj.github.io">back</a>
-      <dt><b>Built on</b></dt><dd>2025-04-01T09:23:24.408Z</dd>
+      <dt><b>Built on</b></dt><dd>2025-04-01T09:28:59.206Z</dd>
     </dl>
   </header>
 
@@ -736,41 +736,43 @@
     </li>
   </ul>
 
-<script>
-  window.onload = () => {
-    const tags = new Set();
-    
-    // Collect tags from all articles
-    document.querySelectorAll('.article-item').forEach(article => {
-      const rawTags = article.getAttribute('data-tags') || 'none';
-      const articleTags = rawTags.split(',').map(tag => tag.trim());
-      
-      articleTags.forEach(tag => {
-        if (tag) tags.add(tag); // Exclude empty tags
+  <script>
+    window.onload = () => {
+      const tags = new Set();
+
+      // Collect unique tags from all articles
+      document.querySelectorAll('.article-item').forEach(article => {
+        const rawTags = article.getAttribute('data-tags') || 'none';
+        rawTags.split(',').forEach(tag => {
+          if (tag.trim() && tag.trim() !== 'none') {
+            tags.add(tag.trim());
+          }
+        });
       });
-    });
 
-    // Populate dropdown
-    const dropdown = document.getElementById('tag-filter');
-    Array.from(tags).sort().forEach(tag => {
-      const option = document.createElement('option');
-      option.value = tag;
-      option.textContent = tag;
-      dropdown.appendChild(option);
-    });
-  };
+      // Populate dropdown with collected tags
+      const dropdown = document.getElementById('tag-filter');
+      Array.from(tags).sort().forEach(tag => {
+        const option = document.createElement('option');
+        option.value = tag;
+        option.textContent = tag;
+        dropdown.appendChild(option);
+      });
+    };
 
-  function filterArticles() {
-    const selectedTag = document.getElementById('tag-filter').value;
-    document.querySelectorAll('.article-item').forEach(article => {
-      const rawTags = article.getAttribute('data-tags') || 'none';
-      const articleTags = rawTags.split(',').map(tag => tag.trim());
-      
-      article.style.display = (selectedTag === 'all' || articleTags.includes(selectedTag)) 
-        ? 'block' 
-        : 'none';
-    });
-  }
-</script>
+    function filterArticles() {
+      const selectedTag = document.getElementById('tag-filter').value;
+      document.querySelectorAll('.article-item').forEach(article => {
+        const rawTags = article.getAttribute('data-tags') || 'none';
+        const articleTags = rawTags.split(',').map(tag => tag.trim());
+        
+        if (selectedTag === 'all' || articleTags.includes(selectedTag)) {
+          article.style.display = 'block';
+        } else {
+          article.style.display = 'none';
+        }
+      });
+    }
+  </script>
 </body>
 </html>
