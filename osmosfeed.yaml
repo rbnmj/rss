@@ -6,6 +6,7 @@
 cacheUrl: https://rbnmj.github.io/rss/cache.json
 sources:
   - href: https://esajournals.onlinelibrary.wiley.com/feed/19399170/most-recent # Ecology
+    tags: [none]
   - href: https://esajournals.onlinelibrary.wiley.com/feed/19395582/most-recent # Ecological Applications
   - href: https://esajournals.onlinelibrary.wiley.com/feed/15409309/most-recent # Frontiers in Ecology and the Environment
   - href: https://esajournals.onlinelibrary.wiley.com/feed/15577015/most-recent # Ecological Monographs
