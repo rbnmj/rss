@@ -3,125 +3,120 @@
 <head>
     <title>EcoRSS</title>
     <style>
-        /* Basic Minimalist Styling */
+        /* Minimal styling for dropdown and entries */
         body {
-            font-family: system-ui, -apple-system, sans-serif;
+            font-family: Arial, sans-serif;
             line-height: 1.6;
             max-width: 800px;
             margin: 20px auto;
             padding: 0 20px;
-            color: #333;
         }
-        
+
         #filter-container {
-            margin: 20px 0;
-            padding: 15px;
-            background: #f8f9fa;
-            border-radius: 8px;
+            margin-bottom: 20px;
         }
-        
-        .filter-checkbox {
-            margin-right: 15px;
-        }
-        
+
         .entry {
-            padding: 15px;
-            border-bottom: 1px solid #eee;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #ddd;
         }
     </style>
 </head>
 <body>
     <h1>EcoRSS</h1>
-    
+
+    <!-- Filter Dropdown -->
     <div id="filter-container">
-        <strong>Filter by tag:</strong>
-        <label class="filter-checkbox">
-            <input type="checkbox" value="none" checked> None
-        </label>
+        <label for="tag-filter">Filter by tag:</label>
+        <select id="tag-filter">
+            <option value="all">All</option>
+            <option value="none">None</option>
+            <!-- Add more options dynamically if needed -->
+        </select>
     </div>
 
+    <!-- RSS Feed Entries -->
     <div class="entry" data-tags="">
-        <a href="" target="_blank">Wiley: Environmental DNA: Table of Contents</a>
+        <a href="" target="_blank"></a>
     </div>
     <div class="entry" data-tags="">
-        <a href="" target="_blank">Wiley: Global Ecology and Biogeography: Table of Contents</a>
+        <a href="" target="_blank"></a>
     </div>
     <div class="entry" data-tags="">
-        <a href="" target="_blank">Wiley: Ecology: Table of Contents</a>
+        <a href="" target="_blank"></a>
     </div>
     <div class="entry" data-tags="">
-        <a href="" target="_blank">Wiley: Methods in Ecology and Evolution: Table of Contents</a>
+        <a href="" target="_blank"></a>
     </div>
     <div class="entry" data-tags="">
-        <a href="" target="_blank">Nature Ecology &amp; Evolution</a>
+        <a href="" target="_blank"></a>
     </div>
     <div class="entry" data-tags="">
-        <a href="" target="_blank">Wiley: Global Change Biology: Table of Contents</a>
+        <a href="" target="_blank"></a>
     </div>
     <div class="entry" data-tags="">
-        <a href="" target="_blank">Wiley: Journal of Applied Ecology: Table of Contents</a>
+        <a href="" target="_blank"></a>
     </div>
     <div class="entry" data-tags="">
-        <a href="" target="_blank">Wiley: Diversity and Distributions: Table of Contents</a>
+        <a href="" target="_blank"></a>
     </div>
     <div class="entry" data-tags="">
-        <a href="" target="_blank">Wiley: Oikos: Table of Contents</a>
+        <a href="" target="_blank"></a>
     </div>
     <div class="entry" data-tags="">
-        <a href="" target="_blank">Wiley: Ecography: Table of Contents</a>
+        <a href="" target="_blank"></a>
     </div>
     <div class="entry" data-tags="">
-        <a href="" target="_blank">Wiley: Conservation Biology: Table of Contents</a>
+        <a href="" target="_blank"></a>
     </div>
     <div class="entry" data-tags="">
-        <a href="" target="_blank">Wiley: Ecological Monographs: Table of Contents</a>
+        <a href="" target="_blank"></a>
     </div>
     <div class="entry" data-tags="">
-        <a href="" target="_blank">Wiley: Ecosphere: Table of Contents</a>
+        <a href="" target="_blank"></a>
     </div>
     <div class="entry" data-tags="">
-        <a href="" target="_blank">Nature Sustainability</a>
+        <a href="" target="_blank"></a>
     </div>
     <div class="entry" data-tags="">
-        <a href="" target="_blank">Wiley: Journal of Ecology: Table of Contents</a>
+        <a href="" target="_blank"></a>
     </div>
     <div class="entry" data-tags="">
-        <a href="" target="_blank">Wiley: Ecology Letters: Table of Contents</a>
+        <a href="" target="_blank"></a>
     </div>
     <div class="entry" data-tags="">
-        <a href="" target="_blank">Wiley: Restoration Ecology: Table of Contents</a>
+        <a href="" target="_blank"></a>
     </div>
     <div class="entry" data-tags="">
-        <a href="" target="_blank">Wiley: Ecological Applications: Table of Contents</a>
+        <a href="" target="_blank"></a>
     </div>
     <div class="entry" data-tags="">
-        <a href="" target="_blank">tandf: Human and Ecological Risk Assessment: An International Journal: Table of Contents</a>
+        <a href="" target="_blank"></a>
     </div>
     <div class="entry" data-tags="">
-        <a href="" target="_blank">Wiley: Frontiers in Ecology and the Environment: Table of Contents</a>
+        <a href="" target="_blank"></a>
     </div>
     <div class="entry" data-tags="">
-        <a href="" target="_blank">Society for Industrial and Applied Mathematics: Multiscale Modeling &amp; Simulation: Table of Contents</a>
+        <a href="" target="_blank"></a>
     </div>
 
+    <!-- JavaScript for Filtering -->
     <script>
-        // Filter Functionality
         document.addEventListener('DOMContentLoaded', () => {
-            const checkboxes = document.querySelectorAll('input[type="checkbox"]');
+            const filterDropdown = document.getElementById('tag-filter');
             
-            function filterEntries() {
-                const selectedTags = Array.from(document.querySelectorAll('input:checked'))
-                                       .map(checkbox => checkbox.value);
-                
+            filterDropdown.addEventListener('change', () => {
+                const selectedTag = filterDropdown.value;
+
                 document.querySelectorAll('.entry').forEach(entry => {
                     const entryTags = entry.dataset.tags.split(',');
-                    const show = selectedTags.some(tag => entryTags.includes(tag));
-                    entry.style.display = show ? 'block' : 'none';
+                    if (selectedTag === 'all' || entryTags.includes(selectedTag)) {
+                        entry.style.display = 'block';
+                    } else {
+                        entry.style.display = 'none';
+                    }
                 });
-            }
-
-            checkboxes.forEach(checkbox => {
-                checkbox.addEventListener('change', filterEntries);
             });
         });
     </script>
